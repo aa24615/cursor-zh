@@ -1,14 +1,18 @@
-#  适用于 VS Code 的中文（简体）语言包
+# 适用于 Cursor 的中文（简体）语言包
 
-此中文（简体）语言包为 VS Code 提供本地化界面。
+此语言包把 Cursor 界面换成简体中文。VS Code 部分的译文来自 [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc)。
 
-VS Code 界面译文来自 [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc)。
+## 从扩展商店安装
 
-## 使用方法
+1. 在 Cursor 扩展视图搜索 `zyan.cursor-zh`，安装本语言包。
+2. 卸掉或禁用官方 **Chinese (Simplified) Language Pack**（发布者 `MS-CEINTL`）。两个语言包都提供简体中文时，重启后用哪一套译文不确定。
+3. 按 `Ctrl+Shift+P`（macOS 为 `Command+Shift+P`）打开命令面板，运行 **Configure Display Language**。
+4. 选择 **中文(简体)**（`zh-cn`）。
+5. 完全退出 Cursor 后重新打开。只重载窗口不够。
 
-通过使用“Configure Display Language”命令显式设置 VS Code 显示语言，可以替代默认 UI 语言。
-按下“Ctrl+Shift+P”组合键以显示“命令面板”，然后键入“display”以筛选并显示“Configure Display Language”命令。按“Enter”，然后会按区域设置显示安装的语言列表，并突出显示当前语言设置。选择另一个“语言”以切换 UI 语言。
-请参阅[文档](https://go.microsoft.com/fwlink/?LinkId=761051)并获取更多信息。
+没有商店条目时，从 [Releases](https://github.com/aa24615/cursor-zh/releases) 下载 `.vsix`，命令面板运行 **Extensions: Install from VSIX...** 安装，再从第 3 步继续。
+
+按钮、标题、占位符等写死在程序里的英文不在语言包里。这部分按仓库说明再打一次补丁：https://github.com/aa24615/cursor-zh
 
 ## 参与
 

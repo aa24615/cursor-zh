@@ -11,6 +11,20 @@ VS Code 部分的译文来自 [microsoft/vscode-loc](https://github.com/microsof
 
 改安装目录前请先完全退出 Cursor。Cursor 更新后，安装目录里的替换会被覆盖，需要再做一次第 4 步和第 5 步。
 
+## 从扩展商店安装语言包
+
+在 Cursor 扩展视图搜索 `zyan.cursor-zh`，安装 **Chinese (Simplified) (简体中文) Language Pack for Cursor**（发布者 `zyan`）。
+
+然后：
+
+1. 卸掉或禁用官方 **Chinese (Simplified) Language Pack**（发布者 `MS-CEINTL`）。两个语言包都提供简体中文时，重启后用哪一套译文不确定。
+2. 按 `Command+Shift+P`（Windows / Linux 用 `Ctrl+Shift+P`）打开命令面板，运行 **Configure Display Language**，选择 **中文(简体)**。
+3. 完全退出 Cursor 再打开。只重载窗口不够。
+
+商店里还没有这一项时，打开 [Releases](https://github.com/aa24615/cursor-zh/releases)，下载 `.vsix`。命令面板运行 **Extensions: Install from VSIX...**，选中该文件。
+
+商店语言包只覆盖走翻译系统的文案。按钮、标题、占位符等写死的英文仍要做第 4 步和第 5 步。用商店或 VSIX 安装时，可以跳过第 1 步到第 3 步。
+
 ## 环境
 
 - Cursor 3.31 附近的版本。其它版本可能还有英文残留。
