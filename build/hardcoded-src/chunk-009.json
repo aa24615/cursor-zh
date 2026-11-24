@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h009-000",
+    "en": "Naksh"
+  },
+  {
+    "id": "h009-001",
+    "en": "Named checkout profiles."
+  },
+  {
+    "id": "h009-002",
+    "en": "Needs Decision"
+  },
+  {
+    "id": "h009-003",
+    "en": "Network Access Notification"
+  },
+  {
+    "id": "h009-004",
+    "en": "Neutral"
+  },
+  {
+    "id": "h009-005",
+    "en": "Never show again"
+  },
+  {
+    "id": "h009-006",
+    "en": "New Agent with Model"
+  },
+  {
+    "id": "h009-007",
+    "en": "New Automation"
+  },
+  {
+    "id": "h009-008",
+    "en": "New Eval"
+  },
+  {
+    "id": "h009-009",
+    "en": "New MCP Configuration"
+  },
+  {
+    "id": "h009-010",
+    "en": "New MCP Server"
+  },
+  {
+    "id": "h009-011",
+    "en": "New Task"
+  },
+  {
+    "id": "h009-012",
+    "en": "New User Rule"
+  },
+  {
+    "id": "h009-013",
+    "en": "New User Skill"
+  },
+  {
+    "id": "h009-014",
+    "en": "New message in channel"
+  },
+  {
+    "id": "h009-015",
+    "en": "New worktree"
+  },
+  {
+    "id": "h009-016",
+    "en": "Next image"
+  },
+  {
+    "id": "h009-017",
+    "en": "Nightly"
+  },
+  {
+    "id": "h009-018",
+    "en": "No Cursor-managed worktrees on this machine."
+  },
+  {
+    "id": "h009-019",
+    "en": "No Filter"
+  },
+  {
+    "id": "h009-020",
+    "en": "No Git Remote"
+  },
+  {
+    "id": "h009-021",
+    "en": "No Hidden Dialogs Yet"
+  },
+  {
+    "id": "h009-022",
+    "en": "No Ordering"
+  },
+  {
+    "id": "h009-023",
+    "en": "No branches"
+  },
+  {
+    "id": "h009-024",
+    "en": "No deployment"
+  },
+  {
+    "id": "h009-025",
+    "en": "No diagnostics found"
+  },
+  {
+    "id": "h009-026",
+    "en": "No files found"
+  },
+  {
+    "id": "h009-027",
+    "en": "No hook executions yet"
+  },
+  {
+    "id": "h009-028",
+    "en": "No icons found"
+  },
+  {
+    "id": "h009-029",
+    "en": "No linked agents"
+  },
+  {
+    "id": "h009-030",
+    "en": "No matches found"
+  },
+  {
+    "id": "h009-031",
+    "en": "No matching groups"
+  },
+  {
+    "id": "h009-032",
+    "en": "No matching plugins"
+  },
+  {
+    "id": "h009-033",
+    "en": "No models available"
+  },
+  {
+    "id": "h009-034",
+    "en": "No organizations available"
+  },
+  {
+    "id": "h009-035",
+    "en": "No organizations found"
+  },
+  {
+    "id": "h009-036",
+    "en": "No plugins found"
+  },
+  {
+    "id": "h009-037",
+    "en": "No plugins yet"
+  },
+  {
+    "id": "h009-038",
+    "en": "No sign-in needed"
+  },
+  {
+    "id": "h009-039",
+    "en": "No sign-in required"
+  },
+  {
+    "id": "h009-040",
+    "en": "No speech transcribed yet"
+  },
+  {
+    "id": "h009-041",
+    "en": "No triggers found"
+  },
+  {
+    "id": "h009-042",
+    "en": "No usage data found for this billing period."
+  },
+  {
+    "id": "h009-043",
+    "en": "Not Now"
+  },
+  {
+    "id": "h009-044",
+    "en": "Not Started"
+  },
+  {
+    "id": "h009-045",
+    "en": "Not in Cursor Enterprise team"
+  },
+  {
+    "id": "h009-046",
+    "en": "Nothing was said in this voice chat."
+  },
+  {
+    "id": "h009-047",
+    "en": "Number"
+  },
+  {
+    "id": "h009-048",
+    "en": "Number of bidirectional stream stalls detected"
+  },
+  {
+    "id": "h009-049",
+    "en": "Number of streams that experienced at least one stall"
+  },
+  {
+    "id": "h009-050",
+    "en": "OAuth 2.0 Client ID"
+  },
+  {
+    "id": "h009-051",
+    "en": "OAuth 2.0 Client Secret (optional)"
+  },
+  {
+    "id": "h009-052",
+    "en": "OAuth 2.0 scopes to request (optional, auto-fetched from server if not provided)"
+  },
+  {
+    "id": "h009-053",
+    "en": "OAuth Client ID (optional)"
+  },
+  {
+    "id": "h009-054",
+    "en": "OAuth Client Secret (optional)"
+  },
+  {
+    "id": "h009-055",
+    "en": "Obs"
+  },
+  {
+    "id": "h009-056",
+    "en": "On-Demand Spending"
+  },
+  {
+    "id": "h009-057",
+    "en": "On-demand spending is currently disabled"
+  },
+  {
+    "id": "h009-058",
+    "en": "Only runs when you invoke it explicitly"
+  },
+  {
+    "id": "h009-059",
+    "en": "Only you"
+  },
+  {
+    "id": "h009-060",
+    "en": "Open Build Menu"
+  },
+  {
+    "id": "h009-061",
+    "en": "Open Commands"
+  },
+  {
+    "id": "h009-062",
+    "en": "Open Cursor feedback. Prefill arguments from the legacy VS Code issue reporter are ignored."
+  },
+  {
+    "id": "h009-063",
+    "en": "Open Dashboard"
+  },
+  {
+    "id": "h009-064",
+    "en": "Open Desktop"
+  },
+  {
+    "id": "h009-065",
+    "en": "Open Existing"
+  },
+  {
+    "id": "h009-066",
+    "en": "Open Hooks"
+  },
+  {
+    "id": "h009-067",
+    "en": "Open MCPs"
+  },
+  {
+    "id": "h009-068",
+    "en": "Open Plugins"
+  },
+  {
+    "id": "h009-069",
+    "en": "Open Rules"
+  },
+  {
+    "id": "h009-070",
+    "en": "Open Skills"
+  },
+  {
+    "id": "h009-071",
+    "en": "Open Statsig config"
+  },
+  {
+    "id": "h009-072",
+    "en": "Open Subagents"
+  },
+  {
+    "id": "h009-073",
+    "en": "Open Terminal"
+  },
+  {
+    "id": "h009-074",
+    "en": "Open a Git repository"
+  },
+  {
+    "id": "h009-075",
+    "en": "Open a browser for web interactions"
+  },
+  {
+    "id": "h009-076",
+    "en": "Open a different workspace"
+  },
+  {
+    "id": "h009-077",
+    "en": "Open a new In-Editor Find Widget."
+  },
+  {
+    "id": "h009-078",
+    "en": "Open chat in a new tab"
+  },
+  {
+    "id": "h009-079",
+    "en": "Open exported chat"
+  },
+  {
+    "id": "h009-080",
+    "en": "Open from new branch"
+  },
+  {
+    "id": "h009-081",
+    "en": "Open from this branch"
+  },
+  {
+    "id": "h009-082",
+    "en": "Open in New Tab"
+  },
+  {
+    "id": "h009-083",
+    "en": "Open in Slack"
+  },
+  {
+    "id": "h009-084",
+    "en": "Open in Terminal Pane"
+  },
+  {
+    "id": "h009-085",
+    "en": "Open marketplace repository"
+  },
+  {
+    "id": "h009-086",
+    "en": "Open new window in worktree"
+  },
+  {
+    "id": "h009-087",
+    "en": "Open or Focus Agents Window (Glass)"
+  },
+  {
+    "id": "h009-088",
+    "en": "Open or focus the editor (IDE) window from the Agents window."
+  },
+  {
+    "id": "h009-089",
+    "en": "Open pull request in browser"
+  },
+  {
+    "id": "h009-090",
+    "en": "Open pull request links inside Cursor or the default browser"
+  },
+  {
+    "id": "h009-091",
+    "en": "Open setup guide"
+  },
+  {
+    "id": "h009-092",
+    "en": "Open terminal in worktree"
+  },
+  {
+    "id": "h009-093",
+    "en": "Open the diff to drive requests. Data accumulates while the meter is on and resets on app restart."
+  },
+  {
+    "id": "h009-094",
+    "en": "Open the generated rule file"
+  },
+  {
+    "id": "h009-095",
+    "en": "Open the review"
+  },
+  {
+    "id": "h009-096",
+    "en": "OpenAI API Key"
+  },
+  {
+    "id": "h009-097",
+    "en": "OpenAI API key"
+  },
+  {
+    "id": "h009-098",
+    "en": "OpenAI base URL"
+  },
+  {
+    "id": "h009-099",
+    "en": "OpenAI-compatible API base URL for the local agent."
+  },
+  {
+    "id": "h009-100",
+    "en": "Opening background composer in external window..."
+  },
+  {
+    "id": "h009-101",
+    "en": "Opens a list of resources in the changes editor to compare their contents."
+  },
+  {
+    "id": "h009-102",
+    "en": "Opens an new window depending on the newWindow argument."
+  },
+  {
+    "id": "h009-103",
+    "en": "Opens or focuses the Agents Window, then starts Create Project there."
+  },
+  {
+    "id": "h009-104",
+    "en": "Opens or focuses the Agents Window, then starts a new agent in the Cloud runtime."
+  },
+  {
+    "id": "h009-105",
+    "en": "Opens or focuses the Glass window, then runs switch-to-model there."
+  },
+  {
+    "id": "h009-106",
+    "en": "Opens or focuses the Glass window, then selects Multitask mode there."
+  },
+  {
+    "id": "h009-107",
+    "en": "Opens the provided resource in the editor."
+  },
+  {
+    "id": "h009-108",
+    "en": "Opens the provided resources in the diff editor to compare their contents."
+  },
+  {
+    "id": "h009-109",
+    "en": "Option 1"
+  },
+  {
+    "id": "h009-110",
+    "en": "Option 2"
+  },
+  {
+    "id": "h009-111",
+    "en": "Option 3"
+  },
+  {
+    "id": "h009-112",
+    "en": "Optional AutomationScope proto JSON value."
+  },
+  {
+    "id": "h009-113",
+    "en": "Optional HTTP headers to include with every request to the server"
+  },
+  {
+    "id": "h009-114",
+    "en": "Optional display name carried into the prefilled Automations form."
+  },
+  {
+    "id": "h009-115",
+    "en": "Optional enabled state for the automation."
+  },
+  {
+    "id": "h009-116",
+    "en": "Optional folder for RPC logs (defaults to logs/exthost)"
+  },
+  {
+    "id": "h009-117",
+    "en": "Optional folder for RPC logs (defaults to logs/exthost)."
+  },
+  {
+    "id": "h009-118",
+    "en": "Optional folder for RPC trace files. Defaults to logs/exthost."
+  },
+  {
+    "id": "h009-119",
+    "en": "Optional new description shown in the Cursor Automations UI."
+  },
+  {
+    "id": "h009-120",
+    "en": "Optional new display name for the Cursor Automation."
+  },
+  {
+    "id": "h009-121",
+    "en": "Optional numeric team id for team-scoped creation."
+  },
+  {
+    "id": "h009-122",
+    "en": "Optional numeric team id used to scope team-visible automations."
+  },
+  {
+    "id": "h009-123",
+    "en": "Optional search text matched only against returned Cursor Automations list fields, such as automation ID, trigger/action types, scope, enabled state, URL, and timestamps."
+  },
+  {
+    "id": "h009-124",
+    "en": "Optional short description carried into the prefilled Automations form."
+  },
+  {
+    "id": "h009-125",
+    "en": "Optional short description shown in the Cursor Automations UI."
+  },
+  {
+    "id": "h009-126",
+    "en": "Optional template id when creating from a template-like draft."
+  },
+  {
+    "id": "h009-127",
+    "en": "Optional — tell us why…"
+  },
+  {
+    "id": "h009-128",
+    "en": "Orchestrate multiple subagents in parallel"
+  },
+  {
+    "id": "h009-129",
+    "en": "Ordered list"
+  },
+  {
+    "id": "h009-130",
+    "en": "Ordering Options"
+  },
+  {
+    "id": "h009-131",
+    "en": "Origin pull request"
+  },
+  {
+    "id": "h009-132",
+    "en": "Orion"
+  },
+  {
+    "id": "h009-133",
+    "en": "Other..."
+  },
+  {
+    "id": "h009-134",
+    "en": "Out of disk space"
+  },
+  {
+    "id": "h009-135",
+    "en": "Override OpenAI Base URL"
+  },
+  {
+    "id": "h009-136",
+    "en": "PR Routing & Approval"
+  },
+  {
+    "id": "h009-137",
+    "en": "PR approved"
+  },
+  {
+    "id": "h009-138",
+    "en": "Partial Accepts"
+  },
+  {
+    "id": "h009-139",
+    "en": "Past Chats"
+  },
+  {
+    "id": "h009-140",
+    "en": "Paste as"
+  },
+  {
+    "id": "h009-141",
+    "en": "Paste or type a link…"
+  },
+  {
+    "id": "h009-142",
+    "en": "Pasted Link"
+  },
+  {
+    "id": "h009-143",
+    "en": "Path to a custom sound file (mp3, wav, ogg) to play when Agent finishes responding. Leave empty to use the default sound."
+  },
+  {
+    "id": "h009-144",
+    "en": "Path to a local marketplace folder"
+  },
+  {
+    "id": "h009-145",
+    "en": "Payment Method Update Required"
+  },
+  {
+    "id": "h009-146",
+    "en": "Payment failed"
+  },
+  {
+    "id": "h009-147",
+    "en": "Peek locations from a position in a file"
+  },
+  {
+    "id": "h009-148",
+    "en": "Pending approval"
+  },
+  {
+    "id": "h009-149",
+    "en": "Pending import decoration"
+  }
+]

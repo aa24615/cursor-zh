@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h012-000",
+    "en": "Stop the agent and send the message"
+  },
+  {
+    "id": "h012-001",
+    "en": "Strikethrough"
+  },
+  {
+    "id": "h012-002",
+    "en": "Style request, response language, tone..."
+  },
+  {
+    "id": "h012-003",
+    "en": "Styled Messages"
+  },
+  {
+    "id": "h012-004",
+    "en": "Subagents are specialized assistants that run in their own context window so Agent can parallelize and stay focused."
+  },
+  {
+    "id": "h012-005",
+    "en": "Submenu"
+  },
+  {
+    "id": "h012-006",
+    "en": "Submission blocked by hook"
+  },
+  {
+    "id": "h012-007",
+    "en": "Submodule"
+  },
+  {
+    "id": "h012-008",
+    "en": "Successful · 24h"
+  },
+  {
+    "id": "h012-009",
+    "en": "Suggest edits like new lines and indentation that modify whitespace only"
+  },
+  {
+    "id": "h012-010",
+    "en": "Suggested Dockerfile"
+  },
+  {
+    "id": "h012-011",
+    "en": "Suggested install script"
+  },
+  {
+    "id": "h012-012",
+    "en": "Suggestions While Commenting"
+  },
+  {
+    "id": "h012-013",
+    "en": "Summarize the conversation"
+  },
+  {
+    "id": "h012-014",
+    "en": "Summed event-loop blocking between the network phase start and the first server message of a run's first attempt"
+  },
+  {
+    "id": "h012-015",
+    "en": "Switch Privacy Mode?"
+  },
+  {
+    "id": "h012-016",
+    "en": "Switch between Agent and Editor default layouts"
+  },
+  {
+    "id": "h012-017",
+    "en": "Switch mode"
+  },
+  {
+    "id": "h012-018",
+    "en": "Switch to Auto"
+  },
+  {
+    "id": "h012-019",
+    "en": "Switch to Privacy Mode"
+  },
+  {
+    "id": "h012-020",
+    "en": "Switch where this agent runs"
+  },
+  {
+    "id": "h012-021",
+    "en": "Switched to Auto, which provides significantly higher usage limits."
+  },
+  {
+    "id": "h012-022",
+    "en": "Sync changes"
+  },
+  {
+    "id": "h012-023",
+    "en": "System Default"
+  },
+  {
+    "id": "h012-024",
+    "en": "System Tray Icon"
+  },
+  {
+    "id": "h012-025",
+    "en": "Systematically diagnose and fix bugs using runtime traces"
+  },
+  {
+    "id": "h012-026",
+    "en": "Table"
+  },
+  {
+    "id": "h012-027",
+    "en": "Table actions"
+  },
+  {
+    "id": "h012-028",
+    "en": "Tail row is not mounted"
+  },
+  {
+    "id": "h012-029",
+    "en": "Take Screenshot"
+  },
+  {
+    "id": "h012-030",
+    "en": "Take this agent with you"
+  },
+  {
+    "id": "h012-031",
+    "en": "Taking a little while..."
+  },
+  {
+    "id": "h012-032",
+    "en": "Target"
+  },
+  {
+    "id": "h012-033",
+    "en": "Task Models"
+  },
+  {
+    "id": "h012-034",
+    "en": "Task Sent"
+  },
+  {
+    "id": "h012-035",
+    "en": "Task definition file"
+  },
+  {
+    "id": "h012-036",
+    "en": "Teach Cursor New Skills"
+  },
+  {
+    "id": "h012-037",
+    "en": "Team Default"
+  },
+  {
+    "id": "h012-038",
+    "en": "Team-Level Repository Control"
+  },
+  {
+    "id": "h012-039",
+    "en": "Tells the agent when to use this skill"
+  },
+  {
+    "id": "h012-040",
+    "en": "Tertiary"
+  },
+  {
+    "id": "h012-041",
+    "en": "Test Message"
+  },
+  {
+    "id": "h012-042",
+    "en": "Test Model"
+  },
+  {
+    "id": "h012-043",
+    "en": "Text size scale for the markdown plan editor. `default` matches Agent chat text size (`cursor.composer.textSizeScale`). Other values fix the scale (0.85–1.3)."
+  },
+  {
+    "id": "h012-044",
+    "en": "Thank you!"
+  },
+  {
+    "id": "h012-045",
+    "en": "The cell range options"
+  },
+  {
+    "id": "h012-046",
+    "en": "The context key to use for the value of the variable"
+  },
+  {
+    "id": "h012-047",
+    "en": "The current value cannot be preserved and the field will be empty."
+  },
+  {
+    "id": "h012-048",
+    "en": "The editor view type or language ID if known"
+  },
+  {
+    "id": "h012-049",
+    "en": "The extension id (ignored)."
+  },
+  {
+    "id": "h012-050",
+    "en": "The language for the cell"
+  },
+  {
+    "id": "h012-051",
+    "en": "The latest refresh failed. Retry to fetch the newest usage."
+  },
+  {
+    "id": "h012-052",
+    "en": "The name of the variable to register"
+  },
+  {
+    "id": "h012-053",
+    "en": "The number of lines vertically from the anchor in the buffer to start matching against"
+  },
+  {
+    "id": "h012-054",
+    "en": "The number of rows to match against, this should be as small as possible for performance reasons"
+  },
+  {
+    "id": "h012-055",
+    "en": "The orientation of the root group in the layout. 0 for horizontal, 1 for vertical."
+  },
+  {
+    "id": "h012-056",
+    "en": "The plugins you're removing from the marketplace will no longer be available to users and Cloud Agents that rely on them."
+  },
+  {
+    "id": "h012-057",
+    "en": "The schema to use for this file"
+  },
+  {
+    "id": "h012-058",
+    "en": "Themed Diff Backgrounds"
+  },
+  {
+    "id": "h012-059",
+    "en": "These domains must be accessible for Cursor to function. Add them to your firewall or proxy allowlist."
+  },
+  {
+    "id": "h012-060",
+    "en": "Thinking"
+  },
+  {
+    "id": "h012-061",
+    "en": "Third test option"
+  },
+  {
+    "id": "h012-062",
+    "en": "Third-Party Imports"
+  },
+  {
+    "id": "h012-063",
+    "en": "This automation can only be viewed by the creator and team admins."
+  },
+  {
+    "id": "h012-064",
+    "en": "This automation is private"
+  },
+  {
+    "id": "h012-065",
+    "en": "This chart shows on-demand usage only for request-based users. Included usage is not shown."
+  },
+  {
+    "id": "h012-066",
+    "en": "This chat was created in an older Cursor version and is no longer supported. Please start a new chat."
+  },
+  {
+    "id": "h012-067",
+    "en": "This environment"
+  },
+  {
+    "id": "h012-068",
+    "en": "This is a fake bug generated for frontend development. The agent_review_fake_dev feature flag is enabled."
+  },
+  {
+    "id": "h012-069",
+    "en": "This is a test MCP notification for development"
+  },
+  {
+    "id": "h012-070",
+    "en": "This marketplace and its access settings will be removed. The source repository won't be affected."
+  },
+  {
+    "id": "h012-071",
+    "en": "This marketplace will be removed from your account. The source repository won't be affected."
+  },
+  {
+    "id": "h012-072",
+    "en": "This project"
+  },
+  {
+    "id": "h012-073",
+    "en": "This pull request cannot be merged"
+  },
+  {
+    "id": "h012-074",
+    "en": "This track will download and install updates automatically whenever Cursor is closed."
+  },
+  {
+    "id": "h012-075",
+    "en": "This will clear the browser cache."
+  },
+  {
+    "id": "h012-076",
+    "en": "This will remove all browsing history entries."
+  },
+  {
+    "id": "h012-077",
+    "en": "This will remove all cookies. You may be signed out of websites."
+  },
+  {
+    "id": "h012-078",
+    "en": "This will remove all manually accepted certificates."
+  },
+  {
+    "id": "h012-079",
+    "en": "Thumbs Down"
+  },
+  {
+    "id": "h012-080",
+    "en": "Thumbs Up"
+  },
+  {
+    "id": "h012-081",
+    "en": "Time from the network phase start to the first server message of a run's first attempt, on attempts that sampled event-loop lag"
+  },
+  {
+    "id": "h012-082",
+    "en": "Time to hydrate, serialize, and hash RequestContext"
+  },
+  {
+    "id": "h012-083",
+    "en": "Timeline [internal]"
+  },
+  {
+    "id": "h012-084",
+    "en": "Todo description..."
+  },
+  {
+    "id": "h012-085",
+    "en": "Todo status"
+  },
+  {
+    "id": "h012-086",
+    "en": "Toggle Chat Pane"
+  },
+  {
+    "id": "h012-087",
+    "en": "Too slow"
+  },
+  {
+    "id": "h012-088",
+    "en": "Tool Message"
+  },
+  {
+    "id": "h012-089",
+    "en": "Tool call"
+  },
+  {
+    "id": "h012-090",
+    "en": "Total number of streams monitored"
+  },
+  {
+    "id": "h012-091",
+    "en": "Transcript actions"
+  },
+  {
+    "id": "h012-092",
+    "en": "Transcript unavailable"
+  },
+  {
+    "id": "h012-093",
+    "en": "Trending"
+  },
+  {
+    "id": "h012-094",
+    "en": "Trigger a code action"
+  },
+  {
+    "id": "h012-095",
+    "en": "Trigger an action to run when a certain event occurs."
+  },
+  {
+    "id": "h012-096",
+    "en": "Trigger an agent to run based on a trigger or schedule."
+  },
+  {
+    "id": "h012-097",
+    "en": "True"
+  },
+  {
+    "id": "h012-098",
+    "en": "Try"
+  },
+  {
+    "id": "h012-099",
+    "en": "Try a different search."
+  },
+  {
+    "id": "h012-100",
+    "en": "Try this plugin in chat"
+  },
+  {
+    "id": "h012-101",
+    "en": "Turn Off Private Inference?"
+  },
+  {
+    "id": "h012-102",
+    "en": "Turn On Auto-Publish"
+  },
+  {
+    "id": "h012-103",
+    "en": "Turn On Private Inference?"
+  },
+  {
+    "id": "h012-104",
+    "en": "Turn a recorded demonstration into a reusable skill."
+  },
+  {
+    "id": "h012-105",
+    "en": "Turn actions"
+  },
+  {
+    "id": "h012-106",
+    "en": "Turn attempts retried by the turn runner"
+  },
+  {
+    "id": "h012-107",
+    "en": "Type a long message here..."
+  },
+  {
+    "id": "h012-108",
+    "en": "UI Font Size"
+  },
+  {
+    "id": "h012-109",
+    "en": "ULID"
+  },
+  {
+    "id": "h012-110",
+    "en": "UNIX (macOS/Linux) specific setup. Either an array of shell commands or a path to a script file relative to this JSON file. Takes precedence over setup-worktree on UNIX."
+  },
+  {
+    "id": "h012-111",
+    "en": "UNSPECIFIED"
+  },
+  {
+    "id": "h012-112",
+    "en": "URI or URI string to remove from recently opened."
+  },
+  {
+    "id": "h012-113",
+    "en": "URL of the SSE-based MCP server"
+  },
+  {
+    "id": "h012-114",
+    "en": "UUID"
+  },
+  {
+    "id": "h012-115",
+    "en": "UUIDv4"
+  },
+  {
+    "id": "h012-116",
+    "en": "UUIDv6"
+  },
+  {
+    "id": "h012-117",
+    "en": "Unable to load automations."
+  },
+  {
+    "id": "h012-118",
+    "en": "Unable to load templates."
+  },
+  {
+    "id": "h012-119",
+    "en": "Unable to load this step."
+  },
+  {
+    "id": "h012-120",
+    "en": "Unable to render"
+  },
+  {
+    "id": "h012-121",
+    "en": "Underline"
+  },
+  {
+    "id": "h012-122",
+    "en": "Undo & Apply"
+  },
+  {
+    "id": "h012-123",
+    "en": "Undo All"
+  },
+  {
+    "id": "h012-124",
+    "en": "Undo File"
+  },
+  {
+    "id": "h012-125",
+    "en": "Undo all pending changes"
+  },
+  {
+    "id": "h012-126",
+    "en": "Unfold the content in the editor"
+  },
+  {
+    "id": "h012-127",
+    "en": "Unify dashboard"
+  },
+  {
+    "id": "h012-128",
+    "en": "Uninstall an installed plugin"
+  },
+  {
+    "id": "h012-129",
+    "en": "Unknown trigger"
+  },
+  {
+    "id": "h012-130",
+    "en": "Unlimited"
+  },
+  {
+    "id": "h012-131",
+    "en": "Unlock 3x more usage on Agent & more"
+  },
+  {
+    "id": "h012-132",
+    "en": "Unpublish Skill"
+  },
+  {
+    "id": "h012-133",
+    "en": "Unread"
+  },
+  {
+    "id": "h012-134",
+    "en": "Unsupported Model"
+  },
+  {
+    "id": "h012-135",
+    "en": "Unsupported type. Exit preview to edit."
+  },
+  {
+    "id": "h012-136",
+    "en": "Update App"
+  },
+  {
+    "id": "h012-137",
+    "en": "Update Awaiting Approval"
+  },
+  {
+    "id": "h012-138",
+    "en": "Update Branch"
+  },
+  {
+    "id": "h012-139",
+    "en": "Update Ghost Text"
+  },
+  {
+    "id": "h012-140",
+    "en": "Update from "
+  },
+  {
+    "id": "h012-141",
+    "en": "Update todos"
+  },
+  {
+    "id": "h012-142",
+    "en": "Updates Managed by Organization Policy"
+  },
+  {
+    "id": "h012-143",
+    "en": "Updates will apply automatically on quit"
+  },
+  {
+    "id": "h012-144",
+    "en": "Upgrade Available"
+  },
+  {
+    "id": "h012-145",
+    "en": "Upgrade to Pro+"
+  },
+  {
+    "id": "h012-146",
+    "en": "Upgrade to Ultra"
+  },
+  {
+    "id": "h012-147",
+    "en": "Upgrade to unlock Automations"
+  },
+  {
+    "id": "h012-148",
+    "en": "Upgrade to use Cloud Agents"
+  },
+  {
+    "id": "h012-149",
+    "en": "Uploading process snapshot to Cursor..."
+  }
+]

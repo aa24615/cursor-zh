@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h006-000",
+    "en": "Cursor periodically removes old worktrees to free disk space. Tune how aggressively cleanup runs."
+  },
+  {
+    "id": "h006-001",
+    "en": "Cursor syncs your local skills so they can be used with Cloud Agents"
+  },
+  {
+    "id": "h006-002",
+    "en": "Cursor syncs your local skills so they can be used with Cloud Agents. Turn this off to disable syncing."
+  },
+  {
+    "id": "h006-003",
+    "en": "Custom MCP"
+  },
+  {
+    "id": "h006-004",
+    "en": "Custom property"
+  },
+  {
+    "id": "h006-005",
+    "en": "Custom words that submit a voice prompt. Spaces and punctuation are ignored."
+  },
+  {
+    "id": "h006-006",
+    "en": "Customize the Cursor CLI status line."
+  },
+  {
+    "id": "h006-007",
+    "en": "Daily"
+  },
+  {
+    "id": "h006-008",
+    "en": "Daily usage charts are only available for billing periods starting on or after Nov 20, 2025."
+  },
+  {
+    "id": "h006-009",
+    "en": "Dark"
+  },
+  {
+    "id": "h006-010",
+    "en": "Data Sharing is paused for your first day of usage."
+  },
+  {
+    "id": "h006-011",
+    "en": "Date"
+  },
+  {
+    "id": "h006-012",
+    "en": "Date range"
+  },
+  {
+    "id": "h006-013",
+    "en": "Date with time"
+  },
+  {
+    "id": "h006-014",
+    "en": "Debug issues"
+  },
+  {
+    "id": "h006-015",
+    "en": "Default Approach"
+  },
+  {
+    "id": "h006-016",
+    "en": "Default Browser"
+  },
+  {
+    "id": "h006-017",
+    "en": "Default Model"
+  },
+  {
+    "id": "h006-018",
+    "en": "Default voice for voice chats"
+  },
+  {
+    "id": "h006-019",
+    "en": "Default voice for voice chats. Changing the voice plays a short sample."
+  },
+  {
+    "id": "h006-020",
+    "en": "Defaults if empty"
+  },
+  {
+    "id": "h006-021",
+    "en": "Define a new skill for the agent to use"
+  },
+  {
+    "id": "h006-022",
+    "en": "Degraded"
+  },
+  {
+    "id": "h006-023",
+    "en": "Delay"
+  },
+  {
+    "id": "h006-024",
+    "en": "Delays for all signals besides error and warning at position"
+  },
+  {
+    "id": "h006-025",
+    "en": "Delegate Work to Subagents"
+  },
+  {
+    "id": "h006-026",
+    "en": "Delete Rule"
+  },
+  {
+    "id": "h006-027",
+    "en": "Delete chat"
+  },
+  {
+    "id": "h006-028",
+    "en": "Delete file"
+  },
+  {
+    "id": "h006-029",
+    "en": "Deployment Name"
+  },
+  {
+    "id": "h006-030",
+    "en": "Deprecated Feature:"
+  },
+  {
+    "id": "h006-031",
+    "en": "Describe the bug..."
+  },
+  {
+    "id": "h006-032",
+    "en": "Describe the tasks this rule is helpful for..."
+  },
+  {
+    "id": "h006-033",
+    "en": "Design Mode"
+  },
+  {
+    "id": "h006-034",
+    "en": "Desktop Bridge"
+  },
+  {
+    "id": "h006-035",
+    "en": "Dev Only"
+  },
+  {
+    "id": "h006-036",
+    "en": "Developer: open an additional Agents window while running --glass."
+  },
+  {
+    "id": "h006-037",
+    "en": "Diff too large to display"
+  },
+  {
+    "id": "h006-038",
+    "en": "Diff with Main Branch"
+  },
+  {
+    "id": "h006-039",
+    "en": "Direction"
+  },
+  {
+    "id": "h006-040",
+    "en": "Disable AI features in specific repositories based on file pattern"
+  },
+  {
+    "id": "h006-041",
+    "en": "Disable Cursor Tab for these languages"
+  },
+  {
+    "id": "h006-042",
+    "en": "Disable HTTP/1.1 SSE"
+  },
+  {
+    "id": "h006-043",
+    "en": "Disable HTTP/1.1 SSE for agent chat. This increases resource utilization and latency, but is useful if you're behind a corporate proxy that does not support HTTP/1.1 SSE streaming responses."
+  },
+  {
+    "id": "h006-044",
+    "en": "Disable HTTP/2 for all requests, and use HTTP/1.1 instead. This increases resource utilization and latency, but is useful if you're behind a corporate proxy that blocks HTTP/2."
+  },
+  {
+    "id": "h006-045",
+    "en": "Disable Inline Diffs"
+  },
+  {
+    "id": "h006-046",
+    "en": "Disable Privacy Mode"
+  },
+  {
+    "id": "h006-047",
+    "en": "Disabled (Reload Required)"
+  },
+  {
+    "id": "h006-048",
+    "en": "Discard Changes?"
+  },
+  {
+    "id": "h006-049",
+    "en": "Discard all changes up to this checkpoint?"
+  },
+  {
+    "id": "h006-050",
+    "en": "Discard changes?"
+  },
+  {
+    "id": "h006-051",
+    "en": "Discover"
+  },
+  {
+    "id": "h006-052",
+    "en": "Display name for the Cursor Automation."
+  },
+  {
+    "id": "h006-053",
+    "en": "Disposable Tracking"
+  },
+  {
+    "id": "h006-054",
+    "en": "Do not use browser"
+  },
+  {
+    "id": "h006-055",
+    "en": "Documentation"
+  },
+  {
+    "id": "h006-056",
+    "en": "Dogfood"
+  },
+  {
+    "id": "h006-057",
+    "en": "Domains required for Cursor"
+  },
+  {
+    "id": "h006-058",
+    "en": "Domains that Agent can fetch from automatically. Use '*' for all domains, '*.example.com' for wildcard subdomains."
+  },
+  {
+    "id": "h006-059",
+    "en": "Don't allow"
+  },
+  {
+    "id": "h006-060",
+    "en": "Don't show again"
+  },
+  {
+    "id": "h006-061",
+    "en": "Download request content"
+  },
+  {
+    "id": "h006-062",
+    "en": "Drag to adjust maximum"
+  },
+  {
+    "id": "h006-063",
+    "en": "Drop or click to attach an image"
+  },
+  {
+    "id": "h006-064",
+    "en": "Duplicate the current repository in a new workspace."
+  },
+  {
+    "id": "h006-065",
+    "en": "Duration of ControlledKvManager getBlob operations in milliseconds"
+  },
+  {
+    "id": "h006-066",
+    "en": "Duration of ControlledKvManager setBlob operations in milliseconds"
+  },
+  {
+    "id": "h006-067",
+    "en": "Duration of InMemoryBlobStore getBlob operations in milliseconds"
+  },
+  {
+    "id": "h006-068",
+    "en": "Duration of InMemoryBlobStore setBlob operations in milliseconds"
+  },
+  {
+    "id": "h006-069",
+    "en": "Duration of controlled exec operations in milliseconds"
+  },
+  {
+    "id": "h006-070",
+    "en": "Duration of grep, shell and hook execs by coarse machine profile"
+  },
+  {
+    "id": "h006-071",
+    "en": "Duration of stream stalls in milliseconds"
+  },
+  {
+    "id": "h006-072",
+    "en": "Earlier conversation"
+  },
+  {
+    "id": "h006-073",
+    "en": "Edit Description"
+  },
+  {
+    "id": "h006-074",
+    "en": "Edit Fetch Domain Allowlist, one domain per line"
+  },
+  {
+    "id": "h006-075",
+    "en": "Edit JSON..."
+  },
+  {
+    "id": "h006-076",
+    "en": "Edit MCP config"
+  },
+  {
+    "id": "h006-077",
+    "en": "Edit Privacy Settings"
+  },
+  {
+    "id": "h006-078",
+    "en": "Edit file"
+  },
+  {
+    "id": "h006-079",
+    "en": "Editing goal..."
+  },
+  {
+    "id": "h006-080",
+    "en": "Editing queued message..."
+  },
+  {
+    "id": "h006-081",
+    "en": "Editor Mode"
+  },
+  {
+    "id": "h006-082",
+    "en": "Embedding Model"
+  },
+  {
+    "id": "h006-083",
+    "en": "Empty directory"
+  },
+  {
+    "id": "h006-084",
+    "en": "Enable Action"
+  },
+  {
+    "id": "h006-085",
+    "en": "Enable All"
+  },
+  {
+    "id": "h006-086",
+    "en": "Enable Auto Refresh"
+  },
+  {
+    "id": "h006-087",
+    "en": "Enable Cmd+P / Ctrl+P shortcut for file picker in Composer"
+  },
+  {
+    "id": "h006-088",
+    "en": "Enable Data Handle Debugging"
+  },
+  {
+    "id": "h006-089",
+    "en": "Enable Run Everything for this agent"
+  },
+  {
+    "id": "h006-090",
+    "en": "Enable Run Everything?"
+  },
+  {
+    "id": "h006-091",
+    "en": "Enable Solid Dev Tools"
+  },
+  {
+    "id": "h006-092",
+    "en": "Enable Storage"
+  },
+  {
+    "id": "h006-093",
+    "en": "Enable auto import for Python. This is a beta feature."
+  },
+  {
+    "id": "h006-094",
+    "en": "Enable browser tools"
+  },
+  {
+    "id": "h006-095",
+    "en": "Enable experimental multi diff editor."
+  },
+  {
+    "id": "h006-096",
+    "en": "Enable hover-expanded state for the Cloud Agents sidebar. When disabled, the sidebar will not expand on hover and will be completely hidden when collapsed."
+  },
+  {
+    "id": "h006-097",
+    "en": "Enable leak detection console output"
+  },
+  {
+    "id": "h006-098",
+    "en": "Enable logging of extension host RPC messages to JSON files viewable in Perfetto. Requires restart."
+  },
+  {
+    "id": "h006-099",
+    "en": "Enable on-demand usage to go beyond your plan's included usage. Requires a paid plan."
+  },
+  {
+    "id": "h006-100",
+    "en": "Enable or disable individual tools."
+  },
+  {
+    "id": "h006-101",
+    "en": "Enable partial accepts for Cursor Tab, using the editor.action.inlineSuggest.acceptNextWord keybinding"
+  },
+  {
+    "id": "h006-102",
+    "en": "Enable performance protection for inline diffs. When enabled, inline diff decorations will be suppressed if there are too many changes to prevent editor unresponsiveness."
+  },
+  {
+    "id": "h006-103",
+    "en": "Enable usage-based pricing"
+  },
+  {
+    "id": "h006-104",
+    "en": "Enable usage-based pricing for premium models"
+  },
+  {
+    "id": "h006-105",
+    "en": "English"
+  },
+  {
+    "id": "h006-106",
+    "en": "Enter"
+  },
+  {
+    "id": "h006-107",
+    "en": "Enter model name"
+  },
+  {
+    "id": "h006-108",
+    "en": "Enter to send · Esc to skip"
+  },
+  {
+    "id": "h006-109",
+    "en": "Entry-level plan with access to premium models, unlimited Tab completions, and more."
+  },
+  {
+    "id": "h006-110",
+    "en": "Environment mode"
+  },
+  {
+    "id": "h006-111",
+    "en": "Environment variables to set for the server process"
+  },
+  {
+    "id": "h006-112",
+    "en": "Error Output"
+  },
+  {
+    "id": "h006-113",
+    "en": "Error details"
+  },
+  {
+    "id": "h006-114",
+    "en": "Eve"
+  },
+  {
+    "id": "h006-115",
+    "en": "Events"
+  },
+  {
+    "id": "h006-116",
+    "en": "Example migration"
+  },
+  {
+    "id": "h006-117",
+    "en": "Execute the Contents of the Input Box"
+  },
+  {
+    "id": "h006-118",
+    "en": "Explore Subagent Model"
+  },
+  {
+    "id": "h006-119",
+    "en": "Export"
+  },
+  {
+    "id": "h006-120",
+    "en": "Export Chat"
+  },
+  {
+    "id": "h006-121",
+    "en": "Extend Cursor with Plugins"
+  },
+  {
+    "id": "h006-122",
+    "en": "Extension Security"
+  },
+  {
+    "id": "h006-123",
+    "en": "Extension host CPU/resource/memory counters selected at T-1s, T+0, and T+5s around unresponsive detection. Missing target samples mean the extension host stopped sending updates."
+  },
+  {
+    "id": "h006-124",
+    "en": "Extension host stopped unexpectedly"
+  },
+  {
+    "id": "h006-125",
+    "en": "Extension signature verification is only available with the OpenVSX or Cursor marketplace. Your current marketplace does not support this feature."
+  },
+  {
+    "id": "h006-126",
+    "en": "External-File Protection"
+  },
+  {
+    "id": "h006-127",
+    "en": "FPS"
+  },
+  {
+    "id": "h006-128",
+    "en": "Failed to Stage Files"
+  },
+  {
+    "id": "h006-129",
+    "en": "Failed to Unstage Files"
+  },
+  {
+    "id": "h006-130",
+    "en": "Failed to collect conversation history"
+  },
+  {
+    "id": "h006-131",
+    "en": "Failed to load artifact"
+  },
+  {
+    "id": "h006-132",
+    "en": "Failed to push branch"
+  },
+  {
+    "id": "h006-133",
+    "en": "Failed to retry Cloud Agent"
+  },
+  {
+    "id": "h006-134",
+    "en": "Failed to switch to Cloud Agent"
+  },
+  {
+    "id": "h006-135",
+    "en": "Failed to update privacy settings"
+  },
+  {
+    "id": "h006-136",
+    "en": "Failed · 24h"
+  },
+  {
+    "id": "h006-137",
+    "en": "Failed · 7d"
+  },
+  {
+    "id": "h006-138",
+    "en": "False"
+  },
+  {
+    "id": "h006-139",
+    "en": "Feature request"
+  },
+  {
+    "id": "h006-140",
+    "en": "Fetch Domain Allowlist"
+  },
+  {
+    "id": "h006-141",
+    "en": "Fetch marketplace plugins from the GitHub repository"
+  },
+  {
+    "id": "h006-142",
+    "en": "Fetch webpage"
+  },
+  {
+    "id": "h006-143",
+    "en": "File actions"
+  },
+  {
+    "id": "h006-144",
+    "en": "File paths and glob patterns agents can read without approval."
+  },
+  {
+    "id": "h006-145",
+    "en": "File-Deletion Protection"
+  },
+  {
+    "id": "h006-146",
+    "en": "Files & Folders"
+  },
+  {
+    "id": "h006-147",
+    "en": "Files changed outside of conversations"
+  },
+  {
+    "id": "h006-148",
+    "en": "Files to exclude from indexing in addition to .gitignore"
+  },
+  {
+    "id": "h006-149",
+    "en": "Filter By"
+  }
+]

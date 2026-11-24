@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h003-000",
+    "en": "Markdown"
+  },
+  {
+    "id": "h003-001",
+    "en": "Match the active theme to your OS dark/light setting"
+  },
+  {
+    "id": "h003-002",
+    "en": "Mermaid Syntax Error"
+  },
+  {
+    "id": "h003-003",
+    "en": "Motion"
+  },
+  {
+    "id": "h003-004",
+    "en": "New Message Settings"
+  },
+  {
+    "id": "h003-005",
+    "en": "No agents yet"
+  },
+  {
+    "id": "h003-006",
+    "en": "No people found"
+  },
+  {
+    "id": "h003-007",
+    "en": "On-Demand"
+  },
+  {
+    "id": "h003-008",
+    "en": "Open Cloud Agent by ID"
+  },
+  {
+    "id": "h003-009",
+    "en": "Open Pull Request"
+  },
+  {
+    "id": "h003-010",
+    "en": "Open in Datadog"
+  },
+  {
+    "id": "h003-011",
+    "en": "Open in External Browser"
+  },
+  {
+    "id": "h003-012",
+    "en": "Open your chat"
+  },
+  {
+    "id": "h003-013",
+    "en": "Override"
+  },
+  {
+    "id": "h003-014",
+    "en": "Override the Cursor user interface typeface"
+  },
+  {
+    "id": "h003-015",
+    "en": "Override the font for code editors and diffs"
+  },
+  {
+    "id": "h003-016",
+    "en": "Partially mask your email address in the Cursor user interface"
+  },
+  {
+    "id": "h003-017",
+    "en": "Preview in Browser"
+  },
+  {
+    "id": "h003-018",
+    "en": "Preview in Cursor"
+  },
+  {
+    "id": "h003-019",
+    "en": "Private to you"
+  },
+  {
+    "id": "h003-020",
+    "en": "Reduce Motion"
+  },
+  {
+    "id": "h003-021",
+    "en": "Reduce Transparency"
+  },
+  {
+    "id": "h003-022",
+    "en": "Remove an installed plugin. Type a search query after the command to find plugins to uninstall."
+  },
+  {
+    "id": "h003-023",
+    "en": "Render display math flush left."
+  },
+  {
+    "id": "h003-024",
+    "en": "Render display math in leqno style (left-justified tags)."
+  },
+  {
+    "id": "h003-025",
+    "en": "Render math in display mode, which puts the math in display style (so \\int and \\sum are large, for example), and centers the math on the page on its own line."
+  },
+  {
+    "id": "h003-026",
+    "en": "Rendering diagram..."
+  },
+  {
+    "id": "h003-027",
+    "en": "Replace translucent surfaces with opaque backgrounds"
+  },
+  {
+    "id": "h003-028",
+    "en": "Request Approval"
+  },
+  {
+    "id": "h003-029",
+    "en": "Requests"
+  },
+  {
+    "id": "h003-030",
+    "en": "Reset All Feature Flag Overrides"
+  },
+  {
+    "id": "h003-031",
+    "en": "Resize sidebar"
+  },
+  {
+    "id": "h003-032",
+    "en": "Review Changes"
+  },
+  {
+    "id": "h003-033",
+    "en": "Run in Cloud"
+  },
+  {
+    "id": "h003-034",
+    "en": "Save as Image"
+  },
+  {
+    "id": "h003-035",
+    "en": "Save to Workspace"
+  },
+  {
+    "id": "h003-036",
+    "en": "Screenshot region"
+  },
+  {
+    "id": "h003-037",
+    "en": "Search people…"
+  },
+  {
+    "id": "h003-038",
+    "en": "Search with Google"
+  },
+  {
+    "id": "h003-039",
+    "en": "Secondary"
+  },
+  {
+    "id": "h003-040",
+    "en": "Service account automations must be visible to your team"
+  },
+  {
+    "id": "h003-041",
+    "en": "Show Code"
+  },
+  {
+    "id": "h003-042",
+    "en": "Sign Up"
+  },
+  {
+    "id": "h003-043",
+    "en": "Sign out"
+  },
+  {
+    "id": "h003-044",
+    "en": "Sort by"
+  },
+  {
+    "id": "h003-045",
+    "en": "Start New Chat"
+  },
+  {
+    "id": "h003-046",
+    "en": "Stay on Current Branch"
+  },
+  {
+    "id": "h003-047",
+    "en": "Stop profiler and show results"
+  },
+  {
+    "id": "h003-048",
+    "en": "Successful · 7d"
+  },
+  {
+    "id": "h003-049",
+    "en": "Switch Accounts"
+  },
+  {
+    "id": "h003-050",
+    "en": "Switch to a high contrast theme when your OS is in a high contrast mode"
+  },
+  {
+    "id": "h003-051",
+    "en": "Tab"
+  },
+  {
+    "id": "h003-052",
+    "en": "Take control"
+  },
+  {
+    "id": "h003-053",
+    "en": "The best way to code with AI"
+  },
+  {
+    "id": "h003-054",
+    "en": "The document uri"
+  },
+  {
+    "id": "h003-055",
+    "en": "Theme"
+  },
+  {
+    "id": "h003-056",
+    "en": "Tool Call Density"
+  },
+  {
+    "id": "h003-057",
+    "en": "Total"
+  },
+  {
+    "id": "h003-058",
+    "en": "Trigger"
+  },
+  {
+    "id": "h003-059",
+    "en": "Trust the input, enabling all HTML features such as \\url."
+  },
+  {
+    "id": "h003-060",
+    "en": "Try in Chat"
+  },
+  {
+    "id": "h003-061",
+    "en": "Turn on strict / LaTeX faithfulness mode, which throws an error if the input uses features that are not supported by LaTeX."
+  },
+  {
+    "id": "h003-062",
+    "en": "Typography"
+  },
+  {
+    "id": "h003-063",
+    "en": "Unlink"
+  },
+  {
+    "id": "h003-064",
+    "en": "Unresolved"
+  },
+  {
+    "id": "h003-065",
+    "en": "Update Automation Access?"
+  },
+  {
+    "id": "h003-066",
+    "en": "Upgrade to Pro"
+  },
+  {
+    "id": "h003-067",
+    "en": "Urgent"
+  },
+  {
+    "id": "h003-068",
+    "en": "Use native macOS font anti-aliasing"
+  },
+  {
+    "id": "h003-069",
+    "en": "View Automation"
+  },
+  {
+    "id": "h003-070",
+    "en": "View Changes"
+  },
+  {
+    "id": "h003-071",
+    "en": "View PR"
+  },
+  {
+    "id": "h003-072",
+    "en": "View details"
+  },
+  {
+    "id": "h003-073",
+    "en": "View diagram source"
+  },
+  {
+    "id": "h003-074",
+    "en": "Viewer"
+  },
+  {
+    "id": "h003-075",
+    "en": "We've introduced a new home for all the ways to customize Cursor."
+  },
+  {
+    "id": "h003-076",
+    "en": "Where new agents start by default"
+  },
+  {
+    "id": "h003-077",
+    "en": "Who can access"
+  },
+  {
+    "id": "h003-078",
+    "en": "Yesterday"
+  },
+  {
+    "id": "h003-079",
+    "en": " & Agent"
+  },
+  {
+    "id": "h003-080",
+    "en": " Marketplace"
+  },
+  {
+    "id": "h003-081",
+    "en": "$(loading~spin) Searching for themes..."
+  },
+  {
+    "id": "h003-082",
+    "en": "(Blocked by admin)"
+  },
+  {
+    "id": "h003-083",
+    "en": "(optional) Options. Object with the following properties: `reuseWindow`: Whether to open a new window or the same. Defaults to opening in a new window. "
+  },
+  {
+    "id": "h003-084",
+    "en": "(optional) Uri of the folder or workspace file to open. If not provided, a native dialog will ask the user for the folder"
+  },
+  {
+    "id": "h003-085",
+    "en": "*.tsx, src/config/**/*.json, *Test.cpp, ..."
+  },
+  {
+    "id": "h003-086",
+    "en": ".NET Core"
+  },
+  {
+    "id": "h003-087",
+    "en": "1 hour"
+  },
+  {
+    "id": "h003-088",
+    "en": "1 minute"
+  },
+  {
+    "id": "h003-089",
+    "en": "15 minutes"
+  },
+  {
+    "id": "h003-090",
+    "en": "3 hours"
+  },
+  {
+    "id": "h003-091",
+    "en": "30 minutes"
+  },
+  {
+    "id": "h003-092",
+    "en": "5 minutes"
+  },
+  {
+    "id": "h003-093",
+    "en": "A coding agent in the open workspace."
+  },
+  {
+    "id": "h003-094",
+    "en": "A new Project's coordinator starts at this effort. You can change it in the chat's model picker."
+  },
+  {
+    "id": "h003-095",
+    "en": "A row measurement was rejected as stale or oscillating"
+  },
+  {
+    "id": "h003-096",
+    "en": "AI teammates you can give real work to"
+  },
+  {
+    "id": "h003-097",
+    "en": "AI-based Terminal Completion Detection. "
+  },
+  {
+    "id": "h003-098",
+    "en": "API Keys"
+  },
+  {
+    "id": "h003-099",
+    "en": "API key used for requests to your gateway."
+  },
+  {
+    "id": "h003-100",
+    "en": "AWS Access Key ID"
+  },
+  {
+    "id": "h003-101",
+    "en": "AWS Bedrock access key ID"
+  },
+  {
+    "id": "h003-102",
+    "en": "AWS Bedrock secret access key"
+  },
+  {
+    "id": "h003-103",
+    "en": "AWS Bedrock test model"
+  },
+  {
+    "id": "h003-104",
+    "en": "AWS Secret Access Key"
+  },
+  {
+    "id": "h003-105",
+    "en": "AWS region used by your team's Bedrock configuration."
+  },
+  {
+    "id": "h003-106",
+    "en": "About Allowlist"
+  },
+  {
+    "id": "h003-107",
+    "en": "Accelerate development, shared knowledge, and context across your team"
+  },
+  {
+    "id": "h003-108",
+    "en": "Accent"
+  },
+  {
+    "id": "h003-109",
+    "en": "Accept Edits"
+  },
+  {
+    "id": "h003-110",
+    "en": "Accept Partial Edit"
+  },
+  {
+    "id": "h003-111",
+    "en": "Access Key ID"
+  },
+  {
+    "id": "h003-112",
+    "en": "Action"
+  },
+  {
+    "id": "h003-113",
+    "en": "Add Another Account"
+  },
+  {
+    "id": "h003-114",
+    "en": "Add Directory to Cursor Chat"
+  },
+  {
+    "id": "h003-115",
+    "en": "Add Directory to New Cursor Chat"
+  },
+  {
+    "id": "h003-116",
+    "en": "Add Environment"
+  },
+  {
+    "id": "h003-117",
+    "en": "Add File to Cursor Chat"
+  },
+  {
+    "id": "h003-118",
+    "en": "Add File to New Cursor Chat"
+  },
+  {
+    "id": "h003-119",
+    "en": "Add MCP server to your account"
+  },
+  {
+    "id": "h003-120",
+    "en": "Add MCP tools..."
+  },
+  {
+    "id": "h003-121",
+    "en": "Add Marketplace"
+  },
+  {
+    "id": "h003-122",
+    "en": "Add Skills"
+  },
+  {
+    "id": "h003-123",
+    "en": "Add Suggestions"
+  },
+  {
+    "id": "h003-124",
+    "en": "Add Symbol to Current Chat..."
+  },
+  {
+    "id": "h003-125",
+    "en": "Add Symbol to New Chat..."
+  },
+  {
+    "id": "h003-126",
+    "en": "Add a Custom MCP"
+  },
+  {
+    "id": "h003-127",
+    "en": "Add a Custom MCP Server"
+  },
+  {
+    "id": "h003-128",
+    "en": "Add a marketplace from a repository"
+  },
+  {
+    "id": "h003-129",
+    "en": "Add a marketplace from your local computer"
+  },
+  {
+    "id": "h003-130",
+    "en": "Add a note? (optional)"
+  },
+  {
+    "id": "h003-131",
+    "en": "Add account"
+  },
+  {
+    "id": "h003-132",
+    "en": "Add agents, context, tools"
+  },
+  {
+    "id": "h003-133",
+    "en": "Add an agent to get started"
+  },
+  {
+    "id": "h003-134",
+    "en": "Add background mode to composer modes"
+  },
+  {
+    "id": "h003-135",
+    "en": "Add commands..."
+  },
+  {
+    "id": "h003-136",
+    "en": "Add emails, separated by commas"
+  },
+  {
+    "id": "h003-137",
+    "en": "Add for Myself"
+  },
+  {
+    "id": "h003-138",
+    "en": "Add or search model"
+  },
+  {
+    "id": "h003-139",
+    "en": "Add paths or globs (for example, /tmp/*)"
+  },
+  {
+    "id": "h003-140",
+    "en": "Add plan mode to composer modes"
+  },
+  {
+    "id": "h003-141",
+    "en": "Add plugins"
+  },
+  {
+    "id": "h003-142",
+    "en": "Add plugins or import from GitHub to make them available for your team."
+  },
+  {
+    "id": "h003-143",
+    "en": "Add plugins to this marketplace so your team can install them."
+  },
+  {
+    "id": "h003-144",
+    "en": "Add review-edits mode to composer modes"
+  },
+  {
+    "id": "h003-145",
+    "en": "Add spec mode to composer modes"
+  },
+  {
+    "id": "h003-146",
+    "en": "Add to Team"
+  },
+  {
+    "id": "h003-147",
+    "en": "Add triage mode to composer modes"
+  },
+  {
+    "id": "h003-148",
+    "en": "Add your own MCP server"
+  },
+  {
+    "id": "h003-149",
+    "en": "Added"
+  }
+]

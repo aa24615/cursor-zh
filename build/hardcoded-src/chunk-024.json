@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h024-000",
+    "en": "Text on Fill"
+  },
+  {
+    "id": "h024-001",
+    "en": "Thanks, your report was sent."
+  },
+  {
+    "id": "h024-002",
+    "en": "The agent hasn't worked on this branch yet"
+  },
+  {
+    "id": "h024-003",
+    "en": "The agent's machine is being prepared. This can take a few minutes."
+  },
+  {
+    "id": "h024-004",
+    "en": "The agent's machine may not be running. Send a message to restart."
+  },
+  {
+    "id": "h024-005",
+    "en": "The cell index"
+  },
+  {
+    "id": "h024-006",
+    "en": "The cell range"
+  },
+  {
+    "id": "h024-007",
+    "en": "The certificate for this site is not trusted"
+  },
+  {
+    "id": "h024-008",
+    "en": "The chat didn't load. Open it and try again."
+  },
+  {
+    "id": "h024-009",
+    "en": "The entire stack will be squashed into a single commit in the base branch."
+  },
+  {
+    "id": "h024-010",
+    "en": "The environment build failed."
+  },
+  {
+    "id": "h024-011",
+    "en": "The git worktree for this agent is no longer on disk."
+  },
+  {
+    "id": "h024-012",
+    "en": "The kernel info"
+  },
+  {
+    "id": "h024-013",
+    "en": "The target cell language"
+  },
+  {
+    "id": "h024-014",
+    "en": "Theme Name"
+  },
+  {
+    "id": "h024-015",
+    "en": "These scripts have not been tested in an environment build."
+  },
+  {
+    "id": "h024-016",
+    "en": "Third item"
+  },
+  {
+    "id": "h024-017",
+    "en": "This Project has been archived"
+  },
+  {
+    "id": "h024-018",
+    "en": "This Project isn't available, so its migration can't be previewed."
+  },
+  {
+    "id": "h024-019",
+    "en": "This action cannot be undone. Proceed anyway?"
+  },
+  {
+    "id": "h024-020",
+    "en": "This action is initially disabled"
+  },
+  {
+    "id": "h024-021",
+    "en": "This action is now enabled"
+  },
+  {
+    "id": "h024-022",
+    "en": "This agent was working on "
+  },
+  {
+    "id": "h024-023",
+    "en": "This agent's self-hosted worker is offline. Cursor will reconnect when the worker is back."
+  },
+  {
+    "id": "h024-024",
+    "en": "This comment isn't saved yet"
+  },
+  {
+    "id": "h024-025",
+    "en": "This file changed, but a text diff could not be rendered."
+  },
+  {
+    "id": "h024-026",
+    "en": "This is a callout message."
+  },
+  {
+    "id": "h024-027",
+    "en": "This is the first message."
+  },
+  {
+    "id": "h024-028",
+    "en": "This is the fourth message."
+  },
+  {
+    "id": "h024-029",
+    "en": "This is the second message, which is de-emphasized."
+  },
+  {
+    "id": "h024-030",
+    "en": "This will permanently delete all your data. This action cannot be undone."
+  },
+  {
+    "id": "h024-031",
+    "en": "This will remove the custom theme from your saved themes."
+  },
+  {
+    "id": "h024-032",
+    "en": "This workspace"
+  },
+  {
+    "id": "h024-033",
+    "en": "Thread marked"
+  },
+  {
+    "id": "h024-034",
+    "en": "Title over the length limit"
+  },
+  {
+    "id": "h024-035",
+    "en": "Toggle Chat Switch Trace HUD"
+  },
+  {
+    "id": "h024-036",
+    "en": "Toggle Cursor Dev Tools"
+  },
+  {
+    "id": "h024-037",
+    "en": "Toggle Design Mode"
+  },
+  {
+    "id": "h024-038",
+    "en": "Toggle Expansion of File"
+  },
+  {
+    "id": "h024-039",
+    "en": "Toggle File Tree"
+  },
+  {
+    "id": "h024-040",
+    "en": "Toggle Find in Project Notes"
+  },
+  {
+    "id": "h024-041",
+    "en": "Toggle Git Blame"
+  },
+  {
+    "id": "h024-042",
+    "en": "Toggle Indexed Agent Search Dev Tools"
+  },
+  {
+    "id": "h024-043",
+    "en": "Toggle Local / GitHub"
+  },
+  {
+    "id": "h024-044",
+    "en": "Toggle Performance Debug Bar"
+  },
+  {
+    "id": "h024-045",
+    "en": "Toggle Search in Files"
+  },
+  {
+    "id": "h024-046",
+    "en": "Toggle Selection of File"
+  },
+  {
+    "id": "h024-047",
+    "en": "Toggle Workbench Lifecycle Metric (Performance Bar)"
+  },
+  {
+    "id": "h024-048",
+    "en": "Toggle: Simulate No Terminal Sandbox (Dev Only)"
+  },
+  {
+    "id": "h024-049",
+    "en": "Tool Call"
+  },
+  {
+    "id": "h024-050",
+    "en": "Tool Call ID"
+  },
+  {
+    "id": "h024-051",
+    "en": "Tool call count"
+  },
+  {
+    "id": "h024-052",
+    "en": "Tooltips"
+  },
+  {
+    "id": "h024-053",
+    "en": "Trace started"
+  },
+  {
+    "id": "h024-054",
+    "en": "Tracked git repos"
+  },
+  {
+    "id": "h024-055",
+    "en": "Transcript settled"
+  },
+  {
+    "id": "h024-056",
+    "en": "Transfer this automation to another team member."
+  },
+  {
+    "id": "h024-057",
+    "en": "Tray card (fresh dev server tab)"
+  },
+  {
+    "id": "h024-058",
+    "en": "Trigger popup"
+  },
+  {
+    "id": "h024-059",
+    "en": "Triggered"
+  },
+  {
+    "id": "h024-060",
+    "en": "Trust & Continue"
+  },
+  {
+    "id": "h024-061",
+    "en": "Try Annotate"
+  },
+  {
+    "id": "h024-062",
+    "en": "Try Cloud Agent"
+  },
+  {
+    "id": "h024-063",
+    "en": "Try Open Subagent Preview by ID"
+  },
+  {
+    "id": "h024-064",
+    "en": "Try typing @ to add a mention..."
+  },
+  {
+    "id": "h024-065",
+    "en": "Turn and bubble checkpoints (agentKv:checkpoint:* / bubbleCheckpoint:*)"
+  },
+  {
+    "id": "h024-066",
+    "en": "Turn on Auto-Publish?"
+  },
+  {
+    "id": "h024-067",
+    "en": "Type @ for tools, / for commands..."
+  },
+  {
+    "id": "h024-068",
+    "en": "Type in a host like user@host or select from SSH config"
+  },
+  {
+    "id": "h024-069",
+    "en": "TypeScript"
+  },
+  {
+    "id": "h024-070",
+    "en": "TypeScript-based framework"
+  },
+  {
+    "id": "h024-071",
+    "en": "Typed superset of JavaScript"
+  },
+  {
+    "id": "h024-072",
+    "en": "Ultra"
+  },
+  {
+    "id": "h024-073",
+    "en": "Undo Notebook"
+  },
+  {
+    "id": "h024-074",
+    "en": "Ungroup All"
+  },
+  {
+    "id": "h024-075",
+    "en": "Unified"
+  },
+  {
+    "id": "h024-076",
+    "en": "Unknown diff source"
+  },
+  {
+    "id": "h024-077",
+    "en": "Unknown model (fallback formatting)"
+  },
+  {
+    "id": "h024-078",
+    "en": "Unlink PR"
+  },
+  {
+    "id": "h024-079",
+    "en": "Unpublish app?"
+  },
+  {
+    "id": "h024-080",
+    "en": "Unresolved Comments"
+  },
+  {
+    "id": "h024-081",
+    "en": "Unsaved"
+  },
+  {
+    "id": "h024-082",
+    "en": "Unsaved Changes"
+  },
+  {
+    "id": "h024-083",
+    "en": "Unstaged"
+  },
+  {
+    "id": "h024-084",
+    "en": "Unsupported link"
+  },
+  {
+    "id": "h024-085",
+    "en": "Untracked"
+  },
+  {
+    "id": "h024-086",
+    "en": "Update Cursor"
+  },
+  {
+    "id": "h024-087",
+    "en": "Update Required"
+  },
+  {
+    "id": "h024-088",
+    "en": "Update mobile auth handling"
+  },
+  {
+    "id": "h024-089",
+    "en": "Update required"
+  },
+  {
+    "id": "h024-090",
+    "en": "Upgrade your app to view this trigger in the UI"
+  },
+  {
+    "id": "h024-091",
+    "en": "Usage of the application SQLite database (state.vscdb) by data type."
+  },
+  {
+    "id": "h024-092",
+    "en": "Use"
+  },
+  {
+    "id": "h024-093",
+    "en": "Use Allowlist"
+  },
+  {
+    "id": "h024-094",
+    "en": "Use Another Workspace"
+  },
+  {
+    "id": "h024-095",
+    "en": "Use Current Branch"
+  },
+  {
+    "id": "h024-096",
+    "en": "Use Existing..."
+  },
+  {
+    "id": "h024-097",
+    "en": "Use as filter [DEV]"
+  },
+  {
+    "id": "h024-098",
+    "en": "Use in IDE"
+  },
+  {
+    "id": "h024-099",
+    "en": "Use regular expression"
+  },
+  {
+    "id": "h024-100",
+    "en": "Use screenshots as context"
+  },
+  {
+    "id": "h024-101",
+    "en": "Use stronger derived contrast colors"
+  },
+  {
+    "id": "h024-102",
+    "en": "Users"
+  },
+  {
+    "id": "h024-103",
+    "en": "VS Code"
+  },
+  {
+    "id": "h024-104",
+    "en": "VS Code / Cursor ItemTable keys (window state, auth, UI)"
+  },
+  {
+    "id": "h024-105",
+    "en": "Validating your prompt..."
+  },
+  {
+    "id": "h024-106",
+    "en": "Version control system"
+  },
+  {
+    "id": "h024-107",
+    "en": "View Agent"
+  },
+  {
+    "id": "h024-108",
+    "en": "View Setup Instructions"
+  },
+  {
+    "id": "h024-109",
+    "en": "View Status Page"
+  },
+  {
+    "id": "h024-110",
+    "en": "View Uncommitted Changes"
+  },
+  {
+    "id": "h024-111",
+    "en": "View and edit files the agent keeps in memories/"
+  },
+  {
+    "id": "h024-112",
+    "en": "View configuration changes"
+  },
+  {
+    "id": "h024-113",
+    "en": "View docs"
+  },
+  {
+    "id": "h024-114",
+    "en": "View on Web"
+  },
+  {
+    "id": "h024-115",
+    "en": "View plan"
+  },
+  {
+    "id": "h024-116",
+    "en": "View vulnerability details"
+  },
+  {
+    "id": "h024-117",
+    "en": "View.vue"
+  },
+  {
+    "id": "h024-118",
+    "en": "Vim"
+  },
+  {
+    "id": "h024-119",
+    "en": "Visible content ready"
+  },
+  {
+    "id": "h024-120",
+    "en": "Visualize information in a custom interface"
+  },
+  {
+    "id": "h024-121",
+    "en": "Vue"
+  },
+  {
+    "id": "h024-122",
+    "en": "WSL Connect Dialog Back"
+  },
+  {
+    "id": "h024-123",
+    "en": "Waiting for a chat switch"
+  },
+  {
+    "id": "h024-124",
+    "en": "Waiting for log entries..."
+  },
+  {
+    "id": "h024-125",
+    "en": "Waiting for logs"
+  },
+  {
+    "id": "h024-126",
+    "en": "Waiting for reviewers · #151"
+  },
+  {
+    "id": "h024-127",
+    "en": "Waiting for the agent's first reply"
+  },
+  {
+    "id": "h024-128",
+    "en": "Waiting on admin approval"
+  },
+  {
+    "id": "h024-129",
+    "en": "Waiting on command approval"
+  },
+  {
+    "id": "h024-130",
+    "en": "Warn"
+  },
+  {
+    "id": "h024-131",
+    "en": "Warning Dialog"
+  },
+  {
+    "id": "h024-132",
+    "en": "Was open for"
+  },
+  {
+    "id": "h024-133",
+    "en": "Webhook"
+  },
+  {
+    "id": "h024-134",
+    "en": "Webhook triggered"
+  },
+  {
+    "id": "h024-135",
+    "en": "Webview Devtools"
+  },
+  {
+    "id": "h024-136",
+    "en": "Weekly Limit"
+  },
+  {
+    "id": "h024-137",
+    "en": "What should we name your repository?"
+  },
+  {
+    "id": "h024-138",
+    "en": "Whether the cell should be revealed into view automatically"
+  },
+  {
+    "id": "h024-139",
+    "en": "Which chats should be included"
+  },
+  {
+    "id": "h024-140",
+    "en": "Who can see the code?"
+  },
+  {
+    "id": "h024-141",
+    "en": "Whole word"
+  },
+  {
+    "id": "h024-142",
+    "en": "Wide"
+  },
+  {
+    "id": "h024-143",
+    "en": "Widget.svelte"
+  },
+  {
+    "id": "h024-144",
+    "en": "Wiring the digest template"
+  },
+  {
+    "id": "h024-145",
+    "en": "With Diff Stats (Large)"
+  },
+  {
+    "id": "h024-146",
+    "en": "With Diff Stats (Medium)"
+  },
+  {
+    "id": "h024-147",
+    "en": "With Diff Stats (Small)"
+  },
+  {
+    "id": "h024-148",
+    "en": "With Icon"
+  },
+  {
+    "id": "h024-149",
+    "en": "With Links"
+  }
+]

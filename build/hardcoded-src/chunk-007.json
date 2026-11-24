@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h007-000",
+    "en": "Filter Operator"
+  },
+  {
+    "id": "h007-001",
+    "en": "Filter Operators"
+  },
+  {
+    "id": "h007-002",
+    "en": "Filter Properties"
+  },
+  {
+    "id": "h007-003",
+    "en": "Filter Value"
+  },
+  {
+    "id": "h007-004",
+    "en": "Filter Values"
+  },
+  {
+    "id": "h007-005",
+    "en": "Filter by Environment"
+  },
+  {
+    "id": "h007-006",
+    "en": "Filter by options"
+  },
+  {
+    "id": "h007-007",
+    "en": "Find and Replace"
+  },
+  {
+    "id": "h007-008",
+    "en": "Find files"
+  },
+  {
+    "id": "h007-009",
+    "en": "Find in Changes"
+  },
+  {
+    "id": "h007-010",
+    "en": "Find in Plan"
+  },
+  {
+    "id": "h007-011",
+    "en": "Find in page"
+  },
+  {
+    "id": "h007-012",
+    "en": "Find with Agent"
+  },
+  {
+    "id": "h007-013",
+    "en": "Finishing setup…"
+  },
+  {
+    "id": "h007-014",
+    "en": "First test option"
+  },
+  {
+    "id": "h007-015",
+    "en": "First token"
+  },
+  {
+    "id": "h007-016",
+    "en": "Fixed"
+  },
+  {
+    "id": "h007-017",
+    "en": "Flushing analytics events"
+  },
+  {
+    "id": "h007-018",
+    "en": "Focus Options"
+  },
+  {
+    "id": "h007-019",
+    "en": "Focus Outline"
+  },
+  {
+    "id": "h007-020",
+    "en": "Fold Unchanged"
+  },
+  {
+    "id": "h007-021",
+    "en": "Fold the content in the editor"
+  },
+  {
+    "id": "h007-022",
+    "en": "Folders added to every profile, such as folders that git hooks need. Paths are relative to the repository root."
+  },
+  {
+    "id": "h007-023",
+    "en": "Folders to check out, relative to the repository root."
+  },
+  {
+    "id": "h007-024",
+    "en": "Font size for the Cursor user interface"
+  },
+  {
+    "id": "h007-025",
+    "en": "Force View Zones"
+  },
+  {
+    "id": "h007-026",
+    "en": "Force the display of view zones in the editor"
+  },
+  {
+    "id": "h007-027",
+    "en": "Free 7-day trial"
+  },
+  {
+    "id": "h007-028",
+    "en": "From Cursor"
+  },
+  {
+    "id": "h007-029",
+    "en": "From GitHub Repository"
+  },
+  {
+    "id": "h007-030",
+    "en": "From Local Repository"
+  },
+  {
+    "id": "h007-031",
+    "en": "From Marketplace"
+  },
+  {
+    "id": "h007-032",
+    "en": "Full Local"
+  },
+  {
+    "id": "h007-033",
+    "en": "Fuzzy search"
+  },
+  {
+    "id": "h007-034",
+    "en": "GUID"
+  },
+  {
+    "id": "h007-035",
+    "en": "Generate an implementation plan"
+  },
+  {
+    "id": "h007-036",
+    "en": "Generate image"
+  },
+  {
+    "id": "h007-037",
+    "en": "Generating..."
+  },
+  {
+    "id": "h007-038",
+    "en": "Generic Secret"
+  },
+  {
+    "id": "h007-039",
+    "en": "Get Editor Layout"
+  },
+  {
+    "id": "h007-040",
+    "en": "Get MCP tools"
+  },
+  {
+    "id": "h007-041",
+    "en": "Get additional Grok Bot usage."
+  },
+  {
+    "id": "h007-042",
+    "en": "Get started with Cursor."
+  },
+  {
+    "id": "h007-043",
+    "en": "GhostTextReplacement"
+  },
+  {
+    "id": "h007-044",
+    "en": "Git"
+  },
+  {
+    "id": "h007-045",
+    "en": "Git Not Initialized"
+  },
+  {
+    "id": "h007-046",
+    "en": "GitHub Auth Notification"
+  },
+  {
+    "id": "h007-047",
+    "en": "GitHub Token"
+  },
+  {
+    "id": "h007-048",
+    "en": "GitHub is not connected"
+  },
+  {
+    "id": "h007-049",
+    "en": "GitHub pull request"
+  },
+  {
+    "id": "h007-050",
+    "en": "Glass present"
+  },
+  {
+    "id": "h007-051",
+    "en": "Glob patterns for files where Cursor Tab will not suggest"
+  },
+  {
+    "id": "h007-052",
+    "en": "Global list of files to always ignore in Cursor features, across all workspaces. Uses glob patterns. These patterns have the same effect as adding them to a .cursorignore file in every workspace."
+  },
+  {
+    "id": "h007-053",
+    "en": "Go to End"
+  },
+  {
+    "id": "h007-054",
+    "en": "Go to Next Diff File"
+  },
+  {
+    "id": "h007-055",
+    "en": "Go to Plugin"
+  },
+  {
+    "id": "h007-056",
+    "en": "Go to Previous Diff File"
+  },
+  {
+    "id": "h007-057",
+    "en": "Go to Settings"
+  },
+  {
+    "id": "h007-058",
+    "en": "Go to locations from a position in a file"
+  },
+  {
+    "id": "h007-059",
+    "en": "Good Response"
+  },
+  {
+    "id": "h007-060",
+    "en": "Google API Key"
+  },
+  {
+    "id": "h007-061",
+    "en": "Graphite"
+  },
+  {
+    "id": "h007-062",
+    "en": "Great for individual developers"
+  },
+  {
+    "id": "h007-063",
+    "en": "Group By"
+  },
+  {
+    "id": "h007-064",
+    "en": "Group by options"
+  },
+  {
+    "id": "h007-065",
+    "en": "Grouping Options"
+  },
+  {
+    "id": "h007-066",
+    "en": "Grouping property"
+  },
+  {
+    "id": "h007-067",
+    "en": "Guide Agent with Rules"
+  },
+  {
+    "id": "h007-068",
+    "en": "HTTP headers"
+  },
+  {
+    "id": "h007-069",
+    "en": "HTTP/1.0"
+  },
+  {
+    "id": "h007-070",
+    "en": "HTTP/1.1"
+  },
+  {
+    "id": "h007-071",
+    "en": "HTTP/2"
+  },
+  {
+    "id": "h007-072",
+    "en": "HTTP/2 is recommended for low-latency streaming. In some corporate proxy and VPN environments, the compatibility mode may need to be lowered."
+  },
+  {
+    "id": "h007-073",
+    "en": "Heap"
+  },
+  {
+    "id": "h007-074",
+    "en": "Helios"
+  },
+  {
+    "id": "h007-075",
+    "en": "Helix"
+  },
+  {
+    "id": "h007-076",
+    "en": "Help improve Cursor for everyone"
+  },
+  {
+    "id": "h007-077",
+    "en": "Help improve Grok Bot"
+  },
+  {
+    "id": "h007-078",
+    "en": "Help us improve the model"
+  },
+  {
+    "id": "h007-079",
+    "en": "Hide Sidebar"
+  },
+  {
+    "id": "h007-080",
+    "en": "High"
+  },
+  {
+    "id": "h007-081",
+    "en": "High Contrast"
+  },
+  {
+    "id": "h007-082",
+    "en": "High Contrast Dark Theme"
+  },
+  {
+    "id": "h007-083",
+    "en": "High Contrast Light Theme"
+  },
+  {
+    "id": "h007-084",
+    "en": "Highlighted line"
+  },
+  {
+    "id": "h007-085",
+    "en": "Hook additional_context carriers drained into the caller collector"
+  },
+  {
+    "id": "h007-086",
+    "en": "Hooks run custom scripts at lifecycle events to observe, control, and extend the agent loop."
+  },
+  {
+    "id": "h007-087",
+    "en": "Hooks that run during the agent's loop will show up here."
+  },
+  {
+    "id": "h007-088",
+    "en": "Hourly"
+  },
+  {
+    "id": "h007-089",
+    "en": "How quickly the voice speaks in voice chats"
+  },
+  {
+    "id": "h007-090",
+    "en": "How quickly the voice speaks in voice chats."
+  },
+  {
+    "id": "h007-091",
+    "en": "Human readable message that shows when locations is empty."
+  },
+  {
+    "id": "h007-092",
+    "en": "I am fine with Cursor learning from my code!"
+  },
+  {
+    "id": "h007-093",
+    "en": "I do not want to enable data sharing."
+  },
+  {
+    "id": "h007-094",
+    "en": "IBAN"
+  },
+  {
+    "id": "h007-095",
+    "en": "INP"
+  },
+  {
+    "id": "h007-096",
+    "en": "INTERNAL"
+  },
+  {
+    "id": "h007-097",
+    "en": "If you enable Privacy Mode, none of your questions or code will ever be stored by us or any third-party."
+  },
+  {
+    "id": "h007-098",
+    "en": "Ignore branch difference"
+  },
+  {
+    "id": "h007-099",
+    "en": "Import from Code"
+  },
+  {
+    "id": "h007-100",
+    "en": "Import from Disk"
+  },
+  {
+    "id": "h007-101",
+    "en": "Import from GitHub"
+  },
+  {
+    "id": "h007-102",
+    "en": "Import without extensions"
+  },
+  {
+    "id": "h007-103",
+    "en": "Importing"
+  },
+  {
+    "id": "h007-104",
+    "en": "Imports"
+  },
+  {
+    "id": "h007-105",
+    "en": "Improve Grok Bot and more"
+  },
+  {
+    "id": "h007-106",
+    "en": "Include Application Logs"
+  },
+  {
+    "id": "h007-107",
+    "en": "Include Submodules in Agent Review"
+  },
+  {
+    "id": "h007-108",
+    "en": "Include Untracked Files in Agent Review"
+  },
+  {
+    "id": "h007-109",
+    "en": "Include changes from Git submodules in the review"
+  },
+  {
+    "id": "h007-110",
+    "en": "Include commits with files results"
+  },
+  {
+    "id": "h007-111",
+    "en": "Include untracked files (new files not yet added to Git) in the review"
+  },
+  {
+    "id": "h007-112",
+    "en": "Incomplete"
+  },
+  {
+    "id": "h007-113",
+    "en": "Incorrect"
+  },
+  {
+    "id": "h007-114",
+    "en": "Incorrect Repository"
+  },
+  {
+    "id": "h007-115",
+    "en": "Index Diagnostics"
+  },
+  {
+    "id": "h007-116",
+    "en": "Inherit from parent"
+  },
+  {
+    "id": "h007-117",
+    "en": "InlayHint"
+  },
+  {
+    "id": "h007-118",
+    "en": "Inline code"
+  },
+  {
+    "id": "h007-119",
+    "en": "Input"
+  },
+  {
+    "id": "h007-120",
+    "en": "Inside Cursor"
+  },
+  {
+    "id": "h007-121",
+    "en": "Install 'code'"
+  },
+  {
+    "id": "h007-122",
+    "en": "Install 'cursor'"
+  },
+  {
+    "id": "h007-123",
+    "en": "Install MCP server?"
+  },
+  {
+    "id": "h007-124",
+    "en": "Install a plugin from the marketplace"
+  },
+  {
+    "id": "h007-125",
+    "en": "Install script"
+  },
+  {
+    "id": "h007-126",
+    "en": "Installing an MCP server will execute commands with the same privileges as your user. Only proceed if you fully trust the server source and understand the implications."
+  },
+  {
+    "id": "h007-127",
+    "en": "Integrate your app with the Cursor SDK."
+  },
+  {
+    "id": "h007-128",
+    "en": "Interactive"
+  },
+  {
+    "id": "h007-129",
+    "en": "Interactive Editor"
+  },
+  {
+    "id": "h007-130",
+    "en": "Interval in hours for periodic worktree cleanup. Default is 6 hours."
+  },
+  {
+    "id": "h007-131",
+    "en": "Investigate Error in Chat"
+  },
+  {
+    "id": "h007-132",
+    "en": "Invite Team Members"
+  },
+  {
+    "id": "h007-133",
+    "en": "Iris"
+  },
+  {
+    "id": "h007-134",
+    "en": "Island"
+  },
+  {
+    "id": "h007-135",
+    "en": "Issue ID (optional)"
+  },
+  {
+    "id": "h007-136",
+    "en": "Issue..."
+  },
+  {
+    "id": "h007-137",
+    "en": "It runs on Cursor's servers, so it works on every computer you sign in on and in cloud agents. You sign in to it once."
+  },
+  {
+    "id": "h007-138",
+    "en": "Italic"
+  },
+  {
+    "id": "h007-139",
+    "en": "JWT"
+  },
+  {
+    "id": "h007-140",
+    "en": "Jank"
+  },
+  {
+    "id": "h007-141",
+    "en": "Jump to Next Diff on Accept"
+  },
+  {
+    "id": "h007-142",
+    "en": "KSUID"
+  },
+  {
+    "id": "h007-143",
+    "en": "Keep"
+  },
+  {
+    "id": "h007-144",
+    "en": "Keep File"
+  },
+  {
+    "id": "h007-145",
+    "en": "Keep Queuing"
+  },
+  {
+    "id": "h007-146",
+    "en": "Keep all pending changes"
+  },
+  {
+    "id": "h007-147",
+    "en": "Kepler"
+  },
+  {
+    "id": "h007-148",
+    "en": "Kind"
+  },
+  {
+    "id": "h007-149",
+    "en": "Label this account"
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "id": "005-000",
+    "en": "Star"
+  },
+  {
+    "id": "005-001",
+    "en": "Hex"
+  },
+  {
+    "id": "005-002",
+    "en": "Black"
+  },
+  {
+    "id": "005-003",
+    "en": "Brown"
+  },
+  {
+    "id": "005-004",
+    "en": "Red"
+  },
+  {
+    "id": "005-005",
+    "en": "Orange"
+  },
+  {
+    "id": "005-006",
+    "en": "Yellow"
+  },
+  {
+    "id": "005-007",
+    "en": "Green"
+  },
+  {
+    "id": "005-008",
+    "en": "Cyan"
+  },
+  {
+    "id": "005-009",
+    "en": "Blue"
+  },
+  {
+    "id": "005-010",
+    "en": "Violet"
+  },
+  {
+    "id": "005-011",
+    "en": "Magenta"
+  },
+  {
+    "id": "005-012",
+    "en": "Gray"
+  },
+  {
+    "id": "005-013",
+    "en": "Character shape"
+  },
+  {
+    "id": "005-014",
+    "en": "{0} character shape"
+  },
+  {
+    "id": "005-015",
+    "en": "Character color"
+  },
+  {
+    "id": "005-016",
+    "en": "{0} character color"
+  },
+  {
+    "id": "005-017",
+    "en": "Project context"
+  },
+  {
+    "id": "005-018",
+    "en": "Tracker"
+  },
+  {
+    "id": "005-019",
+    "en": "Discussion"
+  },
+  {
+    "id": "005-020",
+    "en": "Local files"
+  },
+  {
+    "id": "005-021",
+    "en": "Other"
+  },
+  {
+    "id": "005-022",
+    "en": "1 source"
+  },
+  {
+    "id": "005-023",
+    "en": "{0} sources"
+  },
+  {
+    "id": "005-024",
+    "en": "Add to {0}"
+  },
+  {
+    "id": "005-025",
+    "en": "Add"
+  },
+  {
+    "id": "005-026",
+    "en": "Cancel"
+  },
+  {
+    "id": "005-027",
+    "en": "Cancel"
+  },
+  {
+    "id": "005-028",
+    "en": "Go to \"{0}\""
+  },
+  {
+    "id": "005-029",
+    "en": "No tasks"
+  },
+  {
+    "id": "005-030",
+    "en": "Empty columns"
+  },
+  {
+    "id": "005-031",
+    "en": "Edit status icon"
+  },
+  {
+    "id": "005-032",
+    "en": "Change status"
+  },
+  {
+    "id": "005-033",
+    "en": "Change status of \"{0}\": {1}"
+  },
+  {
+    "id": "005-034",
+    "en": "Build an App"
+  },
+  {
+    "id": "005-035",
+    "en": "&&Undo"
+  },
+  {
+    "id": "005-036",
+    "en": "&&Redo"
+  },
+  {
+    "id": "005-037",
+    "en": "Cu&&t"
+  },
+  {
+    "id": "005-038",
+    "en": "&&Copy"
+  },
+  {
+    "id": "005-039",
+    "en": "&&Paste"
+  },
+  {
+    "id": "005-040",
+    "en": "Select &&All"
+  },
+  {
+    "id": "005-041",
+    "en": "Failed to update the goal."
+  },
+  {
+    "id": "005-042",
+    "en": "Images are still converting. Please wait and try again."
+  },
+  {
+    "id": "005-043",
+    "en": "Failed to send follow-up."
+  },
+  {
+    "id": "005-044",
+    "en": "Deploy with Cursor"
+  },
+  {
+    "id": "005-045",
+    "en": "Bringing in {0}…"
+  },
+  {
+    "id": "005-046",
+    "en": "Start a worker on this computer?"
+  },
+  {
+    "id": "005-047",
+    "en": "To continue this chat in a Project, Cursor starts a background worker on this computer for the chat's folder. The chat keeps running here, in the same folder."
+  },
+  {
+    "id": "005-048",
+    "en": "Start Worker and Continue"
+  },
+  {
+    "id": "005-049",
+    "en": "Cancel"
+  },
+  {
+    "id": "005-050",
+    "en": "Fix Conflicts"
+  },
+  {
+    "id": "005-051",
+    "en": "Build an app that does: "
+  },
+  {
+    "id": "005-052",
+    "en": "Failed to pause the goal."
+  },
+  {
+    "id": "005-053",
+    "en": "Failed to resume the goal."
+  },
+  {
+    "id": "005-054",
+    "en": "Failed to clear the goal."
+  },
+  {
+    "id": "005-055",
+    "en": "Failed to remove queued message."
+  },
+  {
+    "id": "005-056",
+    "en": "Failed to send queued message."
+  },
+  {
+    "id": "005-057",
+    "en": "Failed to move the queued message to a side chat."
+  },
+  {
+    "id": "005-058",
+    "en": "Failed to start multitasking."
+  },
+  {
+    "id": "005-059",
+    "en": "Convert this agent to remote control"
+  },
+  {
+    "id": "005-060",
+    "en": "Keep this agent running here and control it from another machine"
+  },
+  {
+    "id": "005-061",
+    "en": "Failed to save '{0}'"
+  },
+  {
+    "id": "005-062",
+    "en": "Failed to save '{0}': The content of the file is newer. Do you want to overwrite the file with your changes?"
+  },
+  {
+    "id": "005-063",
+    "en": "Overwrite"
+  },
+  {
+    "id": "005-064",
+    "en": "Discard Changes"
+  },
+  {
+    "id": "005-065",
+    "en": "Cancel"
+  },
+  {
+    "id": "005-066",
+    "en": "Failed to overwrite '{0}': {1}"
+  },
+  {
+    "id": "005-067",
+    "en": "Failed to discard changes in '{0}': {1}"
+  },
+  {
+    "id": "005-068",
+    "en": "Failed to save '{0}': {1}"
+  },
+  {
+    "id": "005-069",
+    "en": "Add to Chat"
+  },
+  {
+    "id": "005-070",
+    "en": "Open in Browser"
+  },
+  {
+    "id": "005-071",
+    "en": "Copy Path"
+  },
+  {
+    "id": "005-072",
+    "en": "Copy Relative Path"
+  },
+  {
+    "id": "005-073",
+    "en": "Copy cursor.com link"
+  },
+  {
+    "id": "005-074",
+    "en": "New File"
+  },
+  {
+    "id": "005-075",
+    "en": "New Folder"
+  },
+  {
+    "id": "005-076",
+    "en": "Cut"
+  },
+  {
+    "id": "005-077",
+    "en": "Copy"
+  },
+  {
+    "id": "005-078",
+    "en": "Paste"
+  },
+  {
+    "id": "005-079",
+    "en": "Download"
+  },
+  {
+    "id": "005-080",
+    "en": "Rename"
+  },
+  {
+    "id": "005-081",
+    "en": "Delete"
+  },
+  {
+    "id": "005-082",
+    "en": "Name cannot be empty"
+  },
+  {
+    "id": "005-083",
+    "en": "Invalid name"
+  },
+  {
+    "id": "005-084",
+    "en": "Name cannot contain path separators"
+  },
+  {
+    "id": "005-085",
+    "en": "New folder {0}"
+  },
+  {
+    "id": "005-086",
+    "en": "New {0}"
+  },
+  {
+    "id": "005-087",
+    "en": "Creating folder…"
+  },
+  {
+    "id": "005-088",
+    "en": "Creating file…"
+  },
+  {
+    "id": "005-089",
+    "en": "File or folder no longer exists."
+  },
+  {
+    "id": "005-090",
+    "en": "Move to Recycle Bin"
+  },
+  {
+    "id": "005-091",
+    "en": "Move to Trash"
+  },
+  {
+    "id": "005-092",
+    "en": "Delete"
+  },
+  {
+    "id": "005-093",
+    "en": "Delete folder with unsaved changes in {0} file(s)?"
+  },
+  {
+    "id": "005-094",
+    "en": "Delete file with unsaved changes?"
+  },
+  {
+    "id": "005-095",
+    "en": "Delete {0} items with unsaved changes in {1} file(s)?"
+  },
+  {
+    "id": "005-096",
+    "en": "Your changes will be lost if you continue."
+  },
+  {
+    "id": "005-097",
+    "en": "This path is read-only. Delete anyway?"
+  },
+  {
+    "id": "005-098",
+    "en": "Some of these paths are read-only. Delete anyway?"
+  },
+  {
+    "id": "005-099",
+    "en": "Continue"
+  },
+  {
+    "id": "005-100",
+    "en": "You can restore from the Recycle Bin."
+  },
+  {
+    "id": "005-101",
+    "en": "You can restore from the Trash."
+  },
+  {
+    "id": "005-102",
+    "en": "This action cannot be undone."
+  },
+  {
+    "id": "005-103",
+    "en": "Delete '{0}' and its contents?"
+  },
+  {
+    "id": "005-104",
+    "en": "Delete '{0}'?"
+  },
+  {
+    "id": "005-105",
+    "en": "Delete {0} items?"
+  },
+  {
+    "id": "005-106",
+    "en": "Cancel"
+  },
+  {
+    "id": "005-107",
+    "en": "Don't ask again"
+  },
+  {
+    "id": "005-108",
+    "en": "Delete {0}"
+  },
+  {
+    "id": "005-109",
+    "en": "Delete {0} items"
+  },
+  {
+    "id": "005-110",
+    "en": "Deleting…"
+  },
+  {
+    "id": "005-111",
+    "en": "Recycle Bin failed. Delete permanently instead?"
+  },
+  {
+    "id": "005-112",
+    "en": "Trash failed. Delete permanently instead?"
+  },
+  {
+    "id": "005-113",
+    "en": "Delete Permanently"
+  },
+  {
+    "id": "005-114",
+    "en": "Download"
+  },
+  {
+    "id": "005-115",
+    "en": "Choose Where to Download"
+  },
+  {
+    "id": "005-116",
+    "en": "Downloaded {0} to {1}"
+  },
+  {
+    "id": "005-117",
+    "en": "Failed to download {0}: {1}"
+  },
+  {
+    "id": "005-118",
+    "en": "Destination folder is read-only."
+  },
+  {
+    "id": "005-119",
+    "en": "Cannot move an item into a path inside itself."
+  }
+]

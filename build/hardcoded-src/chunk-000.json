@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h000-000",
+    "en": "Team"
+  },
+  {
+    "id": "h000-001",
+    "en": "Copy link"
+  },
+  {
+    "id": "h000-002",
+    "en": "Loading Canvas"
+  },
+  {
+    "id": "h000-003",
+    "en": "Tools"
+  },
+  {
+    "id": "h000-004",
+    "en": "Create PR"
+  },
+  {
+    "id": "h000-005",
+    "en": "Environment"
+  },
+  {
+    "id": "h000-006",
+    "en": "Model"
+  },
+  {
+    "id": "h000-007",
+    "en": "Copy Request ID"
+  },
+  {
+    "id": "h000-008",
+    "en": "GitHub"
+  },
+  {
+    "id": "h000-009",
+    "en": "Loading chat"
+  },
+  {
+    "id": "h000-010",
+    "en": "MCPs"
+  },
+  {
+    "id": "h000-011",
+    "en": "API Key"
+  },
+  {
+    "id": "h000-012",
+    "en": "Commit"
+  },
+  {
+    "id": "h000-013",
+    "en": "Connect GitHub"
+  },
+  {
+    "id": "h000-014",
+    "en": "Loading"
+  },
+  {
+    "id": "h000-015",
+    "en": "Merge"
+  },
+  {
+    "id": "h000-016",
+    "en": "Open in Prompt Quality"
+  },
+  {
+    "id": "h000-017",
+    "en": "Update Access"
+  },
+  {
+    "id": "h000-018",
+    "en": "Add to Home"
+  },
+  {
+    "id": "h000-019",
+    "en": "Cloud Agents"
+  },
+  {
+    "id": "h000-020",
+    "en": "Continue Anyway"
+  },
+  {
+    "id": "h000-021",
+    "en": "Hooks"
+  },
+  {
+    "id": "h000-022",
+    "en": "Open as Editor"
+  },
+  {
+    "id": "h000-023",
+    "en": "Run History"
+  },
+  {
+    "id": "h000-024",
+    "en": "Runs"
+  },
+  {
+    "id": "h000-025",
+    "en": "Skills"
+  },
+  {
+    "id": "h000-026",
+    "en": "Speed"
+  },
+  {
+    "id": "h000-027",
+    "en": "Start Pro Now"
+  },
+  {
+    "id": "h000-028",
+    "en": "Submit"
+  },
+  {
+    "id": "h000-029",
+    "en": "Anyone with the link"
+  },
+  {
+    "id": "h000-030",
+    "en": "Automations"
+  },
+  {
+    "id": "h000-031",
+    "en": "Base URL"
+  },
+  {
+    "id": "h000-032",
+    "en": "Cursor Tab"
+  },
+  {
+    "id": "h000-033",
+    "en": "Link actions"
+  },
+  {
+    "id": "h000-034",
+    "en": "New Chat"
+  },
+  {
+    "id": "h000-035",
+    "en": "Selected"
+  },
+  {
+    "id": "h000-036",
+    "en": "Stash changes"
+  },
+  {
+    "id": "h000-037",
+    "en": "Verified"
+  },
+  {
+    "id": "h000-038",
+    "en": "View Plan"
+  },
+  {
+    "id": "h000-039",
+    "en": "$(copilot) "
+  },
+  {
+    "id": "h000-040",
+    "en": "Authenticate"
+  },
+  {
+    "id": "h000-041",
+    "en": "Automation name"
+  },
+  {
+    "id": "h000-042",
+    "en": "Back to automations"
+  },
+  {
+    "id": "h000-043",
+    "en": "Branch Prefix"
+  },
+  {
+    "id": "h000-044",
+    "en": "Clone Repository"
+  },
+  {
+    "id": "h000-045",
+    "en": "Connect your Repos to Cursor"
+  },
+  {
+    "id": "h000-046",
+    "en": "Connection Failed"
+  },
+  {
+    "id": "h000-047",
+    "en": "Conversation unavailable"
+  },
+  {
+    "id": "h000-048",
+    "en": "Customer Evals UI is not enabled for your account."
+  },
+  {
+    "id": "h000-049",
+    "en": "Data Sharing"
+  },
+  {
+    "id": "h000-050",
+    "en": "Decline"
+  },
+  {
+    "id": "h000-051",
+    "en": "Desktop"
+  },
+  {
+    "id": "h000-052",
+    "en": "Empty"
+  },
+  {
+    "id": "h000-053",
+    "en": "Enter API key"
+  },
+  {
+    "id": "h000-054",
+    "en": "Export Transcript"
+  },
+  {
+    "id": "h000-055",
+    "en": "Failed to start Cloud Agent"
+  },
+  {
+    "id": "h000-056",
+    "en": "Fork Chat"
+  },
+  {
+    "id": "h000-057",
+    "en": "Hard Reload"
+  },
+  {
+    "id": "h000-058",
+    "en": "Log Out"
+  },
+  {
+    "id": "h000-059",
+    "en": "Log in"
+  },
+  {
+    "id": "h000-060",
+    "en": "Maximum Local LSP Workspaces"
+  },
+  {
+    "id": "h000-061",
+    "en": "Maximum Remote LSP Workspaces"
+  },
+  {
+    "id": "h000-062",
+    "en": "Monthly Limit"
+  },
+  {
+    "id": "h000-063",
+    "en": "Open config"
+  },
+  {
+    "id": "h000-064",
+    "en": "Page address"
+  },
+  {
+    "id": "h000-065",
+    "en": "Plugins"
+  },
+  {
+    "id": "h000-066",
+    "en": "Push"
+  },
+  {
+    "id": "h000-067",
+    "en": "Rename Chat"
+  },
+  {
+    "id": "h000-068",
+    "en": "Republish"
+  },
+  {
+    "id": "h000-069",
+    "en": "Required"
+  },
+  {
+    "id": "h000-070",
+    "en": "Scope"
+  },
+  {
+    "id": "h000-071",
+    "en": "Sign In"
+  },
+  {
+    "id": "h000-072",
+    "en": "Slack"
+  },
+  {
+    "id": "h000-073",
+    "en": "Subagents"
+  },
+  {
+    "id": "h000-074",
+    "en": "Switch"
+  },
+  {
+    "id": "h000-075",
+    "en": "Team Access"
+  },
+  {
+    "id": "h000-076",
+    "en": "Upgrade to Pro now"
+  },
+  {
+    "id": "h000-077",
+    "en": "Zoom in"
+  },
+  {
+    "id": "h000-078",
+    "en": "Zoom out"
+  },
+  {
+    "id": "h000-079",
+    "en": "pull request"
+  },
+  {
+    "id": "h000-080",
+    "en": "Add Workspace"
+  },
+  {
+    "id": "h000-081",
+    "en": "Add to Project"
+  },
+  {
+    "id": "h000-082",
+    "en": "Archived"
+  },
+  {
+    "id": "h000-083",
+    "en": "Connect Slack"
+  },
+  {
+    "id": "h000-084",
+    "en": "Copy as JSON"
+  },
+  {
+    "id": "h000-085",
+    "en": "Create a checkpoint commit with your current changes"
+  },
+  {
+    "id": "h000-086",
+    "en": "Created by"
+  },
+  {
+    "id": "h000-087",
+    "en": "Go back"
+  },
+  {
+    "id": "h000-088",
+    "en": "Image actions"
+  },
+  {
+    "id": "h000-089",
+    "en": "LSP"
+  },
+  {
+    "id": "h000-090",
+    "en": "Layout"
+  },
+  {
+    "id": "h000-091",
+    "en": "Microsoft Teams"
+  },
+  {
+    "id": "h000-092",
+    "en": "Mine"
+  },
+  {
+    "id": "h000-093",
+    "en": "Multitask"
+  },
+  {
+    "id": "h000-094",
+    "en": "Open in Web"
+  },
+  {
+    "id": "h000-095",
+    "en": "Pinned"
+  },
+  {
+    "id": "h000-096",
+    "en": "Privacy"
+  },
+  {
+    "id": "h000-097",
+    "en": "Proceed"
+  },
+  {
+    "id": "h000-098",
+    "en": "Publish"
+  },
+  {
+    "id": "h000-099",
+    "en": "Remote Machines"
+  },
+  {
+    "id": "h000-100",
+    "en": "Restore"
+  },
+  {
+    "id": "h000-101",
+    "en": "Show all models…"
+  },
+  {
+    "id": "h000-102",
+    "en": "Sync"
+  },
+  {
+    "id": "h000-103",
+    "en": "System Notifications"
+  },
+  {
+    "id": "h000-104",
+    "en": "Try different filters"
+  },
+  {
+    "id": "h000-105",
+    "en": "Updating"
+  },
+  {
+    "id": "h000-106",
+    "en": "Use Regex"
+  },
+  {
+    "id": "h000-107",
+    "en": "View Details"
+  },
+  {
+    "id": "h000-108",
+    "en": "$(plus) "
+  },
+  {
+    "id": "h000-109",
+    "en": "AWS Bedrock"
+  },
+  {
+    "id": "h000-110",
+    "en": "AWS Bedrock region"
+  },
+  {
+    "id": "h000-111",
+    "en": "Abort the operation"
+  },
+  {
+    "id": "h000-112",
+    "en": "Access Settings"
+  },
+  {
+    "id": "h000-113",
+    "en": "Add a to-do to get started"
+  },
+  {
+    "id": "h000-114",
+    "en": "Add property"
+  },
+  {
+    "id": "h000-115",
+    "en": "Add to this computer"
+  },
+  {
+    "id": "h000-116",
+    "en": "Adjust the conversation text size"
+  },
+  {
+    "id": "h000-117",
+    "en": "Adjust the default behavior of sending a message while Agent is running"
+  },
+  {
+    "id": "h000-118",
+    "en": "Agent Autocomplete"
+  },
+  {
+    "id": "h000-119",
+    "en": "Agent connection lost"
+  },
+  {
+    "id": "h000-120",
+    "en": "Agents Window Type"
+  },
+  {
+    "id": "h000-121",
+    "en": "All team members can view"
+  },
+  {
+    "id": "h000-122",
+    "en": "Allow Agent to fetch content from URLs"
+  },
+  {
+    "id": "h000-123",
+    "en": "Allow Agent to search the web for relevant information"
+  },
+  {
+    "id": "h000-124",
+    "en": "Always run"
+  },
+  {
+    "id": "h000-125",
+    "en": "An array of locations."
+  },
+  {
+    "id": "h000-126",
+    "en": "Any status"
+  },
+  {
+    "id": "h000-127",
+    "en": "Anyone"
+  },
+  {
+    "id": "h000-128",
+    "en": "Anything else?"
+  },
+  {
+    "id": "h000-129",
+    "en": "Applying"
+  },
+  {
+    "id": "h000-130",
+    "en": "Archive Prior Chats"
+  },
+  {
+    "id": "h000-131",
+    "en": "Archive all chats older than this one"
+  },
+  {
+    "id": "h000-132",
+    "en": "Attribution"
+  },
+  {
+    "id": "h000-133",
+    "en": "Author"
+  },
+  {
+    "id": "h000-134",
+    "en": "Auto Format on Agent Finish"
+  },
+  {
+    "id": "h000-135",
+    "en": "Auto-Approve Mode Transitions"
+  },
+  {
+    "id": "h000-136",
+    "en": "Auto-Hide Editor When Empty"
+  },
+  {
+    "id": "h000-137",
+    "en": "Auto-Run Network Access"
+  },
+  {
+    "id": "h000-138",
+    "en": "Automatically import agent configs from other tools"
+  },
+  {
+    "id": "h000-139",
+    "en": "Automatically open http and https links in the Browser Tab"
+  },
+  {
+    "id": "h000-140",
+    "en": "Automatically open localhost links in the Browser Tab"
+  },
+  {
+    "id": "h000-141",
+    "en": "Automatically resume working on agents and their subagents after a reload or restart"
+  },
+  {
+    "id": "h000-142",
+    "en": "Available Marketplaces"
+  },
+  {
+    "id": "h000-143",
+    "en": "Beta"
+  },
+  {
+    "id": "h000-144",
+    "en": "Branches"
+  },
+  {
+    "id": "h000-145",
+    "en": "Browse Marketplace"
+  },
+  {
+    "id": "h000-146",
+    "en": "Build in New Agent"
+  },
+  {
+    "id": "h000-147",
+    "en": "Build in Parallel"
+  },
+  {
+    "id": "h000-148",
+    "en": "Cancel all runs"
+  },
+  {
+    "id": "h000-149",
+    "en": "Cancel the checkout operation"
+  }
+]

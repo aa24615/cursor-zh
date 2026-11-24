@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h010-000",
+    "en": "People with access"
+  },
+  {
+    "id": "h010-001",
+    "en": "People you invite"
+  },
+  {
+    "id": "h010-002",
+    "en": "Perseus"
+  },
+  {
+    "id": "h010-003",
+    "en": "Personal Usage"
+  },
+  {
+    "id": "h010-004",
+    "en": "Pinpoint the root cause of an issue"
+  },
+  {
+    "id": "h010-005",
+    "en": "Plan & Usage"
+  },
+  {
+    "id": "h010-006",
+    "en": "Plan changes"
+  },
+  {
+    "id": "h010-007",
+    "en": "Plan ending soon"
+  },
+  {
+    "id": "h010-008",
+    "en": "Plan, search, make edits, run commands"
+  },
+  {
+    "id": "h010-009",
+    "en": "Play"
+  },
+  {
+    "id": "h010-010",
+    "en": "Play a sound when Agent finishes responding"
+  },
+  {
+    "id": "h010-011",
+    "en": "Play a sound when a chat response is completed"
+  },
+  {
+    "id": "h010-012",
+    "en": "Play a sound when agents finish or need attention"
+  },
+  {
+    "id": "h010-013",
+    "en": "Plays when a result arrives after silence."
+  },
+  {
+    "id": "h010-014",
+    "en": "Plays when a task is sent."
+  },
+  {
+    "id": "h010-015",
+    "en": "Plays when an error occurs."
+  },
+  {
+    "id": "h010-016",
+    "en": "Plays when the agent needs a decision."
+  },
+  {
+    "id": "h010-017",
+    "en": "Please update your payment method to keep using Cursor."
+  },
+  {
+    "id": "h010-018",
+    "en": "Plugin Repository"
+  },
+  {
+    "id": "h010-019",
+    "en": "Plugin Settings"
+  },
+  {
+    "id": "h010-020",
+    "en": "Plugin Tray Cancel"
+  },
+  {
+    "id": "h010-021",
+    "en": "Plugin Tray Primary Action"
+  },
+  {
+    "id": "h010-022",
+    "en": "Plugins bundle rules, skills, subagents, commands, MCP servers, and hooks into one installable package."
+  },
+  {
+    "id": "h010-023",
+    "en": "Plugins give your agents important context"
+  },
+  {
+    "id": "h010-024",
+    "en": "Pod ready"
+  },
+  {
+    "id": "h010-025",
+    "en": "Pod requested"
+  },
+  {
+    "id": "h010-026",
+    "en": "Potential issue detected (FAKE DEV MODE)"
+  },
+  {
+    "id": "h010-027",
+    "en": "Powered by Sentry"
+  },
+  {
+    "id": "h010-028",
+    "en": "Prefix for new Agent branches"
+  },
+  {
+    "id": "h010-029",
+    "en": "Prefix for new branches created by Agent (e.g., cursor/, username/)"
+  },
+  {
+    "id": "h010-030",
+    "en": "Prepared RequestContext blob references"
+  },
+  {
+    "id": "h010-031",
+    "en": "Press"
+  },
+  {
+    "id": "h010-032",
+    "en": "Previous image"
+  },
+  {
+    "id": "h010-033",
+    "en": "Primary"
+  },
+  {
+    "id": "h010-034",
+    "en": "Privacy Mode (Legacy) is enabled. Cloud Agents and some features are not available."
+  },
+  {
+    "id": "h010-035",
+    "en": "Privacy Mode Enabled"
+  },
+  {
+    "id": "h010-036",
+    "en": "Privacy settings"
+  },
+  {
+    "id": "h010-037",
+    "en": "Proceed anyway (changes might not apply correctly)"
+  },
+  {
+    "id": "h010-038",
+    "en": "Process"
+  },
+  {
+    "id": "h010-039",
+    "en": "Processing"
+  },
+  {
+    "id": "h010-040",
+    "en": "Processing voice input…"
+  },
+  {
+    "id": "h010-041",
+    "en": "Produces canvases"
+  },
+  {
+    "id": "h010-042",
+    "en": "Production"
+  },
+  {
+    "id": "h010-043",
+    "en": "Project Database Could Not Be Rendered"
+  },
+  {
+    "id": "h010-044",
+    "en": "Projects"
+  },
+  {
+    "id": "h010-045",
+    "en": "Promise"
+  },
+  {
+    "id": "h010-046",
+    "en": "Prompt actions"
+  },
+  {
+    "id": "h010-047",
+    "en": "Prompt input actions"
+  },
+  {
+    "id": "h010-048",
+    "en": "Proxy sign-in required"
+  },
+  {
+    "id": "h010-049",
+    "en": "Publish App"
+  },
+  {
+    "id": "h010-050",
+    "en": "Publish Skill"
+  },
+  {
+    "id": "h010-051",
+    "en": "Publishing"
+  },
+  {
+    "id": "h010-052",
+    "en": "Purple"
+  },
+  {
+    "id": "h010-053",
+    "en": "Push branch to remote"
+  },
+  {
+    "id": "h010-054",
+    "en": "Push local branch to remote"
+  },
+  {
+    "id": "h010-055",
+    "en": "Queue"
+  },
+  {
+    "id": "h010-056",
+    "en": "Quick access"
+  },
+  {
+    "id": "h010-057",
+    "en": "Re-authorize your UPI payment method to restore automatic payments"
+  },
+  {
+    "id": "h010-058",
+    "en": "React DevTools"
+  },
+  {
+    "id": "h010-059",
+    "en": "React Performance Tracks"
+  },
+  {
+    "id": "h010-060",
+    "en": "React-owned row height differs from virtualizer size"
+  },
+  {
+    "id": "h010-061",
+    "en": "Read MCP resource"
+  },
+  {
+    "id": "h010-062",
+    "en": "Read file"
+  },
+  {
+    "id": "h010-063",
+    "en": "Read lints"
+  },
+  {
+    "id": "h010-064",
+    "en": "Reads"
+  },
+  {
+    "id": "h010-065",
+    "en": "Rebase Merge"
+  },
+  {
+    "id": "h010-066",
+    "en": "Rebase and merge commits"
+  },
+  {
+    "id": "h010-067",
+    "en": "Rebase merge"
+  },
+  {
+    "id": "h010-068",
+    "en": "Received prewarmed pod"
+  },
+  {
+    "id": "h010-069",
+    "en": "Recent commits"
+  },
+  {
+    "id": "h010-070",
+    "en": "Recent commits - Select Commits"
+  },
+  {
+    "id": "h010-071",
+    "en": "Recent commits - Select Repositories"
+  },
+  {
+    "id": "h010-072",
+    "en": "Recommended to ensure correct base for changes"
+  },
+  {
+    "id": "h010-073",
+    "en": "Refer friends, earn usage credits"
+  },
+  {
+    "id": "h010-074",
+    "en": "Referral link"
+  },
+  {
+    "id": "h010-075",
+    "en": "Refresh Changes"
+  },
+  {
+    "id": "h010-076",
+    "en": "Refreshing..."
+  },
+  {
+    "id": "h010-077",
+    "en": "Register Close Tooltip"
+  },
+  {
+    "id": "h010-078",
+    "en": "Registers a new title variable"
+  },
+  {
+    "id": "h010-079",
+    "en": "Reject All Edits"
+  },
+  {
+    "id": "h010-080",
+    "en": "Reject Partial Edit"
+  },
+  {
+    "id": "h010-081",
+    "en": "Reload the window"
+  },
+  {
+    "id": "h010-082",
+    "en": "Remember Preference"
+  },
+  {
+    "id": "h010-083",
+    "en": "Remote Control"
+  },
+  {
+    "id": "h010-084",
+    "en": "Remote Control Agent"
+  },
+  {
+    "id": "h010-085",
+    "en": "Remote HTTPS"
+  },
+  {
+    "id": "h010-086",
+    "en": "Remove Marketplace"
+  },
+  {
+    "id": "h010-087",
+    "en": "Remove Screenshot"
+  },
+  {
+    "id": "h010-088",
+    "en": "Remove from Tileset"
+  },
+  {
+    "id": "h010-089",
+    "en": "Remove local plugin"
+  },
+  {
+    "id": "h010-090",
+    "en": "Remove marketplace?"
+  },
+  {
+    "id": "h010-091",
+    "en": "Remove model"
+  },
+  {
+    "id": "h010-092",
+    "en": "Remove review mode from composer modes"
+  },
+  {
+    "id": "h010-093",
+    "en": "Removes an entry with the given path from the recently opened list."
+  },
+  {
+    "id": "h010-094",
+    "en": "Rename chat"
+  },
+  {
+    "id": "h010-095",
+    "en": "Rename cloud agent"
+  },
+  {
+    "id": "h010-096",
+    "en": "Rename manual mode to review mode for review-edits"
+  },
+  {
+    "id": "h010-097",
+    "en": "Rename review mode to careful for review-edits"
+  },
+  {
+    "id": "h010-098",
+    "en": "Renamed"
+  },
+  {
+    "id": "h010-099",
+    "en": "Rendered row height differs from virtualizer size"
+  },
+  {
+    "id": "h010-100",
+    "en": "Rendered rows overlap in the DOM"
+  },
+  {
+    "id": "h010-101",
+    "en": "Renderer health at the moment the renderer declared the extension host unresponsive. Use this to distinguish extension-host stalls from renderer stalls."
+  },
+  {
+    "id": "h010-102",
+    "en": "Renderer-side health snapshot captured by the process reporting the extension-host unresponsive Sentry event. Long-task, GC, and event-loop-lag arrays are ordered oldest to newest."
+  },
+  {
+    "id": "h010-103",
+    "en": "Rendering Mermaid preview..."
+  },
+  {
+    "id": "h010-104",
+    "en": "Reorder composer modes to: agent, plan, background, chat"
+  },
+  {
+    "id": "h010-105",
+    "en": "Replace Agent"
+  },
+  {
+    "id": "h010-106",
+    "en": "Replace Chat"
+  },
+  {
+    "id": "h010-107",
+    "en": "Replace Skill"
+  },
+  {
+    "id": "h010-108",
+    "en": "Replace all"
+  },
+  {
+    "id": "h010-109",
+    "en": "Replace all in file"
+  },
+  {
+    "id": "h010-110",
+    "en": "Replace the account version"
+  },
+  {
+    "id": "h010-111",
+    "en": "Report Bad"
+  },
+  {
+    "id": "h010-112",
+    "en": "Report Good"
+  },
+  {
+    "id": "h010-113",
+    "en": "Report with Comment"
+  },
+  {
+    "id": "h010-114",
+    "en": "Repositories unavailable"
+  },
+  {
+    "id": "h010-115",
+    "en": "Request an agent to review your code"
+  },
+  {
+    "id": "h010-116",
+    "en": "Request received"
+  },
+  {
+    "id": "h010-117",
+    "en": "Reset All"
+  },
+  {
+    "id": "h010-118",
+    "en": "Reset Chat Mode to Default"
+  },
+  {
+    "id": "h010-119",
+    "en": "Reset Composer Position"
+  },
+  {
+    "id": "h010-120",
+    "en": "Reset In-App Ad Views"
+  },
+  {
+    "id": "h010-121",
+    "en": "Reset Position"
+  },
+  {
+    "id": "h010-122",
+    "en": "Reset auto format on agent finish override"
+  },
+  {
+    "id": "h010-123",
+    "en": "Reset zoom to 100%"
+  },
+  {
+    "id": "h010-124",
+    "en": "Resize canvas list"
+  },
+  {
+    "id": "h010-125",
+    "en": "Restore chat"
+  },
+  {
+    "id": "h010-126",
+    "en": "Resubmit"
+  },
+  {
+    "id": "h010-127",
+    "en": "Resubmit for all agents"
+  },
+  {
+    "id": "h010-128",
+    "en": "Result Arrives"
+  },
+  {
+    "id": "h010-129",
+    "en": "Result Diff"
+  },
+  {
+    "id": "h010-130",
+    "en": "Retake Screenshot"
+  },
+  {
+    "id": "h010-131",
+    "en": "Return"
+  },
+  {
+    "id": "h010-132",
+    "en": "Reveal the given line at the given logical position"
+  },
+  {
+    "id": "h010-133",
+    "en": "Review Code with Bugbot"
+  },
+  {
+    "id": "h010-134",
+    "en": "Review Next File"
+  },
+  {
+    "id": "h010-135",
+    "en": "Review Provider"
+  },
+  {
+    "id": "h010-136",
+    "en": "Review changes"
+  },
+  {
+    "id": "h010-137",
+    "en": "Review next file"
+  },
+  {
+    "id": "h010-138",
+    "en": "Review the configuration before adding it to your MCP servers."
+  },
+  {
+    "id": "h010-139",
+    "en": "Reviewed Cursor Automation Workflow proto JSON. Include triggers, actions, prompts, model, gitConfig, agentOptions, memoryEnabled, etc. The exact same shape passed to create_automation.workflow."
+  },
+  {
+    "id": "h010-140",
+    "en": "Reviews"
+  },
+  {
+    "id": "h010-141",
+    "en": "Rewrite Now"
+  },
+  {
+    "id": "h010-142",
+    "en": "Rex"
+  },
+  {
+    "id": "h010-143",
+    "en": "Rigel"
+  },
+  {
+    "id": "h010-144",
+    "en": "Right-hand side resource of the diff editor"
+  },
+  {
+    "id": "h010-145",
+    "en": "Route PR Reviews and Auto-Approve"
+  },
+  {
+    "id": "h010-146",
+    "en": "Rows per page"
+  },
+  {
+    "id": "h010-147",
+    "en": "Rules give Agent persistent, system-level instructions for your coding standards and workflows."
+  },
+  {
+    "id": "h010-148",
+    "en": "Run Bugbot Review"
+  },
+  {
+    "id": "h010-149",
+    "en": "Run Eval"
+  }
+]

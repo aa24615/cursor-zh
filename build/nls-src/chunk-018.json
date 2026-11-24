@@ -1,0 +1,482 @@
+[
+  {
+    "id": "018-000",
+    "en": "{0} result in {1} indexed file"
+  },
+  {
+    "id": "018-001",
+    "en": "{0} result in {1} indexed files"
+  },
+  {
+    "id": "018-002",
+    "en": "{0} results in {1} indexed file"
+  },
+  {
+    "id": "018-003",
+    "en": "{0} results in {1} indexed files"
+  },
+  {
+    "id": "018-004",
+    "en": "Search"
+  },
+  {
+    "id": "018-005",
+    "en": "Configure [glob patterns](https://code.visualstudio.com/docs/editor/codebasics#_advanced-search-options) for excluding files and folders in fulltext searches and file search in quick open. To exclude files from the recently opened list in quick open, patterns must be absolute (for example `**/node_modules/**`). Inherits all glob patterns from the `#files.exclude#` setting."
+  },
+  {
+    "id": "018-006",
+    "en": "The glob pattern to match file paths against. Set to true or false to enable or disable the pattern."
+  },
+  {
+    "id": "018-007",
+    "en": "Additional check on the siblings of a matching file. Use \\$(basename) as variable for the matching file name."
+  },
+  {
+    "id": "018-008",
+    "en": "Controls where new `Search: Find in Files` and `Find in Folder` operations occur: either in the search view, or in a search editor."
+  },
+  {
+    "id": "018-009",
+    "en": "Search in the search view, either in the panel or side bars."
+  },
+  {
+    "id": "018-010",
+    "en": "Search in an existing search editor if present, otherwise in a new search editor."
+  },
+  {
+    "id": "018-011",
+    "en": "Search in a new search editor."
+  },
+  {
+    "id": "018-012",
+    "en": "This setting is deprecated and now falls back on \"search.usePCRE2\"."
+  },
+  {
+    "id": "018-013",
+    "en": "Deprecated. Consider \"search.usePCRE2\" for advanced regex feature support."
+  },
+  {
+    "id": "018-014",
+    "en": "The search cache is kept in the extension host which never shuts down, so this setting is no longer needed."
+  },
+  {
+    "id": "018-015",
+    "en": "When enabled, the searchService process will be kept alive instead of being shut down after an hour of inactivity. This will keep the file search cache in memory."
+  },
+  {
+    "id": "018-016",
+    "en": "Controls whether to use `.gitignore` and `.ignore` files when searching for files."
+  },
+  {
+    "id": "018-017",
+    "en": "Controls whether to use your global gitignore file (for example, from `$HOME/.config/git/ignore`) when searching for files. Requires {0} to be enabled."
+  },
+  {
+    "id": "018-018",
+    "en": "Controls whether to use `.gitignore` and `.ignore` files in parent directories when searching for files. Requires {0} to be enabled."
+  },
+  {
+    "id": "018-019",
+    "en": "Whether to include results from a global symbol search in the file results for Quick Open."
+  },
+  {
+    "id": "018-020",
+    "en": "Number of threads to use for searching. When set to 0, the engine automatically determines this value."
+  },
+  {
+    "id": "018-021",
+    "en": "Whether to include results from recently opened files in the file results for Quick Open."
+  },
+  {
+    "id": "018-022",
+    "en": "History entries are sorted by relevance based on the filter value used. More relevant entries appear first."
+  },
+  {
+    "id": "018-023",
+    "en": "History entries are sorted by recency. More recently opened entries appear first."
+  },
+  {
+    "id": "018-024",
+    "en": "Controls sorting order of editor history in quick open when filtering."
+  },
+  {
+    "id": "018-025",
+    "en": "When enabled, use the default VSCode quick open search algorithm instead of Cursor's modified version."
+  },
+  {
+    "id": "018-026",
+    "en": "Controls whether to follow symlinks while searching."
+  },
+  {
+    "id": "018-027",
+    "en": "Search case-insensitively if the pattern is all lowercase, otherwise, search case-sensitively."
+  },
+  {
+    "id": "018-028",
+    "en": "Controls whether the search view should read or modify the shared find clipboard on macOS."
+  },
+  {
+    "id": "018-029",
+    "en": "Controls whether the search will be shown as a view in the sidebar or as a panel in the panel area for more horizontal space."
+  },
+  {
+    "id": "018-030",
+    "en": "This setting is deprecated. You can drag the search icon to a new location instead."
+  },
+  {
+    "id": "018-031",
+    "en": "Controls the maximum number of search results, this can be set to `null` (empty) to return unlimited results."
+  },
+  {
+    "id": "018-032",
+    "en": "Files with less than 10 results are expanded. Others are collapsed."
+  },
+  {
+    "id": "018-033",
+    "en": "Controls whether the search results will be collapsed or expanded."
+  },
+  {
+    "id": "018-034",
+    "en": "Controls whether to open Replace Preview when selecting or replacing a match."
+  },
+  {
+    "id": "018-035",
+    "en": "Controls whether to show line numbers for search results."
+  },
+  {
+    "id": "018-036",
+    "en": "Whether to use the PCRE2 regex engine in text search. This enables using some advanced regex features like lookahead and backreferences. However, not all PCRE2 features are supported - only features that are also supported by JavaScript."
+  },
+  {
+    "id": "018-037",
+    "en": "Deprecated. PCRE2 will be used automatically when using regex features that are only supported by PCRE2."
+  },
+  {
+    "id": "018-038",
+    "en": "Position the actionbar to the right when the search view is narrow, and immediately after the content when the search view is wide."
+  },
+  {
+    "id": "018-039",
+    "en": "Always position the actionbar to the right."
+  },
+  {
+    "id": "018-040",
+    "en": "Controls the positioning of the actionbar on rows in the search view."
+  },
+  {
+    "id": "018-041",
+    "en": "Search all files as you type."
+  },
+  {
+    "id": "018-042",
+    "en": "Enable seeding search from the word nearest the cursor when the active editor has no selection."
+  },
+  {
+    "id": "018-043",
+    "en": "Update the search query to the editor's selected text when focusing the search view. This happens either on click or when triggering the `workbench.views.search.focus` command."
+  },
+  {
+    "id": "018-044",
+    "en": "When {0} is enabled, controls the timeout in milliseconds between a character being typed and the search starting. Has no effect when {0} is disabled."
+  },
+  {
+    "id": "018-045",
+    "en": "Double-clicking selects the word under the cursor."
+  },
+  {
+    "id": "018-046",
+    "en": "Double-clicking opens the result in the active editor group."
+  },
+  {
+    "id": "018-047",
+    "en": "Double-clicking opens the result in the editor group to the side, creating one if it does not yet exist."
+  },
+  {
+    "id": "018-048",
+    "en": "Configure effect of double-clicking a result in a search editor."
+  },
+  {
+    "id": "018-049",
+    "en": "Single-clicking does nothing."
+  },
+  {
+    "id": "018-050",
+    "en": "Single-clicking opens a Peek Definition window."
+  },
+  {
+    "id": "018-051",
+    "en": "Configure effect of single-clicking a result in a search editor."
+  },
+  {
+    "id": "018-052",
+    "en": "When enabled, new Search Editors will reuse the includes, excludes, and flags of the previously opened Search Editor."
+  },
+  {
+    "id": "018-053",
+    "en": "The default number of surrounding context lines to use when creating new Search Editors. If using `#search.searchEditor.reusePriorSearchConfiguration#`, this can be set to `null` (empty) to use the prior Search Editor's configuration."
+  },
+  {
+    "id": "018-054",
+    "en": "When a search is triggered, focus the Search Editor results instead of the Search Editor input."
+  },
+  {
+    "id": "018-055",
+    "en": "Results are sorted by folder and file names, in alphabetical order."
+  },
+  {
+    "id": "018-056",
+    "en": "Results are sorted by file names ignoring folder order, in alphabetical order."
+  },
+  {
+    "id": "018-057",
+    "en": "Results are sorted by file extensions, in alphabetical order."
+  },
+  {
+    "id": "018-058",
+    "en": "Results are sorted by file last modified date, in descending order."
+  },
+  {
+    "id": "018-059",
+    "en": "Results are sorted by count per file, in descending order."
+  },
+  {
+    "id": "018-060",
+    "en": "Results are sorted by count per file, in ascending order."
+  },
+  {
+    "id": "018-061",
+    "en": "Controls sorting order of search results."
+  },
+  {
+    "id": "018-062",
+    "en": "Controls whether search file decorations should use colors."
+  },
+  {
+    "id": "018-063",
+    "en": "Controls whether search file decorations should use badges."
+  },
+  {
+    "id": "018-064",
+    "en": "Shows search results as a tree."
+  },
+  {
+    "id": "018-065",
+    "en": "Shows search results as a list."
+  },
+  {
+    "id": "018-066",
+    "en": "Controls the default search result view mode."
+  },
+  {
+    "id": "018-067",
+    "en": "Controls whether the last typed input to Quick Search should be restored when opening it the next time."
+  },
+  {
+    "id": "018-068",
+    "en": "A list of extensions whose symbol providers will not be used when searching for symbols. Use extension IDs."
+  },
+  {
+    "id": "018-069",
+    "en": "Show notebook editor rich content results for closed notebooks. Please refresh your search results after changing this setting."
+  },
+  {
+    "id": "018-070",
+    "en": "The task '{0}' is already active."
+  },
+  {
+    "id": "018-071",
+    "en": "Terminate Task"
+  },
+  {
+    "id": "018-072",
+    "en": "Restart Task"
+  },
+  {
+    "id": "018-073",
+    "en": "There is a task running. Do you want to terminate it?"
+  },
+  {
+    "id": "018-074",
+    "en": "&&Terminate Task"
+  },
+  {
+    "id": "018-075",
+    "en": "The launched task doesn't exist anymore. If the task spawned background processes exiting {0} might result in orphaned processes. To avoid this start the last background process with a wait flag."
+  },
+  {
+    "id": "018-076",
+    "en": "&&Exit Anyways"
+  },
+  {
+    "id": "018-077",
+    "en": "This window is on the Airlock container, so it can't open terminals on this computer. Use a terminal in the container"
+  },
+  {
+    "id": "018-078",
+    "en": "Whether this window refuses terminals that run on this computer."
+  },
+  {
+    "id": "018-079",
+    "en": "Terminal"
+  },
+  {
+    "id": "018-080",
+    "en": "&&Terminal"
+  },
+  {
+    "id": "018-081",
+    "en": "Terminal"
+  },
+  {
+    "id": "018-082",
+    "en": "Terminal"
+  },
+  {
+    "id": "018-083",
+    "en": "Add Tooltip"
+  },
+  {
+    "id": "018-084",
+    "en": "Some keybindings don't go to the terminal by default and are handled by {0} instead."
+  },
+  {
+    "id": "018-085",
+    "en": "Configure Terminal Settings"
+  },
+  {
+    "id": "018-086",
+    "en": "Cannot launch a terminal process in an untrusted workspace with cwd {0} and userHome {1}"
+  },
+  {
+    "id": "018-087",
+    "en": "Split Terminal"
+  },
+  {
+    "id": "018-088",
+    "en": "Rich"
+  },
+  {
+    "id": "018-089",
+    "en": "Basic"
+  },
+  {
+    "id": "018-090",
+    "en": "Injection failed to activate"
+  },
+  {
+    "id": "018-091",
+    "en": "Shell integration"
+  },
+  {
+    "id": "018-092",
+    "en": "Shell integration"
+  },
+  {
+    "id": "018-093",
+    "en": "Terminal contribution actions"
+  },
+  {
+    "id": "018-094",
+    "en": "Add to Current Chat"
+  },
+  {
+    "id": "018-095",
+    "en": "Whether to display the environment changes indicator on each terminal which explains whether extensions have made, or want to make changes to the terminal's environment."
+  },
+  {
+    "id": "018-096",
+    "en": "Disable the indicator."
+  },
+  {
+    "id": "018-097",
+    "en": "Enable the indicator."
+  },
+  {
+    "id": "018-098",
+    "en": "Only show the warning indicator when a terminal's environment is 'stale', not the information indicator that shows a terminal has had its environment modified by an extension."
+  },
+  {
+    "id": "018-099",
+    "en": "Whether to use ConPTY for Windows terminal process communication (requires Windows 10 build number 18309+). Winpty will be used if this is false."
+  },
+  {
+    "id": "018-100",
+    "en": "Whether the active terminal has contribution-owned actions."
+  },
+  {
+    "id": "018-101",
+    "en": "Send Custom Sequence to Terminal"
+  },
+  {
+    "id": "018-102",
+    "en": "Create New Integrated Terminal (Local)"
+  },
+  {
+    "id": "018-103",
+    "en": "Preserve the cursor position on reopen of the terminal's accessible view rather than setting it to the bottom of the buffer."
+  },
+  {
+    "id": "018-104",
+    "en": "Cursor CLI is already installed."
+  },
+  {
+    "id": "018-105",
+    "en": "Install Cursor CLI"
+  },
+  {
+    "id": "018-106",
+    "en": "Debug: Check Terminal Execution Service Version"
+  },
+  {
+    "id": "018-107",
+    "en": "External Agent Actions"
+  },
+  {
+    "id": "018-108",
+    "en": "Second Opinion"
+  },
+  {
+    "id": "018-109",
+    "en": "Side Chat"
+  },
+  {
+    "id": "018-110",
+    "en": "Side Chat"
+  },
+  {
+    "id": "018-111",
+    "en": "Second Opinion"
+  },
+  {
+    "id": "018-112",
+    "en": "External Agent Actions"
+  },
+  {
+    "id": "018-113",
+    "en": ", hold shift for your browser"
+  },
+  {
+    "id": "018-114",
+    "en": "Request Completions"
+  },
+  {
+    "id": "018-115",
+    "en": "Ignore suggestions and send the enter directly to the shell without completing. This is used as the default value so the suggest widget is as unobtrusive as possible."
+  },
+  {
+    "id": "018-116",
+    "en": "Running tests..."
+  },
+  {
+    "id": "018-117",
+    "en": "Running tests, {0}/{1} passed ({2}%)"
+  },
+  {
+    "id": "018-118",
+    "en": "Running tests, {0}/{1} tests passed ({2}%, {3} skipped)"
+  },
+  {
+    "id": "018-119",
+    "en": "{0}/{1} tests passed ({2}%)"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h008-000",
+    "en": "Language used in voice chats"
+  },
+  {
+    "id": "h008-001",
+    "en": "Language used in voice chats."
+  },
+  {
+    "id": "h008-002",
+    "en": "Large diffs are hidden by default."
+  },
+  {
+    "id": "h008-003",
+    "en": "Last Used Windows"
+  },
+  {
+    "id": "h008-004",
+    "en": "Leak Detection"
+  },
+  {
+    "id": "h008-005",
+    "en": "Learn more about your privacy options"
+  },
+  {
+    "id": "h008-006",
+    "en": "Leave Ask Every Time?"
+  },
+  {
+    "id": "h008-007",
+    "en": "Left-hand side resource of the diff editor"
+  },
+  {
+    "id": "h008-008",
+    "en": "Legacy issue-reporter options (ignored)."
+  },
+  {
+    "id": "h008-009",
+    "en": "Leo"
+  },
+  {
+    "id": "h008-010",
+    "en": "Let Cursor see logs and view your app with Playwright MCP"
+  },
+  {
+    "id": "h008-011",
+    "en": "Let any team member publish plugins to this marketplace. When off, only team admins can publish."
+  },
+  {
+    "id": "h008-012",
+    "en": "Light"
+  },
+  {
+    "id": "h008-013",
+    "en": "Limit Reached"
+  },
+  {
+    "id": "h008-014",
+    "en": "Limits reset!"
+  },
+  {
+    "id": "h008-015",
+    "en": "Lint error"
+  },
+  {
+    "id": "h008-016",
+    "en": "Liora"
+  },
+  {
+    "id": "h008-017",
+    "en": "List Cursor Automations product entries visible to the current user. Use only when the user explicitly asks about Cursor Automations. Returns compact summaries and only searches fields included in those summaries."
+  },
+  {
+    "id": "h008-018",
+    "en": "List directory"
+  },
+  {
+    "id": "h008-019",
+    "en": "List of action IDs to always show in the editor title bar. These actions will be pinned and visible regardless of the default visibility settings."
+  },
+  {
+    "id": "h008-020",
+    "en": "List of resources to open in the changes editor"
+  },
+  {
+    "id": "h008-021",
+    "en": "Load Diff"
+  },
+  {
+    "id": "h008-022",
+    "en": "Load React Developer Tools so Chrome DevTools shows the Components and Profiler tabs. It slows every React commit, so it's off by default. Restarts Cursor."
+  },
+  {
+    "id": "h008-023",
+    "en": "Loading Cloud Agents settings..."
+  },
+  {
+    "id": "h008-024",
+    "en": "Loading Projects…"
+  },
+  {
+    "id": "h008-025",
+    "en": "Loading cloud agent data..."
+  },
+  {
+    "id": "h008-026",
+    "en": "Loading conversation"
+  },
+  {
+    "id": "h008-027",
+    "en": "Loading plugin configuration..."
+  },
+  {
+    "id": "h008-028",
+    "en": "Loading plugins..."
+  },
+  {
+    "id": "h008-029",
+    "en": "Loading project tasks…"
+  },
+  {
+    "id": "h008-030",
+    "en": "Local Only"
+  },
+  {
+    "id": "h008-031",
+    "en": "Local folder"
+  },
+  {
+    "id": "h008-032",
+    "en": "Log extension host RPC messages to JSON files viewable in Perfetto for performance analysis. Requires a restart to take effect."
+  },
+  {
+    "id": "h008-033",
+    "en": "Logout"
+  },
+  {
+    "id": "h008-034",
+    "en": "Longest event-loop block between the network phase start and the first server message of a run's first attempt"
+  },
+  {
+    "id": "h008-035",
+    "en": "Low"
+  },
+  {
+    "id": "h008-036",
+    "en": "Lumen"
+  },
+  {
+    "id": "h008-037",
+    "en": "Luna"
+  },
+  {
+    "id": "h008-038",
+    "en": "Lux"
+  },
+  {
+    "id": "h008-039",
+    "en": "MAX"
+  },
+  {
+    "id": "h008-040",
+    "en": "MAX Only"
+  },
+  {
+    "id": "h008-041",
+    "en": "MCP Allowlist"
+  },
+  {
+    "id": "h008-042",
+    "en": "MCP App"
+  },
+  {
+    "id": "h008-043",
+    "en": "MCP Notification"
+  },
+  {
+    "id": "h008-044",
+    "en": "MCP Tools Protection"
+  },
+  {
+    "id": "h008-045",
+    "en": "MSBuild"
+  },
+  {
+    "id": "h008-046",
+    "en": "Machine Metrics"
+  },
+  {
+    "id": "h008-047",
+    "en": "Manage Marketplace"
+  },
+  {
+    "id": "h008-048",
+    "en": "Manage Origin Settings"
+  },
+  {
+    "id": "h008-049",
+    "en": "Manage Processes"
+  },
+  {
+    "id": "h008-050",
+    "en": "Manage Settings"
+  },
+  {
+    "id": "h008-051",
+    "en": "Manage View"
+  },
+  {
+    "id": "h008-052",
+    "en": "Map of bubble IDs to their associated data"
+  },
+  {
+    "id": "h008-053",
+    "en": "Mark All as Read"
+  },
+  {
+    "id": "h008-054",
+    "en": "Mark as Ready"
+  },
+  {
+    "id": "h008-055",
+    "en": "Mark as Unread"
+  },
+  {
+    "id": "h008-056",
+    "en": "Mark as fixed"
+  },
+  {
+    "id": "h008-057",
+    "en": "Mark chat as read"
+  },
+  {
+    "id": "h008-058",
+    "en": "Mark chat as unread"
+  },
+  {
+    "id": "h008-059",
+    "en": "Mark ready for review"
+  },
+  {
+    "id": "h008-060",
+    "en": "Marketplace Access"
+  },
+  {
+    "id": "h008-061",
+    "en": "Marketplace Settings"
+  },
+  {
+    "id": "h008-062",
+    "en": "Marketplace repository URL"
+  },
+  {
+    "id": "h008-063",
+    "en": "Max"
+  },
+  {
+    "id": "h008-064",
+    "en": "Maximum aggregate worktree size"
+  },
+  {
+    "id": "h008-065",
+    "en": "Maximum number of Cursor-managed worktrees to keep across all workspaces. Older worktrees are removed first. Default is 25."
+  },
+  {
+    "id": "h008-066",
+    "en": "Maximum number of Cursor-managed worktrees to retain across all workspaces. Older worktrees are removed first."
+  },
+  {
+    "id": "h008-067",
+    "en": "Maximum number of local Agent Window workspaces that can run language servers."
+  },
+  {
+    "id": "h008-068",
+    "en": "Maximum number of remote Agent Window workspaces that can run language servers."
+  },
+  {
+    "id": "h008-069",
+    "en": "Maximum power and flexibility"
+  },
+  {
+    "id": "h008-070",
+    "en": "Maximum retained Cursor-managed worktrees"
+  },
+  {
+    "id": "h008-071",
+    "en": "Maximum total size in GB across all Cursor-managed worktrees. Set to 0 to disable the size limit."
+  },
+  {
+    "id": "h008-072",
+    "en": "Maximum total size in GB for the Cursor worktrees directory across all workspaces. Set to 0 to disable this limit."
+  },
+  {
+    "id": "h008-073",
+    "en": "Maybe Later"
+  },
+  {
+    "id": "h008-074",
+    "en": "Measured row height drift is large"
+  },
+  {
+    "id": "h008-075",
+    "en": "Media actions"
+  },
+  {
+    "id": "h008-076",
+    "en": "Medium"
+  },
+  {
+    "id": "h008-077",
+    "en": "Meet Grok Bot"
+  },
+  {
+    "id": "h008-078",
+    "en": "Mem"
+  },
+  {
+    "id": "h008-079",
+    "en": "Members can edit"
+  },
+  {
+    "id": "h008-080",
+    "en": "Members of the Project can view"
+  },
+  {
+    "id": "h008-081",
+    "en": "Memories"
+  },
+  {
+    "id": "h008-082",
+    "en": "Mentions"
+  },
+  {
+    "id": "h008-083",
+    "en": "Menu Bar Icon"
+  },
+  {
+    "id": "h008-084",
+    "en": "Merge commit"
+  },
+  {
+    "id": "h008-085",
+    "en": "Merge status pending"
+  },
+  {
+    "id": "h008-086",
+    "en": "Merge status unavailable"
+  },
+  {
+    "id": "h008-087",
+    "en": "Mermaid Editor"
+  },
+  {
+    "id": "h008-088",
+    "en": "Message actions"
+  },
+  {
+    "id": "h008-089",
+    "en": "Microphone"
+  },
+  {
+    "id": "h008-090",
+    "en": "Microphone used in voice chats."
+  },
+  {
+    "id": "h008-091",
+    "en": "Microsoft Entra ID"
+  },
+  {
+    "id": "h008-092",
+    "en": "Microsoft Teams is not connected"
+  },
+  {
+    "id": "h008-093",
+    "en": "Migrate MCP Tools Protection setting to Playwright Protection"
+  },
+  {
+    "id": "h008-094",
+    "en": "Migrate all max models to the new max mode"
+  },
+  {
+    "id": "h008-095",
+    "en": "Migrate auto-approved mode transitions allowlist to a global toggle"
+  },
+  {
+    "id": "h008-096",
+    "en": "Migrate codeBlockDisplayPreference from expanded to collapsed (compact mode as default)"
+  },
+  {
+    "id": "h008-097",
+    "en": "Migrate legacy isWebSearchToolEnabled and isWebSearchToolEnabled2 to isWebSearchToolEnabled3"
+  },
+  {
+    "id": "h008-098",
+    "en": "Migrated User Rules"
+  },
+  {
+    "id": "h008-099",
+    "en": "Minimize interface animations"
+  },
+  {
+    "id": "h008-100",
+    "en": "Mirror VS Code RPCs into the DevTools Network tab and record local performance marks. Adds overhead, so leave it off unless you're debugging."
+  },
+  {
+    "id": "h008-101",
+    "en": "Mode Control - Debug (control variant)"
+  },
+  {
+    "id": "h008-102",
+    "en": "Mode Control - Plan (control variant)"
+  },
+  {
+    "id": "h008-103",
+    "en": "Mode Nudge - Debug (nudge variant)"
+  },
+  {
+    "id": "h008-104",
+    "en": "Mode Nudge - Plan (nudge variant)"
+  },
+  {
+    "id": "h008-105",
+    "en": "Model Context Protocol servers connect Cursor to external tools and data sources like Linear, Figma, and Notion."
+  },
+  {
+    "id": "h008-106",
+    "en": "Model Status"
+  },
+  {
+    "id": "h008-107",
+    "en": "Model to use for subagent tasks"
+  },
+  {
+    "id": "h008-108",
+    "en": "Models"
+  },
+  {
+    "id": "h008-109",
+    "en": "Modes, skills, MCPs and more"
+  },
+  {
+    "id": "h008-110",
+    "en": "Monaco atlas info uniform buffer"
+  },
+  {
+    "id": "h008-111",
+    "en": "Monaco atlas sampler"
+  },
+  {
+    "id": "h008-112",
+    "en": "Monaco atlas texture"
+  },
+  {
+    "id": "h008-113",
+    "en": "Monaco bind group"
+  },
+  {
+    "id": "h008-114",
+    "en": "Monaco canvas texture view"
+  },
+  {
+    "id": "h008-115",
+    "en": "Monaco command encoder"
+  },
+  {
+    "id": "h008-116",
+    "en": "Monaco glyph storage buffer"
+  },
+  {
+    "id": "h008-117",
+    "en": "Monaco rectangle renderer bind group"
+  },
+  {
+    "id": "h008-118",
+    "en": "Monaco rectangle renderer command encoder"
+  },
+  {
+    "id": "h008-119",
+    "en": "Monaco rectangle renderer render pass"
+  },
+  {
+    "id": "h008-120",
+    "en": "Monaco rectangle renderer render pipeline"
+  },
+  {
+    "id": "h008-121",
+    "en": "Monaco rectangle renderer scroll offset buffer"
+  },
+  {
+    "id": "h008-122",
+    "en": "Monaco rectangle renderer shader module"
+  },
+  {
+    "id": "h008-123",
+    "en": "Monaco rectangle renderer shape buffer"
+  },
+  {
+    "id": "h008-124",
+    "en": "Monaco rectangle renderer uniform buffer"
+  },
+  {
+    "id": "h008-125",
+    "en": "Monaco rectangle renderer vertex buffer"
+  },
+  {
+    "id": "h008-126",
+    "en": "Monaco render pass"
+  },
+  {
+    "id": "h008-127",
+    "en": "Monaco render pipeline"
+  },
+  {
+    "id": "h008-128",
+    "en": "Monaco shader module"
+  },
+  {
+    "id": "h008-129",
+    "en": "Monaco uniform buffer"
+  },
+  {
+    "id": "h008-130",
+    "en": "Monaco vertex buffer"
+  },
+  {
+    "id": "h008-131",
+    "en": "More Models"
+  },
+  {
+    "id": "h008-132",
+    "en": "More actions"
+  },
+  {
+    "id": "h008-133",
+    "en": "More power for demanding projects"
+  },
+  {
+    "id": "h008-134",
+    "en": "Most Used"
+  },
+  {
+    "id": "h008-135",
+    "en": "Most recent active ChildProcess inventory received by the renderer before declaring the extension host unresponsive. This is available even if the extension host cannot answer new RPCs."
+  },
+  {
+    "id": "h008-136",
+    "en": "Most recent event-loop delay history snapshot received by the renderer before declaring the extension host unresponsive. This is available even if the extension host cannot answer new RPCs."
+  },
+  {
+    "id": "h008-137",
+    "en": "Most recent sanitized active resource and handle inventory received by the renderer before declaring the extension host unresponsive. This is available even if the extension host cannot answer new RPCs."
+  },
+  {
+    "id": "h008-138",
+    "en": "Most recent workbench search invocations (ripgrep-backed) recorded on the renderer before the storm threshold was crossed. No raw query text or paths are included."
+  },
+  {
+    "id": "h008-139",
+    "en": "Mounted top while away from bottom"
+  },
+  {
+    "id": "h008-140",
+    "en": "Move Cursor rules and commands into Agent Skills."
+  },
+  {
+    "id": "h008-141",
+    "en": "Move cursor to a logical position in the view"
+  },
+  {
+    "id": "h008-142",
+    "en": "Move this agent to the Cloud to run longer without your computer open."
+  },
+  {
+    "id": "h008-143",
+    "en": "Move to Cloud so the agent can keep running even if you disconnect."
+  },
+  {
+    "id": "h008-144",
+    "en": "Move to Cloud to keep running longer without your computer open."
+  },
+  {
+    "id": "h008-145",
+    "en": "Move to New Chat"
+  },
+  {
+    "id": "h008-146",
+    "en": "Multiple Messages"
+  },
+  {
+    "id": "h008-147",
+    "en": "Must be true when workflow is provided, acknowledging that workflow replaces the entire stored workflow instead of patching it."
+  },
+  {
+    "id": "h008-148",
+    "en": "NEW"
+  },
+  {
+    "id": "h008-149",
+    "en": "NaN"
+  }
+]

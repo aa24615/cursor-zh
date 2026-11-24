@@ -1,0 +1,482 @@
+[
+  {
+    "id": "012-000",
+    "en": "Agent needs your approval to run: {0}"
+  },
+  {
+    "id": "012-001",
+    "en": "Agent needs your approval to run a terminal command."
+  },
+  {
+    "id": "012-002",
+    "en": "Agent needs your approval to edit files."
+  },
+  {
+    "id": "012-003",
+    "en": "Agent needs your approval to delete a file."
+  },
+  {
+    "id": "012-004",
+    "en": "Agent needs your approval to use an MCP tool."
+  },
+  {
+    "id": "012-005",
+    "en": "Agent has a question for you."
+  },
+  {
+    "id": "012-006",
+    "en": "Agent needs your approval."
+  },
+  {
+    "id": "012-007",
+    "en": "You are in the Agent chat. Type a request in the prompt and the agent answers questions, edits files, and runs commands for you."
+  },
+  {
+    "id": "012-008",
+    "en": "Press {0}+Enter to send the request. Enter adds a new line."
+  },
+  {
+    "id": "012-009",
+    "en": "Press Enter to send the request. Shift+Enter adds a new line."
+  },
+  {
+    "id": "012-010",
+    "en": "Type @ to add files, folders, docs, and other context, or / to run a command or skill. Use the Up and Down Arrow keys to move through the suggestions, Enter to choose one, and Escape to close the list."
+  },
+  {
+    "id": "012-011",
+    "en": "Open the add context menu<keybinding:{0}>."
+  },
+  {
+    "id": "012-012",
+    "en": "Choose the mode, such as Agent, Plan, or Ask<keybinding:{0}>."
+  },
+  {
+    "id": "012-013",
+    "en": "Choose the model<keybinding:{0}>."
+  },
+  {
+    "id": "012-014",
+    "en": "Start or stop voice dictation<keybinding:{0}>."
+  },
+  {
+    "id": "012-015",
+    "en": "Stop the agent while it is working{0}."
+  },
+  {
+    "id": "012-016",
+    "en": "Accept what the agent is waiting on, such as a command approval or its file edits{0}."
+  },
+  {
+    "id": "012-017",
+    "en": "Press Up Arrow on the first line of the prompt to move into the conversation. There, Up and Down Arrow move between your messages, Page Up and Page Down scroll, Enter edits the selected message, and Escape returns to the prompt."
+  },
+  {
+    "id": "012-018",
+    "en": "Search the conversation<keybinding:{0}>."
+  },
+  {
+    "id": "012-019",
+    "en": "Start a new chat<keybinding:{0}>, or open your chat history<keybinding:{1}>."
+  },
+  {
+    "id": "012-020",
+    "en": "Move focus to the editor<keybinding:workbench.action.focusFirstEditorGroup>. The agent's edits appear there as inline changes; open Accessibility Help in the editor for the keys that review them."
+  },
+  {
+    "id": "012-021",
+    "en": "Cursor Composer"
+  },
+  {
+    "id": "012-022",
+    "en": "Failed to Load Conversation"
+  },
+  {
+    "id": "012-023",
+    "en": "The conversation checkpoint data may be corrupted. You can start a new conversation or try reloading the window."
+  },
+  {
+    "id": "012-024",
+    "en": "Inline diffs have been suppressed for recent changes because there are too many to display."
+  },
+  {
+    "id": "012-025",
+    "en": "Disable Protection"
+  },
+  {
+    "id": "012-026",
+    "en": "Can't attach this video. Save it to a file and attach it again."
+  },
+  {
+    "id": "012-027",
+    "en": "Can't attach this document. Save it to a file and attach it again."
+  },
+  {
+    "id": "012-028",
+    "en": "This file can't be attached to a cloud agent."
+  },
+  {
+    "id": "012-029",
+    "en": "Preview of {0}"
+  },
+  {
+    "id": "012-030",
+    "en": "Preview of {0}"
+  },
+  {
+    "id": "012-031",
+    "en": "About {0}"
+  },
+  {
+    "id": "012-032",
+    "en": "Voice chat"
+  },
+  {
+    "id": "012-033",
+    "en": "Voice chat"
+  },
+  {
+    "id": "012-034",
+    "en": "Voice chat · {0}"
+  },
+  {
+    "id": "012-035",
+    "en": "Send Feedback"
+  },
+  {
+    "id": "012-036",
+    "en": "Subagent not found"
+  },
+  {
+    "id": "012-037",
+    "en": "Setting up project"
+  },
+  {
+    "id": "012-038",
+    "en": "Chat transcript"
+  },
+  {
+    "id": "012-039",
+    "en": "Unable to open {0}"
+  },
+  {
+    "id": "012-040",
+    "en": "Cursor ignores {0}, so it cannot be added to chat."
+  },
+  {
+    "id": "012-041",
+    "en": "The agent ran into an error."
+  },
+  {
+    "id": "012-042",
+    "en": "Open Settings"
+  },
+  {
+    "id": "012-043",
+    "en": "Your message steered Agent without stopping it"
+  },
+  {
+    "id": "012-044",
+    "en": "New Messages is set to Steer"
+  },
+  {
+    "id": "012-045",
+    "en": "Your Allow arrived after the request to run on a machine closed. You can allow it from the Run on menu below the chat input."
+  },
+  {
+    "id": "012-046",
+    "en": "Your Allow for {0} arrived after the request closed. You can allow it from the Run on menu below the chat input."
+  },
+  {
+    "id": "012-047",
+    "en": "Your Allow arrived after the request to run on a machine closed. Ask the agent to request access again."
+  },
+  {
+    "id": "012-048",
+    "en": "Your Allow for {0} arrived after the request closed. Ask the agent to request access again."
+  },
+  {
+    "id": "012-049",
+    "en": "Developer: Crash Browser Webview Renderer"
+  },
+  {
+    "id": "012-050",
+    "en": "Developer: Orphan Browser View Entry"
+  },
+  {
+    "id": "012-051",
+    "en": "This page is waiting for a passkey or security key. If using a hardware security key, insert and tap it to continue."
+  },
+  {
+    "id": "012-052",
+    "en": "This sign-in needs a passkey from your phone or tablet via QR code, which the Cursor browser can't display. Open this page in your regular browser to continue."
+  },
+  {
+    "id": "012-053",
+    "en": "Open Link in Browser"
+  },
+  {
+    "id": "012-054",
+    "en": "Open Link in New Tab"
+  },
+  {
+    "id": "012-055",
+    "en": "Open Link in Background Tab"
+  },
+  {
+    "id": "012-056",
+    "en": "Copy Link Address"
+  },
+  {
+    "id": "012-057",
+    "en": "Open Media in Browser"
+  },
+  {
+    "id": "012-058",
+    "en": "Open Media in New Tab"
+  },
+  {
+    "id": "012-059",
+    "en": "Copy Media Address"
+  },
+  {
+    "id": "012-060",
+    "en": "Copy Image"
+  },
+  {
+    "id": "012-061",
+    "en": "Back"
+  },
+  {
+    "id": "012-062",
+    "en": "Forward"
+  },
+  {
+    "id": "012-063",
+    "en": "Reload"
+  },
+  {
+    "id": "012-064",
+    "en": "Undo"
+  },
+  {
+    "id": "012-065",
+    "en": "Redo"
+  },
+  {
+    "id": "012-066",
+    "en": "Cut"
+  },
+  {
+    "id": "012-067",
+    "en": "Copy"
+  },
+  {
+    "id": "012-068",
+    "en": "Paste"
+  },
+  {
+    "id": "012-069",
+    "en": "Select All"
+  },
+  {
+    "id": "012-070",
+    "en": "Inspect Element"
+  },
+  {
+    "id": "012-071",
+    "en": "Capture Performance Profile"
+  },
+  {
+    "id": "012-072",
+    "en": "This operation will create a CPU and allocations profile of the current window. The profile will be uploaded securely for analysis. Continue?"
+  },
+  {
+    "id": "012-073",
+    "en": "Continue"
+  },
+  {
+    "id": "012-074",
+    "en": "Cancel"
+  },
+  {
+    "id": "012-075",
+    "en": "Capturing performance profile..."
+  },
+  {
+    "id": "012-076",
+    "en": "Performance profile started.\n\nProfile ID: {0}"
+  },
+  {
+    "id": "012-077",
+    "en": "Failed to start performance profile."
+  },
+  {
+    "id": "012-078",
+    "en": "Error starting performance profile: {0}"
+  },
+  {
+    "id": "012-079",
+    "en": "Performance Profiling Status: Privacy mode: {0}, Active profiles: {1}, Scheduled profiles: {2}"
+  },
+  {
+    "id": "012-080",
+    "en": "Capture Performance Profile"
+  },
+  {
+    "id": "012-081",
+    "en": "Show Performance Profiling Status"
+  },
+  {
+    "id": "012-082",
+    "en": "Controls whether Cursor monitors for sustained high CPU usage and offers to capture a diagnostic process snapshot. Only active for Anysphere-internal users."
+  },
+  {
+    "id": "012-083",
+    "en": "Capture and Upload Process Snapshot"
+  },
+  {
+    "id": "012-084",
+    "en": "line {0}"
+  },
+  {
+    "id": "012-085",
+    "en": "lines {0} to {1}"
+  },
+  {
+    "id": "012-086",
+    "en": "Cursor Tab: {0}"
+  },
+  {
+    "id": "012-087",
+    "en": "Cursor Tab suggestion for {0}"
+  },
+  {
+    "id": "012-088",
+    "en": "Cursor Tab suggestion for {0}."
+  },
+  {
+    "id": "012-089",
+    "en": "Current:"
+  },
+  {
+    "id": "012-090",
+    "en": "Suggested:"
+  },
+  {
+    "id": "012-091",
+    "en": "Accept it ({0}), or press Escape to return to the editor, where Tab accepts and Escape dismisses it."
+  },
+  {
+    "id": "012-092",
+    "en": "Press Escape to return to the editor, where Tab accepts and Escape dismisses it."
+  },
+  {
+    "id": "012-093",
+    "en": "{0}, inspect this in the accessible view ({1})"
+  },
+  {
+    "id": "012-094",
+    "en": "Accept Cursor Tab Suggestion"
+  },
+  {
+    "id": "012-095",
+    "en": "Report &&Issue"
+  },
+  {
+    "id": "012-096",
+    "en": "Give &&Feedback..."
+  },
+  {
+    "id": "012-097",
+    "en": "Reveal in File Explorer"
+  },
+  {
+    "id": "012-098",
+    "en": "Reveal in Finder"
+  },
+  {
+    "id": "012-099",
+    "en": "Open Containing Folder"
+  },
+  {
+    "id": "012-100",
+    "en": "Add to Chat"
+  },
+  {
+    "id": "012-101",
+    "en": "Copy Path"
+  },
+  {
+    "id": "012-102",
+    "en": "Open File Blame"
+  },
+  {
+    "id": "012-103",
+    "en": "Cursor Blame"
+  },
+  {
+    "id": "012-104",
+    "en": "View Commit"
+  },
+  {
+    "id": "012-105",
+    "en": "Cursor Blame"
+  },
+  {
+    "id": "012-106",
+    "en": "Paste commit hash"
+  },
+  {
+    "id": "012-107",
+    "en": "View commit"
+  },
+  {
+    "id": "012-108",
+    "en": "Cursor Blame"
+  },
+  {
+    "id": "012-109",
+    "en": "No git repository found"
+  },
+  {
+    "id": "012-110",
+    "en": "This line has not been committed yet"
+  },
+  {
+    "id": "012-111",
+    "en": "Cursor Blame"
+  },
+  {
+    "id": "012-112",
+    "en": "Cursor Blame"
+  },
+  {
+    "id": "012-113",
+    "en": "Toggle file blame"
+  },
+  {
+    "id": "012-114",
+    "en": "View commit"
+  },
+  {
+    "id": "012-115",
+    "en": "Cursor Blame"
+  },
+  {
+    "id": "012-116",
+    "en": "Controls the delay in milliseconds before hovers in the Cursor Blame panes appear. If not set, uses `#editor.hover.delay#` with a minimum of 500ms."
+  },
+  {
+    "id": "012-117",
+    "en": "Example Utility Host Echo"
+  },
+  {
+    "id": "012-118",
+    "en": "Example Utility Host Echo: \"{0}\" ({1}ms round-trip)"
+  },
+  {
+    "id": "012-119",
+    "en": "Example Utility Host Echo failed: {0}"
+  }
+]

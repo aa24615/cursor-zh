@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h004-000",
+    "en": "Adds it to ~/.cursor/mcp.json, where you review it first."
+  },
+  {
+    "id": "h004-001",
+    "en": "Adjust Plan"
+  },
+  {
+    "id": "h004-002",
+    "en": "Adjust the default behavior of sending a message while Agent is streaming"
+  },
+  {
+    "id": "h004-003",
+    "en": "Agent Message"
+  },
+  {
+    "id": "h004-004",
+    "en": "Agent Settings"
+  },
+  {
+    "id": "h004-005",
+    "en": "Agent Window"
+  },
+  {
+    "id": "h004-006",
+    "en": "Agent stopped retrying"
+  },
+  {
+    "id": "h004-007",
+    "en": "All MCP servers from this plugin are already added."
+  },
+  {
+    "id": "h004-008",
+    "en": "All Members"
+  },
+  {
+    "id": "h004-009",
+    "en": "All Plugins"
+  },
+  {
+    "id": "h004-010",
+    "en": "All Runs"
+  },
+  {
+    "id": "h004-011",
+    "en": "All team members can access"
+  },
+  {
+    "id": "h004-012",
+    "en": "Allow All"
+  },
+  {
+    "id": "h004-013",
+    "en": "Allow CLI to access desktop agents"
+  },
+  {
+    "id": "h004-014",
+    "en": "Allow Members to Publish"
+  },
+  {
+    "id": "h004-015",
+    "en": "Allow Tab to trigger while in a comment region"
+  },
+  {
+    "id": "h004-016",
+    "en": "Allow agent to switch to modes like Plan or Debug without asking. When off, Cursor asks first, but skips if unanswered within 15 seconds."
+  },
+  {
+    "id": "h004-017",
+    "en": "Allow agent to switch to modes without asking. When off, skips if unanswered within 15 seconds."
+  },
+  {
+    "id": "h004-018",
+    "en": "Allow all"
+  },
+  {
+    "id": "h004-019",
+    "en": "Allow network access"
+  },
+  {
+    "id": "h004-020",
+    "en": "Allow the agent to celebrate with a shower of confetti"
+  },
+  {
+    "id": "h004-021",
+    "en": "Allowlist Options"
+  },
+  {
+    "id": "h004-022",
+    "en": "Already added"
+  },
+  {
+    "id": "h004-023",
+    "en": "Altair"
+  },
+  {
+    "id": "h004-024",
+    "en": "Always Apply"
+  },
+  {
+    "id": "h004-025",
+    "en": "Always Run"
+  },
+  {
+    "id": "h004-026",
+    "en": "Always allow"
+  },
+  {
+    "id": "h004-027",
+    "en": "Always ask"
+  },
+  {
+    "id": "h004-028",
+    "en": "An AI teammate that works in your tools and comes back with finished work."
+  },
+  {
+    "id": "h004-029",
+    "en": "Analytics Events"
+  },
+  {
+    "id": "h004-030",
+    "en": "Annotate"
+  },
+  {
+    "id": "h004-031",
+    "en": "Answer questions without making edits"
+  },
+  {
+    "id": "h004-032",
+    "en": "Any Project"
+  },
+  {
+    "id": "h004-033",
+    "en": "Any Repo"
+  },
+  {
+    "id": "h004-034",
+    "en": "Any conclusion"
+  },
+  {
+    "id": "h004-035",
+    "en": "Anyone with the link can access"
+  },
+  {
+    "id": "h004-036",
+    "en": "Anyone with the page link can view"
+  },
+  {
+    "id": "h004-037",
+    "en": "Apply .cursorignore files to subdirectories"
+  },
+  {
+    "id": "h004-038",
+    "en": "Apply Intelligently"
+  },
+  {
+    "id": "h004-039",
+    "en": "Apply Locally"
+  },
+  {
+    "id": "h004-040",
+    "en": "Apply Manually"
+  },
+  {
+    "id": "h004-041",
+    "en": "Apply changes locally"
+  },
+  {
+    "id": "h004-042",
+    "en": "Apply to Specific Files"
+  },
+  {
+    "id": "h004-043",
+    "en": "Apply to every chat and cmd-k session"
+  },
+  {
+    "id": "h004-044",
+    "en": "Applying Changes"
+  },
+  {
+    "id": "h004-045",
+    "en": "Applying changes locally…"
+  },
+  {
+    "id": "h004-046",
+    "en": "Ara"
+  },
+  {
+    "id": "h004-047",
+    "en": "Arguments"
+  },
+  {
+    "id": "h004-048",
+    "en": "Arguments to pass to the command"
+  },
+  {
+    "id": "h004-049",
+    "en": "Ask Cursor questions about your codebase"
+  },
+  {
+    "id": "h004-050",
+    "en": "Ask Sidechat"
+  },
+  {
+    "id": "h004-051",
+    "en": "Ask Your Slack Admins"
+  },
+  {
+    "id": "h004-052",
+    "en": "Ask a team admin"
+  },
+  {
+    "id": "h004-053",
+    "en": "Ask follow-ups to the Cloud Agent..."
+  },
+  {
+    "id": "h004-054",
+    "en": "Ask or comment about this"
+  },
+  {
+    "id": "h004-055",
+    "en": "Ask question"
+  },
+  {
+    "id": "h004-056",
+    "en": "Ask questions"
+  },
+  {
+    "id": "h004-057",
+    "en": "Assign reviewers and approve PRs."
+  },
+  {
+    "id": "h004-058",
+    "en": "Atlas"
+  },
+  {
+    "id": "h004-059",
+    "en": "Attach when files matching these patterns are read"
+  },
+  {
+    "id": "h004-060",
+    "en": "Attaches recent files from the Cursor logs folder as a zip in Slack"
+  },
+  {
+    "id": "h004-061",
+    "en": "Aurora"
+  },
+  {
+    "id": "h004-062",
+    "en": "Auth"
+  },
+  {
+    "id": "h004-063",
+    "en": "Authenticate MCP"
+  },
+  {
+    "id": "h004-064",
+    "en": "Authenticate these MCPs so this automation can use them."
+  },
+  {
+    "id": "h004-065",
+    "en": "Authenticate this plugin"
+  },
+  {
+    "id": "h004-066",
+    "en": "Authorize"
+  },
+  {
+    "id": "h004-067",
+    "en": "Auto Import for Python"
+  },
+  {
+    "id": "h004-068",
+    "en": "Auto has significantly higher usage limits"
+  },
+  {
+    "id": "h004-069",
+    "en": "Auto-Accept Web Search"
+  },
+  {
+    "id": "h004-070",
+    "en": "Auto-Detect"
+  },
+  {
+    "id": "h004-071",
+    "en": "Auto-Run"
+  },
+  {
+    "id": "h004-072",
+    "en": "Automate with Hooks"
+  },
+  {
+    "id": "h004-073",
+    "en": "Automatically assign reviewers and approve pull requests."
+  },
+  {
+    "id": "h004-074",
+    "en": "Automatically format files when Agent finishes"
+  },
+  {
+    "id": "h004-075",
+    "en": "Automatically format files when the agent finishes"
+  },
+  {
+    "id": "h004-076",
+    "en": "Automatically index repositories locally to speed up Grep searches. Reload the window after changing this setting."
+  },
+  {
+    "id": "h004-077",
+    "en": "Automatically review pull requests (PRs) for bugs and issues."
+  },
+  {
+    "id": "h004-078",
+    "en": "Automatically review pull requests (PRs) for security vulnerabilities."
+  },
+  {
+    "id": "h004-079",
+    "en": "Automatically review your changes for issues after each commit"
+  },
+  {
+    "id": "h004-080",
+    "en": "Automatically save files in normal composers"
+  },
+  {
+    "id": "h004-081",
+    "en": "Automatically scan and remediate repositories for security vulnerabilities."
+  },
+  {
+    "id": "h004-082",
+    "en": "Automatically update plugins when changes are pushed to the repository"
+  },
+  {
+    "id": "h004-083",
+    "en": "Automation"
+  },
+  {
+    "id": "h004-084",
+    "en": "Automation ID (UUID) of the Cursor Automation to fetch."
+  },
+  {
+    "id": "h004-085",
+    "en": "Automation ID (UUID) of the Cursor Automation to update."
+  },
+  {
+    "id": "h004-086",
+    "en": "Automation failed"
+  },
+  {
+    "id": "h004-087",
+    "en": "Await"
+  },
+  {
+    "id": "h004-088",
+    "en": "Await task"
+  },
+  {
+    "id": "h004-089",
+    "en": "Azure DevOps"
+  },
+  {
+    "id": "h004-090",
+    "en": "Azure OpenAI"
+  },
+  {
+    "id": "h004-091",
+    "en": "Azure OpenAI API key"
+  },
+  {
+    "id": "h004-092",
+    "en": "Azure OpenAI base URL"
+  },
+  {
+    "id": "h004-093",
+    "en": "Azure OpenAI deployment name"
+  },
+  {
+    "id": "h004-094",
+    "en": "BETA"
+  },
+  {
+    "id": "h004-095",
+    "en": "Bad Response"
+  },
+  {
+    "id": "h004-096",
+    "en": "Balanced quality and speed, recommended for most tasks"
+  },
+  {
+    "id": "h004-097",
+    "en": "Before first user message"
+  },
+  {
+    "id": "h004-098",
+    "en": "Best-effort active ChildProcess inventory requested when the renderer declared the extension host unresponsive. Missing if the extension host could not answer quickly."
+  },
+  {
+    "id": "h004-099",
+    "en": "Best-effort event-loop delay history snapshot requested when the renderer declared the extension host unresponsive. Missing if the extension host could not answer quickly."
+  },
+  {
+    "id": "h004-100",
+    "en": "Best-effort sanitized active resource and handle inventory requested when the renderer declared the extension host unresponsive. Missing if the extension host could not answer quickly."
+  },
+  {
+    "id": "h004-101",
+    "en": "BigInt"
+  },
+  {
+    "id": "h004-102",
+    "en": "Binary file not shown"
+  },
+  {
+    "id": "h004-103",
+    "en": "Blocked"
+  },
+  {
+    "id": "h004-104",
+    "en": "Blocked by cycle"
+  },
+  {
+    "id": "h004-105",
+    "en": "Blocked by your team admin"
+  },
+  {
+    "id": "h004-106",
+    "en": "Blockquote"
+  },
+  {
+    "id": "h004-107",
+    "en": "Bold"
+  },
+  {
+    "id": "h004-108",
+    "en": "Bot"
+  },
+  {
+    "id": "h004-109",
+    "en": "BracketPairColorization"
+  },
+  {
+    "id": "h004-110",
+    "en": "Brand"
+  },
+  {
+    "id": "h004-111",
+    "en": "Breadcrumb"
+  },
+  {
+    "id": "h004-112",
+    "en": "Browse Canvases"
+  },
+  {
+    "id": "h004-113",
+    "en": "Browse MCPs"
+  },
+  {
+    "id": "h004-114",
+    "en": "Browser Menu"
+  },
+  {
+    "id": "h004-115",
+    "en": "Browser Tab"
+  },
+  {
+    "id": "h004-116",
+    "en": "Bubble Data Map"
+  },
+  {
+    "id": "h004-117",
+    "en": "Bugbot"
+  },
+  {
+    "id": "h004-118",
+    "en": "Build Locally"
+  },
+  {
+    "id": "h004-119",
+    "en": "Build in Cloud"
+  },
+  {
+    "id": "h004-120",
+    "en": "Bulk Import Chats — pick directory of exported chats"
+  },
+  {
+    "id": "h004-121",
+    "en": "Bullet list"
+  },
+  {
+    "id": "h004-122",
+    "en": "Buttons"
+  },
+  {
+    "id": "h004-123",
+    "en": "CLI Credentials"
+  },
+  {
+    "id": "h004-124",
+    "en": "CPU"
+  },
+  {
+    "id": "h004-125",
+    "en": "Calculating"
+  },
+  {
+    "id": "h004-126",
+    "en": "Can't connect to server"
+  },
+  {
+    "id": "h004-127",
+    "en": "Can't use Cursor"
+  },
+  {
+    "id": "h004-128",
+    "en": "Cancel Edits"
+  },
+  {
+    "id": "h004-129",
+    "en": "Cancel Request"
+  },
+  {
+    "id": "h004-130",
+    "en": "Cancel recording"
+  },
+  {
+    "id": "h004-131",
+    "en": "Cancelled"
+  },
+  {
+    "id": "h004-132",
+    "en": "Candidate"
+  },
+  {
+    "id": "h004-133",
+    "en": "Cannot be merged"
+  },
+  {
+    "id": "h004-134",
+    "en": "Capture Screenshot"
+  },
+  {
+    "id": "h004-135",
+    "en": "Capture Snapshot"
+  },
+  {
+    "id": "h004-136",
+    "en": "Capturing process snapshot..."
+  },
+  {
+    "id": "h004-137",
+    "en": "Capturing snapshot. The window may briefly freeze."
+  },
+  {
+    "id": "h004-138",
+    "en": "Carina"
+  },
+  {
+    "id": "h004-139",
+    "en": "Castor"
+  },
+  {
+    "id": "h004-140",
+    "en": "Catch bugs and auto-fix before they ship."
+  },
+  {
+    "id": "h004-141",
+    "en": "Celeste"
+  },
+  {
+    "id": "h004-142",
+    "en": "Change Cursor CLI preferences."
+  },
+  {
+    "id": "h004-143",
+    "en": "Change Cursor editor preferences."
+  },
+  {
+    "id": "h004-144",
+    "en": "Change run mode"
+  },
+  {
+    "id": "h004-145",
+    "en": "Change the base URL for OpenAI API requests."
+  },
+  {
+    "id": "h004-146",
+    "en": "Change type"
+  },
+  {
+    "id": "h004-147",
+    "en": "Changes apply wherever you use it from your Cursor account: every computer you sign in on, cloud agents and automations."
+  },
+  {
+    "id": "h004-148",
+    "en": "Channel Name"
+  },
+  {
+    "id": "h004-149",
+    "en": "Channel created"
+  }
+]

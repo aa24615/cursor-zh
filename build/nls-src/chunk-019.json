@@ -1,0 +1,482 @@
+[
+  {
+    "id": "019-000",
+    "en": "{0}/{1} tests passed ({2}%, {3} skipped)"
+  },
+  {
+    "id": "019-001",
+    "en": "View icon of the timeline view."
+  },
+  {
+    "id": "019-002",
+    "en": "Report Bug"
+  },
+  {
+    "id": "019-003",
+    "en": "Could not submit the bug report. Try again."
+  },
+  {
+    "id": "019-004",
+    "en": "Bug report submitted. Thanks for helping us improve Cursor!"
+  },
+  {
+    "id": "019-005",
+    "en": "Lag reported — thanks!"
+  },
+  {
+    "id": "019-006",
+    "en": "Report Lag"
+  },
+  {
+    "id": "019-007",
+    "en": "$(bug) Report Bug"
+  },
+  {
+    "id": "019-008",
+    "en": "Flag this session and add context."
+  },
+  {
+    "id": "019-009",
+    "en": "$(watch) Report Lag"
+  },
+  {
+    "id": "019-010",
+    "en": "Send a one-click lag report."
+  },
+  {
+    "id": "019-011",
+    "en": "[Internal] Report"
+  },
+  {
+    "id": "019-012",
+    "en": "What do you want to report?"
+  },
+  {
+    "id": "019-013",
+    "en": "Report Bug or Lag"
+  },
+  {
+    "id": "019-014",
+    "en": "[Internal] Report"
+  },
+  {
+    "id": "019-015",
+    "en": "[Internal] Report - Click to report a bug or lag"
+  },
+  {
+    "id": "019-016",
+    "en": "Report a bug or lag with automatic session context"
+  },
+  {
+    "id": "019-017",
+    "en": "Agent host heap snapshots"
+  },
+  {
+    "id": "019-018",
+    "en": "Attaches heap snapshots the agent host saved in the last day when it neared its memory limit. They may contain code, prompts, and attached files."
+  },
+  {
+    "id": "019-019",
+    "en": "Renderer heap snapshot"
+  },
+  {
+    "id": "019-020",
+    "en": "Captures a heapdump. This can freeze the editor and may fail when memory is already high. Also attaches extension host heap snapshots saved in the last day."
+  },
+  {
+    "id": "019-021",
+    "en": "User database"
+  },
+  {
+    "id": "019-022",
+    "en": "Includes the User data directory if it is under 2 GB. If checked, chat and prompt data (which may include attached code snippets) will be uploaded, even in privacy mode."
+  },
+  {
+    "id": "019-023",
+    "en": "Logs"
+  },
+  {
+    "id": "019-024",
+    "en": "Includes recent Cursor log sessions."
+  },
+  {
+    "id": "019-025",
+    "en": "Feature flags and extension summary"
+  },
+  {
+    "id": "019-026",
+    "en": "Includes feature gates, experiments, dynamic configs, and installed extensions."
+  },
+  {
+    "id": "019-027",
+    "en": "Process diagnostics"
+  },
+  {
+    "id": "019-028",
+    "en": "Includes recent process memory and CPU history."
+  },
+  {
+    "id": "019-029",
+    "en": "Agent transcripts (last 7 days)"
+  },
+  {
+    "id": "019-030",
+    "en": "Includes recent Cursor agent transcripts for this workspace. If checked, chat and prompt data (which may include attached code snippets) will be uploaded, even in privacy mode."
+  },
+  {
+    "id": "019-031",
+    "en": "Capture and Send Debugging Data"
+  },
+  {
+    "id": "019-032",
+    "en": "Select debugging data to collect. Press Enter to continue."
+  },
+  {
+    "id": "019-033",
+    "en": "Capture and Send Debugging Data"
+  },
+  {
+    "id": "019-034",
+    "en": "What went wrong? (optional)"
+  },
+  {
+    "id": "019-035",
+    "en": "Capturing and sending debugging data..."
+  },
+  {
+    "id": "019-036",
+    "en": "Capturing debugging data..."
+  },
+  {
+    "id": "019-037",
+    "en": "Debugging data saved locally."
+  },
+  {
+    "id": "019-038",
+    "en": "Reveal in File Explorer"
+  },
+  {
+    "id": "019-039",
+    "en": "Debugging data was sent successfully."
+  },
+  {
+    "id": "019-040",
+    "en": "Failed to capture or send debugging data. {0}"
+  },
+  {
+    "id": "019-041",
+    "en": "Toggle Watch for Crashes"
+  },
+  {
+    "id": "019-042",
+    "en": "Watching for crashes can make your editor slower and will automatically send debugging data if a crash does occur. Are you sure you want to continue?"
+  },
+  {
+    "id": "019-043",
+    "en": "Continue"
+  },
+  {
+    "id": "019-044",
+    "en": "Cancel"
+  },
+  {
+    "id": "019-045",
+    "en": "Watching for crashes."
+  },
+  {
+    "id": "019-046",
+    "en": "Stopped watching for crashes."
+  },
+  {
+    "id": "019-047",
+    "en": "Force Renderer OOM Crash"
+  },
+  {
+    "id": "019-048",
+    "en": "This will allocate memory until the renderer runs out of memory and crashes. The window will become unresponsive and then reload. Use this to test the crash watcher. Continue?"
+  },
+  {
+    "id": "019-049",
+    "en": "Crash Now"
+  },
+  {
+    "id": "019-050",
+    "en": "Cancel"
+  },
+  {
+    "id": "019-051",
+    "en": "Capture and Send Debugging Data"
+  },
+  {
+    "id": "019-052",
+    "en": "Toggle Watch for Crashes"
+  },
+  {
+    "id": "019-053",
+    "en": "Force Renderer OOM Crash"
+  },
+  {
+    "id": "019-054",
+    "en": "Remove mention"
+  },
+  {
+    "id": "019-055",
+    "en": "Meet the new Cursor"
+  },
+  {
+    "id": "019-056",
+    "en": "Run Many Agents in Parallel"
+  },
+  {
+    "id": "019-057",
+    "en": "All your agents across repos—locally, on remote SSH, and in the cloud"
+  },
+  {
+    "id": "019-058",
+    "en": "Dig Deeper Anytime"
+  },
+  {
+    "id": "019-059",
+    "en": "Access the best parts of the editor when you need them, like files and browser"
+  },
+  {
+    "id": "019-060",
+    "en": "Agents Window"
+  },
+  {
+    "id": "019-061",
+    "en": "{0} couldn't finish updating to version {1}. Downloading the update again."
+  },
+  {
+    "id": "019-062",
+    "en": "{0} couldn't finish installing the update to version {1}."
+  },
+  {
+    "id": "019-063",
+    "en": "Try Again"
+  },
+  {
+    "id": "019-064",
+    "en": "Updates are disabled because you are running the user-scope installation of {0} as Administrator."
+  },
+  {
+    "id": "019-065",
+    "en": "Learn More"
+  },
+  {
+    "id": "019-066",
+    "en": "Update Service"
+  },
+  {
+    "id": "019-067",
+    "en": "Try Again"
+  },
+  {
+    "id": "019-068",
+    "en": "Version {0} is available."
+  },
+  {
+    "id": "019-069",
+    "en": "Download Update"
+  },
+  {
+    "id": "019-070",
+    "en": "Later"
+  },
+  {
+    "id": "019-071",
+    "en": "A newer {0} package ({1}) is available via {2}."
+  },
+  {
+    "id": "019-072",
+    "en": "Update"
+  },
+  {
+    "id": "019-073",
+    "en": "Later"
+  },
+  {
+    "id": "019-074",
+    "en": "Couldn't update {0} automatically."
+  },
+  {
+    "id": "019-075",
+    "en": "Download"
+  },
+  {
+    "id": "019-076",
+    "en": "&&Always Open This Domain"
+  },
+  {
+    "id": "019-077",
+    "en": "Utility Host RPC Trace"
+  },
+  {
+    "id": "019-078",
+    "en": "Opens Developer Tools for active webviews"
+  },
+  {
+    "id": "019-079",
+    "en": "Using standard dev tools to debug iframe based webview"
+  },
+  {
+    "id": "019-080",
+    "en": "Do not ignore menu shortcuts"
+  },
+  {
+    "id": "019-081",
+    "en": "Open Webview Developer Tools"
+  },
+  {
+    "id": "019-082",
+    "en": "Reload CSS"
+  },
+  {
+    "id": "019-083",
+    "en": "Open a Walkthrough..."
+  },
+  {
+    "id": "019-084",
+    "en": "View a walkthrough on the editor or an extension"
+  },
+  {
+    "id": "019-085",
+    "en": "Security"
+  },
+  {
+    "id": "019-086",
+    "en": "You are trying to open untrusted files in a workspace which is trusted."
+  },
+  {
+    "id": "019-087",
+    "en": "You are trying to open untrusted files in a window which is trusted."
+  },
+  {
+    "id": "019-088",
+    "en": "If you don't want to open untrusted files, we recommend to open them in Restricted Mode in a new window as the files may be malicious. See [our docs](https://aka.ms/vscode-workspace-trust) to learn more."
+  },
+  {
+    "id": "019-089",
+    "en": "Do you want to allow untrusted files in this workspace?"
+  },
+  {
+    "id": "019-090",
+    "en": "Do you want to allow untrusted files in this window?"
+  },
+  {
+    "id": "019-091",
+    "en": "&&Open"
+  },
+  {
+    "id": "019-092",
+    "en": "Open in &&Restricted Mode"
+  },
+  {
+    "id": "019-093",
+    "en": "Remember my decision for all workspaces"
+  },
+  {
+    "id": "019-094",
+    "en": "Do you trust the authors of the files in this workspace?"
+  },
+  {
+    "id": "019-095",
+    "en": "Do you trust the authors of the files in this folder?"
+  },
+  {
+    "id": "019-096",
+    "en": "A feature you are trying to use may be a security risk if you do not trust the source of the files or folders you currently have open."
+  },
+  {
+    "id": "019-097",
+    "en": "&&Trust Workspace & Continue"
+  },
+  {
+    "id": "019-098",
+    "en": "&&Trust Folder & Continue"
+  },
+  {
+    "id": "019-099",
+    "en": "&&Manage"
+  },
+  {
+    "id": "019-100",
+    "en": "Cancel"
+  },
+  {
+    "id": "019-101",
+    "en": "If you don't trust the authors of these files, we do not recommend continuing as the files may be malicious. See [our docs](https://aka.ms/vscode-workspace-trust) to learn more."
+  },
+  {
+    "id": "019-102",
+    "en": "Do you trust the authors of the files in this folder?"
+  },
+  {
+    "id": "019-103",
+    "en": "You are adding files that are not currently trusted to a trusted workspace. Do you trust the authors of these new files?"
+  },
+  {
+    "id": "019-104",
+    "en": "Do you trust the authors of the files in this workspace?"
+  },
+  {
+    "id": "019-105",
+    "en": "Do you trust the authors of the files in this folder?"
+  },
+  {
+    "id": "019-106",
+    "en": "Trust the authors of all files in the parent folder '{0}'"
+  },
+  {
+    "id": "019-107",
+    "en": "&&Yes, I trust the authors"
+  },
+  {
+    "id": "019-108",
+    "en": "Trust folder and enable all features"
+  },
+  {
+    "id": "019-109",
+    "en": "Trust workspace and enable all features"
+  },
+  {
+    "id": "019-110",
+    "en": "&&No, I don't trust the authors"
+  },
+  {
+    "id": "019-111",
+    "en": "Browse folder in restricted mode"
+  },
+  {
+    "id": "019-112",
+    "en": "Browse workspace in restricted mode"
+  },
+  {
+    "id": "019-113",
+    "en": "{0} provides features that may automatically execute files in this workspace."
+  },
+  {
+    "id": "019-114",
+    "en": "{0} provides features that may automatically execute files in this folder."
+  },
+  {
+    "id": "019-115",
+    "en": "If you don't trust the authors of these files, we recommend to continue in restricted mode as the files may be malicious. See [our docs](https://aka.ms/vscode-workspace-trust) to learn more."
+  },
+  {
+    "id": "019-116",
+    "en": "Manage"
+  },
+  {
+    "id": "019-117",
+    "en": "Learn More"
+  },
+  {
+    "id": "019-118",
+    "en": "Restricted Mode is intended for safe code browsing. Trust this window to enable all features. Use navigation keys to access banner actions."
+  },
+  {
+    "id": "019-119",
+    "en": "Restricted Mode is intended for safe code browsing. Trust this folder to enable all features. Use navigation keys to access banner actions."
+  }
+]

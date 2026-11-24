@@ -1,0 +1,482 @@
+[
+  {
+    "id": "013-000",
+    "en": "Example Utility Host Ping"
+  },
+  {
+    "id": "013-001",
+    "en": "Example Utility Host Ping: host time {0}, {1}ms round-trip"
+  },
+  {
+    "id": "013-002",
+    "en": "Example Utility Host Ping failed: {0}"
+  },
+  {
+    "id": "013-003",
+    "en": "Example Utility Host Tick"
+  },
+  {
+    "id": "013-004",
+    "en": "Example Utility Host Tick: waiting for ticks…"
+  },
+  {
+    "id": "013-005",
+    "en": "Example Utility Host Tick: {0}/{1} (host time {2})"
+  },
+  {
+    "id": "013-006",
+    "en": "Example Utility Host Tick: received {0} ticks in {1}ms (last host time {2})"
+  },
+  {
+    "id": "013-007",
+    "en": "Example Utility Host Tick: cancelled after {0}/{1} ticks"
+  },
+  {
+    "id": "013-008",
+    "en": "Example Utility Host Tick: no ticks received (stream ended early)"
+  },
+  {
+    "id": "013-009",
+    "en": "Example Utility Host Stress Test ({0}): receiving payload…"
+  },
+  {
+    "id": "013-010",
+    "en": "Example Utility Host Stress Test ({0}): received {1} MiB in {2}ms ({3} MiB/s)"
+  },
+  {
+    "id": "013-011",
+    "en": "Example Utility Host Stress Test ({0}) failed: {1}"
+  },
+  {
+    "id": "013-012",
+    "en": "Example Utility Host Stress Test (16 MiB)"
+  },
+  {
+    "id": "013-013",
+    "en": "Example Utility Host Stress Test Large (63 MiB, under 64 MiB tunnel cap)"
+  },
+  {
+    "id": "013-014",
+    "en": "Local Trace Mode"
+  },
+  {
+    "id": "013-015",
+    "en": "Local Trace Mode"
+  },
+  {
+    "id": "013-016",
+    "en": "When enabled, records performance marks and measures locally (for example in Chrome DevTools Performance) and mirrors VS Code RPCs into the DevTools Network tab."
+  },
+  {
+    "id": "013-017",
+    "en": "Toggle Editor Mode"
+  },
+  {
+    "id": "013-018",
+    "en": "Markdown Plan Editor"
+  },
+  {
+    "id": "013-019",
+    "en": "Build Plan"
+  },
+  {
+    "id": "013-020",
+    "en": "Markdown Plan Editor"
+  },
+  {
+    "id": "013-021",
+    "en": "Find"
+  },
+  {
+    "id": "013-022",
+    "en": "Markdown Plan Editor"
+  },
+  {
+    "id": "013-023",
+    "en": "Find Next"
+  },
+  {
+    "id": "013-024",
+    "en": "Markdown Plan Editor"
+  },
+  {
+    "id": "013-025",
+    "en": "Find Previous"
+  },
+  {
+    "id": "013-026",
+    "en": "Markdown Plan Editor"
+  },
+  {
+    "id": "013-027",
+    "en": "Close Find Widget"
+  },
+  {
+    "id": "013-028",
+    "en": "Markdown Plan Editor"
+  },
+  {
+    "id": "013-029",
+    "en": "Plan"
+  },
+  {
+    "id": "013-030",
+    "en": "The content of the file is newer. Do you want to overwrite the file with your changes, or revert your changes?"
+  },
+  {
+    "id": "013-031",
+    "en": "Overwrite"
+  },
+  {
+    "id": "013-032",
+    "en": "Revert"
+  },
+  {
+    "id": "013-033",
+    "en": "Cursor Origin"
+  },
+  {
+    "id": "013-034",
+    "en": "No file is currently open."
+  },
+  {
+    "id": "013-035",
+    "en": "Could not build a Cursor web link. Open a file in a git repository with an eligible remote."
+  },
+  {
+    "id": "013-036",
+    "en": "Copy cursor.com link (with selection)"
+  },
+  {
+    "id": "013-037",
+    "en": "Copy cursor.com link (file only)"
+  },
+  {
+    "id": "013-038",
+    "en": "Copy cursor.com link"
+  },
+  {
+    "id": "013-039",
+    "en": "Copy cursor.com link"
+  },
+  {
+    "id": "013-040",
+    "en": "Copy cursor.com link"
+  },
+  {
+    "id": "013-041",
+    "en": "Copy cursor.com link"
+  },
+  {
+    "id": "013-042",
+    "en": "Controls if the custom editor is enabled automatically when the user opens a file. This may be overridden by users using the `workbench.editorAssociations` setting."
+  },
+  {
+    "id": "013-043",
+    "en": "Open Customize"
+  },
+  {
+    "id": "013-044",
+    "en": "Cleared primitive authorship cache."
+  },
+  {
+    "id": "013-045",
+    "en": "Cleared primitive source cache."
+  },
+  {
+    "id": "013-046",
+    "en": "Focus Customize Search"
+  },
+  {
+    "id": "013-047",
+    "en": "Open Skill Publishing Logs"
+  },
+  {
+    "id": "013-048",
+    "en": "Clear Primitive Authorship Cache"
+  },
+  {
+    "id": "013-049",
+    "en": "Clear Primitive Source Cache"
+  },
+  {
+    "id": "013-050",
+    "en": "Force Skill Migration Banner"
+  },
+  {
+    "id": "013-051",
+    "en": "Clear Forced Skill Migration Banner"
+  },
+  {
+    "id": "013-052",
+    "en": "Skill migration banner forced on, but no Agent Store is mounted yet, so it will stay hidden. Sign in and try again."
+  },
+  {
+    "id": "013-053",
+    "en": "Skill migration banner forced on. Reload the window to see it."
+  },
+  {
+    "id": "013-054",
+    "en": "Skill migration banner override cleared."
+  },
+  {
+    "id": "013-055",
+    "en": "Skill Publishing"
+  },
+  {
+    "id": "013-056",
+    "en": "Record Step By Step"
+  },
+  {
+    "id": "013-057",
+    "en": "Stop Recording"
+  },
+  {
+    "id": "013-058",
+    "en": "&&ToggleSource"
+  },
+  {
+    "id": "013-059",
+    "en": "Icon for the debug function action."
+  },
+  {
+    "id": "013-060",
+    "en": "Icon for the debug stop recording action."
+  },
+  {
+    "id": "013-061",
+    "en": "The debug console is a Read-Eval-Print-Loop that allows you to evaluate expressions and run commands and can be focused with{0}."
+  },
+  {
+    "id": "013-062",
+    "en": "The debug console output can be navigated to from the input field with the Focus Previous Widget command{0}."
+  },
+  {
+    "id": "013-063",
+    "en": "The debug console input can be navigated to from the output with the Focus Next Widget command{0}."
+  },
+  {
+    "id": "013-064",
+    "en": "The debug console output history can be navigated with the up and down arrow keys."
+  },
+  {
+    "id": "013-065",
+    "en": "The Open Accessible View command{0} will allow character by character navigation of the console output."
+  },
+  {
+    "id": "013-066",
+    "en": "The Show Run and Debug view command{0} will open the Run and Debug view and provides more information about debugging."
+  },
+  {
+    "id": "013-067",
+    "en": "The Debug: Clear Console command{0} will clear the console output."
+  },
+  {
+    "id": "013-068",
+    "en": "The setting `debug.expandLazyVariables` controls whether variables are evaluated automatically. This is enabled by default when using a screen reader."
+  },
+  {
+    "id": "013-069",
+    "en": "To customize Run and Debug [create a launch.json file](command:{0})."
+  },
+  {
+    "id": "013-070",
+    "en": "To customize Run and Debug, [open a folder](command:{0}) and create a launch.json file."
+  },
+  {
+    "id": "013-071",
+    "en": "Open '{0}'"
+  },
+  {
+    "id": "013-072",
+    "en": "Recording state that the focused debug session is in."
+  },
+  {
+    "id": "013-073",
+    "en": "Debug"
+  },
+  {
+    "id": "013-074",
+    "en": "Show variable type in variable pane during debug session"
+  },
+  {
+    "id": "013-075",
+    "en": "Allow setting breakpoints in any file."
+  },
+  {
+    "id": "013-076",
+    "en": "Controls the action to perform when clicking the editor gutter with the middle mouse button."
+  },
+  {
+    "id": "013-077",
+    "en": "Add Logpoint."
+  },
+  {
+    "id": "013-078",
+    "en": "Add Conditional Breakpoint."
+  },
+  {
+    "id": "013-079",
+    "en": "Add Triggered Breakpoint."
+  },
+  {
+    "id": "013-080",
+    "en": "Don't perform any action."
+  },
+  {
+    "id": "013-081",
+    "en": "Automatically open the explorer view at the end of a debug session."
+  },
+  {
+    "id": "013-082",
+    "en": "At the end of a debug session, all the read-only tabs associated with that session will be closed"
+  },
+  {
+    "id": "013-083",
+    "en": "Show variable values inline in editor while debugging."
+  },
+  {
+    "id": "013-084",
+    "en": "Always show variable values inline in editor while debugging."
+  },
+  {
+    "id": "013-085",
+    "en": "Never show variable values inline in editor while debugging."
+  },
+  {
+    "id": "013-086",
+    "en": "Show variable values inline in editor while debugging when the language supports inline value locations."
+  },
+  {
+    "id": "013-087",
+    "en": "Controls the location of the debug toolbar. Either `floating` in all views, `docked` in the debug view, `commandCenter` (requires {0}), or `hidden`."
+  },
+  {
+    "id": "013-088",
+    "en": "Show debug toolbar in all views."
+  },
+  {
+    "id": "013-089",
+    "en": "Show debug toolbar only in debug views."
+  },
+  {
+    "id": "013-090",
+    "en": "`(Experimental)` Show debug toolbar in the command center."
+  },
+  {
+    "id": "013-091",
+    "en": "Do not show debug toolbar."
+  },
+  {
+    "id": "013-092",
+    "en": "Never show debug in Status bar"
+  },
+  {
+    "id": "013-093",
+    "en": "Always show debug in Status bar"
+  },
+  {
+    "id": "013-094",
+    "en": "Show debug in Status bar only after debug was started for the first time"
+  },
+  {
+    "id": "013-095",
+    "en": "Controls when the debug Status bar should be visible."
+  },
+  {
+    "id": "013-096",
+    "en": "Controls if the Debug Console should be automatically closed when the debug session ends."
+  },
+  {
+    "id": "013-097",
+    "en": "Before starting a new debug session in an integrated or external terminal, clear the terminal."
+  },
+  {
+    "id": "013-098",
+    "en": "Controls when the debug view should open."
+  },
+  {
+    "id": "013-099",
+    "en": "Controls whether the debug sub-sessions are shown in the debug tool bar. When this setting is false the stop command on a sub-session will also stop the parent session."
+  },
+  {
+    "id": "013-100",
+    "en": "Controls the font size in pixels in the Debug Console."
+  },
+  {
+    "id": "013-101",
+    "en": "Controls the font family in the Debug Console."
+  },
+  {
+    "id": "013-102",
+    "en": "Controls the line height in pixels in the Debug Console. Use 0 to compute the line height from the font size."
+  },
+  {
+    "id": "013-103",
+    "en": "Controls if the lines should wrap in the Debug Console."
+  },
+  {
+    "id": "013-104",
+    "en": "Controls if the Debug Console should suggest previously typed input."
+  },
+  {
+    "id": "013-105",
+    "en": "Controls if the Debug Console should collapse identical lines and show a number of occurrences with a badge."
+  },
+  {
+    "id": "013-106",
+    "en": "Controls whether suggestions should be accepted on Enter in the Debug Console. Enter is also used to evaluate whatever is typed in the Debug Console."
+  },
+  {
+    "id": "013-107",
+    "en": "Global debug launch configuration. Should be used as an alternative to 'launch.json' that is shared across workspaces."
+  },
+  {
+    "id": "013-108",
+    "en": "Controls whether the workbench window should be focused when the debugger breaks."
+  },
+  {
+    "id": "013-109",
+    "en": "Controls whether the editor should be focused when the debugger breaks."
+  },
+  {
+    "id": "013-110",
+    "en": "Ignore task errors and start debugging."
+  },
+  {
+    "id": "013-111",
+    "en": "Show the Problems view and do not start debugging."
+  },
+  {
+    "id": "013-112",
+    "en": "Prompt user."
+  },
+  {
+    "id": "013-113",
+    "en": "Cancel debugging."
+  },
+  {
+    "id": "013-114",
+    "en": "Controls what to do when errors are encountered after running a preLaunchTask."
+  },
+  {
+    "id": "013-115",
+    "en": "Controls whether breakpoints should be shown in the overview ruler."
+  },
+  {
+    "id": "013-116",
+    "en": "Controls whether inline breakpoints candidate decorations should be shown in the editor while debugging."
+  },
+  {
+    "id": "013-117",
+    "en": "Controls what editors to save before starting a debug session."
+  },
+  {
+    "id": "013-118",
+    "en": "Save all editors in the active group before starting a debug session."
+  },
+  {
+    "id": "013-119",
+    "en": "Save all editors in the active group except untitled ones before starting a debug session."
+  }
+]

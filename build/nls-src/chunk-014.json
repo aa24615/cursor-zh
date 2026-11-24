@@ -1,0 +1,482 @@
+[
+  {
+    "id": "014-000",
+    "en": "Don't save any editors before starting a debug session."
+  },
+  {
+    "id": "014-001",
+    "en": "Controls whether to confirm when the window closes if there are active debug sessions."
+  },
+  {
+    "id": "014-002",
+    "en": "Never confirm."
+  },
+  {
+    "id": "014-003",
+    "en": "Always confirm if there are debug sessions."
+  },
+  {
+    "id": "014-004",
+    "en": "Show Source Code in Disassembly View."
+  },
+  {
+    "id": "014-005",
+    "en": "When in screen reader optimized mode, automatically expand lazy variables."
+  },
+  {
+    "id": "014-006",
+    "en": "Always automatically expand lazy variables."
+  },
+  {
+    "id": "014-007",
+    "en": "Never automatically expand lazy variables."
+  },
+  {
+    "id": "014-008",
+    "en": "Controls whether variables that are lazily resolved, such as getters, are automatically resolved and expanded by the debugger."
+  },
+  {
+    "id": "014-009",
+    "en": "Color of the Status bar when debugger is active."
+  },
+  {
+    "id": "014-010",
+    "en": "Hide 'Start Debugging' control in title bar of 'Run and Debug' view while debugging is active. Only relevant when {0} is not `docked`."
+  },
+  {
+    "id": "014-011",
+    "en": "Hide the warning shown when a `preLaunchTask` has been running for a while."
+  },
+  {
+    "id": "014-012",
+    "en": "Search loaded scripts by name"
+  },
+  {
+    "id": "014-013",
+    "en": "at least {0} uncaught errors"
+  },
+  {
+    "id": "014-014",
+    "en": "VSIX"
+  },
+  {
+    "id": "014-015",
+    "en": "Uncaught Errors (at least {0}, showing most recent {1})"
+  },
+  {
+    "id": "014-016",
+    "en": "Messages (at least {0}, showing most recent {1})"
+  },
+  {
+    "id": "014-017",
+    "en": "Messages ({0})"
+  },
+  {
+    "id": "014-018",
+    "en": "Id: {0}"
+  },
+  {
+    "id": "014-019",
+    "en": "Cannot install '{0}' extension because {1} cannot verify the signature of '{2}', which it requires"
+  },
+  {
+    "id": "014-020",
+    "en": "Install Anyway (Don't Verify '{0}')"
+  },
+  {
+    "id": "014-021",
+    "en": "Please check the {0} for more details."
+  },
+  {
+    "id": "014-022",
+    "en": "The '{0}' extension is not available in {1} for {2}."
+  },
+  {
+    "id": "014-023",
+    "en": "The '{0}' extension is not available in {1}."
+  },
+  {
+    "id": "014-024",
+    "en": "Learn Why"
+  },
+  {
+    "id": "014-025",
+    "en": "Extensions"
+  },
+  {
+    "id": "014-026",
+    "en": "All Extensions"
+  },
+  {
+    "id": "014-027",
+    "en": "Only Enabled Extensions"
+  },
+  {
+    "id": "014-028",
+    "en": "None"
+  },
+  {
+    "id": "014-029",
+    "en": "Download and install updates automatically for all extensions."
+  },
+  {
+    "id": "014-030",
+    "en": "Download and install updates automatically only for enabled extensions."
+  },
+  {
+    "id": "014-031",
+    "en": "Extensions are not automatically updated."
+  },
+  {
+    "id": "014-032",
+    "en": "Controls the automatic update behavior of extensions. The updates are fetched from a Microsoft online service."
+  },
+  {
+    "id": "014-033",
+    "en": "When enabled, automatically checks extensions for updates. If an extension has an update, it is marked as outdated in the Extensions view. The updates are fetched from a Microsoft online service."
+  },
+  {
+    "id": "014-034",
+    "en": "The number of hours an extension version must have been published before it is available for install or update from the Marketplace. Set to 0 to disable the cooldown. Useful as a buffer against compromised or accidentally-published versions; lowers your exposure to brand-new releases by deferring install until the version has been in the Marketplace for at least this long."
+  },
+  {
+    "id": "014-035",
+    "en": "Controls the timeout in milliseconds for HTTP requests made when fetching extensions from the Marketplace."
+  },
+  {
+    "id": "014-036",
+    "en": "When enabled, the notifications for extension recommendations will not be shown."
+  },
+  {
+    "id": "014-037",
+    "en": "This setting is deprecated. Use extensions.ignoreRecommendations setting to control recommendation notifications. Use Extensions view's visibility actions to hide Recommended view by default."
+  },
+  {
+    "id": "014-038",
+    "en": "When enabled, editors with extension details will be automatically closed upon navigating away from the Extensions View."
+  },
+  {
+    "id": "014-039",
+    "en": "When an extension is listed here, a confirmation prompt will not be shown when that extension handles a URI."
+  },
+  {
+    "id": "014-040",
+    "en": "The Web Worker Extension Host will always be launched."
+  },
+  {
+    "id": "014-041",
+    "en": "The Web Worker Extension Host will never be launched."
+  },
+  {
+    "id": "014-042",
+    "en": "The Web Worker Extension Host will be launched when a web extension needs it."
+  },
+  {
+    "id": "014-043",
+    "en": "Enable web worker extension host."
+  },
+  {
+    "id": "014-044",
+    "en": "Override the virtual workspaces support of an extension."
+  },
+  {
+    "id": "014-045",
+    "en": "Configure an extension to execute in a different extension host process."
+  },
+  {
+    "id": "014-046",
+    "en": "Override the untrusted workspace support of an extension. Extensions using `true` will always be enabled. Extensions using `limited` will always be enabled, and the extension will hide functionality that requires trust. Extensions using `false` will only be enabled only when the workspace is trusted."
+  },
+  {
+    "id": "014-047",
+    "en": "Extension will always be enabled."
+  },
+  {
+    "id": "014-048",
+    "en": "Extension will only be enabled only when the workspace is trusted."
+  },
+  {
+    "id": "014-049",
+    "en": "Extension will always be enabled, and the extension will hide functionality requiring trust."
+  },
+  {
+    "id": "014-050",
+    "en": "Defines the untrusted workspace support setting for the extension."
+  },
+  {
+    "id": "014-051",
+    "en": "Defines the version of the extension for which the override should be applied. If not specified, the override will be applied independent of the extension version."
+  },
+  {
+    "id": "014-052",
+    "en": "When enabled, extensions which declare the `onStartupFinished` activation event will be activated after a timeout."
+  },
+  {
+    "id": "014-053",
+    "en": "Configure the Marketplace service URL to connect to"
+  },
+  {
+    "id": "014-054",
+    "en": "If activated, extensions will automatically restart following an update if the window is not in focus. There can be a data loss if you have open Notebooks or Custom Editors."
+  },
+  {
+    "id": "014-055",
+    "en": "When enabled, extensions to update are fetched from Unpkg service."
+  },
+  {
+    "id": "014-056",
+    "en": "Specify a list of extensions that are allowed to use. This helps maintain a secure and consistent development environment by restricting the use of unauthorized extensions. For more information on how to configure this setting, please visit the [Configure Allowed Extensions](https://code.visualstudio.com/docs/setup/enterprise#_configure-allowed-extensions) section."
+  },
+  {
+    "id": "014-057",
+    "en": "No extensions are allowed."
+  },
+  {
+    "id": "014-058",
+    "en": "All extensions are allowed."
+  },
+  {
+    "id": "014-059",
+    "en": "Specify a list of extensions that are allowed to use. This helps maintain a secure and consistent development environment by restricting the use of unauthorized extensions. More information: https://code.visualstudio.com/docs/setup/enterprise#_configure-allowed-extensions"
+  },
+  {
+    "id": "014-060",
+    "en": "Allow or disallow the extension."
+  },
+  {
+    "id": "014-061",
+    "en": "Extension is allowed."
+  },
+  {
+    "id": "014-062",
+    "en": "Extension is not allowed."
+  },
+  {
+    "id": "014-063",
+    "en": "Allow only stable versions of the extension."
+  },
+  {
+    "id": "014-064",
+    "en": "Allow or disallow specific versions of the extension. To specifcy a platform specific version, use the format `platform@1.2.3`, e.g. `win32-x64@1.2.3`. Supported platforms are `win32-x64`, `win32-arm64`, `linux-x64`, `linux-arm64`, `linux-armhf`, `alpine-x64`, `alpine-arm64`, `darwin-x64`, `darwin-arm64`"
+  },
+  {
+    "id": "014-065",
+    "en": "Allow or disallow all extensions from the publisher."
+  },
+  {
+    "id": "014-066",
+    "en": "All extensions from the publisher are allowed."
+  },
+  {
+    "id": "014-067",
+    "en": "All extensions from the publisher are not allowed."
+  },
+  {
+    "id": "014-068",
+    "en": "Allow only stable versions of the extensions from the publisher."
+  },
+  {
+    "id": "014-069",
+    "en": "Allow or disallow all extensions."
+  },
+  {
+    "id": "014-070",
+    "en": "Allow all extensions."
+  },
+  {
+    "id": "014-071",
+    "en": "Disallow all extensions."
+  },
+  {
+    "id": "014-072",
+    "en": "Extension '{0}' not found."
+  },
+  {
+    "id": "014-073",
+    "en": "Install the given extension"
+  },
+  {
+    "id": "014-074",
+    "en": "Extension id or VSIX resource uri"
+  },
+  {
+    "id": "014-075",
+    "en": "When enabled, VS Code installs only newly added extensions from the extension pack VSIX. This option is considered only while installing a VSIX."
+  },
+  {
+    "id": "014-076",
+    "en": "When enabled, VS Code installs the pre-release version of the extension if available."
+  },
+  {
+    "id": "014-077",
+    "en": "When enabled, VS Code do not sync this extension when Settings Sync is on."
+  },
+  {
+    "id": "014-078",
+    "en": "Justification for installing the extension. This is a string or an object that can be used to pass any information to the installation handlers. i.e. `{reason: 'This extension wants to open a URI', action: 'Open URI'}` will show a message box with the reason and action upon install."
+  },
+  {
+    "id": "014-079",
+    "en": "When enabled, the extension will be enabled if it is installed but disabled. If the extension is already enabled, this has no effect."
+  },
+  {
+    "id": "014-080",
+    "en": "Context for the installation. This is a JSON object that can be used to pass any information to the installation handlers. i.e. `{skipWalkthrough: true}` will skip opening the walkthrough upon install."
+  },
+  {
+    "id": "014-081",
+    "en": "Extension '{0}' not found."
+  },
+  {
+    "id": "014-082",
+    "en": "Uninstall the given extension"
+  },
+  {
+    "id": "014-083",
+    "en": "Id of the extension to uninstall"
+  },
+  {
+    "id": "014-084",
+    "en": "Extension id required."
+  },
+  {
+    "id": "014-085",
+    "en": "Extension '{0}' is not installed. Make sure you use the full extension ID, including the publisher, e.g.: anysphere.csharp."
+  },
+  {
+    "id": "014-086",
+    "en": "Extension '{0}' is a Built-in extension and cannot be installed"
+  },
+  {
+    "id": "014-087",
+    "en": "Search for a specific extension"
+  },
+  {
+    "id": "014-088",
+    "en": "Query to use in search"
+  },
+  {
+    "id": "014-089",
+    "en": "Click to import all local {0} extensions"
+  },
+  {
+    "id": "014-090",
+    "en": "Importing... This can take a minute"
+  },
+  {
+    "id": "014-091",
+    "en": "Done importing VS Code setup!"
+  },
+  {
+    "id": "014-092",
+    "en": "Dismiss"
+  },
+  {
+    "id": "014-093",
+    "en": "Dismiss"
+  },
+  {
+    "id": "014-094",
+    "en": "Extensions"
+  },
+  {
+    "id": "014-095",
+    "en": "Extensions using {0} in the last 30 days"
+  },
+  {
+    "id": "014-096",
+    "en": "Marketplace returned 'ECONNREFUSED'. Please check the 'http.proxy' setting."
+  },
+  {
+    "id": "014-097",
+    "en": "Open User Settings"
+  },
+  {
+    "id": "014-098",
+    "en": "Verified Publisher {0}"
+  },
+  {
+    "id": "014-099",
+    "en": "Publisher {0}"
+  },
+  {
+    "id": "014-100",
+    "en": "Deprecated"
+  },
+  {
+    "id": "014-101",
+    "en": "Rated {0} out of 5 stars by {1} users"
+  },
+  {
+    "id": "014-102",
+    "en": "at least {0} uncaught errors"
+  },
+  {
+    "id": "014-103",
+    "en": "at least {0} messages"
+  },
+  {
+    "id": "014-104",
+    "en": "Some extensions are disabled because they are not allowed by your system administrator."
+  },
+  {
+    "id": "014-105",
+    "en": "Some extensions are disabled because they are configured not to be allowed."
+  },
+  {
+    "id": "014-106",
+    "en": "The following extensions were found to be problematic and have been uninstalled: {0}"
+  },
+  {
+    "id": "014-107",
+    "en": "Restart Extensions"
+  },
+  {
+    "id": "014-108",
+    "en": "Reload Now"
+  },
+  {
+    "id": "014-109",
+    "en": "Show Running Extensions"
+  },
+  {
+    "id": "014-110",
+    "en": "Pick extension host"
+  },
+  {
+    "id": "014-111",
+    "en": "Start Debugging Extension Host In New Window"
+  },
+  {
+    "id": "014-112",
+    "en": "Debug Extensions"
+  },
+  {
+    "id": "014-113",
+    "en": "In order to debug extensions a restart is required. Do you want to restart '{0}' now?"
+  },
+  {
+    "id": "014-114",
+    "en": "&&Restart"
+  },
+  {
+    "id": "014-115",
+    "en": "Start Debugging Cursor Always Local Extension Host In New Window"
+  },
+  {
+    "id": "014-116",
+    "en": "Debug Cursor Always Local Extension Host"
+  },
+  {
+    "id": "014-117",
+    "en": "In order to debug the cursor-always-local extension host, a restart is required. Do you want to restart '{0}' now?"
+  },
+  {
+    "id": "014-118",
+    "en": "&&Restart"
+  },
+  {
+    "id": "014-119",
+    "en": "Attaching Debugger To Extension Host"
+  }
+]

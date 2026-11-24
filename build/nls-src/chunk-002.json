@@ -1,0 +1,482 @@
+[
+  {
+    "id": "002-000",
+    "en": "Plan actions"
+  },
+  {
+    "id": "002-001",
+    "en": "Plan"
+  },
+  {
+    "id": "002-002",
+    "en": "Plan"
+  },
+  {
+    "id": "002-003",
+    "en": "Plan"
+  },
+  {
+    "id": "002-004",
+    "en": "New Project"
+  },
+  {
+    "id": "002-005",
+    "en": "Edit project icon"
+  },
+  {
+    "id": "002-006",
+    "en": "Named by the Project owner"
+  },
+  {
+    "id": "002-007",
+    "en": "Project name"
+  },
+  {
+    "id": "002-008",
+    "en": "Rename project"
+  },
+  {
+    "id": "002-009",
+    "en": "Tracks the decisions, agent work, and follow-through needed to move {0} forward."
+  },
+  {
+    "id": "002-010",
+    "en": "Share Project, {0} people"
+  },
+  {
+    "id": "002-011",
+    "en": "Teammate"
+  },
+  {
+    "id": "002-012",
+    "en": "{0} (you)"
+  },
+  {
+    "id": "002-013",
+    "en": "{0} (Invited)"
+  },
+  {
+    "id": "002-014",
+    "en": "People in this Project: {0}"
+  },
+  {
+    "id": "002-015",
+    "en": "People in this Project"
+  },
+  {
+    "id": "002-016",
+    "en": "Teammate"
+  },
+  {
+    "id": "002-017",
+    "en": "Pull Requests"
+  },
+  {
+    "id": "002-018",
+    "en": "{0}: A pull request is blocked"
+  },
+  {
+    "id": "002-019",
+    "en": "{0}: A pull request is ready to merge"
+  },
+  {
+    "id": "002-020",
+    "en": "No agents found"
+  },
+  {
+    "id": "002-021",
+    "en": "Agents"
+  },
+  {
+    "id": "002-022",
+    "en": "Question"
+  },
+  {
+    "id": "002-023",
+    "en": "Questions"
+  },
+  {
+    "id": "002-024",
+    "en": "Answer questions ({0})"
+  },
+  {
+    "id": "002-025",
+    "en": "Other answer"
+  },
+  {
+    "id": "002-026",
+    "en": "{0} to Send"
+  },
+  {
+    "id": "002-027",
+    "en": "Chat actions"
+  },
+  {
+    "id": "002-028",
+    "en": "1 New Message"
+  },
+  {
+    "id": "002-029",
+    "en": "{0} New Messages"
+  },
+  {
+    "id": "002-030",
+    "en": "Deploy your work"
+  },
+  {
+    "id": "002-031",
+    "en": "Cursor can turn prototypes into shareable, live web apps. Just ask Cursor to deploy the app or click Deploy App here."
+  },
+  {
+    "id": "002-032",
+    "en": "Dismiss"
+  },
+  {
+    "id": "002-033",
+    "en": "Deploy App"
+  },
+  {
+    "id": "002-034",
+    "en": "New subagent"
+  },
+  {
+    "id": "002-035",
+    "en": "Add {0} to chat"
+  },
+  {
+    "id": "002-036",
+    "en": "This agent can't be removed"
+  },
+  {
+    "id": "002-037",
+    "en": "Remove from Project"
+  },
+  {
+    "id": "002-038",
+    "en": "Subagent not found"
+  },
+  {
+    "id": "002-039",
+    "en": "Failed to remove {0} from the Project: {1}"
+  },
+  {
+    "id": "002-040",
+    "en": "Failed to remove {0} from the Project"
+  },
+  {
+    "id": "002-041",
+    "en": "Bring {0} to the front"
+  },
+  {
+    "id": "002-042",
+    "en": "Bring to front"
+  },
+  {
+    "id": "002-043",
+    "en": "Close preview"
+  },
+  {
+    "id": "002-044",
+    "en": "Create a New Canvas"
+  },
+  {
+    "id": "002-045",
+    "en": "Build a dashboard, document, or other artifact"
+  },
+  {
+    "id": "002-046",
+    "en": "New Canvas"
+  },
+  {
+    "id": "002-047",
+    "en": "No files yet"
+  },
+  {
+    "id": "002-048",
+    "en": "Notes and artifacts your agent generates will appear here"
+  },
+  {
+    "id": "002-049",
+    "en": "No context yet"
+  },
+  {
+    "id": "002-050",
+    "en": "Apps"
+  },
+  {
+    "id": "002-051",
+    "en": "Markdown preview paused ({0})"
+  },
+  {
+    "id": "002-052",
+    "en": "File is large ({0})"
+  },
+  {
+    "id": "002-053",
+    "en": "Load file"
+  },
+  {
+    "id": "002-054",
+    "en": "This file isn't on {0}'s machine"
+  },
+  {
+    "id": "002-055",
+    "en": "This file isn't on this agent's machine"
+  },
+  {
+    "id": "002-056",
+    "en": "It may be on another branch, or it was moved or deleted."
+  },
+  {
+    "id": "002-057",
+    "en": "Close Tab"
+  },
+  {
+    "id": "002-058",
+    "en": "Hide Details"
+  },
+  {
+    "id": "002-059",
+    "en": "Show Details"
+  },
+  {
+    "id": "002-060",
+    "en": "Search files and folders"
+  },
+  {
+    "id": "002-061",
+    "en": "Files, Folders..."
+  },
+  {
+    "id": "002-062",
+    "en": "Browse Files"
+  },
+  {
+    "id": "002-063",
+    "en": "New File"
+  },
+  {
+    "id": "002-064",
+    "en": "Results"
+  },
+  {
+    "id": "002-065",
+    "en": "Recents"
+  },
+  {
+    "id": "002-066",
+    "en": "Loading..."
+  },
+  {
+    "id": "002-067",
+    "en": "New Folder"
+  },
+  {
+    "id": "002-068",
+    "en": "New File"
+  },
+  {
+    "id": "002-069",
+    "en": "A file or folder '{0}' already exists at this location."
+  },
+  {
+    "id": "002-070",
+    "en": "Parent folder is read-only."
+  },
+  {
+    "id": "002-071",
+    "en": "Folder name"
+  },
+  {
+    "id": "002-072",
+    "en": "File name"
+  },
+  {
+    "id": "002-073",
+    "en": "Folder name"
+  },
+  {
+    "id": "002-074",
+    "en": "File name"
+  },
+  {
+    "id": "002-075",
+    "en": "Location"
+  },
+  {
+    "id": "002-076",
+    "en": "Select workspace folder"
+  },
+  {
+    "id": "002-077",
+    "en": "Search folders…"
+  },
+  {
+    "id": "002-078",
+    "en": "Create in {0}"
+  },
+  {
+    "id": "002-079",
+    "en": "Create in"
+  },
+  {
+    "id": "002-080",
+    "en": "Cancel"
+  },
+  {
+    "id": "002-081",
+    "en": "Create"
+  },
+  {
+    "id": "002-082",
+    "en": "Loading files"
+  },
+  {
+    "id": "002-083",
+    "en": "Refresh Explorer"
+  },
+  {
+    "id": "002-084",
+    "en": "New File"
+  },
+  {
+    "id": "002-085",
+    "en": "New Folder"
+  },
+  {
+    "id": "002-086",
+    "en": "File is empty"
+  },
+  {
+    "id": "002-087",
+    "en": "Showing the first {0} columns. Switch to Raw to see the full file."
+  },
+  {
+    "id": "002-088",
+    "en": "New File in {0}"
+  },
+  {
+    "id": "002-089",
+    "en": "New Folder in {0}"
+  },
+  {
+    "id": "002-090",
+    "en": "Open"
+  },
+  {
+    "id": "002-091",
+    "en": "Files related to your project will appear here"
+  },
+  {
+    "id": "002-092",
+    "en": "Rename"
+  },
+  {
+    "id": "002-093",
+    "en": "Search files"
+  },
+  {
+    "id": "002-094",
+    "en": "No files yet"
+  },
+  {
+    "id": "002-095",
+    "en": "Searching files"
+  },
+  {
+    "id": "002-096",
+    "en": "Find tasks"
+  },
+  {
+    "id": "002-097",
+    "en": "Task views"
+  },
+  {
+    "id": "002-098",
+    "en": "Tasks"
+  },
+  {
+    "id": "002-099",
+    "en": "Find tasks"
+  },
+  {
+    "id": "002-100",
+    "en": "Start a Project and the tasks it tracks show up here"
+  },
+  {
+    "id": "002-101",
+    "en": "No Projects yet"
+  },
+  {
+    "id": "002-102",
+    "en": "Loading tasks"
+  },
+  {
+    "id": "002-103",
+    "en": "Tasks your Projects track show up here"
+  },
+  {
+    "id": "002-104",
+    "en": "Nothing to track yet"
+  },
+  {
+    "id": "002-105",
+    "en": "Couldn't load the tasks of {0}. Retrying in the background."
+  },
+  {
+    "id": "002-106",
+    "en": "Couldn't load the tasks of {0} Projects: {1}. Retrying in the background."
+  },
+  {
+    "id": "002-107",
+    "en": "Add {0} to chat"
+  },
+  {
+    "id": "002-108",
+    "en": "Show {0} more pull requests in {1}"
+  },
+  {
+    "id": "002-109",
+    "en": "Show more"
+  },
+  {
+    "id": "002-110",
+    "en": "Search pull requests"
+  },
+  {
+    "id": "002-111",
+    "en": "Search by title, number, branch, or thread"
+  },
+  {
+    "id": "002-112",
+    "en": "Clear search"
+  },
+  {
+    "id": "002-113",
+    "en": "Clear search"
+  },
+  {
+    "id": "002-114",
+    "en": "No pull requests match."
+  },
+  {
+    "id": "002-115",
+    "en": "No pull requests in this project yet."
+  },
+  {
+    "id": "002-116",
+    "en": "No pull requests by this agent yet."
+  },
+  {
+    "id": "002-117",
+    "en": "{0} of {1} in stack"
+  },
+  {
+    "id": "002-118",
+    "en": "Queued"
+  },
+  {
+    "id": "002-119",
+    "en": "Ready"
+  }
+]

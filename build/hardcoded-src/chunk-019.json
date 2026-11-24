@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h019-000",
+    "en": "Invite Only"
+  },
+  {
+    "id": "h019-001",
+    "en": "Invite link"
+  },
+  {
+    "id": "h019-002",
+    "en": "Invite team members"
+  },
+  {
+    "id": "h019-003",
+    "en": "Invite teammates to this project"
+  },
+  {
+    "id": "h019-004",
+    "en": "Invited"
+  },
+  {
+    "id": "h019-005",
+    "en": "Issue Identifier"
+  },
+  {
+    "id": "h019-006",
+    "en": "Issue comment"
+  },
+  {
+    "id": "h019-007",
+    "en": "It'll be saved to Cursor Origin, so you can come back to it anytime."
+  },
+  {
+    "id": "h019-008",
+    "en": "Item 1"
+  },
+  {
+    "id": "h019-009",
+    "en": "Item 1 description"
+  },
+  {
+    "id": "h019-010",
+    "en": "Item 2"
+  },
+  {
+    "id": "h019-011",
+    "en": "Item 2 description"
+  },
+  {
+    "id": "h019-012",
+    "en": "Item 3"
+  },
+  {
+    "id": "h019-013",
+    "en": "Item 3 description"
+  },
+  {
+    "id": "h019-014",
+    "en": "Item One"
+  },
+  {
+    "id": "h019-015",
+    "en": "Item Three"
+  },
+  {
+    "id": "h019-016",
+    "en": "Item Two"
+  },
+  {
+    "id": "h019-017",
+    "en": "JSON Payload (optional)"
+  },
+  {
+    "id": "h019-018",
+    "en": "JavaScript UI library"
+  },
+  {
+    "id": "h019-019",
+    "en": "Judged Metrics"
+  },
+  {
+    "id": "h019-020",
+    "en": "Jump to Next File"
+  },
+  {
+    "id": "h019-021",
+    "en": "Jump to Next User Message"
+  },
+  {
+    "id": "h019-022",
+    "en": "Jump to Previous File"
+  },
+  {
+    "id": "h019-023",
+    "en": "Jump to Previous User Message"
+  },
+  {
+    "id": "h019-024",
+    "en": "Keep Notebook"
+  },
+  {
+    "id": "h019-025",
+    "en": "Keep This Computer Awake"
+  },
+  {
+    "id": "h019-026",
+    "en": "Keep theme and follow-system settings matched with the IDE window"
+  },
+  {
+    "id": "h019-027",
+    "en": "Key number out of range"
+  },
+  {
+    "id": "h019-028",
+    "en": "Key with another prefix"
+  },
+  {
+    "id": "h019-029",
+    "en": "Kill Remote SSH Server and Reload Window"
+  },
+  {
+    "id": "h019-030",
+    "en": "Kill tmux session"
+  },
+  {
+    "id": "h019-031",
+    "en": "LaTeX preview"
+  },
+  {
+    "id": "h019-032",
+    "en": "LaTeX source"
+  },
+  {
+    "id": "h019-033",
+    "en": "LaTeX view"
+  },
+  {
+    "id": "h019-034",
+    "en": "Label change"
+  },
+  {
+    "id": "h019-035",
+    "en": "Label name..."
+  },
+  {
+    "id": "h019-036",
+    "en": "Languages"
+  },
+  {
+    "id": "h019-037",
+    "en": "Last 1h"
+  },
+  {
+    "id": "h019-038",
+    "en": "Last 24h"
+  },
+  {
+    "id": "h019-039",
+    "en": "Last 30 days"
+  },
+  {
+    "id": "h019-040",
+    "en": "Last 7 days"
+  },
+  {
+    "id": "h019-041",
+    "en": "Last 7d"
+  },
+  {
+    "id": "h019-042",
+    "en": "Last Agent Turn"
+  },
+  {
+    "id": "h019-043",
+    "en": "Last item"
+  },
+  {
+    "id": "h019-044",
+    "en": "Leak scanned before commit"
+  },
+  {
+    "id": "h019-045",
+    "en": "Left Icon"
+  },
+  {
+    "id": "h019-046",
+    "en": "Library"
+  },
+  {
+    "id": "h019-047",
+    "en": "Light · High contrast"
+  },
+  {
+    "id": "h019-048",
+    "en": "Likely Cmd+K edit (hideDeletionViewZones=true)"
+  },
+  {
+    "id": "h019-049",
+    "en": "Limit Hit Stage"
+  },
+  {
+    "id": "h019-050",
+    "en": "Line Numbers"
+  },
+  {
+    "id": "h019-051",
+    "en": "Line number"
+  },
+  {
+    "id": "h019-052",
+    "en": "Linear"
+  },
+  {
+    "id": "h019-053",
+    "en": "Link GitHub account"
+  },
+  {
+    "id": "h019-054",
+    "en": "Link PR"
+  },
+  {
+    "id": "h019-055",
+    "en": "Link outside the Project"
+  },
+  {
+    "id": "h019-056",
+    "en": "Link over the per-task limit"
+  },
+  {
+    "id": "h019-057",
+    "en": "Link to a file in a personal store"
+  },
+  {
+    "id": "h019-058",
+    "en": "Link to a file in another store"
+  },
+  {
+    "id": "h019-059",
+    "en": "Link to a missing agent"
+  },
+  {
+    "id": "h019-060",
+    "en": "Link to a subagent"
+  },
+  {
+    "id": "h019-061",
+    "en": "Link to a worker outside the Project"
+  },
+  {
+    "id": "h019-062",
+    "en": "Link to an agent outside the Project"
+  },
+  {
+    "id": "h019-063",
+    "en": "Live"
+  },
+  {
+    "id": "h019-064",
+    "en": "Llama 3.2 3B"
+  },
+  {
+    "id": "h019-065",
+    "en": "Load"
+  },
+  {
+    "id": "h019-066",
+    "en": "Load Consecutive Images"
+  },
+  {
+    "id": "h019-067",
+    "en": "Load Plain Markdown"
+  },
+  {
+    "id": "h019-068",
+    "en": "Load Sample with Artifacts"
+  },
+  {
+    "id": "h019-069",
+    "en": "Loading Checks"
+  },
+  {
+    "id": "h019-070",
+    "en": "Loading Indicators"
+  },
+  {
+    "id": "h019-071",
+    "en": "Loading Linux distros..."
+  },
+  {
+    "id": "h019-072",
+    "en": "Loading Mermaid preview"
+  },
+  {
+    "id": "h019-073",
+    "en": "Loading Outline"
+  },
+  {
+    "id": "h019-074",
+    "en": "Loading PDF"
+  },
+  {
+    "id": "h019-075",
+    "en": "Loading PDF…"
+  },
+  {
+    "id": "h019-076",
+    "en": "Loading PR"
+  },
+  {
+    "id": "h019-077",
+    "en": "Loading SVG"
+  },
+  {
+    "id": "h019-078",
+    "en": "Loading TeX preview"
+  },
+  {
+    "id": "h019-079",
+    "en": "Loading agent files"
+  },
+  {
+    "id": "h019-080",
+    "en": "Loading automations…"
+  },
+  {
+    "id": "h019-081",
+    "en": "Loading checks"
+  },
+  {
+    "id": "h019-082",
+    "en": "Loading cloud agent changes"
+  },
+  {
+    "id": "h019-083",
+    "en": "Loading commits"
+  },
+  {
+    "id": "h019-084",
+    "en": "Loading diff..."
+  },
+  {
+    "id": "h019-085",
+    "en": "Loading evals"
+  },
+  {
+    "id": "h019-086",
+    "en": "Loading file"
+  },
+  {
+    "id": "h019-087",
+    "en": "Loading more branches…"
+  },
+  {
+    "id": "h019-088",
+    "en": "Loading more repositories..."
+  },
+  {
+    "id": "h019-089",
+    "en": "Loading plan..."
+  },
+  {
+    "id": "h019-090",
+    "en": "Loading reviews"
+  },
+  {
+    "id": "h019-091",
+    "en": "Loading runs"
+  },
+  {
+    "id": "h019-092",
+    "en": "Loading servers..."
+  },
+  {
+    "id": "h019-093",
+    "en": "Loading settings..."
+  },
+  {
+    "id": "h019-094",
+    "en": "Loading terminal"
+  },
+  {
+    "id": "h019-095",
+    "en": "Loading users..."
+  },
+  {
+    "id": "h019-096",
+    "en": "Loading workspace..."
+  },
+  {
+    "id": "h019-097",
+    "en": "Loading workspaces..."
+  },
+  {
+    "id": "h019-098",
+    "en": "Locked by admin"
+  },
+  {
+    "id": "h019-099",
+    "en": "Log out?"
+  },
+  {
+    "id": "h019-100",
+    "en": "Login to Cursor"
+  },
+  {
+    "id": "h019-101",
+    "en": "Long Content"
+  },
+  {
+    "id": "h019-102",
+    "en": "Long Content w/ Buttons"
+  },
+  {
+    "id": "h019-103",
+    "en": "Long finetuned model name"
+  },
+  {
+    "id": "h019-104",
+    "en": "MCP Servers"
+  },
+  {
+    "id": "h019-105",
+    "en": "Main.java"
+  },
+  {
+    "id": "h019-106",
+    "en": "Makefile"
+  },
+  {
+    "id": "h019-107",
+    "en": "Manage Dynamic Configs"
+  },
+  {
+    "id": "h019-108",
+    "en": "Manage Environments"
+  },
+  {
+    "id": "h019-109",
+    "en": "Manage Feature Flags"
+  },
+  {
+    "id": "h019-110",
+    "en": "Manage Private Workers"
+  },
+  {
+    "id": "h019-111",
+    "en": "Manage Themes..."
+  },
+  {
+    "id": "h019-112",
+    "en": "Manage Usage"
+  },
+  {
+    "id": "h019-113",
+    "en": "Manage with code [DEV]"
+  },
+  {
+    "id": "h019-114",
+    "en": "Manual"
+  },
+  {
+    "id": "h019-115",
+    "en": "Many Buttons"
+  },
+  {
+    "id": "h019-116",
+    "en": "Mark"
+  },
+  {
+    "id": "h019-117",
+    "en": "Mark Fixed"
+  },
+  {
+    "id": "h019-118",
+    "en": "Mark as Fixed"
+  },
+  {
+    "id": "h019-119",
+    "en": "Markdown supported"
+  },
+  {
+    "id": "h019-120",
+    "en": "Markdown view"
+  },
+  {
+    "id": "h019-121",
+    "en": "Marks"
+  },
+  {
+    "id": "h019-122",
+    "en": "Marks timeline"
+  },
+  {
+    "id": "h019-123",
+    "en": "Match"
+  },
+  {
+    "id": "h019-124",
+    "en": "Match case"
+  },
+  {
+    "id": "h019-125",
+    "en": "Maximize"
+  },
+  {
+    "id": "h019-126",
+    "en": "Maximize Window"
+  },
+  {
+    "id": "h019-127",
+    "en": "Memory Notes"
+  },
+  {
+    "id": "h019-128",
+    "en": "Mention Demo"
+  },
+  {
+    "id": "h019-129",
+    "en": "Menus"
+  },
+  {
+    "id": "h019-130",
+    "en": "Merge Method"
+  },
+  {
+    "id": "h019-131",
+    "en": "Merge blocked: checking for conflicts with base."
+  },
+  {
+    "id": "h019-132",
+    "en": "Merge blocked: conflicts with base"
+  },
+  {
+    "id": "h019-133",
+    "en": "Merge blocked: required status checks are failing"
+  },
+  {
+    "id": "h019-134",
+    "en": "Merge blocked: required status checks are still running"
+  },
+  {
+    "id": "h019-135",
+    "en": "Merge blocked: restack onto the base branch first"
+  },
+  {
+    "id": "h019-136",
+    "en": "Merge requirements have not been met"
+  },
+  {
+    "id": "h019-137",
+    "en": "Merge status is being calculated. Refresh if it does not resolve."
+  },
+  {
+    "id": "h019-138",
+    "en": "Merge status is being determined..."
+  },
+  {
+    "id": "h019-139",
+    "en": "Merge when Ready"
+  },
+  {
+    "id": "h019-140",
+    "en": "Merged · #128"
+  },
+  {
+    "id": "h019-141",
+    "en": "Merging"
+  },
+  {
+    "id": "h019-142",
+    "en": "Merging is blocked by branch protection rules"
+  },
+  {
+    "id": "h019-143",
+    "en": "Message Type"
+  },
+  {
+    "id": "h019-144",
+    "en": "Metric keys"
+  },
+  {
+    "id": "h019-145",
+    "en": "Metrics"
+  },
+  {
+    "id": "h019-146",
+    "en": "Min"
+  },
+  {
+    "id": "h019-147",
+    "en": "Minimize Window"
+  },
+  {
+    "id": "h019-148",
+    "en": "Minimize interface animations. System follows your OS preference."
+  },
+  {
+    "id": "h019-149",
+    "en": "Missing key"
+  }
+]

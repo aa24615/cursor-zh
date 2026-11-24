@@ -1,0 +1,482 @@
+[
+  {
+    "id": "022-000",
+    "en": "Please enter a name for the new command"
+  },
+  {
+    "id": "022-001",
+    "en": "Command name cannot be empty"
+  },
+  {
+    "id": "022-002",
+    "en": "Command name can only contain lowercase letters, numbers, and hyphens"
+  },
+  {
+    "id": "022-003",
+    "en": "A command with this name already exists"
+  },
+  {
+    "id": "022-004",
+    "en": "New Rule"
+  },
+  {
+    "id": "022-005",
+    "en": "e.g. my-rule"
+  },
+  {
+    "id": "022-006",
+    "en": "Enter a name for the new rule"
+  },
+  {
+    "id": "022-007",
+    "en": "Rule name cannot be empty"
+  },
+  {
+    "id": "022-008",
+    "en": "Rule name can only contain lowercase letters, numbers, and hyphens"
+  },
+  {
+    "id": "022-009",
+    "en": "A rule with this name already exists"
+  },
+  {
+    "id": "022-010",
+    "en": "Dynamic config overrides are not available in production builds."
+  },
+  {
+    "id": "022-011",
+    "en": "No dynamic configs are currently available. Dynamic configs will appear here once they are defined in the codebase."
+  },
+  {
+    "id": "022-012",
+    "en": "Override: {0}"
+  },
+  {
+    "id": "022-013",
+    "en": "Current: {0}"
+  },
+  {
+    "id": "022-014",
+    "en": "Bundled default: {0} · Click to manage"
+  },
+  {
+    "id": "022-015",
+    "en": "Click to override this config"
+  },
+  {
+    "id": "022-016",
+    "en": "Overrides"
+  },
+  {
+    "id": "022-017",
+    "en": "Dynamic configs"
+  },
+  {
+    "id": "022-018",
+    "en": "Actions"
+  },
+  {
+    "id": "022-019",
+    "en": "Set All Configs to Default Values"
+  },
+  {
+    "id": "022-020",
+    "en": "Override every config to the built-in default"
+  },
+  {
+    "id": "022-021",
+    "en": "Clear All Overrides"
+  },
+  {
+    "id": "022-022",
+    "en": "Remove all {0} override(s) at once"
+  },
+  {
+    "id": "022-023",
+    "en": "{0} override(s) active. Select a dynamic config to manage:"
+  },
+  {
+    "id": "022-024",
+    "en": "Select a dynamic config to manage:"
+  },
+  {
+    "id": "022-025",
+    "en": "Dynamic Config Overrides"
+  },
+  {
+    "id": "022-026",
+    "en": "Set All Configs to Default Values"
+  },
+  {
+    "id": "022-027",
+    "en": "Clear All Overrides"
+  },
+  {
+    "id": "022-028",
+    "en": "Remove Override"
+  },
+  {
+    "id": "022-029",
+    "en": "Reset to Statsig/default value"
+  },
+  {
+    "id": "022-030",
+    "en": "Set Override (JSON)"
+  },
+  {
+    "id": "022-031",
+    "en": "Provide parameters as JSON"
+  },
+  {
+    "id": "022-032",
+    "en": "What would you like to do with \"{0}\"?"
+  },
+  {
+    "id": "022-033",
+    "en": "Manage: {0}"
+  },
+  {
+    "id": "022-034",
+    "en": "Remove Override"
+  },
+  {
+    "id": "022-035",
+    "en": "Override for \"{0}\" has been removed"
+  },
+  {
+    "id": "022-036",
+    "en": "Set Override (JSON)"
+  },
+  {
+    "id": "022-037",
+    "en": "Set Override for {0}"
+  },
+  {
+    "id": "022-038",
+    "en": "Enter config parameters as JSON"
+  },
+  {
+    "id": "022-039",
+    "en": "Invalid JSON: {0}"
+  },
+  {
+    "id": "022-040",
+    "en": "Dynamic config \"{0}\" overridden"
+  },
+  {
+    "id": "022-041",
+    "en": "Failed to set override: {0}"
+  },
+  {
+    "id": "022-042",
+    "en": "Yes, override all to default values"
+  },
+  {
+    "id": "022-043",
+    "en": "This will create {0} overrides"
+  },
+  {
+    "id": "022-044",
+    "en": "Cancel"
+  },
+  {
+    "id": "022-045",
+    "en": "Keep current values"
+  },
+  {
+    "id": "022-046",
+    "en": "Set all dynamic configs to default values?"
+  },
+  {
+    "id": "022-047",
+    "en": "Confirm Apply Default Values"
+  },
+  {
+    "id": "022-048",
+    "en": "Yes, override all to default values"
+  },
+  {
+    "id": "022-049",
+    "en": "Applied default values to {0} dynamic configs."
+  },
+  {
+    "id": "022-050",
+    "en": "Yes, clear all overrides"
+  },
+  {
+    "id": "022-051",
+    "en": "This will remove {0} override(s)"
+  },
+  {
+    "id": "022-052",
+    "en": "Cancel"
+  },
+  {
+    "id": "022-053",
+    "en": "Keep existing overrides"
+  },
+  {
+    "id": "022-054",
+    "en": "Clear all {0} dynamic config overrides?"
+  },
+  {
+    "id": "022-055",
+    "en": "Confirm Clear All"
+  },
+  {
+    "id": "022-056",
+    "en": "Yes, clear all overrides"
+  },
+  {
+    "id": "022-057",
+    "en": "All {0} dynamic config overrides have been cleared."
+  },
+  {
+    "id": "022-058",
+    "en": "Manage Dynamic Config Overrides"
+  },
+  {
+    "id": "022-059",
+    "en": "Manage dynamic config parameter overrides for development and testing"
+  },
+  {
+    "id": "022-060",
+    "en": "Experiment overrides are not available in production builds."
+  },
+  {
+    "id": "022-061",
+    "en": "No experiments are currently available. Experiments will appear here once they are defined in the codebase."
+  },
+  {
+    "id": "022-062",
+    "en": "Override: {0}"
+  },
+  {
+    "id": "022-063",
+    "en": "Current: {0}"
+  },
+  {
+    "id": "022-064",
+    "en": "Bundled default: {0} · Click to manage"
+  },
+  {
+    "id": "022-065",
+    "en": "Click to override this experiment"
+  },
+  {
+    "id": "022-066",
+    "en": "Overrides"
+  },
+  {
+    "id": "022-067",
+    "en": "Experiments"
+  },
+  {
+    "id": "022-068",
+    "en": "Actions"
+  },
+  {
+    "id": "022-069",
+    "en": "Set All Experiments to Default Values"
+  },
+  {
+    "id": "022-070",
+    "en": "Override every experiment to the built-in default"
+  },
+  {
+    "id": "022-071",
+    "en": "Clear All Overrides"
+  },
+  {
+    "id": "022-072",
+    "en": "Remove all {0} override(s) at once"
+  },
+  {
+    "id": "022-073",
+    "en": "{0} override(s) active. Select an experiment to manage:"
+  },
+  {
+    "id": "022-074",
+    "en": "Select an experiment to manage:"
+  },
+  {
+    "id": "022-075",
+    "en": "Experiment Overrides"
+  },
+  {
+    "id": "022-076",
+    "en": "Set All Experiments to Default Values"
+  },
+  {
+    "id": "022-077",
+    "en": "Clear All Overrides"
+  },
+  {
+    "id": "022-078",
+    "en": "Remove Override"
+  },
+  {
+    "id": "022-079",
+    "en": "Reset to Statsig/default value"
+  },
+  {
+    "id": "022-080",
+    "en": "Set {0} = {1}"
+  },
+  {
+    "id": "022-081",
+    "en": "Override this experiment parameter"
+  },
+  {
+    "id": "022-082",
+    "en": "Set Override (JSON)"
+  },
+  {
+    "id": "022-083",
+    "en": "Provide parameters as JSON"
+  },
+  {
+    "id": "022-084",
+    "en": "What would you like to do with \"{0}\"?"
+  },
+  {
+    "id": "022-085",
+    "en": "Manage: {0}"
+  },
+  {
+    "id": "022-086",
+    "en": "Override for \"{0}\" has been removed"
+  },
+  {
+    "id": "022-087",
+    "en": "Experiment \"{0}\" overridden: {1}={2}"
+  },
+  {
+    "id": "022-088",
+    "en": "Set Override for {0}"
+  },
+  {
+    "id": "022-089",
+    "en": "Enter experiment parameters as JSON"
+  },
+  {
+    "id": "022-090",
+    "en": "Invalid JSON: {0}"
+  },
+  {
+    "id": "022-091",
+    "en": "Experiment \"{0}\" overridden"
+  },
+  {
+    "id": "022-092",
+    "en": "Failed to set override: {0}"
+  },
+  {
+    "id": "022-093",
+    "en": "Yes, override all to default values"
+  },
+  {
+    "id": "022-094",
+    "en": "This will create {0} overrides"
+  },
+  {
+    "id": "022-095",
+    "en": "Cancel"
+  },
+  {
+    "id": "022-096",
+    "en": "Keep current values"
+  },
+  {
+    "id": "022-097",
+    "en": "Set all experiments to default values?"
+  },
+  {
+    "id": "022-098",
+    "en": "Confirm Apply Default Values"
+  },
+  {
+    "id": "022-099",
+    "en": "Yes, override all to default values"
+  },
+  {
+    "id": "022-100",
+    "en": "Applied default values to {0} experiments."
+  },
+  {
+    "id": "022-101",
+    "en": "Yes, clear all overrides"
+  },
+  {
+    "id": "022-102",
+    "en": "This will remove {0} override(s)"
+  },
+  {
+    "id": "022-103",
+    "en": "Cancel"
+  },
+  {
+    "id": "022-104",
+    "en": "Keep existing overrides"
+  },
+  {
+    "id": "022-105",
+    "en": "Clear all {0} experiment overrides?"
+  },
+  {
+    "id": "022-106",
+    "en": "Confirm Clear All"
+  },
+  {
+    "id": "022-107",
+    "en": "Yes, clear all overrides"
+  },
+  {
+    "id": "022-108",
+    "en": "All {0} experiment overrides have been cleared."
+  },
+  {
+    "id": "022-109",
+    "en": "Manage Experiment Overrides"
+  },
+  {
+    "id": "022-110",
+    "en": "Manage experiment parameter overrides for development and testing"
+  },
+  {
+    "id": "022-111",
+    "en": "Feature flag overrides are not available in production builds."
+  },
+  {
+    "id": "022-112",
+    "en": "No feature flags are currently available. Feature flags will appear here once they are defined in the codebase."
+  },
+  {
+    "id": "022-113",
+    "en": "OVERRIDDEN → {0}"
+  },
+  {
+    "id": "022-114",
+    "en": "Current: {0}"
+  },
+  {
+    "id": "022-115",
+    "en": "Click to manage override (hardcoded default: {0})"
+  },
+  {
+    "id": "022-116",
+    "en": "Click to override this flag"
+  },
+  {
+    "id": "022-117",
+    "en": "Overrides"
+  },
+  {
+    "id": "022-118",
+    "en": "Feature flags"
+  },
+  {
+    "id": "022-119",
+    "en": "Actions"
+  }
+]

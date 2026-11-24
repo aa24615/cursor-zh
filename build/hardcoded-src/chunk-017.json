@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h017-000",
+    "en": "Developer: Storage"
+  },
+  {
+    "id": "h017-001",
+    "en": "Diff File Actions"
+  },
+  {
+    "id": "h017-002",
+    "en": "Diff Focus"
+  },
+  {
+    "id": "h017-003",
+    "en": "Diff Meter"
+  },
+  {
+    "id": "h017-004",
+    "en": "Diff Source Registry Debug"
+  },
+  {
+    "id": "h017-005",
+    "en": "Diff View"
+  },
+  {
+    "id": "h017-006",
+    "en": "Diff content not available"
+  },
+  {
+    "id": "h017-007",
+    "en": "Diff context unavailable"
+  },
+  {
+    "id": "h017-008",
+    "en": "Diff line and word fills, gutter tints, and accent strips, rendered by the product diff."
+  },
+  {
+    "id": "h017-009",
+    "en": "Diff with hidden decorations"
+  },
+  {
+    "id": "h017-010",
+    "en": "Disable Auto-Merge"
+  },
+  {
+    "id": "h017-011",
+    "en": "Disabled (Workspace)"
+  },
+  {
+    "id": "h017-012",
+    "en": "Disabled Action"
+  },
+  {
+    "id": "h017-013",
+    "en": "Disabled Actions"
+  },
+  {
+    "id": "h017-014",
+    "en": "Disabled for this workspace only. It is still running until you reload this window."
+  },
+  {
+    "id": "h017-015",
+    "en": "Disabled for this workspace only. Reload after re-enabling to load."
+  },
+  {
+    "id": "h017-016",
+    "en": "Disabled globally for this user. It is still running until you reload this window."
+  },
+  {
+    "id": "h017-017",
+    "en": "Disabled globally for this user. Reload after re-enabling to load."
+  },
+  {
+    "id": "h017-018",
+    "en": "Discard All"
+  },
+  {
+    "id": "h017-019",
+    "en": "Discard Tracked Only"
+  },
+  {
+    "id": "h017-020",
+    "en": "Discard changes"
+  },
+  {
+    "id": "h017-021",
+    "en": "Discard comment?"
+  },
+  {
+    "id": "h017-022",
+    "en": "Discard draft"
+  },
+  {
+    "id": "h017-023",
+    "en": "Discard edits"
+  },
+  {
+    "id": "h017-024",
+    "en": "Discard your current uncommitted changes"
+  },
+  {
+    "id": "h017-025",
+    "en": "Disk"
+  },
+  {
+    "id": "h017-026",
+    "en": "Dismiss All"
+  },
+  {
+    "id": "h017-027",
+    "en": "Dismiss this notification"
+  },
+  {
+    "id": "h017-028",
+    "en": "Display Explorer Orchestrator Cache"
+  },
+  {
+    "id": "h017-029",
+    "en": "Display Path:"
+  },
+  {
+    "id": "h017-030",
+    "en": "Display Workspace Metadata"
+  },
+  {
+    "id": "h017-031",
+    "en": "Docker"
+  },
+  {
+    "id": "h017-032",
+    "en": "Docs"
+  },
+  {
+    "id": "h017-033",
+    "en": "Domain Allowlist"
+  },
+  {
+    "id": "h017-034",
+    "en": "Don't Allow PR Approval"
+  },
+  {
+    "id": "h017-035",
+    "en": "Don't Ask Again Dialog"
+  },
+  {
+    "id": "h017-036",
+    "en": "Don't Save"
+  },
+  {
+    "id": "h017-037",
+    "en": "Don’t Ask Again"
+  },
+  {
+    "id": "h017-038",
+    "en": "Download Cursor Private Inference to use your organization’s private inference deployment."
+  },
+  {
+    "id": "h017-039",
+    "en": "Draft State"
+  },
+  {
+    "id": "h017-040",
+    "en": "Draft opened"
+  },
+  {
+    "id": "h017-041",
+    "en": "Drag to move · Double-click to remove"
+  },
+  {
+    "id": "h017-042",
+    "en": "Draw"
+  },
+  {
+    "id": "h017-043",
+    "en": "Drop old auth tables"
+  },
+  {
+    "id": "h017-044",
+    "en": "Dropdowns"
+  },
+  {
+    "id": "h017-045",
+    "en": "Dummy Quick Input"
+  },
+  {
+    "id": "h017-046",
+    "en": "Dummy Quick Pick"
+  },
+  {
+    "id": "h017-047",
+    "en": "Dummy Quick Pick (Multi Select)"
+  },
+  {
+    "id": "h017-048",
+    "en": "Dummy Quick Pick (Short Description)"
+  },
+  {
+    "id": "h017-049",
+    "en": "Duplicate key"
+  },
+  {
+    "id": "h017-050",
+    "en": "Duration"
+  },
+  {
+    "id": "h017-051",
+    "en": "Dynamic Configs"
+  },
+  {
+    "id": "h017-052",
+    "en": "Each metric scores a completed automation run."
+  },
+  {
+    "id": "h017-053",
+    "en": "Edit Allowlist"
+  },
+  {
+    "id": "h017-054",
+    "en": "Edit Automation"
+  },
+  {
+    "id": "h017-055",
+    "en": "Edit CSS properties"
+  },
+  {
+    "id": "h017-056",
+    "en": "Edit Details"
+  },
+  {
+    "id": "h017-057",
+    "en": "Edit Icon"
+  },
+  {
+    "id": "h017-058",
+    "en": "Edit Message"
+  },
+  {
+    "id": "h017-059",
+    "en": "Edit Nearest User Message"
+  },
+  {
+    "id": "h017-060",
+    "en": "Edit Pull Request Title"
+  },
+  {
+    "id": "h017-061",
+    "en": "Edit Queued Message"
+  },
+  {
+    "id": "h017-062",
+    "en": "Edit Title"
+  },
+  {
+    "id": "h017-063",
+    "en": "Edit Workspace"
+  },
+  {
+    "id": "h017-064",
+    "en": "Edit your remote SSH configuration"
+  },
+  {
+    "id": "h017-065",
+    "en": "Edited"
+  },
+  {
+    "id": "h017-066",
+    "en": "Editors can change this app's code, including code that uses your secrets and API keys, and publish it to this app's address. Only add people you trust with those keys."
+  },
+  {
+    "id": "h017-067",
+    "en": "Edits with diffs and compact shells"
+  },
+  {
+    "id": "h017-068",
+    "en": "Ellipse"
+  },
+  {
+    "id": "h017-069",
+    "en": "Emacs"
+  },
+  {
+    "id": "h017-070",
+    "en": "Email, comma separated"
+  },
+  {
+    "id": "h017-071",
+    "en": "Empty file"
+  },
+  {
+    "id": "h017-072",
+    "en": "Empty title"
+  },
+  {
+    "id": "h017-073",
+    "en": "Enable & Reload"
+  },
+  {
+    "id": "h017-074",
+    "en": "Enable Auto-Merge"
+  },
+  {
+    "id": "h017-075",
+    "en": "Enable Computer Use"
+  },
+  {
+    "id": "h017-076",
+    "en": "Enable to get a shareable link"
+  },
+  {
+    "id": "h017-077",
+    "en": "End of cycle"
+  },
+  {
+    "id": "h017-078",
+    "en": "Endpoint"
+  },
+  {
+    "id": "h017-079",
+    "en": "Enter Full Screen"
+  },
+  {
+    "id": "h017-080",
+    "en": "Enter a test Teams message..."
+  },
+  {
+    "id": "h017-081",
+    "en": "Enter a test message..."
+  },
+  {
+    "id": "h017-082",
+    "en": "Enter at least one valid email address."
+  },
+  {
+    "id": "h017-083",
+    "en": "Enter key..."
+  },
+  {
+    "id": "h017-084",
+    "en": "Enter the message that was reacted to..."
+  },
+  {
+    "id": "h017-085",
+    "en": "Enter value..."
+  },
+  {
+    "id": "h017-086",
+    "en": "Environment details"
+  },
+  {
+    "id": "h017-087",
+    "en": "Err"
+  },
+  {
+    "id": "h017-088",
+    "en": "Error Dialog"
+  },
+  {
+    "id": "h017-089",
+    "en": "Error w/ Buttons"
+  },
+  {
+    "id": "h017-090",
+    "en": "Event Type"
+  },
+  {
+    "id": "h017-091",
+    "en": "Everything"
+  },
+  {
+    "id": "h017-092",
+    "en": "Everything Search"
+  },
+  {
+    "id": "h017-093",
+    "en": "Everything you love, still here"
+  },
+  {
+    "id": "h017-094",
+    "en": "Example Extension"
+  },
+  {
+    "id": "h017-095",
+    "en": "Existing Workspaces"
+  },
+  {
+    "id": "h017-096",
+    "en": "Exit Design Mode"
+  },
+  {
+    "id": "h017-097",
+    "en": "Exit Full Screen"
+  },
+  {
+    "id": "h017-098",
+    "en": "Expand"
+  },
+  {
+    "id": "h017-099",
+    "en": "Expand All Above"
+  },
+  {
+    "id": "h017-100",
+    "en": "Expand All Below"
+  },
+  {
+    "id": "h017-101",
+    "en": "Expand full chat"
+  },
+  {
+    "id": "h017-102",
+    "en": "Expand table"
+  },
+  {
+    "id": "h017-103",
+    "en": "Explore"
+  },
+  {
+    "id": "h017-104",
+    "en": "Explorer Orchestrator Cache"
+  },
+  {
+    "id": "h017-105",
+    "en": "Export Current Chat"
+  },
+  {
+    "id": "h017-106",
+    "en": "Export First"
+  },
+  {
+    "id": "h017-107",
+    "en": "Extra Buttons"
+  },
+  {
+    "id": "h017-108",
+    "en": "Extra context for the test run..."
+  },
+  {
+    "id": "h017-109",
+    "en": "Failed to Discard Changes"
+  },
+  {
+    "id": "h017-110",
+    "en": "Failed to Send Prompt to Agent"
+  },
+  {
+    "id": "h017-111",
+    "en": "Failed to Stage File"
+  },
+  {
+    "id": "h017-112",
+    "en": "Failed to Unstage File"
+  },
+  {
+    "id": "h017-113",
+    "en": "Failed to load diff"
+  },
+  {
+    "id": "h017-114",
+    "en": "Failed to load memory content. Please try again later."
+  },
+  {
+    "id": "h017-115",
+    "en": "Failed to load team members."
+  },
+  {
+    "id": "h017-116",
+    "en": "Failed to parse cached payload. The next read should self-heal by deleting this key."
+  },
+  {
+    "id": "h017-117",
+    "en": "Faster"
+  },
+  {
+    "id": "h017-118",
+    "en": "Fetch PRs"
+  },
+  {
+    "id": "h017-119",
+    "en": "Field notes on the birds of the bay's tree canopy."
+  },
+  {
+    "id": "h017-120",
+    "en": "Fifth item"
+  },
+  {
+    "id": "h017-121",
+    "en": "File Checked In Status"
+  },
+  {
+    "id": "h017-122",
+    "en": "File Icons"
+  },
+  {
+    "id": "h017-123",
+    "en": "File checkpoints"
+  },
+  {
+    "id": "h017-124",
+    "en": "File name tint and badge by VCS status. Read by file trees, diff headers, and pills."
+  },
+  {
+    "id": "h017-125",
+    "en": "File renamed without changes"
+  },
+  {
+    "id": "h017-126",
+    "en": "Files marked as viewed"
+  },
+  {
+    "id": "h017-127",
+    "en": "Files not owned by you"
+  },
+  {
+    "id": "h017-128",
+    "en": "Files to exclude"
+  },
+  {
+    "id": "h017-129",
+    "en": "Files to include"
+  },
+  {
+    "id": "h017-130",
+    "en": "Filter by ID, path, or git remote..."
+  },
+  {
+    "id": "h017-131",
+    "en": "Filter by cache key, remote authority, or path..."
+  },
+  {
+    "id": "h017-132",
+    "en": "Filter files"
+  },
+  {
+    "id": "h017-133",
+    "en": "Filter items..."
+  },
+  {
+    "id": "h017-134",
+    "en": "Filter output channels..."
+  },
+  {
+    "id": "h017-135",
+    "en": "Filter properties"
+  },
+  {
+    "id": "h017-136",
+    "en": "Find Next in Browser Page"
+  },
+  {
+    "id": "h017-137",
+    "en": "Find Next in Chat"
+  },
+  {
+    "id": "h017-138",
+    "en": "Find Next in Plan"
+  },
+  {
+    "id": "h017-139",
+    "en": "Find Next in Preview"
+  },
+  {
+    "id": "h017-140",
+    "en": "Find Previous in Browser Page"
+  },
+  {
+    "id": "h017-141",
+    "en": "Find Previous in Chat"
+  },
+  {
+    "id": "h017-142",
+    "en": "Find Previous in Plan"
+  },
+  {
+    "id": "h017-143",
+    "en": "Find Previous in Preview"
+  },
+  {
+    "id": "h017-144",
+    "en": "Find in Browser Page"
+  },
+  {
+    "id": "h017-145",
+    "en": "Find in Chat"
+  },
+  {
+    "id": "h017-146",
+    "en": "Find in File"
+  },
+  {
+    "id": "h017-147",
+    "en": "Find in Output"
+  },
+  {
+    "id": "h017-148",
+    "en": "Find in Project Notes"
+  },
+  {
+    "id": "h017-149",
+    "en": "Find in Terminal"
+  }
+]

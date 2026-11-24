@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h022-000",
+    "en": "Re-approve"
+  },
+  {
+    "id": "h022-001",
+    "en": "React"
+  },
+  {
+    "id": "h022-002",
+    "en": "React Portal Demo"
+  },
+  {
+    "id": "h022-003",
+    "en": "React Transcript"
+  },
+  {
+    "id": "h022-004",
+    "en": "React root → present"
+  },
+  {
+    "id": "h022-005",
+    "en": "Reacted Message"
+  },
+  {
+    "id": "h022-006",
+    "en": "Reaction"
+  },
+  {
+    "id": "h022-007",
+    "en": "Reaction added to message"
+  },
+  {
+    "id": "h022-008",
+    "en": "Reactive Storage Devtool"
+  },
+  {
+    "id": "h022-009",
+    "en": "Read Microsoft Teams Channels"
+  },
+  {
+    "id": "h022-010",
+    "en": "Read Public Slack Channels"
+  },
+  {
+    "id": "h022-011",
+    "en": "Read only"
+  },
+  {
+    "id": "h022-012",
+    "en": "Reading chats"
+  },
+  {
+    "id": "h022-013",
+    "en": "Ready to merge · #142"
+  },
+  {
+    "id": "h022-014",
+    "en": "Ready to save"
+  },
+  {
+    "id": "h022-015",
+    "en": "Ready to update"
+  },
+  {
+    "id": "h022-016",
+    "en": "Rebase"
+  },
+  {
+    "id": "h022-017",
+    "en": "Rebuild Container"
+  },
+  {
+    "id": "h022-018",
+    "en": "Rebuild the dev container with new configuration"
+  },
+  {
+    "id": "h022-019",
+    "en": "Recent agents switcher"
+  },
+  {
+    "id": "h022-020",
+    "en": "Recently changed"
+  },
+  {
+    "id": "h022-021",
+    "en": "Recheck"
+  },
+  {
+    "id": "h022-022",
+    "en": "Reclaim Unused Database Pages"
+  },
+  {
+    "id": "h022-023",
+    "en": "Reclaim unused database pages"
+  },
+  {
+    "id": "h022-024",
+    "en": "Reclaimable free space"
+  },
+  {
+    "id": "h022-025",
+    "en": "Recommendations"
+  },
+  {
+    "id": "h022-026",
+    "en": "Recompute habit streaks from local midnight so timezone changes stop double-counting yesterday"
+  },
+  {
+    "id": "h022-027",
+    "en": "Reconciling streak totals against the reminder schedule"
+  },
+  {
+    "id": "h022-028",
+    "en": "Reconnect Slack"
+  },
+  {
+    "id": "h022-029",
+    "en": "Reconnecting"
+  },
+  {
+    "id": "h022-030",
+    "en": "Rectangle"
+  },
+  {
+    "id": "h022-031",
+    "en": "Ref / Branch"
+  },
+  {
+    "id": "h022-032",
+    "en": "Refs"
+  },
+  {
+    "id": "h022-033",
+    "en": "Reinstall Remote SSH Server and Reload Window"
+  },
+  {
+    "id": "h022-034",
+    "en": "Release private worker"
+  },
+  {
+    "id": "h022-035",
+    "en": "Remember for this workspace"
+  },
+  {
+    "id": "h022-036",
+    "en": "Remote Authority:"
+  },
+  {
+    "id": "h022-037",
+    "en": "Remove Connection"
+  },
+  {
+    "id": "h022-038",
+    "en": "Remove Queued Message"
+  },
+  {
+    "id": "h022-039",
+    "en": "Remove a plugin from this agent"
+  },
+  {
+    "id": "h022-040",
+    "en": "Remove annotation"
+  },
+  {
+    "id": "h022-041",
+    "en": "Remove from Queue"
+  },
+  {
+    "id": "h022-042",
+    "en": "Remove from Sidebar"
+  },
+  {
+    "id": "h022-043",
+    "en": "Remove from Slack"
+  },
+  {
+    "id": "h022-044",
+    "en": "Remove from queue?"
+  },
+  {
+    "id": "h022-045",
+    "en": "Remove the connection?"
+  },
+  {
+    "id": "h022-046",
+    "en": "Removed"
+  },
+  {
+    "id": "h022-047",
+    "en": "Removed from "
+  },
+  {
+    "id": "h022-048",
+    "en": "Rendering very large diffs can slow down or crash the window"
+  },
+  {
+    "id": "h022-049",
+    "en": "Reopen Last Closed Chat Tab"
+  },
+  {
+    "id": "h022-050",
+    "en": "Reopen Last Closed Tab"
+  },
+  {
+    "id": "h022-051",
+    "en": "Reopen PR"
+  },
+  {
+    "id": "h022-052",
+    "en": "Reopen conversation"
+  },
+  {
+    "id": "h022-053",
+    "en": "Reopen in Browser"
+  },
+  {
+    "id": "h022-054",
+    "en": "Repairing"
+  },
+  {
+    "id": "h022-055",
+    "en": "Replace your saved edits?"
+  },
+  {
+    "id": "h022-056",
+    "en": "Replay Grok Build unboxing"
+  },
+  {
+    "id": "h022-057",
+    "en": "Repo URL:"
+  },
+  {
+    "id": "h022-058",
+    "en": "Repo path:"
+  },
+  {
+    "id": "h022-059",
+    "en": "Report this problem"
+  },
+  {
+    "id": "h022-060",
+    "en": "Reproduction Steps"
+  },
+  {
+    "id": "h022-061",
+    "en": "Request Again"
+  },
+  {
+    "id": "h022-062",
+    "en": "Request Denied"
+  },
+  {
+    "id": "h022-063",
+    "en": "Request Reviewers"
+  },
+  {
+    "id": "h022-064",
+    "en": "Requires connection"
+  },
+  {
+    "id": "h022-065",
+    "en": "Reset Remote Control Ad State"
+  },
+  {
+    "id": "h022-066",
+    "en": "Reset all CSS edits"
+  },
+  {
+    "id": "h022-067",
+    "en": "Reset link"
+  },
+  {
+    "id": "h022-068",
+    "en": "Reset link?"
+  },
+  {
+    "id": "h022-069",
+    "en": "Reset this pane to a new agent"
+  },
+  {
+    "id": "h022-070",
+    "en": "Reset this pane to a new agent. In a tileset, replaces the current tile with a blank draft instead of leaving the tileset."
+  },
+  {
+    "id": "h022-071",
+    "en": "Resize changes sidebar"
+  },
+  {
+    "id": "h022-072",
+    "en": "Resize diff meter"
+  },
+  {
+    "id": "h022-073",
+    "en": "Resize terminal tree"
+  },
+  {
+    "id": "h022-074",
+    "en": "Resolve Project Task"
+  },
+  {
+    "id": "h022-075",
+    "en": "Resolve Workspace Path For Inline Code"
+  },
+  {
+    "id": "h022-076",
+    "en": "Resolve conversation"
+  },
+  {
+    "id": "h022-077",
+    "en": "Restore Window"
+  },
+  {
+    "id": "h022-078",
+    "en": "Restoring your session"
+  },
+  {
+    "id": "h022-079",
+    "en": "Retained After Close"
+  },
+  {
+    "id": "h022-080",
+    "en": "Retarget File Tabs"
+  },
+  {
+    "id": "h022-081",
+    "en": "Reveal Agent Message"
+  },
+  {
+    "id": "h022-082",
+    "en": "Review Again"
+  },
+  {
+    "id": "h022-083",
+    "en": "Review Plan"
+  },
+  {
+    "id": "h022-084",
+    "en": "Review submitted as"
+  },
+  {
+    "id": "h022-085",
+    "en": "Review thread..."
+  },
+  {
+    "id": "h022-086",
+    "en": "Rewrite the weekly recap digest template and all supporting copy"
+  },
+  {
+    "id": "h022-087",
+    "en": "Right Icon"
+  },
+  {
+    "id": "h022-088",
+    "en": "Roll out to beta users"
+  },
+  {
+    "id": "h022-089",
+    "en": "Rotate"
+  },
+  {
+    "id": "h022-090",
+    "en": "Rulers"
+  },
+  {
+    "id": "h022-091",
+    "en": "Run in"
+  },
+  {
+    "id": "h022-092",
+    "en": "Run in Background"
+  },
+  {
+    "id": "h022-093",
+    "en": "Run summary"
+  },
+  {
+    "id": "h022-094",
+    "en": "Run tasks in parallel"
+  },
+  {
+    "id": "h022-095",
+    "en": "Run this eval automatically using the same UTC cron schedules as Automations."
+  },
+  {
+    "id": "h022-096",
+    "en": "Runs in a local web-worker extension host inside this renderer process."
+  },
+  {
+    "id": "h022-097",
+    "en": "Runs in a separate local OS process for extension-host work."
+  },
+  {
+    "id": "h022-098",
+    "en": "Runs in its Project's chats, with the Project's repo and environment."
+  },
+  {
+    "id": "h022-099",
+    "en": "Runs in the remote extension host for this workspace."
+  },
+  {
+    "id": "h022-100",
+    "en": "Rust"
+  },
+  {
+    "id": "h022-101",
+    "en": "SELECTED"
+  },
+  {
+    "id": "h022-102",
+    "en": "SQLite overhead"
+  },
+  {
+    "id": "h022-103",
+    "en": "SSH Connect Dialog Back"
+  },
+  {
+    "id": "h022-104",
+    "en": "SSH Hostname"
+  },
+  {
+    "id": "h022-105",
+    "en": "SVG preview"
+  },
+  {
+    "id": "h022-106",
+    "en": "SVG source"
+  },
+  {
+    "id": "h022-107",
+    "en": "SVG view"
+  },
+  {
+    "id": "h022-108",
+    "en": "Save Environment"
+  },
+  {
+    "id": "h022-109",
+    "en": "Save Environment as"
+  },
+  {
+    "id": "h022-110",
+    "en": "Save and Disable"
+  },
+  {
+    "id": "h022-111",
+    "en": "Save or discard changes before continuing"
+  },
+  {
+    "id": "h022-112",
+    "en": "Save to workspace"
+  },
+  {
+    "id": "h022-113",
+    "en": "Save your changes to a stash and restore them later"
+  },
+  {
+    "id": "h022-114",
+    "en": "Saved At:"
+  },
+  {
+    "id": "h022-115",
+    "en": "Saving once the Project is set up…"
+  },
+  {
+    "id": "h022-116",
+    "en": "Scale of the whole Cursor window, the same as Zoom In and Zoom Out"
+  },
+  {
+    "id": "h022-117",
+    "en": "Scheduled run"
+  },
+  {
+    "id": "h022-118",
+    "en": "Scroll Agent Panel Down"
+  },
+  {
+    "id": "h022-119",
+    "en": "Scroll Agent Panel Up"
+  },
+  {
+    "id": "h022-120",
+    "en": "Scroll Agent Panel to Bottom"
+  },
+  {
+    "id": "h022-121",
+    "en": "Scroll Agent Panel to Top"
+  },
+  {
+    "id": "h022-122",
+    "en": "Scroll Down"
+  },
+  {
+    "id": "h022-123",
+    "en": "Scroll Up"
+  },
+  {
+    "id": "h022-124",
+    "en": "Scrollable AI Input Box"
+  },
+  {
+    "id": "h022-125",
+    "en": "Scrollable Div"
+  },
+  {
+    "id": "h022-126",
+    "en": "Scrollable Div Stable Scroll Example"
+  },
+  {
+    "id": "h022-127",
+    "en": "Search Agents"
+  },
+  {
+    "id": "h022-128",
+    "en": "Search Cursor Settings"
+  },
+  {
+    "id": "h022-129",
+    "en": "Search Extensions"
+  },
+  {
+    "id": "h022-130",
+    "en": "Search Providers"
+  },
+  {
+    "id": "h022-131",
+    "en": "Search Sentry projects..."
+  },
+  {
+    "id": "h022-132",
+    "en": "Search Triggers..."
+  },
+  {
+    "id": "h022-133",
+    "en": "Search automations"
+  },
+  {
+    "id": "h022-134",
+    "en": "Search automation…"
+  },
+  {
+    "id": "h022-135",
+    "en": "Search channels or paste channel ID..."
+  },
+  {
+    "id": "h022-136",
+    "en": "Search compute providers…"
+  },
+  {
+    "id": "h022-137",
+    "en": "Search dynamic configs..."
+  },
+  {
+    "id": "h022-138",
+    "en": "Search environments"
+  },
+  {
+    "id": "h022-139",
+    "en": "Search experiments..."
+  },
+  {
+    "id": "h022-140",
+    "en": "Search feature flags..."
+  },
+  {
+    "id": "h022-141",
+    "en": "Search fonts"
+  },
+  {
+    "id": "h022-142",
+    "en": "Search keybindings..."
+  },
+  {
+    "id": "h022-143",
+    "en": "Search members"
+  },
+  {
+    "id": "h022-144",
+    "en": "Search models..."
+  },
+  {
+    "id": "h022-145",
+    "en": "Search or enter URL..."
+  },
+  {
+    "id": "h022-146",
+    "en": "Search projects..."
+  },
+  {
+    "id": "h022-147",
+    "en": "Search repositories"
+  },
+  {
+    "id": "h022-148",
+    "en": "Search requests"
+  },
+  {
+    "id": "h022-149",
+    "en": "Search services..."
+  }
+]

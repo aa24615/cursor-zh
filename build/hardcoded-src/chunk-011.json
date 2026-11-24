@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h011-000",
+    "en": "Run Everything Mode Warning"
+  },
+  {
+    "id": "h011-001",
+    "en": "Run Mode"
+  },
+  {
+    "id": "h011-002",
+    "en": "Run Security Review"
+  },
+  {
+    "id": "h011-003",
+    "en": "Run a Cursor-specific workflow."
+  },
+  {
+    "id": "h011-004",
+    "en": "Run a shell command in the terminal."
+  },
+  {
+    "id": "h011-005",
+    "en": "Run agents from your phone"
+  },
+  {
+    "id": "h011-006",
+    "en": "Run all commands without approval or sandboxing"
+  },
+  {
+    "id": "h011-007",
+    "en": "Run and coordinate multiple tasks in parallel"
+  },
+  {
+    "id": "h011-008",
+    "en": "Run as"
+  },
+  {
+    "id": "h011-009",
+    "en": "Run command"
+  },
+  {
+    "id": "h011-010",
+    "en": "Run it on this computer"
+  },
+  {
+    "id": "h011-011",
+    "en": "Run this agent in a new SSH worktree"
+  },
+  {
+    "id": "h011-012",
+    "en": "Run this agent in a new git worktree"
+  },
+  {
+    "id": "h011-013",
+    "en": "Running Capabilities"
+  },
+  {
+    "id": "h011-014",
+    "en": "Runs On"
+  },
+  {
+    "id": "h011-015",
+    "en": "Runs as Service Account"
+  },
+  {
+    "id": "h011-016",
+    "en": "Runs on Cursor's servers"
+  },
+  {
+    "id": "h011-017",
+    "en": "Runs on your computers"
+  },
+  {
+    "id": "h011-018",
+    "en": "SIGCONT"
+  },
+  {
+    "id": "h011-019",
+    "en": "SIGHUP"
+  },
+  {
+    "id": "h011-020",
+    "en": "SIGINT"
+  },
+  {
+    "id": "h011-021",
+    "en": "SIGKILL"
+  },
+  {
+    "id": "h011-022",
+    "en": "SIGQUIT"
+  },
+  {
+    "id": "h011-023",
+    "en": "SIGSTOP"
+  },
+  {
+    "id": "h011-024",
+    "en": "SIGTERM"
+  },
+  {
+    "id": "h011-025",
+    "en": "SIGUSR1"
+  },
+  {
+    "id": "h011-026",
+    "en": "SIGUSR2"
+  },
+  {
+    "id": "h011-027",
+    "en": "Sal"
+  },
+  {
+    "id": "h011-028",
+    "en": "Save Error"
+  },
+  {
+    "id": "h011-029",
+    "en": "Save File"
+  },
+  {
+    "id": "h011-030",
+    "en": "Save Image As..."
+  },
+  {
+    "id": "h011-031",
+    "en": "Save and Enable"
+  },
+  {
+    "id": "h011-032",
+    "en": "Save edit"
+  },
+  {
+    "id": "h011-033",
+    "en": "Save your changes and restore them later"
+  },
+  {
+    "id": "h011-034",
+    "en": "Scan and Triage Security Vulnerabilities"
+  },
+  {
+    "id": "h011-035",
+    "en": "Schedule"
+  },
+  {
+    "id": "h011-036",
+    "en": "Schedule saved."
+  },
+  {
+    "id": "h011-037",
+    "en": "Scheduled"
+  },
+  {
+    "id": "h011-038",
+    "en": "Screen recording"
+  },
+  {
+    "id": "h011-039",
+    "en": "Scroll editor in the given direction"
+  },
+  {
+    "id": "h011-040",
+    "en": "Scroll to bottom"
+  },
+  {
+    "id": "h011-041",
+    "en": "Search Agents..."
+  },
+  {
+    "id": "h011-042",
+    "en": "Search Google for "
+  },
+  {
+    "id": "h011-043",
+    "en": "Search Remote Machines…"
+  },
+  {
+    "id": "h011-044",
+    "en": "Search anything"
+  },
+  {
+    "id": "h011-045",
+    "en": "Search groups"
+  },
+  {
+    "id": "h011-046",
+    "en": "Search icons..."
+  },
+  {
+    "id": "h011-047",
+    "en": "Search or Paste Link"
+  },
+  {
+    "id": "h011-048",
+    "en": "Search or enter URL"
+  },
+  {
+    "id": "h011-049",
+    "en": "Search organizations..."
+  },
+  {
+    "id": "h011-050",
+    "en": "Search plugins"
+  },
+  {
+    "id": "h011-051",
+    "en": "Search web"
+  },
+  {
+    "id": "h011-052",
+    "en": "Search..."
+  },
+  {
+    "id": "h011-053",
+    "en": "Second test option"
+  },
+  {
+    "id": "h011-054",
+    "en": "Secret Access Key"
+  },
+  {
+    "id": "h011-055",
+    "en": "Security Review"
+  },
+  {
+    "id": "h011-056",
+    "en": "Security checks on every change."
+  },
+  {
+    "id": "h011-057",
+    "en": "Select Custom Chime Sound"
+  },
+  {
+    "id": "h011-058",
+    "en": "Select Model"
+  },
+  {
+    "id": "h011-059",
+    "en": "Select Multiple"
+  },
+  {
+    "id": "h011-060",
+    "en": "Select a local marketplace folder"
+  },
+  {
+    "id": "h011-061",
+    "en": "Select a local plugin repo"
+  },
+  {
+    "id": "h011-062",
+    "en": "Select to End"
+  },
+  {
+    "id": "h011-063",
+    "en": "Select who can see and use plugins from this team marketplace"
+  },
+  {
+    "id": "h011-064",
+    "en": "Select your preferred embedding model. Delete your index and reload to use it."
+  },
+  {
+    "id": "h011-065",
+    "en": "Semantic search"
+  },
+  {
+    "id": "h011-066",
+    "en": "Send After Current Message"
+  },
+  {
+    "id": "h011-067",
+    "en": "Send Right Away"
+  },
+  {
+    "id": "h011-068",
+    "en": "Send after Agent finishes"
+  },
+  {
+    "id": "h011-069",
+    "en": "Send invite"
+  },
+  {
+    "id": "h011-070",
+    "en": "Sending feedback…"
+  },
+  {
+    "id": "h011-071",
+    "en": "Sending the voice chat's last rows"
+  },
+  {
+    "id": "h011-072",
+    "en": "Serialized RequestContext bytes staged by the client"
+  },
+  {
+    "id": "h011-073",
+    "en": "Serve Marketplace From Cursor"
+  },
+  {
+    "id": "h011-074",
+    "en": "Server URL"
+  },
+  {
+    "id": "h011-075",
+    "en": "Server name"
+  },
+  {
+    "id": "h011-076",
+    "en": "Set a fixed amount or make it unlimited."
+  },
+  {
+    "id": "h011-077",
+    "en": "Set a fixed amount or make on-demand usage unlimited"
+  },
+  {
+    "id": "h011-078",
+    "en": "Set the maximum width of Agent conversations"
+  },
+  {
+    "id": "h011-079",
+    "en": "Set up a team marketplace"
+  },
+  {
+    "id": "h011-080",
+    "en": "Set up or troubleshoot a Cursor Cloud Agent environment."
+  },
+  {
+    "id": "h011-081",
+    "en": "Setup logs"
+  },
+  {
+    "id": "h011-082",
+    "en": "Setup to run inside a newly created worktree (generic fallback). Either an array of shell commands or a path to a script file relative to this JSON file."
+  },
+  {
+    "id": "h011-083",
+    "en": "Share Now"
+  },
+  {
+    "id": "h011-084",
+    "en": "Ship better code, faster"
+  },
+  {
+    "id": "h011-085",
+    "en": "Show Bookmark Bar"
+  },
+  {
+    "id": "h011-086",
+    "en": "Show Chat History"
+  },
+  {
+    "id": "h011-087",
+    "en": "Show Cursor in the menu bar"
+  },
+  {
+    "id": "h011-088",
+    "en": "Show Cursor in the system tray"
+  },
+  {
+    "id": "h011-089",
+    "en": "Show React's component render tracks in the Chrome DevTools Performance panel. They cost time on every commit even when nothing is recording, so turn them on only to profile. Reloads the window."
+  },
+  {
+    "id": "h011-090",
+    "en": "Show Sidebar"
+  },
+  {
+    "id": "h011-091",
+    "en": "Show View Zone When Preview Box Is Clipped"
+  },
+  {
+    "id": "h011-092",
+    "en": "Show a view zone when the preview box is clipped"
+  },
+  {
+    "id": "h011-093",
+    "en": "Show an Open worktree link in the Terminal when the Agent works in a worktree"
+  },
+  {
+    "id": "h011-094",
+    "en": "Show chats as editor tabs inside the chat area instead of the legacy stacked view"
+  },
+  {
+    "id": "h011-095",
+    "en": "Show inline diff decorations in the editor"
+  },
+  {
+    "id": "h011-096",
+    "en": "Show inline diff decorations in the editor instead of only showing changes in the review panel"
+  },
+  {
+    "id": "h011-097",
+    "en": "Show inline diff review controls in top level breadcrumbs or floating island"
+  },
+  {
+    "id": "h011-098",
+    "en": "Show markdown hover participant actions"
+  },
+  {
+    "id": "h011-099",
+    "en": "Show notification toasts in the same location as the chat"
+  },
+  {
+    "id": "h011-100",
+    "en": "Show notifications for less urgent issues. Errors and informational notifications are always shown."
+  },
+  {
+    "id": "h011-101",
+    "en": "Show rotating tips on the empty screen."
+  },
+  {
+    "id": "h011-102",
+    "en": "Show status bar at the bottom of the window"
+  },
+  {
+    "id": "h011-103",
+    "en": "Show the Add to Chat button"
+  },
+  {
+    "id": "h011-104",
+    "en": "Show the Add to Chat button when selecting code"
+  },
+  {
+    "id": "h011-105",
+    "en": "Show the Open worktree link in Terminal"
+  },
+  {
+    "id": "h011-106",
+    "en": "Show title bar in agent layout"
+  },
+  {
+    "id": "h011-107",
+    "en": "Showing cached usage data"
+  },
+  {
+    "id": "h011-108",
+    "en": "Side chats"
+  },
+  {
+    "id": "h011-109",
+    "en": "Sign in again to keep using it."
+  },
+  {
+    "id": "h011-110",
+    "en": "Sign in on this computer to keep using it."
+  },
+  {
+    "id": "h011-111",
+    "en": "Sign-in restricted"
+  },
+  {
+    "id": "h011-112",
+    "en": "Sirius"
+  },
+  {
+    "id": "h011-113",
+    "en": "Skill"
+  },
+  {
+    "id": "h011-114",
+    "en": "Skill name"
+  },
+  {
+    "id": "h011-115",
+    "en": "Skill warnings"
+  },
+  {
+    "id": "h011-116",
+    "en": "Skills package domain-specific knowledge and workflows that Agent applies automatically when relevant."
+  },
+  {
+    "id": "h011-117",
+    "en": "Skip For Now"
+  },
+  {
+    "id": "h011-118",
+    "en": "Skip symlinks during discovery"
+  },
+  {
+    "id": "h011-119",
+    "en": "Slack Token"
+  },
+  {
+    "id": "h011-120",
+    "en": "Slack channel"
+  },
+  {
+    "id": "h011-121",
+    "en": "Slash commands"
+  },
+  {
+    "id": "h011-122",
+    "en": "Smart Allowlist"
+  },
+  {
+    "id": "h011-123",
+    "en": "Solid Dev Tools"
+  },
+  {
+    "id": "h011-124",
+    "en": "Something is off"
+  },
+  {
+    "id": "h011-125",
+    "en": "Something went wrong. Please reload your workspace and try again."
+  },
+  {
+    "id": "h011-126",
+    "en": "Something went wrong. Please try opening a new chat."
+  },
+  {
+    "id": "h011-127",
+    "en": "Sort by options"
+  },
+  {
+    "id": "h011-128",
+    "en": "Spend limit"
+  },
+  {
+    "id": "h011-129",
+    "en": "Spend limits for team plans are managed by team admins in the dashboard"
+  },
+  {
+    "id": "h011-130",
+    "en": "Split Tile Horizontally"
+  },
+  {
+    "id": "h011-131",
+    "en": "Split Tile Vertically"
+  },
+  {
+    "id": "h011-132",
+    "en": "Squash & Merge"
+  },
+  {
+    "id": "h011-133",
+    "en": "Squash all commits into one"
+  },
+  {
+    "id": "h011-134",
+    "en": "Squash merge"
+  },
+  {
+    "id": "h011-135",
+    "en": "Stale snapshot from warm fork"
+  },
+  {
+    "id": "h011-136",
+    "en": "Start Agent Review on Commit"
+  },
+  {
+    "id": "h011-137",
+    "en": "Start Plan Now"
+  },
+  {
+    "id": "h011-138",
+    "en": "Start writing your plan..."
+  },
+  {
+    "id": "h011-139",
+    "en": "Start writing..."
+  },
+  {
+    "id": "h011-140",
+    "en": "Static OAuth client credentials for this server (optional)"
+  },
+  {
+    "id": "h011-141",
+    "en": "Steer"
+  },
+  {
+    "id": "h011-142",
+    "en": "Steer New Messages?"
+  },
+  {
+    "id": "h011-143",
+    "en": "Steer the agent without stopping it"
+  },
+  {
+    "id": "h011-144",
+    "en": "Steering sends new messages to Agent while it works, without stopping it. Open Settings to turn it on."
+  },
+  {
+    "id": "h011-145",
+    "en": "Step limit not supported"
+  },
+  {
+    "id": "h011-146",
+    "en": "Still running locally?"
+  },
+  {
+    "id": "h011-147",
+    "en": "Stop Bisect"
+  },
+  {
+    "id": "h011-148",
+    "en": "Stop recording"
+  },
+  {
+    "id": "h011-149",
+    "en": "Stop sharing"
+  }
+]

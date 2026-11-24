@@ -1,0 +1,482 @@
+[
+  {
+    "id": "011-000",
+    "en": "Disable HTTP/2.0"
+  },
+  {
+    "id": "011-001",
+    "en": "Disable HTTP/2 for all requests, and use HTTP/1.1 instead. This increases resource utilization and latency, but is useful behind a corporate proxy that blocks HTTP/2."
+  },
+  {
+    "id": "011-002",
+    "en": "Debug Timeout Prevention"
+  },
+  {
+    "id": "011-003",
+    "en": "Index Repositories for Instant Grep"
+  },
+  {
+    "id": "011-004",
+    "en": "Controls whether Cursor indexes repositories locally for Instant Grep. Disable this policy to prevent repository indexing on managed devices."
+  },
+  {
+    "id": "011-005",
+    "en": "Match Agent chat"
+  },
+  {
+    "id": "011-006",
+    "en": "Small"
+  },
+  {
+    "id": "011-007",
+    "en": "Default"
+  },
+  {
+    "id": "011-008",
+    "en": "Large"
+  },
+  {
+    "id": "011-009",
+    "en": "Extra Large"
+  },
+  {
+    "id": "011-010",
+    "en": "Compact"
+  },
+  {
+    "id": "011-011",
+    "en": "Balanced"
+  },
+  {
+    "id": "011-012",
+    "en": "Detailed"
+  },
+  {
+    "id": "011-013",
+    "en": "Compact"
+  },
+  {
+    "id": "011-014",
+    "en": "Balanced"
+  },
+  {
+    "id": "011-015",
+    "en": "Detailed"
+  },
+  {
+    "id": "011-016",
+    "en": "Whether this window can start its repo's Airlock container"
+  },
+  {
+    "id": "011-017",
+    "en": "Whether this window can open the airlock"
+  },
+  {
+    "id": "011-018",
+    "en": "Cursor opens the airlock with the Dev Containers extension, which isn't installed or is turned off."
+  },
+  {
+    "id": "011-019",
+    "en": "Trust this folder before Cursor runs its Airlock start command."
+  },
+  {
+    "id": "011-020",
+    "en": "Starting the Airlock container"
+  },
+  {
+    "id": "011-021",
+    "en": "Airlock container {0} is running"
+  },
+  {
+    "id": "011-022",
+    "en": "Connect to Airlock"
+  },
+  {
+    "id": "011-023",
+    "en": "Open a repo's folder on this computer, then connect to its Airlock."
+  },
+  {
+    "id": "011-024",
+    "en": "Connecting to the Airlock"
+  },
+  {
+    "id": "011-025",
+    "en": "Open Log"
+  },
+  {
+    "id": "011-026",
+    "en": "Reload Window"
+  },
+  {
+    "id": "011-027",
+    "en": "Connect to Airlock"
+  },
+  {
+    "id": "011-028",
+    "en": "Start Airlock Container"
+  },
+  {
+    "id": "011-029",
+    "en": "Changing Instant Grep requires reloading the window."
+  },
+  {
+    "id": "011-030",
+    "en": "Press Reload Window to {0} Instant Grep now. Press Cancel to keep the current setting."
+  },
+  {
+    "id": "011-031",
+    "en": "&&Reload Window"
+  },
+  {
+    "id": "011-032",
+    "en": "[Debug] Score Commit for AI Content"
+  },
+  {
+    "id": "011-033",
+    "en": "[Debug] Score Commit with Details"
+  },
+  {
+    "id": "011-034",
+    "en": "Reset AI Code Tracking Stats"
+  },
+  {
+    "id": "011-035",
+    "en": "AI Code Tracking"
+  },
+  {
+    "id": "011-036",
+    "en": "Toggle Agents Side Bar"
+  },
+  {
+    "id": "011-037",
+    "en": "Toggle Agents Side Bar visibility"
+  },
+  {
+    "id": "011-038",
+    "en": "Toggle Agents"
+  },
+  {
+    "id": "011-039",
+    "en": "Toggle Agents visibility"
+  },
+  {
+    "id": "011-040",
+    "en": "Toggle Agents Side Bar"
+  },
+  {
+    "id": "011-041",
+    "en": "Toggle Agents"
+  },
+  {
+    "id": "011-042",
+    "en": "Apply Layout Storage Data"
+  },
+  {
+    "id": "011-043",
+    "en": "Paste JSON produced by \"Dump Layout Storage Data\""
+  },
+  {
+    "id": "011-044",
+    "en": "Invalid JSON: {0}"
+  },
+  {
+    "id": "011-045",
+    "en": "Applied layout storage data ({0} updated, {1} removed). Some changes may require a window reload to fully reflect."
+  },
+  {
+    "id": "011-046",
+    "en": "Failed to apply layout storage data: {0}"
+  },
+  {
+    "id": "011-047",
+    "en": "Dump Layout Storage Data"
+  },
+  {
+    "id": "011-048",
+    "en": "Apply Layout Storage Data"
+  },
+  {
+    "id": "011-049",
+    "en": "New Agents Window"
+  },
+  {
+    "id": "011-050",
+    "en": "Switch to {0}"
+  },
+  {
+    "id": "011-051",
+    "en": "Couldn't open the Agents window to switch the model. Open the Agents window and try again."
+  },
+  {
+    "id": "011-052",
+    "en": "Couldn't switch the model in the Agents window. Try again."
+  },
+  {
+    "id": "011-053",
+    "en": "New Agents Window"
+  },
+  {
+    "id": "011-054",
+    "en": "Developer: New Additional Agents Window"
+  },
+  {
+    "id": "011-055",
+    "en": "Switch to {0}"
+  },
+  {
+    "id": "011-056",
+    "en": "Open or Focus {0}"
+  },
+  {
+    "id": "011-057",
+    "en": "Open or Focus IDE"
+  },
+  {
+    "id": "011-058",
+    "en": "Open Glass and Switch Model"
+  },
+  {
+    "id": "011-059",
+    "en": "Open Glass and Change to Multitask"
+  },
+  {
+    "id": "011-060",
+    "en": "Open Agents Window and Create Project"
+  },
+  {
+    "id": "011-061",
+    "en": "Open Agents Window and Start Cloud Agent"
+  },
+  {
+    "id": "011-062",
+    "en": "No accounts requested yet..."
+  },
+  {
+    "id": "011-063",
+    "en": "Loading..."
+  },
+  {
+    "id": "011-064",
+    "en": "Open Automations"
+  },
+  {
+    "id": "011-065",
+    "en": "Save Automation"
+  },
+  {
+    "id": "011-066",
+    "en": "&&Close Window"
+  },
+  {
+    "id": "011-067",
+    "en": "Change &&Workspace"
+  },
+  {
+    "id": "011-068",
+    "en": "&&Reload Window"
+  },
+  {
+    "id": "011-069",
+    "en": "Are you sure you want to quit?"
+  },
+  {
+    "id": "011-070",
+    "en": "&&Quit"
+  },
+  {
+    "id": "011-071",
+    "en": "Show Less"
+  },
+  {
+    "id": "011-072",
+    "en": "Show More"
+  },
+  {
+    "id": "011-073",
+    "en": "Search canvases"
+  },
+  {
+    "id": "011-074",
+    "en": "Canvases..."
+  },
+  {
+    "id": "011-075",
+    "en": "New Canvas"
+  },
+  {
+    "id": "011-076",
+    "en": "Results"
+  },
+  {
+    "id": "011-077",
+    "en": "Recents"
+  },
+  {
+    "id": "011-078",
+    "en": "Open Canvas"
+  },
+  {
+    "id": "011-079",
+    "en": "Open visible inline canvas preview"
+  },
+  {
+    "id": "011-080",
+    "en": "Sharing canvas…"
+  },
+  {
+    "id": "011-081",
+    "en": "Canvas link copied to clipboard."
+  },
+  {
+    "id": "011-082",
+    "en": "Canvas shared. Copy the link from the share menu if needed."
+  },
+  {
+    "id": "011-083",
+    "en": "Canvas synced."
+  },
+  {
+    "id": "011-084",
+    "en": "Canvas is no longer available"
+  },
+  {
+    "id": "011-085",
+    "en": "Could not open Canvas"
+  },
+  {
+    "id": "011-086",
+    "en": "Skip"
+  },
+  {
+    "id": "011-087",
+    "en": "&&Render Whitespace"
+  },
+  {
+    "id": "011-088",
+    "en": "Paste Selection Clipboard"
+  },
+  {
+    "id": "011-089",
+    "en": "Start TextMate Syntax Grammar Logging"
+  },
+  {
+    "id": "011-090",
+    "en": "Comments"
+  },
+  {
+    "id": "011-091",
+    "en": "View icon of the comments view."
+  },
+  {
+    "id": "011-092",
+    "en": "Collapse All"
+  },
+  {
+    "id": "011-093",
+    "en": "Expand All"
+  },
+  {
+    "id": "011-094",
+    "en": "{0} Unresolved Comments"
+  },
+  {
+    "id": "011-095",
+    "en": "[Ln {0}]"
+  },
+  {
+    "id": "011-096",
+    "en": "[Ln {0}-{1}]"
+  },
+  {
+    "id": "011-097",
+    "en": "Collapse"
+  },
+  {
+    "id": "011-098",
+    "en": "Close Browser Tab"
+  },
+  {
+    "id": "011-099",
+    "en": "This browser was created by an Agent. Closing it may impact a running chat."
+  },
+  {
+    "id": "011-100",
+    "en": "&&Hide"
+  },
+  {
+    "id": "011-101",
+    "en": "&&Close"
+  },
+  {
+    "id": "011-102",
+    "en": "Open Browser"
+  },
+  {
+    "id": "011-103",
+    "en": "New Browser Tab"
+  },
+  {
+    "id": "011-104",
+    "en": "Reload Browser Tab"
+  },
+  {
+    "id": "011-105",
+    "en": "Focus Browser Location Bar"
+  },
+  {
+    "id": "011-106",
+    "en": "Open cursor.com in Browser"
+  },
+  {
+    "id": "011-107",
+    "en": "Custom chime sound path cannot be a network (UNC) path for security reasons. Please use a local file path."
+  },
+  {
+    "id": "011-108",
+    "en": "Custom chime sound path cannot be a URL. Please use a local file path."
+  },
+  {
+    "id": "011-109",
+    "en": "Custom chime sound is configured in workspace settings but the workspace is not trusted. The custom sound will be ignored."
+  },
+  {
+    "id": "011-110",
+    "en": "Cursor Chimes"
+  },
+  {
+    "id": "011-111",
+    "en": "{0}+K now adds the selection to Agent, the same as {0}+L. Inline edit and terminal {0}+K are retired."
+  },
+  {
+    "id": "011-112",
+    "en": "Add Selection to Agent"
+  },
+  {
+    "id": "011-113",
+    "en": "Prompt"
+  },
+  {
+    "id": "011-114",
+    "en": "Edit message"
+  },
+  {
+    "id": "011-115",
+    "en": "Cursor AI"
+  },
+  {
+    "id": "011-116",
+    "en": "Cursor AI"
+  },
+  {
+    "id": "011-117",
+    "en": "Agent error: {0}"
+  },
+  {
+    "id": "011-118",
+    "en": "Agent stopped."
+  },
+  {
+    "id": "011-119",
+    "en": "Agent finished."
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h002-000",
+    "en": "Previous cycle"
+  },
+  {
+    "id": "h002-001",
+    "en": "Privacy Mode"
+  },
+  {
+    "id": "h002-002",
+    "en": "Property already exists"
+  },
+  {
+    "id": "h002-003",
+    "en": "Publish failed"
+  },
+  {
+    "id": "h002-004",
+    "en": "Queue Messages"
+  },
+  {
+    "id": "h002-005",
+    "en": "Quick"
+  },
+  {
+    "id": "h002-006",
+    "en": "RPC Log Folder"
+  },
+  {
+    "id": "h002-007",
+    "en": "Read Access"
+  },
+  {
+    "id": "h002-008",
+    "en": "Read Allowlist"
+  },
+  {
+    "id": "h002-009",
+    "en": "Refresh Status"
+  },
+  {
+    "id": "h002-010",
+    "en": "Region"
+  },
+  {
+    "id": "h002-011",
+    "en": "Reopen"
+  },
+  {
+    "id": "h002-012",
+    "en": "Required Domains"
+  },
+  {
+    "id": "h002-013",
+    "en": "Reset zoom"
+  },
+  {
+    "id": "h002-014",
+    "en": "Resolved"
+  },
+  {
+    "id": "h002-015",
+    "en": "Retry cloud agent request"
+  },
+  {
+    "id": "h002-016",
+    "en": "Revert Files"
+  },
+  {
+    "id": "h002-017",
+    "en": "Revert files to this message?"
+  },
+  {
+    "id": "h002-018",
+    "en": "Review Control Location"
+  },
+  {
+    "id": "h002-019",
+    "en": "Rules"
+  },
+  {
+    "id": "h002-020",
+    "en": "Run Private Inference in a separate local process to isolate it from remote workspace activity. Reload Cursor after changing this setting."
+  },
+  {
+    "id": "h002-021",
+    "en": "Run history"
+  },
+  {
+    "id": "h002-022",
+    "en": "Save changes to a stash and restore them later"
+  },
+  {
+    "id": "h002-023",
+    "en": "Score Commit for AI Content"
+  },
+  {
+    "id": "h002-024",
+    "en": "Screenshot"
+  },
+  {
+    "id": "h002-025",
+    "en": "Search branches..."
+  },
+  {
+    "id": "h002-026",
+    "en": "Search runs..."
+  },
+  {
+    "id": "h002-027",
+    "en": "Secret saved"
+  },
+  {
+    "id": "h002-028",
+    "en": "Secrets"
+  },
+  {
+    "id": "h002-029",
+    "en": "See warnings and tips that you’ve hidden"
+  },
+  {
+    "id": "h002-030",
+    "en": "Send"
+  },
+  {
+    "id": "h002-031",
+    "en": "Share Transcript"
+  },
+  {
+    "id": "h002-032",
+    "en": "Show History"
+  },
+  {
+    "id": "h002-033",
+    "en": "Show notifications for less urgent issues"
+  },
+  {
+    "id": "h002-034",
+    "en": "Show rotating tips on the empty screen"
+  },
+  {
+    "id": "h002-035",
+    "en": "Show system notifications when Agent completes or needs attention"
+  },
+  {
+    "id": "h002-036",
+    "en": "Sign in to get started with Cursor's AI features"
+  },
+  {
+    "id": "h002-037",
+    "en": "Skip this parameter"
+  },
+  {
+    "id": "h002-038",
+    "en": "Start Pro+ Now"
+  },
+  {
+    "id": "h002-039",
+    "en": "Stashing changes..."
+  },
+  {
+    "id": "h002-040",
+    "en": "Submit Keywords"
+  },
+  {
+    "id": "h002-041",
+    "en": "Switch to Agents Window (Glass)"
+  },
+  {
+    "id": "h002-042",
+    "en": "Sync Skills for Cloud Agents"
+  },
+  {
+    "id": "h002-043",
+    "en": "Sync chats and continue them in Cursor"
+  },
+  {
+    "id": "h002-044",
+    "en": "Terminal Hint"
+  },
+  {
+    "id": "h002-045",
+    "en": "Terminal and Editing"
+  },
+  {
+    "id": "h002-046",
+    "en": "Text Size"
+  },
+  {
+    "id": "h002-047",
+    "en": "The position at which to start"
+  },
+  {
+    "id": "h002-048",
+    "en": "The text document in which to start"
+  },
+  {
+    "id": "h002-049",
+    "en": "This computer"
+  },
+  {
+    "id": "h002-050",
+    "en": "Tips"
+  },
+  {
+    "id": "h002-051",
+    "en": "Today"
+  },
+  {
+    "id": "h002-052",
+    "en": "Toolbar on Selection"
+  },
+  {
+    "id": "h002-053",
+    "en": "Tracing"
+  },
+  {
+    "id": "h002-054",
+    "en": "UI Font Family"
+  },
+  {
+    "id": "h002-055",
+    "en": "Undo Apply"
+  },
+  {
+    "id": "h002-056",
+    "en": "Unpublish"
+  },
+  {
+    "id": "h002-057",
+    "en": "Unpublished"
+  },
+  {
+    "id": "h002-058",
+    "en": "Usage Summary"
+  },
+  {
+    "id": "h002-059",
+    "en": "Verify Extension Signatures"
+  },
+  {
+    "id": "h002-060",
+    "en": "View Source"
+  },
+  {
+    "id": "h002-061",
+    "en": "Voice Submit Keywords"
+  },
+  {
+    "id": "h002-062",
+    "en": "Wait for MCP Authentication"
+  },
+  {
+    "id": "h002-063",
+    "en": "Waiting for upload..."
+  },
+  {
+    "id": "h002-064",
+    "en": "Warning Notifications"
+  },
+  {
+    "id": "h002-065",
+    "en": "Web Fetch Tool"
+  },
+  {
+    "id": "h002-066",
+    "en": "Web Search Tool"
+  },
+  {
+    "id": "h002-067",
+    "en": "When to show the usage summary at the bottom of the chat pane"
+  },
+  {
+    "id": "h002-068",
+    "en": "Window Restoration"
+  },
+  {
+    "id": "h002-069",
+    "en": "Working"
+  },
+  {
+    "id": "h002-070",
+    "en": "Workspace Not Found"
+  },
+  {
+    "id": "h002-071",
+    "en": "Worktree Cleanup"
+  },
+  {
+    "id": "h002-072",
+    "en": "Your Cursor account"
+  },
+  {
+    "id": "h002-073",
+    "en": "char-insert diff-range-empty"
+  },
+  {
+    "id": "h002-074",
+    "en": "e.g. us-east-1"
+  },
+  {
+    "id": "h002-075",
+    "en": "initial result"
+  },
+  {
+    "id": "h002-076",
+    "en": "the server's configuration"
+  },
+  {
+    "id": "h002-077",
+    "en": "web dashboard"
+  },
+  {
+    "id": "h002-078",
+    "en": "A team admin can enable them in Cloud Agent Settings"
+  },
+  {
+    "id": "h002-079",
+    "en": "Add Secrets"
+  },
+  {
+    "id": "h002-080",
+    "en": "Add to Side Chat"
+  },
+  {
+    "id": "h002-081",
+    "en": "Adjust how much detail is shown for tool calls"
+  },
+  {
+    "id": "h002-082",
+    "en": "Agent Conversations"
+  },
+  {
+    "id": "h002-083",
+    "en": "Approved"
+  },
+  {
+    "id": "h002-084",
+    "en": "Ask"
+  },
+  {
+    "id": "h002-085",
+    "en": "Blocked URL: "
+  },
+  {
+    "id": "h002-086",
+    "en": "Branch"
+  },
+  {
+    "id": "h002-087",
+    "en": "Browse and install plugins from the Cursor marketplace. Type a search query after the command to find plugins."
+  },
+  {
+    "id": "h002-088",
+    "en": "Bug"
+  },
+  {
+    "id": "h002-089",
+    "en": "Build"
+  },
+  {
+    "id": "h002-090",
+    "en": "Check Again"
+  },
+  {
+    "id": "h002-091",
+    "en": "Choose a tint color"
+  },
+  {
+    "id": "h002-092",
+    "en": "Cloud Agent"
+  },
+  {
+    "id": "h002-093",
+    "en": "Cloud Agent Settings"
+  },
+  {
+    "id": "h002-094",
+    "en": "Cmd+K"
+  },
+  {
+    "id": "h002-095",
+    "en": "Connect GitHub to Cursor"
+  },
+  {
+    "id": "h002-096",
+    "en": "Connect via SSH"
+  },
+  {
+    "id": "h002-097",
+    "en": "Connecting to Cloud Desktop"
+  },
+  {
+    "id": "h002-098",
+    "en": "Continue Update"
+  },
+  {
+    "id": "h002-099",
+    "en": "Control how strongly the tint is applied"
+  },
+  {
+    "id": "h002-100",
+    "en": "Conversation Corrupted"
+  },
+  {
+    "id": "h002-101",
+    "en": "Copy ID"
+  },
+  {
+    "id": "h002-102",
+    "en": "Copy as Image"
+  },
+  {
+    "id": "h002-103",
+    "en": "Copy as Markdown"
+  },
+  {
+    "id": "h002-104",
+    "en": "Create your own themes, tweak the vibe, and import your favorites"
+  },
+  {
+    "id": "h002-105",
+    "en": "Dark Theme"
+  },
+  {
+    "id": "h002-106",
+    "en": "Default Environment"
+  },
+  {
+    "id": "h002-107",
+    "en": "Delete automation"
+  },
+  {
+    "id": "h002-108",
+    "en": "Determines the markup language of the output."
+  },
+  {
+    "id": "h002-109",
+    "en": "Dictate"
+  },
+  {
+    "id": "h002-110",
+    "en": "Dockerfile"
+  },
+  {
+    "id": "h002-111",
+    "en": "Download Cursor Private Inference"
+  },
+  {
+    "id": "h002-112",
+    "en": "Dummy Option Alpha"
+  },
+  {
+    "id": "h002-113",
+    "en": "Enter your API key"
+  },
+  {
+    "id": "h002-114",
+    "en": "Evals"
+  },
+  {
+    "id": "h002-115",
+    "en": "Feature Flags"
+  },
+  {
+    "id": "h002-116",
+    "en": "Fix Merge Conflicts"
+  },
+  {
+    "id": "h002-117",
+    "en": "Follow System Color Scheme"
+  },
+  {
+    "id": "h002-118",
+    "en": "Follow System High Contrast"
+  },
+  {
+    "id": "h002-119",
+    "en": "Font Smoothing"
+  },
+  {
+    "id": "h002-120",
+    "en": "Font size for code editors and diffs"
+  },
+  {
+    "id": "h002-121",
+    "en": "Fork this chat"
+  },
+  {
+    "id": "h002-122",
+    "en": "Fun"
+  },
+  {
+    "id": "h002-123",
+    "en": "Generating"
+  },
+  {
+    "id": "h002-124",
+    "en": "Get"
+  },
+  {
+    "id": "h002-125",
+    "en": "Get Grok Bot"
+  },
+  {
+    "id": "h002-126",
+    "en": "GitLab"
+  },
+  {
+    "id": "h002-127",
+    "en": "Give the Agent a Confetti Cannon"
+  },
+  {
+    "id": "h002-128",
+    "en": "Hide Email Address"
+  },
+  {
+    "id": "h002-129",
+    "en": "Hue"
+  },
+  {
+    "id": "h002-130",
+    "en": "Idea"
+  },
+  {
+    "id": "h002-131",
+    "en": "In-flight"
+  },
+  {
+    "id": "h002-132",
+    "en": "Inactive"
+  },
+  {
+    "id": "h002-133",
+    "en": "Intensity"
+  },
+  {
+    "id": "h002-134",
+    "en": "Interactive resource Uri"
+  },
+  {
+    "id": "h002-135",
+    "en": "Internal"
+  },
+  {
+    "id": "h002-136",
+    "en": "Invite"
+  },
+  {
+    "id": "h002-137",
+    "en": "Invite by email"
+  },
+  {
+    "id": "h002-138",
+    "en": "Last 30 Days"
+  },
+  {
+    "id": "h002-139",
+    "en": "Last 7 Days"
+  },
+  {
+    "id": "h002-140",
+    "en": "Last Used"
+  },
+  {
+    "id": "h002-141",
+    "en": "Last updated"
+  },
+  {
+    "id": "h002-142",
+    "en": "Light Theme"
+  },
+  {
+    "id": "h002-143",
+    "en": "Limit the number of macro expansions to the specified number, to prevent e.g. infinite macro loops. If set to Infinity, the macro expander will try to fully expand as in LaTeX."
+  },
+  {
+    "id": "h002-144",
+    "en": "Loading changes"
+  },
+  {
+    "id": "h002-145",
+    "en": "Loading diagram..."
+  },
+  {
+    "id": "h002-146",
+    "en": "Log In"
+  },
+  {
+    "id": "h002-147",
+    "en": "MCP Server"
+  },
+  {
+    "id": "h002-148",
+    "en": "Makes \\color behave like LaTeX's 2-argument \\textcolor, instead of LaTeX's one-argument \\color mode change."
+  },
+  {
+    "id": "h002-149",
+    "en": "Mark as Read"
+  }
+]

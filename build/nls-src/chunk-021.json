@@ -1,0 +1,482 @@
+[
+  {
+    "id": "021-000",
+    "en": "Telemetry"
+  },
+  {
+    "id": "021-001",
+    "en": "Enable crash reports to be collected. This helps us improve stability. \nThis option requires restart to take effect."
+  },
+  {
+    "id": "021-002",
+    "en": "If this setting is false, no telemetry will be sent regardless of the new setting's value. Deprecated due to being combined into the {0} setting."
+  },
+  {
+    "id": "021-003",
+    "en": "Keyboard"
+  },
+  {
+    "id": "021-004",
+    "en": "Enables the macOS touchbar buttons on the keyboard if available."
+  },
+  {
+    "id": "021-005",
+    "en": "A set of identifiers for entries in the touchbar that should not show up (for example `workbench.action.navigateBack`)."
+  },
+  {
+    "id": "021-006",
+    "en": "If enabled, a dialog will ask for confirmation whenever a local file or workspace is about to open through a protocol handler."
+  },
+  {
+    "id": "021-007",
+    "en": "If enabled, a dialog will ask for confirmation whenever a remote file or workspace is about to open through a protocol handler."
+  },
+  {
+    "id": "021-008",
+    "en": "The display Language to use. Picking a different language requires the associated language pack to be installed."
+  },
+  {
+    "id": "021-009",
+    "en": "Disables LCD font antialiasing."
+  },
+  {
+    "id": "021-010",
+    "en": "Bypass any specified proxy for the given semi-colon-separated list of hosts. Example value \"<local>;*.microsoft.com;*foo.com;1.2.3.4:5678\", will use the proxy server for all hosts except for local addresses (localhost, 127.0.0.1 etc.), microsoft.com subdomains, hosts that contain the suffix foo.com and anything at 1.2.3.4:5678"
+  },
+  {
+    "id": "021-011",
+    "en": "Disables hardware acceleration. ONLY change this option if you encounter graphic issues."
+  },
+  {
+    "id": "021-012",
+    "en": "Allows to override the color profile to use. If you experience colors appear badly, try to set this to `srgb` and restart."
+  },
+  {
+    "id": "021-013",
+    "en": "Allows to disable crash reporting, should restart the app if the value is changed."
+  },
+  {
+    "id": "021-014",
+    "en": "Unique id used for correlating crash reports sent from this app instance."
+  },
+  {
+    "id": "021-015",
+    "en": "Enable proposed APIs for a list of extension ids (such as `vscode.git`). Proposed APIs are unstable and subject to breaking without warning at any time. This should only be set for extension development and testing purposes."
+  },
+  {
+    "id": "021-016",
+    "en": "Log level to use. Default is 'info'. Allowed values are 'error', 'warn', 'info', 'debug', 'trace', 'off'."
+  },
+  {
+    "id": "021-017",
+    "en": "Disables the Chromium sandbox. This is useful when running VS Code as elevated on Linux and running under Applocker on Windows."
+  },
+  {
+    "id": "021-018",
+    "en": "Ensures that an in-memory store will be used for secret storage instead of using the OS's credential store. This is often used when running VS Code extension tests or when you're experiencing difficulties with the credential store."
+  },
+  {
+    "id": "021-019",
+    "en": "Load the React Developer Tools extension so Chrome DevTools shows the Components and Profiler tabs. Internal packaged builds (lab) bundle the extension and default this on; set false to turn it off. Dev builds default off; the React DevTools switch in Settings > Developer turns it on. Other builds default off and additionally need a locally installed extension cache. Requires a restart."
+  },
+  {
+    "id": "021-020",
+    "en": "Forces the renderer to be accessible. ONLY change this if you are using a screen reader on Linux. On other platforms the renderer will automatically be accessible. This flag is automatically set if you have editor.accessibilitySupport: on."
+  },
+  {
+    "id": "021-021",
+    "en": "Configures the backend used to store secrets on Linux. This argument is ignored on Windows & macOS."
+  },
+  {
+    "id": "021-022",
+    "en": "New Window Tab"
+  },
+  {
+    "id": "021-023",
+    "en": "Show Previous Window Tab"
+  },
+  {
+    "id": "021-024",
+    "en": "Show Next Window Tab"
+  },
+  {
+    "id": "021-025",
+    "en": "Move Window Tab to New Window"
+  },
+  {
+    "id": "021-026",
+    "en": "Merge All Windows"
+  },
+  {
+    "id": "021-027",
+    "en": "Toggle Window Tabs Bar"
+  },
+  {
+    "id": "021-028",
+    "en": "Saving UI state"
+  },
+  {
+    "id": "021-029",
+    "en": "Saving UI state"
+  },
+  {
+    "id": "021-030",
+    "en": "&&Copy"
+  },
+  {
+    "id": "021-031",
+    "en": "Copyright © 2026 Anysphere. All rights reserved."
+  },
+  {
+    "id": "021-032",
+    "en": "A shared background process terminated unexpectedly. Please restart the application to recover."
+  },
+  {
+    "id": "021-033",
+    "en": "Restart"
+  },
+  {
+    "id": "021-034",
+    "en": "Restart"
+  },
+  {
+    "id": "021-035",
+    "en": "Configure"
+  },
+  {
+    "id": "021-036",
+    "en": "Learn More"
+  },
+  {
+    "id": "021-037",
+    "en": "Writing login information to the keychain failed with error '{0}'."
+  },
+  {
+    "id": "021-038",
+    "en": "Troubleshooting Guide"
+  },
+  {
+    "id": "021-039",
+    "en": "You are running an emulated version of {0}. For better performance download the native arm64 version of {0} build for your machine."
+  },
+  {
+    "id": "021-040",
+    "en": "Download"
+  },
+  {
+    "id": "021-041",
+    "en": "The runtime arguments file 'argv.json' contains errors. Please correct them and restart."
+  },
+  {
+    "id": "021-042",
+    "en": "Open File"
+  },
+  {
+    "id": "021-043",
+    "en": "Proxy Authentication Required"
+  },
+  {
+    "id": "021-044",
+    "en": "&&Log In"
+  },
+  {
+    "id": "021-045",
+    "en": "Username"
+  },
+  {
+    "id": "021-046",
+    "en": "Password"
+  },
+  {
+    "id": "021-047",
+    "en": "The proxy {0} requires a username and password."
+  },
+  {
+    "id": "021-048",
+    "en": "Remember my credentials"
+  },
+  {
+    "id": "021-049",
+    "en": "Switching teams..."
+  },
+  {
+    "id": "021-050",
+    "en": "Cancel"
+  },
+  {
+    "id": "021-051",
+    "en": "Cancel"
+  },
+  {
+    "id": "021-052",
+    "en": "Error: {0}"
+  },
+  {
+    "id": "021-053",
+    "en": "The following operations are still running: \n{0}"
+  },
+  {
+    "id": "021-054",
+    "en": "An unexpected error prevented the window to close"
+  },
+  {
+    "id": "021-055",
+    "en": "An unexpected error prevented the application to quit"
+  },
+  {
+    "id": "021-056",
+    "en": "An unexpected error prevented the window to reload"
+  },
+  {
+    "id": "021-057",
+    "en": "An unexpected error prevented to change the workspace"
+  },
+  {
+    "id": "021-058",
+    "en": "Closing the window is taking a bit longer..."
+  },
+  {
+    "id": "021-059",
+    "en": "Quitting the application is taking a bit longer..."
+  },
+  {
+    "id": "021-060",
+    "en": "Reloading the window is taking a bit longer..."
+  },
+  {
+    "id": "021-061",
+    "en": "Changing the workspace is taking a bit longer..."
+  },
+  {
+    "id": "021-062",
+    "en": "It is not recommended to run {0} as root user."
+  },
+  {
+    "id": "021-063",
+    "en": "Files you store within the installation folder ('{0}') may be OVERWRITTEN or DELETED IRREVERSIBLY without warning at update time."
+  },
+  {
+    "id": "021-064",
+    "en": "{0} on {1} will soon stop receiving updates. Consider upgrading your macOS version."
+  },
+  {
+    "id": "021-065",
+    "en": "Learn More"
+  },
+  {
+    "id": "021-066",
+    "en": "Resolving shell environment..."
+  },
+  {
+    "id": "021-067",
+    "en": "Learn More"
+  },
+  {
+    "id": "021-068",
+    "en": "Zoom Out"
+  },
+  {
+    "id": "021-069",
+    "en": "Zoom In"
+  },
+  {
+    "id": "021-070",
+    "en": "Reset"
+  },
+  {
+    "id": "021-071",
+    "en": "Settings"
+  },
+  {
+    "id": "021-072",
+    "en": "Window Zoom"
+  },
+  {
+    "id": "021-073",
+    "en": "Zoom Level: {0} ({1}%)"
+  },
+  {
+    "id": "021-074",
+    "en": "The Source Control history item hover menu"
+  },
+  {
+    "id": "021-075",
+    "en": "The chat model picker dropdown menu"
+  },
+  {
+    "id": "021-076",
+    "en": "Agent Stream Start Timeout"
+  },
+  {
+    "id": "021-077",
+    "en": "The extension host did not respond in time. Please reload the window to continue."
+  },
+  {
+    "id": "021-078",
+    "en": "Reload Window"
+  },
+  {
+    "id": "021-079",
+    "en": "Agent Execution Timed Out"
+  },
+  {
+    "id": "021-080",
+    "en": "The agent execution provider did not respond in time. This may indicate the extension host is not running or is unresponsive."
+  },
+  {
+    "id": "021-081",
+    "en": "Reload Window"
+  },
+  {
+    "id": "021-082",
+    "en": "Developer: Toggle Agent Exec Stream Start Timeout Simulation (Dev-only)"
+  },
+  {
+    "id": "021-083",
+    "en": "The Prompt Quality upload link is invalid"
+  },
+  {
+    "id": "021-084",
+    "en": "Failed to upload the local agent run to Prompt Quality: {0}"
+  },
+  {
+    "id": "021-085",
+    "en": "Upload this local agent run to Prompt Quality?"
+  },
+  {
+    "id": "021-086",
+    "en": "This uploads prompts, code and context, tool arguments and results, and model responses. Prompt Quality stores this data for internal debugging."
+  },
+  {
+    "id": "021-087",
+    "en": "Upload to Prompt Quality"
+  },
+  {
+    "id": "021-088",
+    "en": "Failed to update queued message."
+  },
+  {
+    "id": "021-089",
+    "en": "Only the teammate who started this agent can open it."
+  },
+  {
+    "id": "021-090",
+    "en": "Opening {0} in Cursor Browser"
+  },
+  {
+    "id": "021-091",
+    "en": "Don't Open"
+  },
+  {
+    "id": "021-092",
+    "en": "Whether the client is pointed at a backend running on this machine"
+  },
+  {
+    "id": "021-093",
+    "en": "Try saving or reverting the editors with unsaved changes first and then try again."
+  },
+  {
+    "id": "021-094",
+    "en": "Cursor Auth"
+  },
+  {
+    "id": "021-095",
+    "en": "Specify the required team id that a user must belong to in order to use Cursor. If set and the signed-in user is not part of the team, Cursor will automatically sign the user out."
+  },
+  {
+    "id": "021-096",
+    "en": "When enabled via device management (MDM), Cursor's backend refuses to issue or refresh sign-in sessions for accounts that match none of the configured allowed organizations, teams, emails, or email domains."
+  },
+  {
+    "id": "021-097",
+    "en": "Comma-separated list of Cursor organization ids whose members are allowed to sign in on this device (set via device management)."
+  },
+  {
+    "id": "021-098",
+    "en": "Comma-separated list of Cursor team ids whose members are allowed to sign in on this device (set via device management). Supersedes the singular AllowedTeamId policy; both are honored."
+  },
+  {
+    "id": "021-099",
+    "en": "Comma-separated list of exact account emails allowed to sign in on this device (set via device management). Compared case-insensitively."
+  },
+  {
+    "id": "021-100",
+    "en": "Comma-separated list of email domains (e.g. example.com) whose accounts are allowed to sign in on this device (set via device management). Exact domain match only; subdomains are not implicitly included."
+  },
+  {
+    "id": "021-101",
+    "en": "When set via device management (MDM) to a deployment id, Cursor connects only to that deployment and cannot be switched away from it. An id this version does not support blocks sign-in. 0 or unset is the default service."
+  },
+  {
+    "id": "021-102",
+    "en": "SpaceX Airlock"
+  },
+  {
+    "id": "021-103",
+    "en": "Name of the local Docker or Podman container that Cursor prepares and opens while SpaceX mode is on (set via device management). Required for the airlock."
+  },
+  {
+    "id": "021-104",
+    "en": "Absolute path of the folder inside the airlock container that Cursor opens (set via device management). Required for the airlock."
+  },
+  {
+    "id": "021-105",
+    "en": "User that Cursor runs as inside the airlock container (set via device management). When empty, Cursor uses the container's default user."
+  },
+  {
+    "id": "021-106",
+    "en": "Container engine command for the airlock (set via device management): docker, podman, the absolute path of either, or the absolute path of a wrapper script that runs every engine command. When empty, Cursor uses docker."
+  },
+  {
+    "id": "021-107",
+    "en": "Absolute path of the script that creates the airlock container when it doesn't exist (set via device management)."
+  },
+  {
+    "id": "021-108",
+    "en": "Absolute path of the script that starts the airlock container when it isn't running (set via device management). When empty, Cursor runs the engine's own start command."
+  },
+  {
+    "id": "021-109",
+    "en": "Absolute path of the script that Cursor runs each time, just before it opens the airlock container (set via device management)."
+  },
+  {
+    "id": "021-110",
+    "en": "Absolute path of the script that restarts the airlock container (set via device management). When empty, Cursor runs the engine's own restart command."
+  },
+  {
+    "id": "021-111",
+    "en": "Absolute path of the script that reports the airlock container's status as JSON (set via device management)."
+  },
+  {
+    "id": "021-112",
+    "en": "How long, in seconds, Cursor lets each airlock hook script run, and waits for the container to start, before it gives up (set via device management)."
+  },
+  {
+    "id": "021-113",
+    "en": "Managed Deployment"
+  },
+  {
+    "id": "021-114",
+    "en": "Cursor Orbit only: https origin of the API of the deployment Cursor Orbit connects to (set via device management). Required."
+  },
+  {
+    "id": "021-115",
+    "en": "Cursor Orbit only: https origin of that deployment's website, where users sign in (set via device management). Required."
+  },
+  {
+    "id": "021-116",
+    "en": "Orbit Airlock"
+  },
+  {
+    "id": "021-117",
+    "en": "Cursor Orbit only: whether local agents run only in the Airlock (set via device management). When unset or false, local agents run on this computer and in the remote workspaces AgentRemoteWorkspaceAuthorities allows. A window reads it when it opens, so reload after a change."
+  },
+  {
+    "id": "021-118",
+    "en": "Enter Command Name"
+  },
+  {
+    "id": "021-119",
+    "en": "e.g., my-custom-command"
+  }
+]

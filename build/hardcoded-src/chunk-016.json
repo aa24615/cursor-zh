@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h016-000",
+    "en": "Condition when the debug visualizer is applicable"
+  },
+  {
+    "id": "h016-001",
+    "en": "Configure MCP servers for this agent to use as tools"
+  },
+  {
+    "id": "h016-002",
+    "en": "Configure Webhooks"
+  },
+  {
+    "id": "h016-003",
+    "en": "Configure local agent"
+  },
+  {
+    "id": "h016-004",
+    "en": "Configured"
+  },
+  {
+    "id": "h016-005",
+    "en": "Confirmation Checkbox"
+  },
+  {
+    "id": "h016-006",
+    "en": "Conflicts with base"
+  },
+  {
+    "id": "h016-007",
+    "en": "Connect Again"
+  },
+  {
+    "id": "h016-008",
+    "en": "Connect Another Workspace"
+  },
+  {
+    "id": "h016-009",
+    "en": "Connect Slack Workspace"
+  },
+  {
+    "id": "h016-010",
+    "en": "Connect your Slack workspace to select channels and DMs"
+  },
+  {
+    "id": "h016-011",
+    "en": "Connect..."
+  },
+  {
+    "id": "h016-012",
+    "en": "Connection"
+  },
+  {
+    "id": "h016-013",
+    "en": "Contact Us"
+  },
+  {
+    "id": "h016-014",
+    "en": "Container platform"
+  },
+  {
+    "id": "h016-015",
+    "en": "Content"
+  },
+  {
+    "id": "h016-016",
+    "en": "Context (optional)"
+  },
+  {
+    "id": "h016-017",
+    "en": "Context for the agent (optional)"
+  },
+  {
+    "id": "h016-018",
+    "en": "Continue / Submit"
+  },
+  {
+    "id": "h016-019",
+    "en": "Continue in background"
+  },
+  {
+    "id": "h016-020",
+    "en": "Continue in cloud and leave changes on this branch undisturbed"
+  },
+  {
+    "id": "h016-021",
+    "en": "Continue in your browser"
+  },
+  {
+    "id": "h016-022",
+    "en": "Continue on"
+  },
+  {
+    "id": "h016-023",
+    "en": "Continue the process"
+  },
+  {
+    "id": "h016-024",
+    "en": "Continue without rebuilding"
+  },
+  {
+    "id": "h016-025",
+    "en": "Control how this automation is configured and updated"
+  },
+  {
+    "id": "h016-026",
+    "en": "Control this agent from another machine"
+  },
+  {
+    "id": "h016-027",
+    "en": "Controlled Terminal"
+  },
+  {
+    "id": "h016-028",
+    "en": "Conversation Density Preview"
+  },
+  {
+    "id": "h016-029",
+    "en": "Conversation Too Long"
+  },
+  {
+    "id": "h016-030",
+    "en": "Conversation-state blobs (agentKv:blob:*)"
+  },
+  {
+    "id": "h016-031",
+    "en": "Convert to remote control"
+  },
+  {
+    "id": "h016-032",
+    "en": "Copy Agent Deeplink"
+  },
+  {
+    "id": "h016-033",
+    "en": "Copy Agent ID"
+  },
+  {
+    "id": "h016-034",
+    "en": "Copy Auth ID"
+  },
+  {
+    "id": "h016-035",
+    "en": "Copy Branch"
+  },
+  {
+    "id": "h016-036",
+    "en": "Copy Deep Link"
+  },
+  {
+    "id": "h016-037",
+    "en": "Copy File Path"
+  },
+  {
+    "id": "h016-038",
+    "en": "Copy PR Link"
+  },
+  {
+    "id": "h016-039",
+    "en": "Copy Transcript"
+  },
+  {
+    "id": "h016-040",
+    "en": "Copy canvas link"
+  },
+  {
+    "id": "h016-041",
+    "en": "Copy config"
+  },
+  {
+    "id": "h016-042",
+    "en": "Copy dump is the later Datadog payload. Scrape window.__glassChatSwitchDump()."
+  },
+  {
+    "id": "h016-043",
+    "en": "Copy pull request link"
+  },
+  {
+    "id": "h016-044",
+    "en": "Copy request ID"
+  },
+  {
+    "id": "h016-045",
+    "en": "Copy stack"
+  },
+  {
+    "id": "h016-046",
+    "en": "Copy this automation as a YAML config file"
+  },
+  {
+    "id": "h016-047",
+    "en": "Could not read chats."
+  },
+  {
+    "id": "h016-048",
+    "en": "Couldn't open this agent."
+  },
+  {
+    "id": "h016-049",
+    "en": "Couldn't preview this Project's migration. Run the command again to retry."
+  },
+  {
+    "id": "h016-050",
+    "en": "Couldn't read files"
+  },
+  {
+    "id": "h016-051",
+    "en": "Couldn't read this pull request's stack. Refresh to try again."
+  },
+  {
+    "id": "h016-052",
+    "en": "Couldn't send your report. Check your connection and try again."
+  },
+  {
+    "id": "h016-053",
+    "en": "Couldn't verify publish requirements"
+  },
+  {
+    "id": "h016-054",
+    "en": "Couldn’t load models. Close and try again."
+  },
+  {
+    "id": "h016-055",
+    "en": "Count"
+  },
+  {
+    "id": "h016-056",
+    "en": "Counts tool calls made by the agent during the run."
+  },
+  {
+    "id": "h016-057",
+    "en": "Cpp Report"
+  },
+  {
+    "id": "h016-058",
+    "en": "Create Branch & Commit"
+  },
+  {
+    "id": "h016-059",
+    "en": "Create Branch, Commit & Push"
+  },
+  {
+    "id": "h016-060",
+    "en": "Create Repo"
+  },
+  {
+    "id": "h016-061",
+    "en": "Create a Merge Commit"
+  },
+  {
+    "id": "h016-062",
+    "en": "Create a dashboard"
+  },
+  {
+    "id": "h016-063",
+    "en": "Create a new branch and commit the changes"
+  },
+  {
+    "id": "h016-064",
+    "en": "Create a new branch for the current changes"
+  },
+  {
+    "id": "h016-065",
+    "en": "Create a new branch, commit, and push"
+  },
+  {
+    "id": "h016-066",
+    "en": "Create a new environment by selecting one or more repositories."
+  },
+  {
+    "id": "h016-067",
+    "en": "Create a pull request for this branch"
+  },
+  {
+    "id": "h016-068",
+    "en": "Create environment"
+  },
+  {
+    "id": "h016-069",
+    "en": "Create or select an agent first, then retry this action."
+  },
+  {
+    "id": "h016-070",
+    "en": "Create repository"
+  },
+  {
+    "id": "h016-071",
+    "en": "Created At"
+  },
+  {
+    "id": "h016-072",
+    "en": "Created by users"
+  },
+  {
+    "id": "h016-073",
+    "en": "Creating link…"
+  },
+  {
+    "id": "h016-074",
+    "en": "Current Branch"
+  },
+  {
+    "id": "h016-075",
+    "en": "Current Range"
+  },
+  {
+    "id": "h016-076",
+    "en": "Cursor Big in MAX mode"
+  },
+  {
+    "id": "h016-077",
+    "en": "Cursor Changelog"
+  },
+  {
+    "id": "h016-078",
+    "en": "Cursor Dark"
+  },
+  {
+    "id": "h016-079",
+    "en": "Cursor Dark High Contrast"
+  },
+  {
+    "id": "h016-080",
+    "en": "Cursor Dark v2 Colorblind (Beta)"
+  },
+  {
+    "id": "h016-081",
+    "en": "Cursor Docs"
+  },
+  {
+    "id": "h016-082",
+    "en": "Cursor InProductEducation"
+  },
+  {
+    "id": "h016-083",
+    "en": "Cursor Light"
+  },
+  {
+    "id": "h016-084",
+    "en": "Cursor Light Colorblind"
+  },
+  {
+    "id": "h016-085",
+    "en": "Cursor Light High Contrast"
+  },
+  {
+    "id": "h016-086",
+    "en": "Cursor Needs Admin Approval"
+  },
+  {
+    "id": "h016-087",
+    "en": "Cursor Private Inference is available"
+  },
+  {
+    "id": "h016-088",
+    "en": "Cursor Pro Required"
+  },
+  {
+    "id": "h016-089",
+    "en": "Cursor Semantic Color System"
+  },
+  {
+    "id": "h016-090",
+    "en": "Cursor Slack App"
+  },
+  {
+    "id": "h016-091",
+    "en": "Cursor Tab UI"
+  },
+  {
+    "id": "h016-092",
+    "en": "Cursor Tab completion"
+  },
+  {
+    "id": "h016-093",
+    "en": "Cursor deletes the Slack app, so approving the request later does nothing"
+  },
+  {
+    "id": "h016-094",
+    "en": "Cursor is now Grok Build"
+  },
+  {
+    "id": "h016-095",
+    "en": "Cursor needs admin approval"
+  },
+  {
+    "id": "h016-096",
+    "en": "Cursor stops managing it. It may keep running in Slack until an admin deletes it."
+  },
+  {
+    "id": "h016-097",
+    "en": "Custom (cron)"
+  },
+  {
+    "id": "h016-098",
+    "en": "Custom Error with Buttons"
+  },
+  {
+    "id": "h016-099",
+    "en": "Custom Error with Utility Buttons"
+  },
+  {
+    "id": "h016-100",
+    "en": "Custom Theme"
+  },
+  {
+    "id": "h016-101",
+    "en": "Cycle Instance Selector"
+  },
+  {
+    "id": "h016-102",
+    "en": "Cycle Mode"
+  },
+  {
+    "id": "h016-103",
+    "en": "Cycle Model Parameter"
+  },
+  {
+    "id": "h016-104",
+    "en": "DEV ONLY"
+  },
+  {
+    "id": "h016-105",
+    "en": "DEV OVERRIDE"
+  },
+  {
+    "id": "h016-106",
+    "en": "Dark · High contrast"
+  },
+  {
+    "id": "h016-107",
+    "en": "Data & Research"
+  },
+  {
+    "id": "h016-108",
+    "en": "Data types"
+  },
+  {
+    "id": "h016-109",
+    "en": "Debug Logs"
+  },
+  {
+    "id": "h016-110",
+    "en": "Debug Mode"
+  },
+  {
+    "id": "h016-111",
+    "en": "Debug an issue"
+  },
+  {
+    "id": "h016-112",
+    "en": "Debug: Open Skill Publishing Logs"
+  },
+  {
+    "id": "h016-113",
+    "en": "Default Pulsing"
+  },
+  {
+    "id": "h016-114",
+    "en": "Definition"
+  },
+  {
+    "id": "h016-115",
+    "en": "Delete All Data"
+  },
+  {
+    "id": "h016-116",
+    "en": "Delete Cloud-Agent Cache"
+  },
+  {
+    "id": "h016-117",
+    "en": "Delete Key"
+  },
+  {
+    "id": "h016-118",
+    "en": "Delete annotation"
+  },
+  {
+    "id": "h016-119",
+    "en": "Delete old chats"
+  },
+  {
+    "id": "h016-120",
+    "en": "Delete this secret?"
+  },
+  {
+    "id": "h016-121",
+    "en": "Delete your current uncommitted changes before switching"
+  },
+  {
+    "id": "h016-122",
+    "en": "Deleted files"
+  },
+  {
+    "id": "h016-123",
+    "en": "Density"
+  },
+  {
+    "id": "h016-124",
+    "en": "Deny"
+  },
+  {
+    "id": "h016-125",
+    "en": "Describe the change"
+  },
+  {
+    "id": "h016-126",
+    "en": "Describe the issue. Include steps to reproduce if you can."
+  },
+  {
+    "id": "h016-127",
+    "en": "Describe this pull request (Markdown)"
+  },
+  {
+    "id": "h016-128",
+    "en": "Detailed, edits with diffs and shells with output"
+  },
+  {
+    "id": "h016-129",
+    "en": "Detected"
+  },
+  {
+    "id": "h016-130",
+    "en": "Dev Containers"
+  },
+  {
+    "id": "h016-131",
+    "en": "Developer: Delete Old Chats…"
+  },
+  {
+    "id": "h016-132",
+    "en": "Developer: Migrate project notes to tracked tasks"
+  },
+  {
+    "id": "h016-133",
+    "en": "Developer: Open Logs Folder"
+  },
+  {
+    "id": "h016-134",
+    "en": "Developer: Preview Staged Projects"
+  },
+  {
+    "id": "h016-135",
+    "en": "Developer: Prune PR Lifecycle Cache"
+  },
+  {
+    "id": "h016-136",
+    "en": "Developer: Relaunch Active Terminal for Backport Verification"
+  },
+  {
+    "id": "h016-137",
+    "en": "Developer: Reload and Start Glass FTUX"
+  },
+  {
+    "id": "h016-138",
+    "en": "Developer: Reset Design Mode Quick Action Pill"
+  },
+  {
+    "id": "h016-139",
+    "en": "Developer: Reset Max Mode Confirmation (model picker)"
+  },
+  {
+    "id": "h016-140",
+    "en": "Developer: Reset Teams and Slack Promo State"
+  },
+  {
+    "id": "h016-141",
+    "en": "Developer: Reveal User Data Folder"
+  },
+  {
+    "id": "h016-142",
+    "en": "Developer: Seed Staged Projects"
+  },
+  {
+    "id": "h016-143",
+    "en": "Developer: Set Anyrun Cluster"
+  },
+  {
+    "id": "h016-144",
+    "en": "Developer: Show Projects Hero on Next New Project"
+  },
+  {
+    "id": "h016-145",
+    "en": "Developer: Snapshot Tracked Disposables"
+  },
+  {
+    "id": "h016-146",
+    "en": "Developer: Start Network & IPC Profiler"
+  },
+  {
+    "id": "h016-147",
+    "en": "Developer: Start Tracking Disposables"
+  },
+  {
+    "id": "h016-148",
+    "en": "Developer: Startup Performance"
+  },
+  {
+    "id": "h016-149",
+    "en": "Developer: Stop Tracking Disposables and Copy Report"
+  }
+]

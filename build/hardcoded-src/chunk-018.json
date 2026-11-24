@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h018-000",
+    "en": "Find in diff…"
+  },
+  {
+    "id": "h018-001",
+    "en": "Find root causes and fix tricky bugs"
+  },
+  {
+    "id": "h018-002",
+    "en": "Finish in Your Browser"
+  },
+  {
+    "id": "h018-003",
+    "en": "First item"
+  },
+  {
+    "id": "h018-004",
+    "en": "Fix"
+  },
+  {
+    "id": "h018-005",
+    "en": "Fix All in Cursor"
+  },
+  {
+    "id": "h018-006",
+    "en": "Fix all vulnerabilities"
+  },
+  {
+    "id": "h018-007",
+    "en": "Fix habit streak off-by-one"
+  },
+  {
+    "id": "h018-008",
+    "en": "Fix merge conflicts with the base branch"
+  },
+  {
+    "id": "h018-009",
+    "en": "Focus Adjacent Tile"
+  },
+  {
+    "id": "h018-010",
+    "en": "Focus Chat Input"
+  },
+  {
+    "id": "h018-011",
+    "en": "Focus Next Queued Message"
+  },
+  {
+    "id": "h018-012",
+    "en": "Focus Next Tile"
+  },
+  {
+    "id": "h018-013",
+    "en": "Focus Outline Pulsing"
+  },
+  {
+    "id": "h018-014",
+    "en": "Focus Previous Queued Message"
+  },
+  {
+    "id": "h018-015",
+    "en": "Focus Previous Tile"
+  },
+  {
+    "id": "h018-016",
+    "en": "Focus in Code Editor"
+  },
+  {
+    "id": "h018-017",
+    "en": "Focus in Terminal"
+  },
+  {
+    "id": "h018-018",
+    "en": "Focusable"
+  },
+  {
+    "id": "h018-019",
+    "en": "Following System Color Scheme"
+  },
+  {
+    "id": "h018-020",
+    "en": "Force High CPU Usage Toast"
+  },
+  {
+    "id": "h018-021",
+    "en": "Foreground"
+  },
+  {
+    "id": "h018-022",
+    "en": "Forget App"
+  },
+  {
+    "id": "h018-023",
+    "en": "Forget the Slack app?"
+  },
+  {
+    "id": "h018-024",
+    "en": "Fork"
+  },
+  {
+    "id": "h018-025",
+    "en": "Fork this chat and submit the current prompt"
+  },
+  {
+    "id": "h018-026",
+    "en": "Format on Save"
+  },
+  {
+    "id": "h018-027",
+    "en": "Forwarded"
+  },
+  {
+    "id": "h018-028",
+    "en": "Fourth item"
+  },
+  {
+    "id": "h018-029",
+    "en": "Frameworks"
+  },
+  {
+    "id": "h018-030",
+    "en": "GC Agent KV Blobs"
+  },
+  {
+    "id": "h018-031",
+    "en": "GPT-3.5 Turbo"
+  },
+  {
+    "id": "h018-032",
+    "en": "GPT-4 in MAX mode (gradient + badge)"
+  },
+  {
+    "id": "h018-033",
+    "en": "Gallery"
+  },
+  {
+    "id": "h018-034",
+    "en": "Garbage-collect agent blobs"
+  },
+  {
+    "id": "h018-035",
+    "en": "Gemini 2.5 Flash"
+  },
+  {
+    "id": "h018-036",
+    "en": "Gemini 2.5 Pro"
+  },
+  {
+    "id": "h018-037",
+    "en": "General access"
+  },
+  {
+    "id": "h018-038",
+    "en": "General-purpose language"
+  },
+  {
+    "id": "h018-039",
+    "en": "Generate Remote SSH Connection Report"
+  },
+  {
+    "id": "h018-040",
+    "en": "Generated"
+  },
+  {
+    "id": "h018-041",
+    "en": "Generating (with action)"
+  },
+  {
+    "id": "h018-042",
+    "en": "Generating an authorization header requires admin privileges. Please contact a team admin to generate the webhook authorization header for you."
+  },
+  {
+    "id": "h018-043",
+    "en": "Generation"
+  },
+  {
+    "id": "h018-044",
+    "en": "Generation UUID"
+  },
+  {
+    "id": "h018-045",
+    "en": "Get Active File Tab URI"
+  },
+  {
+    "id": "h018-046",
+    "en": "Get Cpp Report"
+  },
+  {
+    "id": "h018-047",
+    "en": "Get Cursor for iOS"
+  },
+  {
+    "id": "h018-048",
+    "en": "Get Unrepeated File Names"
+  },
+  {
+    "id": "h018-049",
+    "en": "Get more information"
+  },
+  {
+    "id": "h018-050",
+    "en": "Getting Started"
+  },
+  {
+    "id": "h018-051",
+    "en": "Git Blame"
+  },
+  {
+    "id": "h018-052",
+    "en": "Git Fills"
+  },
+  {
+    "id": "h018-053",
+    "en": "Git Status"
+  },
+  {
+    "id": "h018-054",
+    "en": "Git event"
+  },
+  {
+    "id": "h018-055",
+    "en": "Git processes"
+  },
+  {
+    "id": "h018-056",
+    "en": "Git procs"
+  },
+  {
+    "id": "h018-057",
+    "en": "GitHub Only"
+  },
+  {
+    "id": "h018-058",
+    "en": "GitLab Only"
+  },
+  {
+    "id": "h018-059",
+    "en": "Glass Commands"
+  },
+  {
+    "id": "h018-060",
+    "en": "Glass Extensions"
+  },
+  {
+    "id": "h018-061",
+    "en": "Glass Image Preview: Reset Zoom"
+  },
+  {
+    "id": "h018-062",
+    "en": "Glass Image Preview: Zoom In"
+  },
+  {
+    "id": "h018-063",
+    "en": "Glass Image Preview: Zoom Out"
+  },
+  {
+    "id": "h018-064",
+    "en": "Glass Startup Performance"
+  },
+  {
+    "id": "h018-065",
+    "en": "Global storage across entire application"
+  },
+  {
+    "id": "h018-066",
+    "en": "Go Back in Files"
+  },
+  {
+    "id": "h018-067",
+    "en": "Go Forward in Files"
+  },
+  {
+    "id": "h018-068",
+    "en": "Go to Line"
+  },
+  {
+    "id": "h018-069",
+    "en": "Got It"
+  },
+  {
+    "id": "h018-070",
+    "en": "Grok 3"
+  },
+  {
+    "id": "h018-071",
+    "en": "Group"
+  },
+  {
+    "id": "h018-072",
+    "en": "Group by Environment"
+  },
+  {
+    "id": "h018-073",
+    "en": "Group by Repository"
+  },
+  {
+    "id": "h018-074",
+    "en": "Group by Source"
+  },
+  {
+    "id": "h018-075",
+    "en": "Group by Status"
+  },
+  {
+    "id": "h018-076",
+    "en": "Group by Updated"
+  },
+  {
+    "id": "h018-077",
+    "en": "Group by Workspace"
+  },
+  {
+    "id": "h018-078",
+    "en": "Group ordering"
+  },
+  {
+    "id": "h018-079",
+    "en": "Grouped"
+  },
+  {
+    "id": "h018-080",
+    "en": "Groups"
+  },
+  {
+    "id": "h018-081",
+    "en": "Hard Block"
+  },
+  {
+    "id": "h018-082",
+    "en": "Hard Reload Browser Tab"
+  },
+  {
+    "id": "h018-083",
+    "en": "Has changes"
+  },
+  {
+    "id": "h018-084",
+    "en": "Has new edits"
+  },
+  {
+    "id": "h018-085",
+    "en": "Hello World"
+  },
+  {
+    "id": "h018-086",
+    "en": "Hidden States"
+  },
+  {
+    "id": "h018-087",
+    "en": "Hidden from agent"
+  },
+  {
+    "id": "h018-088",
+    "en": "Hide Apps Panel"
+  },
+  {
+    "id": "h018-089",
+    "en": "Hide Decorations"
+  },
+  {
+    "id": "h018-090",
+    "en": "Hide Deletion Zones"
+  },
+  {
+    "id": "h018-091",
+    "en": "Hide Minimap"
+  },
+  {
+    "id": "h018-092",
+    "en": "Hide Performance Bar"
+  },
+  {
+    "id": "h018-093",
+    "en": "Hide perf vote"
+  },
+  {
+    "id": "h018-094",
+    "en": "High Contrast Theme"
+  },
+  {
+    "id": "h018-095",
+    "en": "High Priority"
+  },
+  {
+    "id": "h018-096",
+    "en": "Highlighted (navigation)"
+  },
+  {
+    "id": "h018-097",
+    "en": "Hold to Talk"
+  },
+  {
+    "id": "h018-098",
+    "en": "Hover"
+  },
+  {
+    "id": "h018-099",
+    "en": "Hydration"
+  },
+  {
+    "id": "h018-100",
+    "en": "Hydration is lazy: cache reads happen when an explorer provider is registered for a workspace, and writes happen after provider fetch succeeds."
+  },
+  {
+    "id": "h018-101",
+    "en": "IDE"
+  },
+  {
+    "id": "h018-102",
+    "en": "IStorageService"
+  },
+  {
+    "id": "h018-103",
+    "en": "Icon Colors"
+  },
+  {
+    "id": "h018-104",
+    "en": "Icon Gallery"
+  },
+  {
+    "id": "h018-105",
+    "en": "IconButtons"
+  },
+  {
+    "id": "h018-106",
+    "en": "Icons"
+  },
+  {
+    "id": "h018-107",
+    "en": "Icons on Fill"
+  },
+  {
+    "id": "h018-108",
+    "en": "Idle (not started)"
+  },
+  {
+    "id": "h018-109",
+    "en": "Ignore Save As Shortcut in Projects"
+  },
+  {
+    "id": "h018-110",
+    "en": "Ignore Thread Replies"
+  },
+  {
+    "id": "h018-111",
+    "en": "Ignore Whitespace"
+  },
+  {
+    "id": "h018-112",
+    "en": "Ignore these warnings"
+  },
+  {
+    "id": "h018-113",
+    "en": "Ignore this error"
+  },
+  {
+    "id": "h018-114",
+    "en": "Ignoring Failures on Main"
+  },
+  {
+    "id": "h018-115",
+    "en": "Import VS Code Configuration"
+  },
+  {
+    "id": "h018-116",
+    "en": "Import from Claude Code"
+  },
+  {
+    "id": "h018-117",
+    "en": "Import from File"
+  },
+  {
+    "id": "h018-118",
+    "en": "Import theme from file"
+  },
+  {
+    "id": "h018-119",
+    "en": "Import your Claude Code conversations"
+  },
+  {
+    "id": "h018-120",
+    "en": "Important Action"
+  },
+  {
+    "id": "h018-121",
+    "en": "In this workspace"
+  },
+  {
+    "id": "h018-122",
+    "en": "In-App Ads"
+  },
+  {
+    "id": "h018-123",
+    "en": "Incident Acknowledged"
+  },
+  {
+    "id": "h018-124",
+    "en": "Incident Escalated"
+  },
+  {
+    "id": "h018-125",
+    "en": "Incident ID (optional)"
+  },
+  {
+    "id": "h018-126",
+    "en": "Incident Resolved"
+  },
+  {
+    "id": "h018-127",
+    "en": "Incident Triggered"
+  },
+  {
+    "id": "h018-128",
+    "en": "Incident..."
+  },
+  {
+    "id": "h018-129",
+    "en": "Incidents & Triage"
+  },
+  {
+    "id": "h018-130",
+    "en": "Including Failures on Main"
+  },
+  {
+    "id": "h018-131",
+    "en": "Increment"
+  },
+  {
+    "id": "h018-132",
+    "en": "Increment counter"
+  },
+  {
+    "id": "h018-133",
+    "en": "Index Size"
+  },
+  {
+    "id": "h018-134",
+    "en": "Indexed Agent Search Dev Tools"
+  },
+  {
+    "id": "h018-135",
+    "en": "Indexed Conversations"
+  },
+  {
+    "id": "h018-136",
+    "en": "Indexing Status"
+  },
+  {
+    "id": "h018-137",
+    "en": "Infinite Progress"
+  },
+  {
+    "id": "h018-138",
+    "en": "Info Ring"
+  },
+  {
+    "id": "h018-139",
+    "en": "Initialize Repository"
+  },
+  {
+    "id": "h018-140",
+    "en": "Initialize a git repository to create worktrees."
+  },
+  {
+    "id": "h018-141",
+    "en": "Initializing"
+  },
+  {
+    "id": "h018-142",
+    "en": "Inline Diff Service Debug"
+  },
+  {
+    "id": "h018-143",
+    "en": "Inline diffs, code-block diffs, and undo/redo snapshots"
+  },
+  {
+    "id": "h018-144",
+    "en": "Install &&Update"
+  },
+  {
+    "id": "h018-145",
+    "en": "Install Script"
+  },
+  {
+    "id": "h018-146",
+    "en": "Install a plugin"
+  },
+  {
+    "id": "h018-147",
+    "en": "Interactive Markdown"
+  },
+  {
+    "id": "h018-148",
+    "en": "Interval"
+  },
+  {
+    "id": "h018-149",
+    "en": "Invalid"
+  }
+]

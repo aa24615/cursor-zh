@@ -1,0 +1,482 @@
+[
+  {
+    "id": "001-000",
+    "en": "A team admin must turn on private workers to add pools to this Project."
+  },
+  {
+    "id": "001-001",
+    "en": "Could not update allowed machines. Please try again."
+  },
+  {
+    "id": "001-002",
+    "en": "Build Live, Shareable Apps with Cursor"
+  },
+  {
+    "id": "001-003",
+    "en": "Dismiss"
+  },
+  {
+    "id": "001-004",
+    "en": "Deploy with Cursor"
+  },
+  {
+    "id": "001-005",
+    "en": "Ask Cursor to build an App in your prompt and it will scaffold a web app, deploy it, and return with a shareable link."
+  },
+  {
+    "id": "001-006",
+    "en": "Dismiss"
+  },
+  {
+    "id": "001-007",
+    "en": "Build an App"
+  },
+  {
+    "id": "001-008",
+    "en": "Deploy a live, shareable app"
+  },
+  {
+    "id": "001-009",
+    "en": "Cursor can publish your work as a live, shareable web app. The publish workflow runs in the cloud, and we'll move this chat there with all its work."
+  },
+  {
+    "id": "001-010",
+    "en": "Dismiss"
+  },
+  {
+    "id": "001-011",
+    "en": "Deploying…"
+  },
+  {
+    "id": "001-012",
+    "en": "Deploy the app"
+  },
+  {
+    "id": "001-013",
+    "en": "Build a Live, Shareable App"
+  },
+  {
+    "id": "001-014",
+    "en": "Cursor can build and deploy apps with a shareable link. Just be explicit that Cursor should build an App in your prompt."
+  },
+  {
+    "id": "001-015",
+    "en": "Dismiss"
+  },
+  {
+    "id": "001-016",
+    "en": "Build an App"
+  },
+  {
+    "id": "001-017",
+    "en": "Deploy this folder?"
+  },
+  {
+    "id": "001-018",
+    "en": "Deploy Folder"
+  },
+  {
+    "id": "001-019",
+    "en": "Couldn't create a repository for this project, so it wasn't moved to the cloud."
+  },
+  {
+    "id": "001-020",
+    "en": "Couldn't copy this project's files to the cloud, so it wasn't moved there."
+  },
+  {
+    "id": "001-021",
+    "en": "This project is too large to move to the cloud from here."
+  },
+  {
+    "id": "001-022",
+    "en": "This project is already being deployed from another window."
+  },
+  {
+    "id": "001-023",
+    "en": "This chat hasn't saved any app files yet. Deploy it once it has built something."
+  },
+  {
+    "id": "001-024",
+    "en": "Everything in {0} moves to the cloud with this chat, except dependencies, build output and .env files."
+  },
+  {
+    "id": "001-025",
+    "en": "Only {0}"
+  },
+  {
+    "id": "001-026",
+    "en": "Prompt"
+  },
+  {
+    "id": "001-027",
+    "en": "Side chat prompt"
+  },
+  {
+    "id": "001-028",
+    "en": "Subagent prompt"
+  },
+  {
+    "id": "001-029",
+    "en": "Fullscreen prompt"
+  },
+  {
+    "id": "001-030",
+    "en": "Design mode prompt"
+  },
+  {
+    "id": "001-031",
+    "en": "Panel {0}"
+  },
+  {
+    "id": "001-032",
+    "en": "Panel"
+  },
+  {
+    "id": "001-033",
+    "en": "Panel actions"
+  },
+  {
+    "id": "001-034",
+    "en": "Close Panel"
+  },
+  {
+    "id": "001-035",
+    "en": "Pane {0}"
+  },
+  {
+    "id": "001-036",
+    "en": "Pane"
+  },
+  {
+    "id": "001-037",
+    "en": "Close Pane"
+  },
+  {
+    "id": "001-038",
+    "en": "{0}, panel {1}, pane {2}"
+  },
+  {
+    "id": "001-039",
+    "en": "{0}, panel {1}"
+  },
+  {
+    "id": "001-040",
+    "en": "{0}, pane {1}"
+  },
+  {
+    "id": "001-041",
+    "en": "Add {0} to chat"
+  },
+  {
+    "id": "001-042",
+    "en": "Secret Missing"
+  },
+  {
+    "id": "001-043",
+    "en": "Secrets Missing"
+  },
+  {
+    "id": "001-044",
+    "en": "Add app secrets ({0})"
+  },
+  {
+    "id": "001-045",
+    "en": "Secret to Remove"
+  },
+  {
+    "id": "001-046",
+    "en": "Secrets to Remove"
+  },
+  {
+    "id": "001-047",
+    "en": "Review app secrets ({0})"
+  },
+  {
+    "id": "001-048",
+    "en": "App secrets needed for {0}"
+  },
+  {
+    "id": "001-049",
+    "en": "App secrets needed"
+  },
+  {
+    "id": "001-050",
+    "en": "Stashing..."
+  },
+  {
+    "id": "001-051",
+    "en": "Committing..."
+  },
+  {
+    "id": "001-052",
+    "en": "Discarding..."
+  },
+  {
+    "id": "001-053",
+    "en": "Checking Out..."
+  },
+  {
+    "id": "001-054",
+    "en": "Checkout Branch"
+  },
+  {
+    "id": "001-055",
+    "en": "Checkout {0}"
+  },
+  {
+    "id": "001-056",
+    "en": "Continue in Cloud"
+  },
+  {
+    "id": "001-057",
+    "en": "Select branch"
+  },
+  {
+    "id": "001-058",
+    "en": "Branch {0}, open branch menu"
+  },
+  {
+    "id": "001-059",
+    "en": "Browser"
+  },
+  {
+    "id": "001-060",
+    "en": "Open Browser"
+  },
+  {
+    "id": "001-061",
+    "en": "Canvas actions"
+  },
+  {
+    "id": "001-062",
+    "en": "Canvas"
+  },
+  {
+    "id": "001-063",
+    "en": "Canvas"
+  },
+  {
+    "id": "001-064",
+    "en": "Open Canvas"
+  },
+  {
+    "id": "001-065",
+    "en": "Chat"
+  },
+  {
+    "id": "001-066",
+    "en": "Chats"
+  },
+  {
+    "id": "001-067",
+    "en": "New Agent"
+  },
+  {
+    "id": "001-068",
+    "en": "Open Agent"
+  },
+  {
+    "id": "001-069",
+    "en": "Open Subagent"
+  },
+  {
+    "id": "001-070",
+    "en": "Search agents"
+  },
+  {
+    "id": "001-071",
+    "en": "New Agent"
+  },
+  {
+    "id": "001-072",
+    "en": "New Project"
+  },
+  {
+    "id": "001-073",
+    "en": "Subagent"
+  },
+  {
+    "id": "001-074",
+    "en": "Reproduction steps are waiting for you"
+  },
+  {
+    "id": "001-075",
+    "en": "Reproduction steps"
+  },
+  {
+    "id": "001-076",
+    "en": "Debug"
+  },
+  {
+    "id": "001-077",
+    "en": "Add test login"
+  },
+  {
+    "id": "001-078",
+    "en": "Secret Missing"
+  },
+  {
+    "id": "001-079",
+    "en": "Secrets Missing"
+  },
+  {
+    "id": "001-080",
+    "en": "Resume"
+  },
+  {
+    "id": "001-081",
+    "en": "Fix conflicts on a pull request"
+  },
+  {
+    "id": "001-082",
+    "en": "Autopilot PR"
+  },
+  {
+    "id": "001-083",
+    "en": "Babysit PR"
+  },
+  {
+    "id": "001-084",
+    "en": "Fix CI, conflicts, and comments in cloud subagent"
+  },
+  {
+    "id": "001-085",
+    "en": "Fix CI, conflicts, and comments in cloud."
+  },
+  {
+    "id": "001-086",
+    "en": "Autopilot details"
+  },
+  {
+    "id": "001-087",
+    "en": "Fix CI, conflicts, and comments in cloud subagent"
+  },
+  {
+    "id": "001-088",
+    "en": "Autopilot"
+  },
+  {
+    "id": "001-089",
+    "en": "Autopilot details"
+  },
+  {
+    "id": "001-090",
+    "en": "Autopilot keeps the pull request merge-ready by triaging review comments, resolving clear conflicts, and fixing CI in a loop"
+  },
+  {
+    "id": "001-091",
+    "en": "Autopilot"
+  },
+  {
+    "id": "001-092",
+    "en": "Debug CI"
+  },
+  {
+    "id": "001-093",
+    "en": "Debugging CI"
+  },
+  {
+    "id": "001-094",
+    "en": "Debug CI on a pull request"
+  },
+  {
+    "id": "001-095",
+    "en": "Cannot change environments while a move is in progress"
+  },
+  {
+    "id": "001-096",
+    "en": "Changing environment"
+  },
+  {
+    "id": "001-097",
+    "en": "No destinations available"
+  },
+  {
+    "id": "001-098",
+    "en": "Open terminals ({0})"
+  },
+  {
+    "id": "001-099",
+    "en": "Terminal"
+  },
+  {
+    "id": "001-100",
+    "en": "Terminals"
+  },
+  {
+    "id": "001-101",
+    "en": "Goal"
+  },
+  {
+    "id": "001-102",
+    "en": "Goal paused"
+  },
+  {
+    "id": "001-103",
+    "en": "Goal active"
+  },
+  {
+    "id": "001-104",
+    "en": "Resume goal"
+  },
+  {
+    "id": "001-105",
+    "en": "Pause goal"
+  },
+  {
+    "id": "001-106",
+    "en": "Edit goal"
+  },
+  {
+    "id": "001-107",
+    "en": "Edit goal"
+  },
+  {
+    "id": "001-108",
+    "en": "Clear goal"
+  },
+  {
+    "id": "001-109",
+    "en": "Clear goal"
+  },
+  {
+    "id": "001-110",
+    "en": "This chat's latest turn ran on the backend loop ({0}), not the local agent loop."
+  },
+  {
+    "id": "001-111",
+    "en": "Backend"
+  },
+  {
+    "id": "001-112",
+    "en": "The local agent loop was enabled after this window started. Turns run on the backend loop until the window reloads."
+  },
+  {
+    "id": "001-113",
+    "en": "Reload for Local"
+  },
+  {
+    "id": "001-114",
+    "en": "Turns run on the local agent loop"
+  },
+  {
+    "id": "001-115",
+    "en": "Local"
+  },
+  {
+    "id": "001-116",
+    "en": "Remove"
+  },
+  {
+    "id": "001-117",
+    "en": "{0} skill details"
+  },
+  {
+    "id": "001-118",
+    "en": "Pinned skill actions"
+  },
+  {
+    "id": "001-119",
+    "en": "Unpin"
+  }
+]

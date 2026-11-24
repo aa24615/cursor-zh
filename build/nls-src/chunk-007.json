@@ -1,0 +1,482 @@
+[
+  {
+    "id": "007-000",
+    "en": "Archived {0} projects"
+  },
+  {
+    "id": "007-001",
+    "en": "Archived 1 chat in \"{0}\""
+  },
+  {
+    "id": "007-002",
+    "en": "Archived {0} chats in \"{1}\""
+  },
+  {
+    "id": "007-003",
+    "en": "Archived 1 chat"
+  },
+  {
+    "id": "007-004",
+    "en": "Archived {0} chats"
+  },
+  {
+    "id": "007-005",
+    "en": "Archived {0}"
+  },
+  {
+    "id": "007-006",
+    "en": "Unarchived {0}"
+  },
+  {
+    "id": "007-007",
+    "en": "Unarchived 1 project"
+  },
+  {
+    "id": "007-008",
+    "en": "Unarchived {0} projects"
+  },
+  {
+    "id": "007-009",
+    "en": "Unarchived 1 chat"
+  },
+  {
+    "id": "007-010",
+    "en": "Unarchived {0} chats"
+  },
+  {
+    "id": "007-011",
+    "en": "Could not resolve a remote URL for this file. It may be outside a git repository, or the repository may not have a pushed GitHub remote."
+  },
+  {
+    "id": "007-012",
+    "en": "Copied remote URL to clipboard"
+  },
+  {
+    "id": "007-013",
+    "en": "Copy Remote URL"
+  },
+  {
+    "id": "007-014",
+    "en": "No messages to copy"
+  },
+  {
+    "id": "007-015",
+    "en": "Copied messages to clipboard"
+  },
+  {
+    "id": "007-016",
+    "en": "Missing workspace with all {0} repositories"
+  },
+  {
+    "id": "007-017",
+    "en": "Missing local copy of {0}"
+  },
+  {
+    "id": "007-018",
+    "en": "No compatible environments are currently available"
+  },
+  {
+    "id": "007-019",
+    "en": "No destinations available"
+  },
+  {
+    "id": "007-020",
+    "en": "New Project"
+  },
+  {
+    "id": "007-021",
+    "en": "Remote control worker not ready"
+  },
+  {
+    "id": "007-022",
+    "en": "Wait for the worker to connect, or remove the Remote Control pill to send without converting."
+  },
+  {
+    "id": "007-023",
+    "en": "Reveal in Marketplace"
+  },
+  {
+    "id": "007-024",
+    "en": "Open in Marketplace"
+  },
+  {
+    "id": "007-025",
+    "en": "New Agent"
+  },
+  {
+    "id": "007-026",
+    "en": "\"{0}\" couldn't move to the Project."
+  },
+  {
+    "id": "007-027",
+    "en": "It stays on this computer with its side chats."
+  },
+  {
+    "id": "007-028",
+    "en": "Draft"
+  },
+  {
+    "id": "007-029",
+    "en": "Conflicts"
+  },
+  {
+    "id": "007-030",
+    "en": "Ready"
+  },
+  {
+    "id": "007-031",
+    "en": "Checks Failing"
+  },
+  {
+    "id": "007-032",
+    "en": "Action Required"
+  },
+  {
+    "id": "007-033",
+    "en": "Waiting for Reviewers"
+  },
+  {
+    "id": "007-034",
+    "en": "Merged"
+  },
+  {
+    "id": "007-035",
+    "en": "Closed"
+  },
+  {
+    "id": "007-036",
+    "en": "Side Chat Is Still Running"
+  },
+  {
+    "id": "007-037",
+    "en": "Closing this tab hides it until you reopen it. The agent will keep running unless you stop it."
+  },
+  {
+    "id": "007-038",
+    "en": "Close"
+  },
+  {
+    "id": "007-039",
+    "en": "Stop and Close"
+  },
+  {
+    "id": "007-040",
+    "en": "Cancel"
+  },
+  {
+    "id": "007-041",
+    "en": "Adding chat to {0}…"
+  },
+  {
+    "id": "007-042",
+    "en": "Some side chats couldn't move to the Project."
+  },
+  {
+    "id": "007-043",
+    "en": "1 side chat couldn't move to the Project."
+  },
+  {
+    "id": "007-044",
+    "en": "{0} side chats couldn't move to the Project."
+  },
+  {
+    "id": "007-045",
+    "en": "1 stays with \"{0}\" on this computer."
+  },
+  {
+    "id": "007-046",
+    "en": "{0} stay with \"{1}\" on this computer."
+  },
+  {
+    "id": "007-047",
+    "en": "It stays with \"{0}\" on this computer."
+  },
+  {
+    "id": "007-048",
+    "en": "They stay with \"{0}\" on this computer."
+  },
+  {
+    "id": "007-049",
+    "en": "Listening"
+  },
+  {
+    "id": "007-050",
+    "en": "View subscriptions ({0})"
+  },
+  {
+    "id": "007-051",
+    "en": "Triggers"
+  },
+  {
+    "id": "007-052",
+    "en": "View triggers ({0})"
+  },
+  {
+    "id": "007-053",
+    "en": "Stop Agent Terminal?"
+  },
+  {
+    "id": "007-054",
+    "en": "This is an agent's background terminal. Closing it will stop any process currently running in it."
+  },
+  {
+    "id": "007-055",
+    "en": "Stop Terminal"
+  },
+  {
+    "id": "007-056",
+    "en": "Cancel"
+  },
+  {
+    "id": "007-057",
+    "en": "Don't ask again"
+  },
+  {
+    "id": "007-058",
+    "en": "Close Terminal?"
+  },
+  {
+    "id": "007-059",
+    "en": "This terminal has a running process. Closing it will terminate the process."
+  },
+  {
+    "id": "007-060",
+    "en": "Close Terminal"
+  },
+  {
+    "id": "007-061",
+    "en": "Cancel"
+  },
+  {
+    "id": "007-062",
+    "en": "Don't ask again"
+  },
+  {
+    "id": "007-063",
+    "en": "Cursor"
+  },
+  {
+    "id": "007-064",
+    "en": "Configure Icon Visibility"
+  },
+  {
+    "id": "007-065",
+    "en": "Agent Host"
+  },
+  {
+    "id": "007-066",
+    "en": "Controls whether the agent that runs local agent turns can be updated between Cursor releases. Updates are downloaded from a Cursor service and applied at the next agent turn."
+  },
+  {
+    "id": "007-067",
+    "en": "Follow 'update.mode': updated unless Cursor updates are turned off."
+  },
+  {
+    "id": "007-068",
+    "en": "Update even when Cursor updates are turned off."
+  },
+  {
+    "id": "007-069",
+    "en": "Never update; keep the agent packed into this Cursor release."
+  },
+  {
+    "id": "007-070",
+    "en": "Your organization's policy doesn't set an Airlock container."
+  },
+  {
+    "id": "007-071",
+    "en": "The airlock is only available in SpaceX mode."
+  },
+  {
+    "id": "007-072",
+    "en": "IT hasn't set up the airlock on this computer."
+  },
+  {
+    "id": "007-073",
+    "en": "IT's airlock settings on this computer can't be used: {0}"
+  },
+  {
+    "id": "007-074",
+    "en": "Sign in with your SpaceX account to use the airlock."
+  },
+  {
+    "id": "007-075",
+    "en": "No Airlock container for {0} exists. Start {1} for this repo, then connect again."
+  },
+  {
+    "id": "007-076",
+    "en": "No Airlock container for {0} exists. Start {1} for this repo, then connect again. {3} can't offer Start: {2}"
+  },
+  {
+    "id": "007-077",
+    "en": "No Airlock container for {0} exists. Start it, then connect again."
+  },
+  {
+    "id": "007-078",
+    "en": "{2} can't tell where {0} is in container {1}: the container doesn't mount this folder and sets no working folder."
+  },
+  {
+    "id": "007-079",
+    "en": "Container {0} isn't running. Start it, then connect again."
+  },
+  {
+    "id": "007-080",
+    "en": "{0} isn't set."
+  },
+  {
+    "id": "007-081",
+    "en": "{0} must be a container name: letters, digits, '_', '.' and '-', starting with a letter or digit."
+  },
+  {
+    "id": "007-082",
+    "en": "{0} isn't set."
+  },
+  {
+    "id": "007-083",
+    "en": "{0} must be an absolute path inside the container."
+  },
+  {
+    "id": "007-084",
+    "en": "{0} must be a user name or id, optionally followed by ':' and a group."
+  },
+  {
+    "id": "007-085",
+    "en": "{0} must be an absolute path."
+  },
+  {
+    "id": "007-086",
+    "en": "{0} must be docker, podman, or an absolute path."
+  },
+  {
+    "id": "007-087",
+    "en": "{0} must be a string."
+  },
+  {
+    "id": "007-088",
+    "en": "{0} must be a positive number of seconds."
+  },
+  {
+    "id": "007-089",
+    "en": "{0} isn't valid YAML: {1}"
+  },
+  {
+    "id": "007-090",
+    "en": "{0} must be a YAML mapping."
+  },
+  {
+    "id": "007-091",
+    "en": "start_command in {0} must be one command, written as a string."
+  },
+  {
+    "id": "007-092",
+    "en": "Cursor couldn't get the airlock ready: {0}"
+  },
+  {
+    "id": "007-093",
+    "en": "Your organization's policy named a different Airlock container while Cursor was getting it ready."
+  },
+  {
+    "id": "007-094",
+    "en": "{0} isn't available: {1}"
+  },
+  {
+    "id": "007-095",
+    "en": "Cursor couldn't start the repo's Airlock container: {0}"
+  },
+  {
+    "id": "007-096",
+    "en": "No sandbox file of {0} names a start_command ({1}), so start its Airlock container yourself."
+  },
+  {
+    "id": "007-097",
+    "en": "Starting the Airlock container for {0}…"
+  },
+  {
+    "id": "007-098",
+    "en": "The start command in {0} failed: {1}"
+  },
+  {
+    "id": "007-099",
+    "en": "The start command in {0} finished, but container {1} wasn't running {2} seconds later."
+  },
+  {
+    "id": "007-100",
+    "en": "Your organization's Airlock settings changed while Cursor was getting the container ready."
+  },
+  {
+    "id": "007-101",
+    "en": "Cursor couldn't get the airlock ready: {0}"
+  },
+  {
+    "id": "007-102",
+    "en": "Dev Containers can't run IT's engine wrapper {0}. On Windows, the airlock's engine must be docker, podman, or an .exe."
+  },
+  {
+    "id": "007-103",
+    "en": "Your {0} setting in {1} points Dev Containers at a different container engine than the airlock's. Remove it, then connect again."
+  },
+  {
+    "id": "007-104",
+    "en": "Cursor couldn't get Dev Containers ready to open the airlock: {0}"
+  },
+  {
+    "id": "007-105",
+    "en": "Cursor can't get Dev Containers ready to open the airlock, because Dev Containers' settings for the container aren't a JSON object. Fix or delete {0}, then try again."
+  },
+  {
+    "id": "007-106",
+    "en": "Cursor can't get Dev Containers ready to open the airlock, because remoteEnv in Dev Containers' settings for the container isn't a JSON object. Fix or delete {0}, then try again."
+  },
+  {
+    "id": "007-107",
+    "en": "Cursor can't point Dev Containers at the airlock's container engine, because {0} isn't valid JSON. Fix it, then try again."
+  },
+  {
+    "id": "007-108",
+    "en": "{0} isn't on the PATH."
+  },
+  {
+    "id": "007-109",
+    "en": "no answer within {0} seconds"
+  },
+  {
+    "id": "007-110",
+    "en": "stopped by {0}"
+  },
+  {
+    "id": "007-111",
+    "en": "exit code {0}"
+  },
+  {
+    "id": "007-112",
+    "en": "Cursor couldn't run the {0} hook at {1}: {2}"
+  },
+  {
+    "id": "007-113",
+    "en": "The {0} hook didn't finish within {1} seconds."
+  },
+  {
+    "id": "007-114",
+    "en": "The {0} hook failed: {1}"
+  },
+  {
+    "id": "007-115",
+    "en": "The {0} hook was stopped by {1}."
+  },
+  {
+    "id": "007-116",
+    "en": "The {0} hook failed with exit code {1}."
+  },
+  {
+    "id": "007-117",
+    "en": "{0} (see the log)"
+  },
+  {
+    "id": "007-118",
+    "en": "Looking for container {0}…"
+  },
+  {
+    "id": "007-119",
+    "en": "Waiting for {0}…"
+  }
+]

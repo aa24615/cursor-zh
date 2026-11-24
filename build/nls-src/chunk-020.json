@@ -1,0 +1,482 @@
+[
+  {
+    "id": "020-000",
+    "en": "Restricted Mode is intended for safe code browsing. Trust this workspace to enable all features. Use navigation keys to access banner actions."
+  },
+  {
+    "id": "020-001",
+    "en": "Restricted Mode is intended for safe code browsing. Trust this window to enable all features."
+  },
+  {
+    "id": "020-002",
+    "en": "Restricted Mode is intended for safe code browsing. Trust this folder to enable all features."
+  },
+  {
+    "id": "020-003",
+    "en": "Restricted Mode is intended for safe code browsing. Trust this workspace to enable all features."
+  },
+  {
+    "id": "020-004",
+    "en": "Restricted Mode: Some features are disabled because this window is not trusted."
+  },
+  {
+    "id": "020-005",
+    "en": "Running in Restricted Mode\n\nSome [features are disabled]({0}) because this [window is not trusted]({1})."
+  },
+  {
+    "id": "020-006",
+    "en": "Restricted Mode: Some features are disabled because this folder is not trusted."
+  },
+  {
+    "id": "020-007",
+    "en": "Running in Restricted Mode\n\nSome [features are disabled]({0}) because this [folder is not trusted]({1})."
+  },
+  {
+    "id": "020-008",
+    "en": "Restricted Mode: Some features are disabled because this workspace is not trusted."
+  },
+  {
+    "id": "020-009",
+    "en": "Running in Restricted Mode\n\nSome [features are disabled]({0}) because this [workspace is not trusted]({1})."
+  },
+  {
+    "id": "020-010",
+    "en": "Workspace Trust"
+  },
+  {
+    "id": "020-011",
+    "en": "Restricted Mode"
+  },
+  {
+    "id": "020-012",
+    "en": "Workspace Name"
+  },
+  {
+    "id": "020-013",
+    "en": "Workspace: {0}"
+  },
+  {
+    "id": "020-014",
+    "en": "Current workspace: {0}"
+  },
+  {
+    "id": "020-015",
+    "en": "Workspace Trust Editor"
+  },
+  {
+    "id": "020-016",
+    "en": "Trust the authors of all files in the current folder or its parent '{0}'."
+  },
+  {
+    "id": "020-017",
+    "en": "Trust Parent"
+  },
+  {
+    "id": "020-018",
+    "en": "Learn more"
+  },
+  {
+    "id": "020-019",
+    "en": "This folder contains a workspace file '{0}'. Do you want to open it? {1} about workspace files."
+  },
+  {
+    "id": "020-020",
+    "en": "This folder contains multiple workspace files. Do you want to open one? {0} about workspace files."
+  },
+  {
+    "id": "020-021",
+    "en": "Log Data Directories"
+  },
+  {
+    "id": "020-022",
+    "en": "Reload With HMR"
+  },
+  {
+    "id": "020-023",
+    "en": "Hang Renderer Thread (30 s)"
+  },
+  {
+    "id": "020-024",
+    "en": "Dev Force Next Auto-review Block"
+  },
+  {
+    "id": "020-025",
+    "en": "Dev Delay Next Auto-review ({0} s)"
+  },
+  {
+    "id": "020-026",
+    "en": "Restart in Temporary Profile"
+  },
+  {
+    "id": "020-027",
+    "en": "Start Infinite Composer Session"
+  },
+  {
+    "id": "020-028",
+    "en": "Stop Infinite Composer Session"
+  },
+  {
+    "id": "020-029",
+    "en": "Dev Auto Login (Free)"
+  },
+  {
+    "id": "020-030",
+    "en": "Dev Auto Login (Pro Trial)"
+  },
+  {
+    "id": "020-031",
+    "en": "Dev Auto Login (Pro)"
+  },
+  {
+    "id": "020-032",
+    "en": "Dev Auto Login (Pro Plus Trial)"
+  },
+  {
+    "id": "020-033",
+    "en": "Dev Auto Login (Pro Plus)"
+  },
+  {
+    "id": "020-034",
+    "en": "Dev Auto Login (Ultra)"
+  },
+  {
+    "id": "020-035",
+    "en": "Dev Auto Login (Enterprise)"
+  },
+  {
+    "id": "020-036",
+    "en": "Dev Auto Login (Fake Tokens for Testing)"
+  },
+  {
+    "id": "020-037",
+    "en": "Dev Set Application Storage (For Testing)"
+  },
+  {
+    "id": "020-038",
+    "en": "Dev Get Application Storage (For Testing)"
+  },
+  {
+    "id": "020-039",
+    "en": "Dev Is Agent Host Enabled (For Testing)"
+  },
+  {
+    "id": "020-040",
+    "en": "Dev Batch Set Application Storage (For Testing)"
+  },
+  {
+    "id": "020-041",
+    "en": "Dev Set Composer Mode AutoRun (For Testing)"
+  },
+  {
+    "id": "020-042",
+    "en": "Dev Get Composer Data (For Testing)"
+  },
+  {
+    "id": "020-043",
+    "en": "Set Anyrun Cluster"
+  },
+  {
+    "id": "020-044",
+    "en": "Dev Get Autorun Setting (For Testing)"
+  },
+  {
+    "id": "020-045",
+    "en": "Dev Get Loaded Plugins Summary (For Testing)"
+  },
+  {
+    "id": "020-046",
+    "en": "Dev Wait For Slash Menu Sources (For Testing)"
+  },
+  {
+    "id": "020-047",
+    "en": "Dev Get Model Config For Surface (For Testing)"
+  },
+  {
+    "id": "020-048",
+    "en": "Simulate New User"
+  },
+  {
+    "id": "020-049",
+    "en": "Toggle Developer Tools"
+  },
+  {
+    "id": "020-050",
+    "en": "Configure Runtime Arguments"
+  },
+  {
+    "id": "020-051",
+    "en": "Reload with Extensions Disabled"
+  },
+  {
+    "id": "020-052",
+    "en": "Reveal User Data Folder"
+  },
+  {
+    "id": "020-053",
+    "en": "Show GPU Info"
+  },
+  {
+    "id": "020-054",
+    "en": "Dev Refresh Team Admin Settings (For Testing)"
+  },
+  {
+    "id": "020-055",
+    "en": "Shell command '{0}' successfully installed."
+  },
+  {
+    "id": "020-056",
+    "en": "Install 'code' command"
+  },
+  {
+    "id": "020-057",
+    "en": "Successfully installed Cursor in the 'code' command."
+  },
+  {
+    "id": "020-058",
+    "en": "Successfully unlinked Cursor from the 'code' command."
+  },
+  {
+    "id": "020-059",
+    "en": "Shell command '{0}' successfully uninstalled from PATH."
+  },
+  {
+    "id": "020-060",
+    "en": "Shell Command"
+  },
+  {
+    "id": "020-061",
+    "en": "Install '{0}' command"
+  },
+  {
+    "id": "020-062",
+    "en": "Uninstall '{0}' command from PATH"
+  },
+  {
+    "id": "020-063",
+    "en": "Uninstall '{0}' command from PATH"
+  },
+  {
+    "id": "020-064",
+    "en": "Quit Cursor?"
+  },
+  {
+    "id": "020-065",
+    "en": "Close this window?"
+  },
+  {
+    "id": "020-066",
+    "en": "Are you sure you want to quit?"
+  },
+  {
+    "id": "020-067",
+    "en": "Are you sure you want to close this window?"
+  },
+  {
+    "id": "020-068",
+    "en": "Quit"
+  },
+  {
+    "id": "020-069",
+    "en": "Close"
+  },
+  {
+    "id": "020-070",
+    "en": "Cancel"
+  },
+  {
+    "id": "020-071",
+    "en": "Clos&&e Window"
+  },
+  {
+    "id": "020-072",
+    "en": "&&Zoom In"
+  },
+  {
+    "id": "020-073",
+    "en": "&&Set Zoom Level"
+  },
+  {
+    "id": "020-074",
+    "en": "&&Zoom Out"
+  },
+  {
+    "id": "020-075",
+    "en": "&&Reset Zoom"
+  },
+  {
+    "id": "020-076",
+    "en": "Close Window"
+  },
+  {
+    "id": "020-077",
+    "en": "Close Window"
+  },
+  {
+    "id": "020-078",
+    "en": "window group"
+  },
+  {
+    "id": "020-079",
+    "en": "{0}, window with unsaved changes"
+  },
+  {
+    "id": "020-080",
+    "en": "Current Window"
+  },
+  {
+    "id": "020-081",
+    "en": "Current Window"
+  },
+  {
+    "id": "020-082",
+    "en": "Select a window to switch to"
+  },
+  {
+    "id": "020-083",
+    "en": "Close Window"
+  },
+  {
+    "id": "020-084",
+    "en": "Zoom In"
+  },
+  {
+    "id": "020-085",
+    "en": "Set Zoom Level"
+  },
+  {
+    "id": "020-086",
+    "en": "Zoom Out"
+  },
+  {
+    "id": "020-087",
+    "en": "Reset Zoom"
+  },
+  {
+    "id": "020-088",
+    "en": "Switch Window..."
+  },
+  {
+    "id": "020-089",
+    "en": "Quick Switch Window..."
+  },
+  {
+    "id": "020-090",
+    "en": "E&&xit"
+  },
+  {
+    "id": "020-091",
+    "en": "Controls the timeout in seconds before giving up resolving the shell environment when the application is not already launched from a terminal. See our [documentation](https://go.microsoft.com/fwlink/?linkid=2149667) for more information."
+  },
+  {
+    "id": "020-092",
+    "en": "Window"
+  },
+  {
+    "id": "020-093",
+    "en": "Controls whether a confirmation dialog shows asking to save or discard an opened untitled workspace in the window when switching to another workspace. Disabling the confirmation dialog will always discard the untitled workspace."
+  },
+  {
+    "id": "020-094",
+    "en": "Open a new empty window."
+  },
+  {
+    "id": "020-095",
+    "en": "Focus the last active running instance."
+  },
+  {
+    "id": "020-096",
+    "en": "Controls whether a new empty window should open when starting a second instance without arguments or if the last running instance should get focus.\nNote that there can still be cases where this setting is ignored (e.g. when using the `--new-window` or `--reuse-window` command line option)."
+  },
+  {
+    "id": "020-097",
+    "en": "Always reopen all windows. If a folder or workspace is opened (e.g. from the command line) it opens as a new window unless it was opened before. If files are opened they will open in one of the restored windows together with editors that were previously opened."
+  },
+  {
+    "id": "020-098",
+    "en": "Reopen all windows unless a folder, workspace or file is opened (e.g. from the command line). If a file is opened, it will replace any of the editors that were previously opened in a window."
+  },
+  {
+    "id": "020-099",
+    "en": "Reopen all windows that had folders or workspaces opened unless a folder, workspace or file is opened (e.g. from the command line). If a file is opened, it will replace any of the editors that were previously opened in a window."
+  },
+  {
+    "id": "020-100",
+    "en": "Reopen the last active window unless a folder, workspace or file is opened (e.g. from the command line). If a file is opened, it will replace any of the editors that were previously opened in a window."
+  },
+  {
+    "id": "020-101",
+    "en": "Never reopen a window. Unless a folder or workspace is opened (e.g. from the command line), an empty window will appear."
+  },
+  {
+    "id": "020-102",
+    "en": "Controls how windows and editors within are being restored when opening."
+  },
+  {
+    "id": "020-103",
+    "en": "Controls whether a window should restore to full screen mode if it was exited in full screen mode."
+  },
+  {
+    "id": "020-104",
+    "en": "Adjust the default zoom level for all windows. Each increment above `0` (e.g. `1`) or below (e.g. `-1`) represents zooming `20%` larger or smaller. You can also enter decimals to adjust the zoom level with a finer granularity. See {0} for configuring if the 'Zoom In' and 'Zoom Out' commands apply the zoom level to all windows or only the active window."
+  },
+  {
+    "id": "020-105",
+    "en": "Controls if the 'Zoom In' and 'Zoom Out' commands apply the zoom level to all windows or only the active window. See {0} for configuring a default zoom level for all windows."
+  },
+  {
+    "id": "020-106",
+    "en": "Open new windows in the center of the screen."
+  },
+  {
+    "id": "020-107",
+    "en": "Open new windows with same dimension as last active one."
+  },
+  {
+    "id": "020-108",
+    "en": "Open new windows with same dimension as last active one with an offset position."
+  },
+  {
+    "id": "020-109",
+    "en": "Open new windows maximized."
+  },
+  {
+    "id": "020-110",
+    "en": "Open new windows in full screen mode."
+  },
+  {
+    "id": "020-111",
+    "en": "Controls the dimensions of opening a new window when at least one window is already opened. Note that this setting does not have an impact on the first window that is opened. The first window will always restore the size and location as you left it before closing."
+  },
+  {
+    "id": "020-112",
+    "en": "Controls whether closing the last editor should also close the window. This setting only applies for windows that do not show folders."
+  },
+  {
+    "id": "020-113",
+    "en": "If enabled, this setting will close the window when the application icon in the title bar is double-clicked. The window will not be able to be dragged by the icon. This setting is effective only if {0} is set to `custom`."
+  },
+  {
+    "id": "020-114",
+    "en": "Adjust the appearance of the window title bar to be native by the OS or custom. On Linux and Windows, this setting also affects the application and context menu appearances. Changes require a full restart to apply."
+  },
+  {
+    "id": "020-115",
+    "en": "Adjust the appearance of the window controls to be native by the OS, custom drawn or hidden. Changes require a full restart to apply."
+  },
+  {
+    "id": "020-116",
+    "en": "Adjust the appearance of dialog windows."
+  },
+  {
+    "id": "020-117",
+    "en": "Enables macOS Sierra window tabs. Note that changes require a full restart to apply and that native tabs will disable a custom title bar style if configured."
+  },
+  {
+    "id": "020-118",
+    "en": "Controls if native full-screen should be used on macOS. Disable this option to prevent macOS from creating a new space when going full-screen."
+  },
+  {
+    "id": "020-119",
+    "en": "If enabled, clicking on an inactive window will both activate the window and trigger the element under the mouse if it is clickable. If disabled, clicking anywhere on an inactive window will activate it only and a second click is required on the element."
+  }
+]

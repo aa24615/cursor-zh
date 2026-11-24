@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h020-000",
+    "en": "Missing parent task"
+  },
+  {
+    "id": "h020-001",
+    "en": "Mistral Large"
+  },
+  {
+    "id": "h020-002",
+    "en": "Mixed Message Types"
+  },
+  {
+    "id": "h020-003",
+    "en": "Model Name Display"
+  },
+  {
+    "id": "h020-004",
+    "en": "Model Picker (React) - Parameterized Models"
+  },
+  {
+    "id": "h020-005",
+    "en": "Mono"
+  },
+  {
+    "id": "h020-006",
+    "en": "Monospace"
+  },
+  {
+    "id": "h020-007",
+    "en": "More Options"
+  },
+  {
+    "id": "h020-008",
+    "en": "More failure annotations on GitHub…"
+  },
+  {
+    "id": "h020-009",
+    "en": "More search options"
+  },
+  {
+    "id": "h020-010",
+    "en": "More than one tag"
+  },
+  {
+    "id": "h020-011",
+    "en": "Move to"
+  },
+  {
+    "id": "h020-012",
+    "en": "Move to Side Chat"
+  },
+  {
+    "id": "h020-013",
+    "en": "Moving agent…"
+  },
+  {
+    "id": "h020-014",
+    "en": "Multi Cursor Edit"
+  },
+  {
+    "id": "h020-015",
+    "en": "Multi Message"
+  },
+  {
+    "id": "h020-016",
+    "en": "Multi-Button Loading"
+  },
+  {
+    "id": "h020-017",
+    "en": "Multi-Stage"
+  },
+  {
+    "id": "h020-018",
+    "en": "Multi-line Dialog"
+  },
+  {
+    "id": "h020-019",
+    "en": "Multi-repo selections run in Cloud only."
+  },
+  {
+    "id": "h020-020",
+    "en": "Multiple Actions"
+  },
+  {
+    "id": "h020-021",
+    "en": "Multiple Notifications"
+  },
+  {
+    "id": "h020-022",
+    "en": "Multiple folders"
+  },
+  {
+    "id": "h020-023",
+    "en": "Multitask Mode"
+  },
+  {
+    "id": "h020-024",
+    "en": "My custom theme"
+  },
+  {
+    "id": "h020-025",
+    "en": "Name of the debug visualizer"
+  },
+  {
+    "id": "h020-026",
+    "en": "Name shown in the theme picker"
+  },
+  {
+    "id": "h020-027",
+    "en": "Narrow"
+  },
+  {
+    "id": "h020-028",
+    "en": "Narrow · Agent status"
+  },
+  {
+    "id": "h020-029",
+    "en": "Narrow · PR truncation"
+  },
+  {
+    "id": "h020-030",
+    "en": "Native Accept/Reject"
+  },
+  {
+    "id": "h020-031",
+    "en": "Needs build"
+  },
+  {
+    "id": "h020-032",
+    "en": "Needs restack"
+  },
+  {
+    "id": "h020-033",
+    "en": "Network Access"
+  },
+  {
+    "id": "h020-034",
+    "en": "Network Access Settings"
+  },
+  {
+    "id": "h020-035",
+    "en": "Neutral disabled paint from the three control tokens. Button, IconButton, and Select read the same rule."
+  },
+  {
+    "id": "h020-036",
+    "en": "Never Show (Secondary)"
+  },
+  {
+    "id": "h020-037",
+    "en": "Never Show Again"
+  },
+  {
+    "id": "h020-038",
+    "en": "New &&Agent"
+  },
+  {
+    "id": "h020-039",
+    "en": "New &&Browser"
+  },
+  {
+    "id": "h020-040",
+    "en": "New &&Terminal"
+  },
+  {
+    "id": "h020-041",
+    "en": "New Agent (preserve editor panel)"
+  },
+  {
+    "id": "h020-042",
+    "en": "New Agent in"
+  },
+  {
+    "id": "h020-043",
+    "en": "New Agent with Context"
+  },
+  {
+    "id": "h020-044",
+    "en": "New Browser"
+  },
+  {
+    "id": "h020-045",
+    "en": "New Composer Chat"
+  },
+  {
+    "id": "h020-046",
+    "en": "New Connection"
+  },
+  {
+    "id": "h020-047",
+    "en": "New Group"
+  },
+  {
+    "id": "h020-048",
+    "en": "New Local Git Repo"
+  },
+  {
+    "id": "h020-049",
+    "en": "New Output View"
+  },
+  {
+    "id": "h020-050",
+    "en": "New Side Chat"
+  },
+  {
+    "id": "h020-051",
+    "en": "New Tab Menu"
+  },
+  {
+    "id": "h020-052",
+    "en": "New Text Lines"
+  },
+  {
+    "id": "h020-053",
+    "en": "New Theme"
+  },
+  {
+    "id": "h020-054",
+    "en": "New at "
+  },
+  {
+    "id": "h020-055",
+    "en": "New changes"
+  },
+  {
+    "id": "h020-056",
+    "en": "New changes since last published"
+  },
+  {
+    "id": "h020-057",
+    "en": "New push to branch"
+  },
+  {
+    "id": "h020-058",
+    "en": "Next Agent"
+  },
+  {
+    "id": "h020-059",
+    "en": "Next Chat (Direct)"
+  },
+  {
+    "id": "h020-060",
+    "en": "Next Palette Filter"
+  },
+  {
+    "id": "h020-061",
+    "en": "Next Search Result"
+  },
+  {
+    "id": "h020-062",
+    "en": "Next Tab"
+  },
+  {
+    "id": "h020-063",
+    "en": "Next page"
+  },
+  {
+    "id": "h020-064",
+    "en": "No Active Agent Conversation"
+  },
+  {
+    "id": "h020-065",
+    "en": "No Backend Servers"
+  },
+  {
+    "id": "h020-066",
+    "en": "No Changes Yet"
+  },
+  {
+    "id": "h020-067",
+    "en": "No Chats Yet"
+  },
+  {
+    "id": "h020-068",
+    "en": "No Emoji"
+  },
+  {
+    "id": "h020-069",
+    "en": "No Environment"
+  },
+  {
+    "id": "h020-070",
+    "en": "No Icon"
+  },
+  {
+    "id": "h020-071",
+    "en": "No Icon Dialog"
+  },
+  {
+    "id": "h020-072",
+    "en": "No MCP servers configured"
+  },
+  {
+    "id": "h020-073",
+    "en": "No PR"
+  },
+  {
+    "id": "h020-074",
+    "en": "No Ports Detected"
+  },
+  {
+    "id": "h020-075",
+    "en": "No Recent Actions Yet"
+  },
+  {
+    "id": "h020-076",
+    "en": "No SCM requests match these filters"
+  },
+  {
+    "id": "h020-077",
+    "en": "No SCM requests yet"
+  },
+  {
+    "id": "h020-078",
+    "en": "No Searchable Files"
+  },
+  {
+    "id": "h020-079",
+    "en": "No Tasks Yet"
+  },
+  {
+    "id": "h020-080",
+    "en": "No Themes Yet"
+  },
+  {
+    "id": "h020-081",
+    "en": "No WSL distros were found on this machine."
+  },
+  {
+    "id": "h020-082",
+    "en": "No Workspace Connected"
+  },
+  {
+    "id": "h020-083",
+    "en": "No activity yet"
+  },
+  {
+    "id": "h020-084",
+    "en": "No agents matching filter"
+  },
+  {
+    "id": "h020-085",
+    "en": "No automations found"
+  },
+  {
+    "id": "h020-086",
+    "en": "No automations yet"
+  },
+  {
+    "id": "h020-087",
+    "en": "No changed files"
+  },
+  {
+    "id": "h020-088",
+    "en": "No compute providers match."
+  },
+  {
+    "id": "h020-089",
+    "en": "No connection service"
+  },
+  {
+    "id": "h020-090",
+    "en": "No containers retained after close."
+  },
+  {
+    "id": "h020-091",
+    "en": "No context files"
+  },
+  {
+    "id": "h020-092",
+    "en": "No descriptors match the current filter."
+  },
+  {
+    "id": "h020-093",
+    "en": "No diffs match the current filter."
+  },
+  {
+    "id": "h020-094",
+    "en": "No extensions to display"
+  },
+  {
+    "id": "h020-095",
+    "en": "No files"
+  },
+  {
+    "id": "h020-096",
+    "en": "No files match"
+  },
+  {
+    "id": "h020-097",
+    "en": "No git operations yet"
+  },
+  {
+    "id": "h020-098",
+    "en": "No intervals for this section."
+  },
+  {
+    "id": "h020-099",
+    "en": "No lifecycle service"
+  },
+  {
+    "id": "h020-100",
+    "en": "No matching fonts"
+  },
+  {
+    "id": "h020-101",
+    "en": "No matching models"
+  },
+  {
+    "id": "h020-102",
+    "en": "No matching options."
+  },
+  {
+    "id": "h020-103",
+    "en": "No matching properties"
+  },
+  {
+    "id": "h020-104",
+    "en": "No matching static metrics"
+  },
+  {
+    "id": "h020-105",
+    "en": "No metric history to chart yet."
+  },
+  {
+    "id": "h020-106",
+    "en": "No model details (should show placeholder)"
+  },
+  {
+    "id": "h020-107",
+    "en": "No output channels available"
+  },
+  {
+    "id": "h020-108",
+    "en": "No path metadata."
+  },
+  {
+    "id": "h020-109",
+    "en": "No projects found"
+  },
+  {
+    "id": "h020-110",
+    "en": "No pull requests yet."
+  },
+  {
+    "id": "h020-111",
+    "en": "No recent agents yet."
+  },
+  {
+    "id": "h020-112",
+    "en": "No recent workspaces"
+  },
+  {
+    "id": "h020-113",
+    "en": "No remote"
+  },
+  {
+    "id": "h020-114",
+    "en": "No remote URL."
+  },
+  {
+    "id": "h020-115",
+    "en": "No repositories in payload."
+  },
+  {
+    "id": "h020-116",
+    "en": "No requests from this workspace"
+  },
+  {
+    "id": "h020-117",
+    "en": "No requests yet"
+  },
+  {
+    "id": "h020-118",
+    "en": "No runs yet"
+  },
+  {
+    "id": "h020-119",
+    "en": "No services found"
+  },
+  {
+    "id": "h020-120",
+    "en": "No sibling files available"
+  },
+  {
+    "id": "h020-121",
+    "en": "No statuses found"
+  },
+  {
+    "id": "h020-122",
+    "en": "No teams found"
+  },
+  {
+    "id": "h020-123",
+    "en": "No templates match this filter."
+  },
+  {
+    "id": "h020-124",
+    "en": "No themes importable from IDE"
+  },
+  {
+    "id": "h020-125",
+    "en": "No upcoming runs to preview for this expression."
+  },
+  {
+    "id": "h020-126",
+    "en": "No workspace folder open"
+  },
+  {
+    "id": "h020-127",
+    "en": "No workspaces currently open."
+  },
+  {
+    "id": "h020-128",
+    "en": "Normal - Selected"
+  },
+  {
+    "id": "h020-129",
+    "en": "Normal - Unselected"
+  },
+  {
+    "id": "h020-130",
+    "en": "Notebook controller Id"
+  },
+  {
+    "id": "h020-131",
+    "en": "Notebook editor title"
+  },
+  {
+    "id": "h020-132",
+    "en": "Nothing to save"
+  },
+  {
+    "id": "h020-133",
+    "en": "Notification"
+  },
+  {
+    "id": "h020-134",
+    "en": "Now"
+  },
+  {
+    "id": "h020-135",
+    "en": "Now Enabled"
+  },
+  {
+    "id": "h020-136",
+    "en": "Offset"
+  },
+  {
+    "id": "h020-137",
+    "en": "Okay"
+  },
+  {
+    "id": "h020-138",
+    "en": "On Any Completion"
+  },
+  {
+    "id": "h020-139",
+    "en": "On Branch"
+  },
+  {
+    "id": "h020-140",
+    "en": "On Failure"
+  },
+  {
+    "id": "h020-141",
+    "en": "On PRs"
+  },
+  {
+    "id": "h020-142",
+    "en": "On Success"
+  },
+  {
+    "id": "h020-143",
+    "en": "One domain per line. Wildcards are supported."
+  },
+  {
+    "id": "h020-144",
+    "en": "Online SCM"
+  },
+  {
+    "id": "h020-145",
+    "en": "Only project members"
+  },
+  {
+    "id": "h020-146",
+    "en": "Only trust certificates from sources you recognize. Accepting untrusted certificates can compromise your security."
+  },
+  {
+    "id": "h020-147",
+    "en": "Only whitespace changes"
+  },
+  {
+    "id": "h020-148",
+    "en": "Only you can access"
+  },
+  {
+    "id": "h020-149",
+    "en": "Open &&Folder"
+  }
+]

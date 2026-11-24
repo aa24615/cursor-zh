@@ -1,0 +1,374 @@
+[
+  {
+    "id": "h025-000",
+    "en": "With Plan"
+  },
+  {
+    "id": "h025-001",
+    "en": "With Source"
+  },
+  {
+    "id": "h025-002",
+    "en": "With Tooltip"
+  },
+  {
+    "id": "h025-003",
+    "en": "With Unread Indicator"
+  },
+  {
+    "id": "h025-004",
+    "en": "Workbench main → React root"
+  },
+  {
+    "id": "h025-005",
+    "en": "Workbench main → commit"
+  },
+  {
+    "id": "h025-006",
+    "en": "Workbench main → present"
+  },
+  {
+    "id": "h025-007",
+    "en": "Workbench main → usable"
+  },
+  {
+    "id": "h025-008",
+    "en": "Workbenches: live / retained after close. Click to open Workspace Diagnostics."
+  },
+  {
+    "id": "h025-009",
+    "en": "Worked for 2m 15s"
+  },
+  {
+    "id": "h025-010",
+    "en": "Worker Interval"
+  },
+  {
+    "id": "h025-011",
+    "en": "Worker Model"
+  },
+  {
+    "id": "h025-012",
+    "en": "Worker Offline"
+  },
+  {
+    "id": "h025-013",
+    "en": "Worker offline"
+  },
+  {
+    "id": "h025-014",
+    "en": "Workflow"
+  },
+  {
+    "id": "h025-015",
+    "en": "Workflow run completed..."
+  },
+  {
+    "id": "h025-016",
+    "en": "Workspace Metadata"
+  },
+  {
+    "id": "h025-017",
+    "en": "Workspace name"
+  },
+  {
+    "id": "h025-018",
+    "en": "Worktree Composer"
+  },
+  {
+    "id": "h025-019",
+    "en": "Would you like to remember this preference for future sessions?"
+  },
+  {
+    "id": "h025-020",
+    "en": "Write-ahead log"
+  },
+  {
+    "id": "h025-021",
+    "en": "Wrong Workspace"
+  },
+  {
+    "id": "h025-022",
+    "en": "X-ray"
+  },
+  {
+    "id": "h025-023",
+    "en": "You can add the app to Slack again later"
+  },
+  {
+    "id": "h025-024",
+    "en": "You get your own chat in this Project, working from its shared notes and files"
+  },
+  {
+    "id": "h025-025",
+    "en": "You get your own chat with this Project. Its memory, docs and PRs are shared with everyone in it."
+  },
+  {
+    "id": "h025-026",
+    "en": "You have uncommitted changes on your current branch. How would you like to handle them before switching?"
+  },
+  {
+    "id": "h025-027",
+    "en": "You'll be logged out of your Cursor account on this device."
+  },
+  {
+    "id": "h025-028",
+    "en": "You're in this Project"
+  },
+  {
+    "id": "h025-029",
+    "en": "You're no longer in this project"
+  },
+  {
+    "id": "h025-030",
+    "en": "You've hit your hard limit"
+  },
+  {
+    "id": "h025-031",
+    "en": "You've hit your rate limit on your current plan"
+  },
+  {
+    "id": "h025-032",
+    "en": "Your unsaved script edits from last time are restored."
+  },
+  {
+    "id": "h025-033",
+    "en": "Zoom &&Out"
+  },
+  {
+    "id": "h025-034",
+    "en": "added by"
+  },
+  {
+    "id": "h025-035",
+    "en": "approved this pull request"
+  },
+  {
+    "id": "h025-036",
+    "en": "branch name"
+  },
+  {
+    "id": "h025-037",
+    "en": "by PR author"
+  },
+  {
+    "id": "h025-038",
+    "en": "changed the base branch"
+  },
+  {
+    "id": "h025-039",
+    "en": "closed this PR"
+  },
+  {
+    "id": "h025-040",
+    "en": "contributions (Ready)"
+  },
+  {
+    "id": "h025-041",
+    "en": "contributions (Starting)"
+  },
+  {
+    "id": "h025-042",
+    "en": "converted this PR to draft"
+  },
+  {
+    "id": "h025-043",
+    "en": "cursorDiskKV keys that do not match a known prefix"
+  },
+  {
+    "id": "h025-044",
+    "en": "deploy.yml, release.yml..."
+  },
+  {
+    "id": "h025-045",
+    "en": "dismissed review"
+  },
+  {
+    "id": "h025-046",
+    "en": "e.g., 123"
+  },
+  {
+    "id": "h025-047",
+    "en": "e.g., ENG-123"
+  },
+  {
+    "id": "h025-048",
+    "en": "e.g., P1234567"
+  },
+  {
+    "id": "h025-049",
+    "en": "e.g., abc123-def456"
+  },
+  {
+    "id": "h025-050",
+    "en": "e.g., created, resolved"
+  },
+  {
+    "id": "h025-051",
+    "en": "e.g., main"
+  },
+  {
+    "id": "h025-052",
+    "en": "environment.json location"
+  },
+  {
+    "id": "h025-053",
+    "en": "finished with"
+  },
+  {
+    "id": "h025-054",
+    "en": "force-pushed the branch"
+  },
+  {
+    "id": "h025-055",
+    "en": "getUnrepeatedFileNames Test"
+  },
+  {
+    "id": "h025-056",
+    "en": "hb model with thinking (brain icon)"
+  },
+  {
+    "id": "h025-057",
+    "en": "hb model with thinking in MAX mode (brain + gradient + badge)"
+  },
+  {
+    "id": "h025-058",
+    "en": "import(workbench main) / require"
+  },
+  {
+    "id": "h025-059",
+    "en": "in team"
+  },
+  {
+    "id": "h025-060",
+    "en": "init storage"
+  },
+  {
+    "id": "h025-061",
+    "en": "init workspace service"
+  },
+  {
+    "id": "h025-062",
+    "en": "left comments"
+  },
+  {
+    "id": "h025-063",
+    "en": "lifecycle Ready → Restored"
+  },
+  {
+    "id": "h025-064",
+    "en": "lifecycle Starting → Ready"
+  },
+  {
+    "id": "h025-065",
+    "en": "marked this PR as ready for review"
+  },
+  {
+    "id": "h025-066",
+    "en": "merged this PR"
+  },
+  {
+    "id": "h025-067",
+    "en": "new agent"
+  },
+  {
+    "id": "h025-068",
+    "en": "o1 Mini (with thinking)"
+  },
+  {
+    "id": "h025-069",
+    "en": "o1 Preview (with thinking)"
+  },
+  {
+    "id": "h025-070",
+    "en": "o3 Mini in MAX mode (thinking + gradient)"
+  },
+  {
+    "id": "h025-071",
+    "en": "o3 model with thinking (brain icon)"
+  },
+  {
+    "id": "h025-072",
+    "en": "on PR diff in"
+  },
+  {
+    "id": "h025-073",
+    "en": "on a PR by"
+  },
+  {
+    "id": "h025-074",
+    "en": "on branch"
+  },
+  {
+    "id": "h025-075",
+    "en": "on issue in"
+  },
+  {
+    "id": "h025-076",
+    "en": "overall workbench load"
+  },
+  {
+    "id": "h025-077",
+    "en": "pre-workbench services"
+  },
+  {
+    "id": "h025-078",
+    "en": "reopened this PR"
+  },
+  {
+    "id": "h025-079",
+    "en": "repl Editor"
+  },
+  {
+    "id": "h025-080",
+    "en": "requested changes"
+  },
+  {
+    "id": "h025-081",
+    "en": "resolved by"
+  },
+  {
+    "id": "h025-082",
+    "en": "run by"
+  },
+  {
+    "id": "h025-083",
+    "en": "same chat"
+  },
+  {
+    "id": "h025-084",
+    "en": "started a review"
+  },
+  {
+    "id": "h025-085",
+    "en": "status in"
+  },
+  {
+    "id": "h025-086",
+    "en": "team settings"
+  },
+  {
+    "id": "h025-087",
+    "en": "text search range for notebook search scope"
+  },
+  {
+    "id": "h025-088",
+    "en": "to message in"
+  },
+  {
+    "id": "h025-089",
+    "en": "upon completion"
+  },
+  {
+    "id": "h025-090",
+    "en": "wait for window config"
+  },
+  {
+    "id": "h025-091",
+    "en": "web link"
+  },
+  {
+    "id": "h025-092",
+    "en": "· default"
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "id": "000-000",
+    "en": "Cursor Data Import Failed"
+  },
+  {
+    "id": "000-001",
+    "en": "{0} can't start"
+  },
+  {
+    "id": "000-002",
+    "en": "{0} needs a managed deployment, and this device has none. Contact your IT administrator."
+  },
+  {
+    "id": "000-003",
+    "en": "This device's managed deployment setting is not valid. Contact your IT administrator."
+  },
+  {
+    "id": "000-004",
+    "en": "Process Name"
+  },
+  {
+    "id": "000-005",
+    "en": "CPU (%)"
+  },
+  {
+    "id": "000-006",
+    "en": "PID"
+  },
+  {
+    "id": "000-007",
+    "en": "Memory (MB)"
+  },
+  {
+    "id": "000-008",
+    "en": "Network (KB/s)"
+  },
+  {
+    "id": "000-009",
+    "en": "Kill Process"
+  },
+  {
+    "id": "000-010",
+    "en": "Force Kill Process"
+  },
+  {
+    "id": "000-011",
+    "en": "Copy"
+  },
+  {
+    "id": "000-012",
+    "en": "Copy All"
+  },
+  {
+    "id": "000-013",
+    "en": "Open DevTools (Local Renderer)"
+  },
+  {
+    "id": "000-014",
+    "en": "Debug"
+  },
+  {
+    "id": "000-015",
+    "en": "Debug"
+  },
+  {
+    "id": "000-016",
+    "en": "MCP Process"
+  },
+  {
+    "id": "000-017",
+    "en": "Hold {0} key to mouse over"
+  },
+  {
+    "id": "000-018",
+    "en": "Loading..."
+  },
+  {
+    "id": "000-019",
+    "en": "The number of cursors has been limited to {0}. Consider using {1} for larger changes or increase the editor multi cursor limit setting."
+  },
+  {
+    "id": "000-020",
+    "en": "find and replace"
+  },
+  {
+    "id": "000-021",
+    "en": "Show 20 more lines above"
+  },
+  {
+    "id": "000-022",
+    "en": "Show 20 more lines below"
+  },
+  {
+    "id": "000-023",
+    "en": "Hidden lines summary"
+  },
+  {
+    "id": "000-024",
+    "en": "Expand the entire hidden region"
+  },
+  {
+    "id": "000-025",
+    "en": "Expand all"
+  },
+  {
+    "id": "000-026",
+    "en": "This setting is deprecated. The suggest widget can now be resized."
+  },
+  {
+    "id": "000-027",
+    "en": "Sets whether the new experimental edit context should be used instead of the text area."
+  },
+  {
+    "id": "000-028",
+    "en": "Enable comment view zone when dragging on line numbers."
+  },
+  {
+    "id": "000-029",
+    "en": "Whether the editor has an active prompt bar"
+  },
+  {
+    "id": "000-030",
+    "en": "Whether the editor prompt bar input has focus"
+  },
+  {
+    "id": "000-031",
+    "en": "Null"
+  },
+  {
+    "id": "000-032",
+    "en": "Waiting for code actions from '{0}' ([configure]({1}))."
+  },
+  {
+    "id": "000-033",
+    "en": "Ctrl+Enter now inserts line break instead of replacing all. You can modify the keybinding for editor.action.replaceAll to override this behavior."
+  },
+  {
+    "id": "000-034",
+    "en": "Go to Problem at Cursor (Error, Warning, Info)"
+  },
+  {
+    "id": "000-035",
+    "en": "Open in Chat"
+  },
+  {
+    "id": "000-036",
+    "en": "Increase Hover Verbosity ({0})"
+  },
+  {
+    "id": "000-037",
+    "en": "Decrease Hover Verbosity ({0})"
+  },
+  {
+    "id": "000-038",
+    "en": "No inline edit is available."
+  },
+  {
+    "id": "000-039",
+    "en": "Trigger Next Edit Suggestion"
+  },
+  {
+    "id": "000-040",
+    "en": "Accept Next Inline Edit Part"
+  },
+  {
+    "id": "000-041",
+    "en": "There is an inline edit available:"
+  },
+  {
+    "id": "000-042",
+    "en": "Go To"
+  },
+  {
+    "id": "000-043",
+    "en": "Accept"
+  },
+  {
+    "id": "000-044",
+    "en": "Inline Edit"
+  },
+  {
+    "id": "000-045",
+    "en": "Whether the active editor has inline diffs"
+  },
+  {
+    "id": "000-046",
+    "en": "Whether there are inline diffs in any editor"
+  },
+  {
+    "id": "000-047",
+    "en": "Change kept"
+  },
+  {
+    "id": "000-048",
+    "en": "Change undone"
+  },
+  {
+    "id": "000-049",
+    "en": "Agent change {0} of {1}, line {2}"
+  },
+  {
+    "id": "000-050",
+    "en": "Agent change {0} of {1}, lines {2} to {3}"
+  },
+  {
+    "id": "000-051",
+    "en": "This file has changes from the agent."
+  },
+  {
+    "id": "000-052",
+    "en": "Go to the next change<keybinding:{0}> or the previous change<keybinding:{1}>."
+  },
+  {
+    "id": "000-053",
+    "en": "Keep the change at the cursor<keybinding:{0}>, or undo it<keybinding:{1}>."
+  },
+  {
+    "id": "000-054",
+    "en": "Keep every change in this file<keybinding:{0}>, or undo them all<keybinding:{1}>."
+  },
+  {
+    "id": "000-055",
+    "en": "Previous change"
+  },
+  {
+    "id": "000-056",
+    "en": "Next change"
+  },
+  {
+    "id": "000-057",
+    "en": "Undo cell change"
+  },
+  {
+    "id": "000-058",
+    "en": "Undo change"
+  },
+  {
+    "id": "000-059",
+    "en": "Keep cell change"
+  },
+  {
+    "id": "000-060",
+    "en": "Keep change"
+  },
+  {
+    "id": "000-061",
+    "en": "Agent change {0} of {1}"
+  },
+  {
+    "id": "000-062",
+    "en": "Agent change"
+  },
+  {
+    "id": "000-063",
+    "en": "Open a text editor first to go to a line."
+  },
+  {
+    "id": "000-064",
+    "en": "Go to line {0} and character {1}."
+  },
+  {
+    "id": "000-065",
+    "en": "Go to line {0}."
+  },
+  {
+    "id": "000-066",
+    "en": "Current Line: {0}, Character: {1}. Type a line number between 1 and {2} to navigate to."
+  },
+  {
+    "id": "000-067",
+    "en": "Current Line: {0}, Character: {1}. Type a line number to navigate to."
+  },
+  {
+    "id": "000-068",
+    "en": "Dev Get Glass Active Composer Data (For Testing)"
+  },
+  {
+    "id": "000-069",
+    "en": "Local"
+  },
+  {
+    "id": "000-070",
+    "en": "Worktree"
+  },
+  {
+    "id": "000-071",
+    "en": "Dev Container"
+  },
+  {
+    "id": "000-072",
+    "en": "Container"
+  },
+  {
+    "id": "000-073",
+    "en": "Remote"
+  },
+  {
+    "id": "000-074",
+    "en": "Draft"
+  },
+  {
+    "id": "000-075",
+    "en": "Cloud"
+  },
+  {
+    "id": "000-076",
+    "en": "Transcript"
+  },
+  {
+    "id": "000-077",
+    "en": "Imported from Claude Code"
+  },
+  {
+    "id": "000-078",
+    "en": "Automation Run"
+  },
+  {
+    "id": "000-079",
+    "en": "Bugbot Autofix Run"
+  },
+  {
+    "id": "000-080",
+    "en": "Environment Setup Agent"
+  },
+  {
+    "id": "000-081",
+    "en": "From {0}"
+  },
+  {
+    "id": "000-082",
+    "en": "Click to copy"
+  },
+  {
+    "id": "000-083",
+    "en": "Ongoing voice chat"
+  },
+  {
+    "id": "000-084",
+    "en": "Manage Environment"
+  },
+  {
+    "id": "000-085",
+    "en": "Manage Environment"
+  },
+  {
+    "id": "000-086",
+    "en": "Starting"
+  },
+  {
+    "id": "000-087",
+    "en": "Allowing"
+  },
+  {
+    "id": "000-088",
+    "en": "Add folder on {0}"
+  },
+  {
+    "id": "000-089",
+    "en": "Clone repository on {0}"
+  },
+  {
+    "id": "000-090",
+    "en": "Environments"
+  },
+  {
+    "id": "000-091",
+    "en": "Machines"
+  },
+  {
+    "id": "000-092",
+    "en": "Run on"
+  },
+  {
+    "id": "000-093",
+    "en": "Search environments and repos"
+  },
+  {
+    "id": "000-094",
+    "en": "Search machines and pools"
+  },
+  {
+    "id": "000-095",
+    "en": "Unknown machine"
+  },
+  {
+    "id": "000-096",
+    "en": "1 Environment"
+  },
+  {
+    "id": "000-097",
+    "en": "{0} Environments"
+  },
+  {
+    "id": "000-098",
+    "en": "1 Repo"
+  },
+  {
+    "id": "000-099",
+    "en": "{0} Repos"
+  },
+  {
+    "id": "000-100",
+    "en": "1 Machine"
+  },
+  {
+    "id": "000-101",
+    "en": "{0} Machines"
+  },
+  {
+    "id": "000-102",
+    "en": "Cloud"
+  },
+  {
+    "id": "000-103",
+    "en": "Run on Cloud"
+  },
+  {
+    "id": "000-104",
+    "en": "Run on Cloud and {0}"
+  },
+  {
+    "id": "000-105",
+    "en": "Run on Cloud and {0}"
+  },
+  {
+    "id": "000-106",
+    "en": "Run on Cloud, {0}, and {1}"
+  },
+  {
+    "id": "000-107",
+    "en": "Offline"
+  },
+  {
+    "id": "000-108",
+    "en": "Loading environments…"
+  },
+  {
+    "id": "000-109",
+    "en": "Could not load environments"
+  },
+  {
+    "id": "000-110",
+    "en": "No environments"
+  },
+  {
+    "id": "000-111",
+    "en": "No matching environments"
+  },
+  {
+    "id": "000-112",
+    "en": "My Machines"
+  },
+  {
+    "id": "000-113",
+    "en": "Pools"
+  },
+  {
+    "id": "000-114",
+    "en": "No matching machines or pools"
+  },
+  {
+    "id": "000-115",
+    "en": "Repos"
+  },
+  {
+    "id": "000-116",
+    "en": "Environments"
+  },
+  {
+    "id": "000-117",
+    "en": "Unchecking stops new cloud VMs on this repo. Agents already running keep going."
+  },
+  {
+    "id": "000-118",
+    "en": "Checking lets agents start new cloud VMs on this repo."
+  },
+  {
+    "id": "000-119",
+    "en": "A team admin must turn on Remote Control to add machines to this Project."
+  }
+]

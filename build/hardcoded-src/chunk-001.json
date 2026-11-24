@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h001-000",
+    "en": "Capture Area Screenshot"
+  },
+  {
+    "id": "h001-001",
+    "en": "Chat Too Old"
+  },
+  {
+    "id": "h001-002",
+    "en": "Choose how much detail Agent tool calls show in the conversation"
+  },
+  {
+    "id": "h001-003",
+    "en": "Claude Code"
+  },
+  {
+    "id": "h001-004",
+    "en": "Clear Accepted Certificates"
+  },
+  {
+    "id": "h001-005",
+    "en": "Clear Browsing History"
+  },
+  {
+    "id": "h001-006",
+    "en": "Clear Cache"
+  },
+  {
+    "id": "h001-007",
+    "en": "Clear Cookies"
+  },
+  {
+    "id": "h001-008",
+    "en": "Clear all filters"
+  },
+  {
+    "id": "h001-009",
+    "en": "Close Chat"
+  },
+  {
+    "id": "h001-010",
+    "en": "Close Other Chats"
+  },
+  {
+    "id": "h001-011",
+    "en": "Cloud Agents Not Supported in Privacy Mode (Legacy)"
+  },
+  {
+    "id": "h001-012",
+    "en": "Code Font Family"
+  },
+  {
+    "id": "h001-013",
+    "en": "Code Font Size"
+  },
+  {
+    "id": "h001-014",
+    "en": "Codebase"
+  },
+  {
+    "id": "h001-015",
+    "en": "Commit & Push"
+  },
+  {
+    "id": "h001-016",
+    "en": "Commit Attribution"
+  },
+  {
+    "id": "h001-017",
+    "en": "Commits"
+  },
+  {
+    "id": "h001-018",
+    "en": "Completion Sound"
+  },
+  {
+    "id": "h001-019",
+    "en": "Composer"
+  },
+  {
+    "id": "h001-020",
+    "en": "Configuration"
+  },
+  {
+    "id": "h001-021",
+    "en": "Configure font, formatting, minimap and more"
+  },
+  {
+    "id": "h001-022",
+    "en": "Configure keyboard shortcuts"
+  },
+  {
+    "id": "h001-023",
+    "en": "Confirm"
+  },
+  {
+    "id": "h001-024",
+    "en": "Connection failed"
+  },
+  {
+    "id": "h001-025",
+    "en": "Connection stalled"
+  },
+  {
+    "id": "h001-026",
+    "en": "Context and Tools"
+  },
+  {
+    "id": "h001-027",
+    "en": "Context-aware, multi-line suggestions around your cursor based on recent edits"
+  },
+  {
+    "id": "h001-028",
+    "en": "Contextual suggestions while prompting Agent"
+  },
+  {
+    "id": "h001-029",
+    "en": "Continue Interrupted Agents"
+  },
+  {
+    "id": "h001-030",
+    "en": "Continuous RPC File Recording"
+  },
+  {
+    "id": "h001-031",
+    "en": "Controls which windows Cursor restores on startup"
+  },
+  {
+    "id": "h001-032",
+    "en": "Conversation"
+  },
+  {
+    "id": "h001-033",
+    "en": "Conversation Density"
+  },
+  {
+    "id": "h001-034",
+    "en": "Copy Current URL"
+  },
+  {
+    "id": "h001-035",
+    "en": "Create Branch"
+  },
+  {
+    "id": "h001-036",
+    "en": "Create Pull Request"
+  },
+  {
+    "id": "h001-037",
+    "en": "Current cycle"
+  },
+  {
+    "id": "h001-038",
+    "en": "Cursor Account"
+  },
+  {
+    "id": "h001-039",
+    "en": "Cursor-Managed Worktrees"
+  },
+  {
+    "id": "h001-040",
+    "en": "Customize"
+  },
+  {
+    "id": "h001-041",
+    "en": "Customize Sidebar"
+  },
+  {
+    "id": "h001-042",
+    "en": "Danger"
+  },
+  {
+    "id": "h001-043",
+    "en": "Data sharing"
+  },
+  {
+    "id": "h001-044",
+    "en": "Dedicated Agent Runtime"
+  },
+  {
+    "id": "h001-045",
+    "en": "Deep"
+  },
+  {
+    "id": "h001-046",
+    "en": "Default Off"
+  },
+  {
+    "id": "h001-047",
+    "en": "Default On"
+  },
+  {
+    "id": "h001-048",
+    "en": "Define what to do when having multiple results, either `peek`, `gotoAndPeek`, or `goto`"
+  },
+  {
+    "id": "h001-049",
+    "en": "Development"
+  },
+  {
+    "id": "h001-050",
+    "en": "Disconnected"
+  },
+  {
+    "id": "h001-051",
+    "en": "Dummy Option Beta"
+  },
+  {
+    "id": "h001-052",
+    "en": "Dummy Option Gamma"
+  },
+  {
+    "id": "h001-053",
+    "en": "Duplicate"
+  },
+  {
+    "id": "h001-054",
+    "en": "Early Access"
+  },
+  {
+    "id": "h001-055",
+    "en": "Editor Settings"
+  },
+  {
+    "id": "h001-056",
+    "en": "Enable LSPs"
+  },
+  {
+    "id": "h001-057",
+    "en": "Enable LSPs for Worktrees"
+  },
+  {
+    "id": "h001-058",
+    "en": "Enable MAX Mode"
+  },
+  {
+    "id": "h001-059",
+    "en": "Enable auto-keep"
+  },
+  {
+    "id": "h001-060",
+    "en": "Enable language server by default to provide code intelligence in agent worktree workspaces"
+  },
+  {
+    "id": "h001-061",
+    "en": "Enable language server by default to provide code intelligence in workspaces"
+  },
+  {
+    "id": "h001-062",
+    "en": "Error loading plugin"
+  },
+  {
+    "id": "h001-063",
+    "en": "Eval not found."
+  },
+  {
+    "id": "h001-064",
+    "en": "Everyone in your organization"
+  },
+  {
+    "id": "h001-065",
+    "en": "Execution Log"
+  },
+  {
+    "id": "h001-066",
+    "en": "Execution and Approvals"
+  },
+  {
+    "id": "h001-067",
+    "en": "Export Chat (Developer)"
+  },
+  {
+    "id": "h001-068",
+    "en": "Failed to enqueue follow-up"
+  },
+  {
+    "id": "h001-069",
+    "en": "Filter by"
+  },
+  {
+    "id": "h001-070",
+    "en": "Fix in Agent"
+  },
+  {
+    "id": "h001-071",
+    "en": "Gateway"
+  },
+  {
+    "id": "h001-072",
+    "en": "Git Required"
+  },
+  {
+    "id": "h001-073",
+    "en": "Give Feedback"
+  },
+  {
+    "id": "h001-074",
+    "en": "Got it"
+  },
+  {
+    "id": "h001-075",
+    "en": "Grant repository access"
+  },
+  {
+    "id": "h001-076",
+    "en": "Grok Bot can do this for you"
+  },
+  {
+    "id": "h001-077",
+    "en": "Grouping"
+  },
+  {
+    "id": "h001-078",
+    "en": "HTTP Compatibility Mode"
+  },
+  {
+    "id": "h001-079",
+    "en": "Help Improve Cursor"
+  },
+  {
+    "id": "h001-080",
+    "en": "Hierarchical Cursor Ignore"
+  },
+  {
+    "id": "h001-081",
+    "en": "Human readable title for the diff editor"
+  },
+  {
+    "id": "h001-082",
+    "en": "Ignore Files"
+  },
+  {
+    "id": "h001-083",
+    "en": "Ignore Files in .cursorignore"
+  },
+  {
+    "id": "h001-084",
+    "en": "Ignore Symlinks in Cursor Ignore Search"
+  },
+  {
+    "id": "h001-085",
+    "en": "Ignored Files"
+  },
+  {
+    "id": "h001-086",
+    "en": "Import Chat"
+  },
+  {
+    "id": "h001-087",
+    "en": "Import Claude Code Conversations"
+  },
+  {
+    "id": "h001-088",
+    "en": "Import Settings from VS Code"
+  },
+  {
+    "id": "h001-089",
+    "en": "Import settings, extensions, and keybindings from VS Code"
+  },
+  {
+    "id": "h001-090",
+    "en": "Include Third-Party Plugins, Skills, and Other Configs"
+  },
+  {
+    "id": "h001-091",
+    "en": "Incorrect Branch"
+  },
+  {
+    "id": "h001-092",
+    "en": "Inline Diffs"
+  },
+  {
+    "id": "h001-093",
+    "en": "Keep All"
+  },
+  {
+    "id": "h001-094",
+    "en": "Keep Editing"
+  },
+  {
+    "id": "h001-095",
+    "en": "Keep Files"
+  },
+  {
+    "id": "h001-096",
+    "en": "Keep all changes"
+  },
+  {
+    "id": "h001-097",
+    "en": "Keep both"
+  },
+  {
+    "id": "h001-098",
+    "en": "Language"
+  },
+  {
+    "id": "h001-099",
+    "en": "Legacy Terminal Tool"
+  },
+  {
+    "id": "h001-100",
+    "en": "List of tool names that are enabled for this server. If not specified, all tools are enabled by default."
+  },
+  {
+    "id": "h001-101",
+    "en": "Loading Canvases"
+  },
+  {
+    "id": "h001-102",
+    "en": "Loading eval…"
+  },
+  {
+    "id": "h001-103",
+    "en": "MAX Mode"
+  },
+  {
+    "id": "h001-104",
+    "en": "MCP"
+  },
+  {
+    "id": "h001-105",
+    "en": "Manage Themes"
+  },
+  {
+    "id": "h001-106",
+    "en": "Manage in Dashboard"
+  },
+  {
+    "id": "h001-107",
+    "en": "Manage your account and billing"
+  },
+  {
+    "id": "h001-108",
+    "en": "Manually Sent Messages from Queue"
+  },
+  {
+    "id": "h001-109",
+    "en": "Max Total Size (GB)"
+  },
+  {
+    "id": "h001-110",
+    "en": "Max Worktrees"
+  },
+  {
+    "id": "h001-111",
+    "en": "Maximum local workspaces that can run language servers at the same time"
+  },
+  {
+    "id": "h001-112",
+    "en": "Maximum remote workspaces that can run language servers at the same time"
+  },
+  {
+    "id": "h001-113",
+    "en": "Members can view"
+  },
+  {
+    "id": "h001-114",
+    "en": "Merge manually"
+  },
+  {
+    "id": "h001-115",
+    "en": "Monaco full file cell buffer"
+  },
+  {
+    "id": "h001-116",
+    "en": "Monaco scroll offset buffer"
+  },
+  {
+    "id": "h001-117",
+    "en": "My Task"
+  },
+  {
+    "id": "h001-118",
+    "en": "Myself"
+  },
+  {
+    "id": "h001-119",
+    "en": "Needs Attention"
+  },
+  {
+    "id": "h001-120",
+    "en": "Needs authentication"
+  },
+  {
+    "id": "h001-121",
+    "en": "Network Diagnostics"
+  },
+  {
+    "id": "h001-122",
+    "en": "New Agents Window (Glass)"
+  },
+  {
+    "id": "h001-123",
+    "en": "New Messages"
+  },
+  {
+    "id": "h001-124",
+    "en": "New Worktree"
+  },
+  {
+    "id": "h001-125",
+    "en": "No Runs Yet"
+  },
+  {
+    "id": "h001-126",
+    "en": "No commit has been scored yet"
+  },
+  {
+    "id": "h001-127",
+    "en": "No items."
+  },
+  {
+    "id": "h001-128",
+    "en": "Older"
+  },
+  {
+    "id": "h001-129",
+    "en": "On-Demand Usage"
+  },
+  {
+    "id": "h001-130",
+    "en": "Only people and groups you add"
+  },
+  {
+    "id": "h001-131",
+    "en": "Open Chat as Editor Tabs"
+  },
+  {
+    "id": "h001-132",
+    "en": "Open Composer Settings"
+  },
+  {
+    "id": "h001-133",
+    "en": "Open Datadog Logs"
+  },
+  {
+    "id": "h001-134",
+    "en": "Open Debug Directory"
+  },
+  {
+    "id": "h001-135",
+    "en": "Open Prompt Quality"
+  },
+  {
+    "id": "h001-136",
+    "en": "Open Request Logs"
+  },
+  {
+    "id": "h001-137",
+    "en": "Open Rule"
+  },
+  {
+    "id": "h001-138",
+    "en": "Open Virtual Machine"
+  },
+  {
+    "id": "h001-139",
+    "en": "Open as Pane"
+  },
+  {
+    "id": "h001-140",
+    "en": "Open full page"
+  },
+  {
+    "id": "h001-141",
+    "en": "Open in IDE"
+  },
+  {
+    "id": "h001-142",
+    "en": "Open settings"
+  },
+  {
+    "id": "h001-143",
+    "en": "Ordering"
+  },
+  {
+    "id": "h001-144",
+    "en": "PR Attribution"
+  },
+  {
+    "id": "h001-145",
+    "en": "PR Link Destination"
+  },
+  {
+    "id": "h001-146",
+    "en": "Past Chat"
+  },
+  {
+    "id": "h001-147",
+    "en": "Permanently discard your current changes before switching branches"
+  },
+  {
+    "id": "h001-148",
+    "en": "Plugin"
+  },
+  {
+    "id": "h001-149",
+    "en": "Plugin Installation"
+  }
+]

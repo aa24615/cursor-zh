@@ -1,5 +1,5 @@
 # Change Log
-All notable changes to the "vscode-language-pack-zh-hans" language pack will be documented in this file.
+All notable changes to the "cursor-zh" language pack will be documented in this file.
 
 ## [Released]
 * May 5, 2021 - Release for VS Code 1.56

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "025-000",
+    "en": "Quit Anyway"
+  },
+  {
+    "id": "025-001",
+    "en": "Reload Anyway"
+  },
+  {
+    "id": "025-002",
+    "en": "Backing up editors with unsaved changes is taking a bit longer..."
+  },
+  {
+    "id": "025-003",
+    "en": "Click 'Cancel' to stop waiting and to save or revert editors with unsaved changes."
+  },
+  {
+    "id": "025-004",
+    "en": "Saving editors with unsaved changes is taking a bit longer..."
+  },
+  {
+    "id": "025-005",
+    "en": "Reverting editors with unsaved changes is taking a bit longer..."
+  },
+  {
+    "id": "025-006",
+    "en": "Discarding backups is taking a bit longer..."
+  },
+  {
+    "id": "025-007",
+    "en": "Closing workspaces"
+  },
+  {
+    "id": "025-008",
+    "en": "Try again"
+  },
+  {
+    "id": "025-009",
+    "en": "Reconnect"
+  },
+  {
+    "id": "025-010",
+    "en": "Reconnect failed. The workspace is still disconnected."
+  },
+  {
+    "id": "025-011",
+    "en": "Could not reconnect to the remote workspace."
+  },
+  {
+    "id": "025-012",
+    "en": "Reconnect failed. \"{0}\" is still disconnected."
+  },
+  {
+    "id": "025-013",
+    "en": "Could not reconnect to \"{0}\"."
+  },
+  {
+    "id": "025-014",
+    "en": "Do you want to save your workspace configuration as a file?"
+  },
+  {
+    "id": "025-015",
+    "en": "Save your workspace if you plan to open it again."
+  },
+  {
+    "id": "025-016",
+    "en": "&&Save"
+  },
+  {
+    "id": "025-017",
+    "en": "Do&&n't Save"
+  },
+  {
+    "id": "025-018",
+    "en": "Always discard untitled workspaces without asking"
+  },
+  {
+    "id": "025-019",
+    "en": "Unable to save workspace '{0}'"
+  },
+  {
+    "id": "025-020",
+    "en": "The workspace is already opened in another window. Please close that window first and then try again."
+  },
+  {
+    "id": "025-021",
+    "en": "Opening a multi-root workspace"
+  },
+  {
+    "id": "025-022",
+    "en": "Run Cursor Worktree Cleanup (Dev)"
+  },
+  {
+    "id": "025-023",
+    "en": "Worktree cleanup skipped: another window already holds the cleanup lease."
+  },
+  {
+    "id": "025-024",
+    "en": "Worktree cleanup finished (dev). Removed {0} worktree(s), freed {1} byte(s). See logs for details."
+  }
+]

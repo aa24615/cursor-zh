@@ -1,0 +1,482 @@
+[
+  {
+    "id": "017-000",
+    "en": "See all forwarded ports"
+  },
+  {
+    "id": "017-001",
+    "en": "HTTP"
+  },
+  {
+    "id": "017-002",
+    "en": "HTTPS"
+  },
+  {
+    "id": "017-003",
+    "en": "Automatically forward ports that new processes listen on in remote windows, including dev containers. When false, new listening ports are not forwarded automatically, though extensions and opened URLs can still forward ports."
+  },
+  {
+    "id": "017-004",
+    "en": "SpaceX mode"
+  },
+  {
+    "id": "017-005",
+    "en": "Whether the platform has the WSL feature installed"
+  },
+  {
+    "id": "017-006",
+    "en": "Remote"
+  },
+  {
+    "id": "017-007",
+    "en": "When enabled extensions are downloaded locally and installed on remote."
+  },
+  {
+    "id": "017-008",
+    "en": "Opening a WSL workspace under /mnt is not recommended"
+  },
+  {
+    "id": "017-009",
+    "en": "The folder you opened resolves to '{0}', which is a mounted Windows filesystem. This can be significantly slower than the Linux filesystem and some features may not work correctly.\n\nFor best results, either move your project into your WSL home directory (for example: ~/projects), or open the Windows directory directly in Cursor."
+  },
+  {
+    "id": "017-010",
+    "en": "Don't show this warning again"
+  },
+  {
+    "id": "017-011",
+    "en": "&&OK"
+  },
+  {
+    "id": "017-012",
+    "en": "Opening a WSL folder without the WSL extension is not recommended"
+  },
+  {
+    "id": "017-013",
+    "en": "The folder you opened ('{0}') is located in the Windows Subsystem for Linux filesystem. Opening WSL folders directly from Windows can be significantly slower and some features may not work correctly.\n\nFor best results, install the WSL extension and use it to open your WSL folders. This will give you full access to the Linux filesystem with better performance."
+  },
+  {
+    "id": "017-014",
+    "en": "Don't show this warning again"
+  },
+  {
+    "id": "017-015",
+    "en": "&&Install WSL Extension"
+  },
+  {
+    "id": "017-016",
+    "en": "&&OK"
+  },
+  {
+    "id": "017-017",
+    "en": "Opening a WSL folder without using the WSL extension is not recommended"
+  },
+  {
+    "id": "017-018",
+    "en": "The folder you opened ('{0}') is located in the Windows Subsystem for Linux filesystem. Opening WSL folders directly from Windows can be significantly slower and some features may not work correctly.\n\nYou have the WSL extension installed. For best results, use the command 'WSL: Connect to WSL' or open this folder from within WSL using 'cursor .' in the WSL terminal."
+  },
+  {
+    "id": "017-019",
+    "en": "Don't show this warning again"
+  },
+  {
+    "id": "017-020",
+    "en": "&&OK"
+  },
+  {
+    "id": "017-021",
+    "en": "Turn on Remote Tunnel Access..."
+  },
+  {
+    "id": "017-022",
+    "en": "Turn off Remote Tunnel Access..."
+  },
+  {
+    "id": "017-023",
+    "en": "Show Remote Tunnel Service Log"
+  },
+  {
+    "id": "017-024",
+    "en": "Configure Tunnel Name..."
+  },
+  {
+    "id": "017-025",
+    "en": "Copy Browser URI to Clipboard"
+  },
+  {
+    "id": "017-026",
+    "en": "Get Started with Tunnels"
+  },
+  {
+    "id": "017-027",
+    "en": "Tunnel '{0}' is avaiable for remote access. The {1} extension can be used to connect to it."
+  },
+  {
+    "id": "017-028",
+    "en": "Show Extension"
+  },
+  {
+    "id": "017-029",
+    "en": "Do not show again"
+  },
+  {
+    "id": "017-030",
+    "en": "Looking for remote tunnel"
+  },
+  {
+    "id": "017-031",
+    "en": "Starting remote tunnel"
+  },
+  {
+    "id": "017-032",
+    "en": "Installation as a service failed, and we fell back to running the tunnel for this session. See the {0} for details."
+  },
+  {
+    "id": "017-033",
+    "en": "error log"
+  },
+  {
+    "id": "017-034",
+    "en": "Sign in to an account to enable remote access"
+  },
+  {
+    "id": "017-035",
+    "en": "Signed In"
+  },
+  {
+    "id": "017-036",
+    "en": "Others"
+  },
+  {
+    "id": "017-037",
+    "en": "Sign in with {0}"
+  },
+  {
+    "id": "017-038",
+    "en": "Remote Tunnels is currently in preview. Please report any problems using the \"Help: Report Issue\" command."
+  },
+  {
+    "id": "017-039",
+    "en": "&&Enable"
+  },
+  {
+    "id": "017-040",
+    "en": "Select how you want to enable access"
+  },
+  {
+    "id": "017-041",
+    "en": "Turn on for this session"
+  },
+  {
+    "id": "017-042",
+    "en": "Run whenever {0} is open"
+  },
+  {
+    "id": "017-043",
+    "en": "Install as a service"
+  },
+  {
+    "id": "017-044",
+    "en": "Run whenever you're logged in"
+  },
+  {
+    "id": "017-045",
+    "en": "You can now access this machine anywhere via the secure tunnel {0}. To connect via a different machine, use the generated {1} link or use the {2} extension in the desktop or web. You can {3} or {4} this access via the VS Code Accounts menu."
+  },
+  {
+    "id": "017-046",
+    "en": "turn off"
+  },
+  {
+    "id": "017-047",
+    "en": "Copy Browser Link to Clipboard"
+  },
+  {
+    "id": "017-048",
+    "en": "Show Extension"
+  },
+  {
+    "id": "017-049",
+    "en": "Unable to turn on the remote tunnel access. Check the Remote Tunnel Service log for details."
+  },
+  {
+    "id": "017-050",
+    "en": "Remote Tunnel Access is On"
+  },
+  {
+    "id": "017-051",
+    "en": "Remote Tunnel Access is Connecting"
+  },
+  {
+    "id": "017-052",
+    "en": "Do you want to turn off Remote Tunnel Access? This will also stop the service that was started externally."
+  },
+  {
+    "id": "017-053",
+    "en": "Do you want to turn off Remote Tunnel Access?"
+  },
+  {
+    "id": "017-054",
+    "en": "Select a command to invoke"
+  },
+  {
+    "id": "017-055",
+    "en": "Remote Tunnel Access enabled for {0} (launched externally)"
+  },
+  {
+    "id": "017-056",
+    "en": "Remote Tunnel Access enabled for {0}"
+  },
+  {
+    "id": "017-057",
+    "en": "Remote Tunnel Access not enabled"
+  },
+  {
+    "id": "017-058",
+    "en": "Show Log"
+  },
+  {
+    "id": "017-059",
+    "en": "Change Tunnel Name"
+  },
+  {
+    "id": "017-060",
+    "en": "The name under which the remote tunnel access is registered. If not set, the host name is used."
+  },
+  {
+    "id": "017-061",
+    "en": "The name must only consist of letters, numbers, underscore and dash. It must not start with a dash."
+  },
+  {
+    "id": "017-062",
+    "en": "Prevent this computer from sleeping when remote tunnel access is turned on."
+  },
+  {
+    "id": "017-063",
+    "en": "Remote Tunnels"
+  },
+  {
+    "id": "017-064",
+    "en": "{0} (added)"
+  },
+  {
+    "id": "017-065",
+    "en": "{0} (deleted)"
+  },
+  {
+    "id": "017-066",
+    "en": "{0} (original)"
+  },
+  {
+    "id": "017-067",
+    "en": "{0} (modified)"
+  },
+  {
+    "id": "017-068",
+    "en": "Review"
+  },
+  {
+    "id": "017-069",
+    "en": "Controls the maximum number of resources rendered per group in the Source Control view. Very large changelists are truncated in the view above this limit to keep the editor responsive; this only affects rendering and does not change which files are committed, staged, or discarded. Set to 0 to render all resources."
+  },
+  {
+    "id": "017-070",
+    "en": "Agent Review Settings"
+  },
+  {
+    "id": "017-071",
+    "en": "Start Agent Review"
+  },
+  {
+    "id": "017-072",
+    "en": "View icon of the Source Control view."
+  },
+  {
+    "id": "017-073",
+    "en": "Source Control"
+  },
+  {
+    "id": "017-074",
+    "en": "No source control providers registered."
+  },
+  {
+    "id": "017-075",
+    "en": "None of the registered source control providers work in Restricted Mode."
+  },
+  {
+    "id": "017-076",
+    "en": "Manage Workspace Trust"
+  },
+  {
+    "id": "017-077",
+    "en": "The selected source control provider does not have any source control history items."
+  },
+  {
+    "id": "017-078",
+    "en": "Source Control Repositories"
+  },
+  {
+    "id": "017-079",
+    "en": "Source &&Control"
+  },
+  {
+    "id": "017-080",
+    "en": "Source Control Graph"
+  },
+  {
+    "id": "017-081",
+    "en": "Source Control"
+  },
+  {
+    "id": "017-082",
+    "en": "Repositories"
+  },
+  {
+    "id": "017-083",
+    "en": "Changes"
+  },
+  {
+    "id": "017-084",
+    "en": "Graph"
+  },
+  {
+    "id": "017-085",
+    "en": "Agent Review"
+  },
+  {
+    "id": "017-086",
+    "en": "All Changes ({0} ↔ {1})"
+  },
+  {
+    "id": "017-087",
+    "en": "Open in Cursor Blame"
+  },
+  {
+    "id": "017-088",
+    "en": "Email"
+  },
+  {
+    "id": "017-089",
+    "en": "{0} file changed"
+  },
+  {
+    "id": "017-090",
+    "en": "{0} files changed"
+  },
+  {
+    "id": "017-091",
+    "en": "{0} insertion{1}"
+  },
+  {
+    "id": "017-092",
+    "en": "{0} insertions{1}"
+  },
+  {
+    "id": "017-093",
+    "en": "{0} deletion{1}"
+  },
+  {
+    "id": "017-094",
+    "en": "{0} deletions{1}"
+  },
+  {
+    "id": "017-095",
+    "en": "Review Branch"
+  },
+  {
+    "id": "017-096",
+    "en": "Diff with Default Branch"
+  },
+  {
+    "id": "017-097",
+    "en": "Diff with {0}"
+  },
+  {
+    "id": "017-098",
+    "en": "More Actions..."
+  },
+  {
+    "id": "017-099",
+    "en": "Cancel"
+  },
+  {
+    "id": "017-100",
+    "en": "{0}, Use {1} to open Source Control Accessibility Help."
+  },
+  {
+    "id": "017-101",
+    "en": "{0}, Run the Open Accessibility Help command for more information."
+  },
+  {
+    "id": "017-102",
+    "en": "Close"
+  },
+  {
+    "id": "017-103",
+    "en": "other results"
+  },
+  {
+    "id": "017-104",
+    "en": "Create File '{0}'"
+  },
+  {
+    "id": "017-105",
+    "en": "Create a new file at this path"
+  },
+  {
+    "id": "017-106",
+    "en": "Failed to create file: {0}"
+  },
+  {
+    "id": "017-107",
+    "en": "{0} ↔ {1} (Replace Preview)"
+  },
+  {
+    "id": "017-108",
+    "en": "Search files, content, and symbols (append {0} to go to line or {1} to go to symbol)"
+  },
+  {
+    "id": "017-109",
+    "en": "Go to File"
+  },
+  {
+    "id": "017-110",
+    "en": "Type the name of a symbol to open."
+  },
+  {
+    "id": "017-111",
+    "en": "Go to Symbol in Workspace"
+  },
+  {
+    "id": "017-112",
+    "en": "No indexed results found in '{0}' excluding '{1}' - "
+  },
+  {
+    "id": "017-113",
+    "en": "No indexed results found in '{0}' - "
+  },
+  {
+    "id": "017-114",
+    "en": "No indexed results found excluding '{0}' - "
+  },
+  {
+    "id": "017-115",
+    "en": "No indexed results found - "
+  },
+  {
+    "id": "017-116",
+    "en": "Learn More"
+  },
+  {
+    "id": "017-117",
+    "en": "Search all files in the workspace without using the index"
+  },
+  {
+    "id": "017-118",
+    "en": "search all"
+  },
+  {
+    "id": "017-119",
+    "en": "Open search results in chat"
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "id": "008-000",
+    "en": "Preparing container…"
+  },
+  {
+    "id": "008-001",
+    "en": "Creating container…"
+  },
+  {
+    "id": "008-002",
+    "en": "IT's create_container hook didn't create container {0}."
+  },
+  {
+    "id": "008-003",
+    "en": "{0} couldn't finish removing container {1}, which still holds its name. Remove it, then try again."
+  },
+  {
+    "id": "008-004",
+    "en": "Container {0} doesn't exist."
+  },
+  {
+    "id": "008-005",
+    "en": "Container {0} doesn't exist, and IT hasn't set a hook that creates it."
+  },
+  {
+    "id": "008-006",
+    "en": "Resuming container…"
+  },
+  {
+    "id": "008-007",
+    "en": "Starting container…"
+  },
+  {
+    "id": "008-008",
+    "en": "Waiting for container to start…"
+  },
+  {
+    "id": "008-009",
+    "en": "Container {0} didn't start within {1} seconds ({2})."
+  },
+  {
+    "id": "008-010",
+    "en": "Container {0} no longer exists."
+  },
+  {
+    "id": "008-011",
+    "en": "{0} isn't available: {1}"
+  },
+  {
+    "id": "008-012",
+    "en": "'{0} {1}' failed: {2}"
+  },
+  {
+    "id": "008-013",
+    "en": "Checking for the Cursor server…"
+  },
+  {
+    "id": "008-014",
+    "en": "Cursor couldn't check container {0} for its server: {1}"
+  },
+  {
+    "id": "008-015",
+    "en": "Cursor couldn't check container {0} for its server: {1}"
+  },
+  {
+    "id": "008-016",
+    "en": "Container {0} doesn't have the Cursor server this version of Cursor needs (commit {1}, {2}). Ask IT to stage it in ~/{3}/bin/{1}/ for the container user."
+  },
+  {
+    "id": "008-017",
+    "en": "&&Open"
+  },
+  {
+    "id": "008-018",
+    "en": "Cancel"
+  },
+  {
+    "id": "008-019",
+    "en": "Open External Link"
+  },
+  {
+    "id": "008-020",
+    "en": "Do you want to open this link?"
+  },
+  {
+    "id": "008-021",
+    "en": "{0}\n\nThis will open in an external application."
+  },
+  {
+    "id": "008-022",
+    "en": "Whether the user is a Cursor developer/employee"
+  },
+  {
+    "id": "008-023",
+    "en": "Conversation Search"
+  },
+  {
+    "id": "008-024",
+    "en": "Experimental. Open the backend auth gate and serve Connect requests from the window at startup, through the main process, instead of waiting for the Cursor Always Local extension. Has no effect unless the experiment is also enabled for your account; set to false to opt out. Takes effect on window reload."
+  },
+  {
+    "id": "008-025",
+    "en": "Version: {0}\nVS Code Extension API: {1}\nCommit: {2}\nDate: {3}\nLayout: {4}\nBuild Type: {5}\nElectron: {6}\nChromium: {7}\nNode.js: {8}\nV8: {9}\nxterm.js: {10}\nOS: {11}"
+  },
+  {
+    "id": "008-026",
+    "en": "Version: {0}\nVS Code Extension API: {1}\nCommit: {2}\nDate: {3}\nLayout: {4}\nBuild Type: {5}\nRelease Track: {6}\nElectron: {7}\nChromium: {8}\nNode.js: {9}\nV8: {10}\nxterm.js: {11}\nOS: {12}"
+  },
+  {
+    "id": "008-027",
+    "en": "Local Mode: enabled"
+  },
+  {
+    "id": "008-028",
+    "en": "Suppress notification popups on startup."
+  },
+  {
+    "id": "008-029",
+    "en": "Run all web-capable extensions in a web worker extension host."
+  },
+  {
+    "id": "008-030",
+    "en": "Open the Agent Window instead of classic editor windows."
+  },
+  {
+    "id": "008-031",
+    "en": "Open classic editor windows instead of the Agent Window."
+  },
+  {
+    "id": "008-032",
+    "en": "Open a standalone chat window without the full IDE."
+  },
+  {
+    "id": "008-033",
+    "en": "To read output from another program, append '-' (e.g. 'echo Hello World | {0} -')"
+  },
+  {
+    "id": "008-034",
+    "en": "To read from stdin, append '-' (e.g. 'ps aux | grep code | {0} -')"
+  },
+  {
+    "id": "008-035",
+    "en": "Can't install '{0}' extension. {1}"
+  },
+  {
+    "id": "008-036",
+    "en": "Extensions"
+  },
+  {
+    "id": "008-037",
+    "en": "When enabled, installing extensions from VSIX files is blocked. Marketplace installs are unaffected."
+  },
+  {
+    "id": "008-038",
+    "en": "Block installing extensions from VSIX files. Marketplace installs are unaffected."
+  },
+  {
+    "id": "008-039",
+    "en": "Extension IDs (`publisher.name`) that can still be installed from VSIX files while `#extensions.blockInstallFromVsix#` is enabled."
+  },
+  {
+    "id": "008-040",
+    "en": "Extension IDs (publisher.name), as a JSON array, that can still be installed from VSIX files while BlockExtensionInstallFromVsix is enabled."
+  },
+  {
+    "id": "008-041",
+    "en": "Installing extensions out of the allowed marketplace is blocked for this team"
+  },
+  {
+    "id": "008-042",
+    "en": "Cannot install '{0}' extension because its dependencies or extension pack in the Marketplace differ from those in its package"
+  },
+  {
+    "id": "008-043",
+    "en": "Extension is not signed."
+  },
+  {
+    "id": "008-044",
+    "en": "Cannot install '{0}' because the extracted package is '{1}@{2}'."
+  },
+  {
+    "id": "008-045",
+    "en": "VSIX invalid: it contains more than one entry for '{0}'."
+  },
+  {
+    "id": "008-046",
+    "en": "This extension is using the API proposal '{0}' that is not compatible with the current version of VS Code."
+  },
+  {
+    "id": "008-047",
+    "en": "This extension is using the API proposals {0} and '{1}' that are not compatible with the current version of VS Code."
+  },
+  {
+    "id": "008-048",
+    "en": "Extension Monitor"
+  },
+  {
+    "id": "008-049",
+    "en": "Script '{0}' failed with exit code {1}"
+  },
+  {
+    "id": "008-050",
+    "en": "'{0}' failed with exit code {1}"
+  },
+  {
+    "id": "008-051",
+    "en": "{0}B"
+  },
+  {
+    "id": "008-052",
+    "en": "{0}KB"
+  },
+  {
+    "id": "008-053",
+    "en": "{0}MB"
+  },
+  {
+    "id": "008-054",
+    "en": "{0}GB"
+  },
+  {
+    "id": "008-055",
+    "en": "{0}TB"
+  },
+  {
+    "id": "008-056",
+    "en": "Invalid file stat from provider"
+  },
+  {
+    "id": "008-057",
+    "en": "MCP Process"
+  },
+  {
+    "id": "008-058",
+    "en": "Unable to replace `code` with `Cursor` on the path."
+  },
+  {
+    "id": "008-059",
+    "en": "Workspace Process Explorer"
+  },
+  {
+    "id": "008-060",
+    "en": "Process Explorer"
+  },
+  {
+    "id": "008-061",
+    "en": "Successfully created the trace file"
+  },
+  {
+    "id": "008-062",
+    "en": "Please create an issue and manually attach the following file:\n{0}"
+  },
+  {
+    "id": "008-063",
+    "en": "&&OK"
+  },
+  {
+    "id": "008-064",
+    "en": "Quick Input"
+  },
+  {
+    "id": "008-065",
+    "en": "Connecting as {0} ({1})"
+  },
+  {
+    "id": "008-066",
+    "en": "Opening tunnel {0}"
+  },
+  {
+    "id": "008-067",
+    "en": "Opening tunnel"
+  },
+  {
+    "id": "008-068",
+    "en": "Failed to install tunnel as a service, starting in session..."
+  },
+  {
+    "id": "008-069",
+    "en": "HTTP"
+  },
+  {
+    "id": "008-070",
+    "en": "HTTP"
+  },
+  {
+    "id": "008-071",
+    "en": "HTTP"
+  },
+  {
+    "id": "008-072",
+    "en": "Sign-in"
+  },
+  {
+    "id": "008-073",
+    "en": "Storage Error"
+  },
+  {
+    "id": "008-074",
+    "en": "Cursor was unable to open local storage. Please reload or contact support."
+  },
+  {
+    "id": "008-075",
+    "en": "Cursor may still be closing. Wait a moment, then restart.\n\nThis can also happen if the storage file is corrupted, moved, or there are permission issues.\n\nStorage path: {0}"
+  },
+  {
+    "id": "008-076",
+    "en": "Restart"
+  },
+  {
+    "id": "008-077",
+    "en": "Quit"
+  },
+  {
+    "id": "008-078",
+    "en": "New &&Window"
+  },
+  {
+    "id": "008-079",
+    "en": "Enable automatic update checks and install updates automatically without prompting. Updates will be applied automatically when available."
+  },
+  {
+    "id": "008-080",
+    "en": "Restart to Update When Idle"
+  },
+  {
+    "id": "008-081",
+    "en": "Restart into a downloaded update while the screen is locked and nothing would stop a quit or be lost: no running agents, terminals, tasks, test runs, notebook cells or debug sessions, and no changes a quit would lose."
+  },
+  {
+    "id": "008-082",
+    "en": "Configure the release track for updates. Can be 'prerelease', 'stable', 'dev', 'dogfood', or 'candidate'."
+  },
+  {
+    "id": "008-083",
+    "en": "Internal managed release track override for updates."
+  },
+  {
+    "id": "008-084",
+    "en": "Update to a faster experience"
+  },
+  {
+    "id": "008-085",
+    "en": "Restart to update"
+  },
+  {
+    "id": "008-086",
+    "en": "Check for Updates..."
+  },
+  {
+    "id": "008-087",
+    "en": "Checking for Updates..."
+  },
+  {
+    "id": "008-088",
+    "en": "Download Update"
+  },
+  {
+    "id": "008-089",
+    "en": "Downloading Update..."
+  },
+  {
+    "id": "008-090",
+    "en": "Install Update"
+  },
+  {
+    "id": "008-091",
+    "en": "Installing Update..."
+  },
+  {
+    "id": "008-092",
+    "en": "Restart to Update"
+  },
+  {
+    "id": "008-093",
+    "en": "Restart to update"
+  },
+  {
+    "id": "008-094",
+    "en": "Checking for updates…"
+  },
+  {
+    "id": "008-095",
+    "en": "Downloading…"
+  },
+  {
+    "id": "008-096",
+    "en": "Installing…"
+  },
+  {
+    "id": "008-097",
+    "en": "&&Open System Settings"
+  },
+  {
+    "id": "008-098",
+    "en": "&&Cancel"
+  },
+  {
+    "id": "008-099",
+    "en": "Allow {0} to Run in the Background"
+  },
+  {
+    "id": "008-100",
+    "en": "Enable background activity to run the updater process on {0}. MacOS stops the update installer when {0} quits because {0} isn't allowed to run in the background."
+  },
+  {
+    "id": "008-101",
+    "en": "Update {0} with your package manager"
+  },
+  {
+    "id": "008-102",
+    "en": "Run this command in a terminal, then restart {0}:\n\n{1}"
+  },
+  {
+    "id": "008-103",
+    "en": "Copy Command"
+  },
+  {
+    "id": "008-104",
+    "en": "Cancel"
+  },
+  {
+    "id": "008-105",
+    "en": "Reveal in File Explorer"
+  },
+  {
+    "id": "008-106",
+    "en": "Reveal in Finder"
+  },
+  {
+    "id": "008-107",
+    "en": "Open Containing Folder"
+  },
+  {
+    "id": "008-108",
+    "en": "{0} Diagnostics"
+  },
+  {
+    "id": "008-109",
+    "en": "Start CPU Profiler"
+  },
+  {
+    "id": "008-110",
+    "en": "Take Heap Snapshot"
+  },
+  {
+    "id": "008-111",
+    "en": "Select a diagnostics action"
+  },
+  {
+    "id": "008-112",
+    "en": "{0} is not running; open a command that uses it first."
+  },
+  {
+    "id": "008-113",
+    "en": "{0} CPU Profiler is already running."
+  },
+  {
+    "id": "008-114",
+    "en": "Failed to start {0} CPU Profiler: {1}"
+  },
+  {
+    "id": "008-115",
+    "en": "Stop"
+  },
+  {
+    "id": "008-116",
+    "en": "Stop"
+  },
+  {
+    "id": "008-117",
+    "en": "{0} CPU Profiler is running"
+  },
+  {
+    "id": "008-118",
+    "en": "Failed to stop {0} CPU Profiler: {1}"
+  },
+  {
+    "id": "008-119",
+    "en": "{0} CPU Profiler reached the maximum duration and was stopped."
+  }
+]

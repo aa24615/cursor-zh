@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h013-000",
+    "en": "Uploading snapshot to Cursor..."
+  },
+  {
+    "id": "h013-001",
+    "en": "Ursa"
+  },
+  {
+    "id": "h013-002",
+    "en": "Usage Pricing Required"
+  },
+  {
+    "id": "h013-003",
+    "en": "Use AI-powered command classification to intelligently match commands against allowlist patterns and suggest sandbox modes"
+  },
+  {
+    "id": "h013-004",
+    "en": "Use AWS Bedrock"
+  },
+  {
+    "id": "h013-005",
+    "en": "Use Azure OpenAI"
+  },
+  {
+    "id": "h013-006",
+    "en": "Use Cursor Browser"
+  },
+  {
+    "id": "h013-007",
+    "en": "Use External Browser"
+  },
+  {
+    "id": "h013-008",
+    "en": "Use OpenAI API Key"
+  },
+  {
+    "id": "h013-009",
+    "en": "Use Team AWS Bedrock"
+  },
+  {
+    "id": "h013-010",
+    "en": "Use commit hash"
+  },
+  {
+    "id": "h013-011",
+    "en": "Use development environment"
+  },
+  {
+    "id": "h013-012",
+    "en": "Use full local environment (non-VM running locally)"
+  },
+  {
+    "id": "h013-013",
+    "en": "Use legacy terminal tool on unsupported shells"
+  },
+  {
+    "id": "h013-014",
+    "en": "Use production environment"
+  },
+  {
+    "id": "h013-015",
+    "en": "Use the account version"
+  },
+  {
+    "id": "h013-016",
+    "en": "Use the legacy terminal tool in agent mode, for use on systems with unsupported shell configurations"
+  },
+  {
+    "id": "h013-017",
+    "en": "Use themed background colors for inline code diffs"
+  },
+  {
+    "id": "h013-018",
+    "en": "Use themed background colors for inline diffs"
+  },
+  {
+    "id": "h013-019",
+    "en": "Use your skills with Cloud Agents"
+  },
+  {
+    "id": "h013-020",
+    "en": "User Input Required"
+  },
+  {
+    "id": "h013-021",
+    "en": "User Message"
+  },
+  {
+    "id": "h013-022",
+    "en": "VSCode static command line definition file"
+  },
+  {
+    "id": "h013-023",
+    "en": "Verified by Cursor"
+  },
+  {
+    "id": "h013-024",
+    "en": "Verify Dockerfile in Chat"
+  },
+  {
+    "id": "h013-025",
+    "en": "Video preview"
+  },
+  {
+    "id": "h013-026",
+    "en": "View All Changes"
+  },
+  {
+    "id": "h013-027",
+    "en": "View Hooks"
+  },
+  {
+    "id": "h013-028",
+    "en": "View Pricing"
+  },
+  {
+    "id": "h013-029",
+    "en": "View Report"
+  },
+  {
+    "id": "h013-030",
+    "en": "View build details"
+  },
+  {
+    "id": "h013-031",
+    "en": "View changelog"
+  },
+  {
+    "id": "h013-032",
+    "en": "View environment builds"
+  },
+  {
+    "id": "h013-033",
+    "en": "View environment details"
+  },
+  {
+    "id": "h013-034",
+    "en": "View included files."
+  },
+  {
+    "id": "h013-035",
+    "en": "View referral history"
+  },
+  {
+    "id": "h013-036",
+    "en": "View source"
+  },
+  {
+    "id": "h013-037",
+    "en": "View transcript"
+  },
+  {
+    "id": "h013-038",
+    "en": "Visible row has unloaded bubble data"
+  },
+  {
+    "id": "h013-039",
+    "en": "Visualization options"
+  },
+  {
+    "id": "h013-040",
+    "en": "Voice chat transcript"
+  },
+  {
+    "id": "h013-041",
+    "en": "Voice input unavailable"
+  },
+  {
+    "id": "h013-042",
+    "en": "Vulnerability Remediation"
+  },
+  {
+    "id": "h013-043",
+    "en": "Wait for CI, PR, Slack, or Linear events instead of polling."
+  },
+  {
+    "id": "h013-044",
+    "en": "Wait indefinitely to authenticate when prompted. When off, skip authentication prompts after 30 seconds."
+  },
+  {
+    "id": "h013-045",
+    "en": "Waiting for environment…"
+  },
+  {
+    "id": "h013-046",
+    "en": "We couldn't generate your referral link. Try again."
+  },
+  {
+    "id": "h013-047",
+    "en": "We were unable to load your usage metrics. Please try again later."
+  },
+  {
+    "id": "h013-048",
+    "en": "Webhook Triggered"
+  },
+  {
+    "id": "h013-049",
+    "en": "Website"
+  },
+  {
+    "id": "h013-050",
+    "en": "Weekly"
+  },
+  {
+    "id": "h013-051",
+    "en": "What is this marketplace for?"
+  },
+  {
+    "id": "h013-052",
+    "en": "What model new agents use by default"
+  },
+  {
+    "id": "h013-053",
+    "en": "What sending a message while Agent is running does"
+  },
+  {
+    "id": "h013-054",
+    "en": "What the queued-message Send Now action does"
+  },
+  {
+    "id": "h013-055",
+    "en": "When @-mentioned"
+  },
+  {
+    "id": "h013-056",
+    "en": "When Agent decides it's relevant based on description"
+  },
+  {
+    "id": "h013-057",
+    "en": "When all editors are closed, hide the editor area and maximize chat"
+  },
+  {
+    "id": "h013-058",
+    "en": "When data sharing is enabled, Cursor learns from code to help your team get the best experience possible."
+  },
+  {
+    "id": "h013-059",
+    "en": "When enabled, translucent surfaces and vibrancy effects are replaced with opaque backgrounds for improved readability."
+  },
+  {
+    "id": "h013-060",
+    "en": "When enabled, uses grayscale antialiasing for thinner, crisper text that matches native macOS rendering."
+  },
+  {
+    "id": "h013-061",
+    "en": "When file matches a specified pattern"
+  },
+  {
+    "id": "h013-062",
+    "en": "When to display the usage summary at the bottom of the chat pane: automatically when approaching limits, always, or never."
+  },
+  {
+    "id": "h013-063",
+    "en": "When true, disabled automations are included. Omitted or false returns only enabled automations."
+  },
+  {
+    "id": "h013-064",
+    "en": "Where the search should begin in the buffer"
+  },
+  {
+    "id": "h013-065",
+    "en": "Where this remote server's tool calls and sign-in run. When absent, Cursor decides."
+  },
+  {
+    "id": "h013-066",
+    "en": "Where this server's tool calls run."
+  },
+  {
+    "id": "h013-067",
+    "en": "Which response is better?"
+  },
+  {
+    "id": "h013-068",
+    "en": "Whitespace-Only Suggestions"
+  },
+  {
+    "id": "h013-069",
+    "en": "Window Layout"
+  },
+  {
+    "id": "h013-070",
+    "en": "Windows specific setup. Either an array of commands or a path to a script file relative to this JSON file. Takes precedence over setup-worktree on Windows."
+  },
+  {
+    "id": "h013-071",
+    "en": "With Privacy Mode enabled, none of your questions or code will ever be stored or learned from by us or any third-party."
+  },
+  {
+    "id": "h013-072",
+    "en": "Word Wrap"
+  },
+  {
+    "id": "h013-073",
+    "en": "Words that send your prompt while you dictate"
+  },
+  {
+    "id": "h013-074",
+    "en": "Words that send your prompt while you dictate. Voice chats ignore them."
+  },
+  {
+    "id": "h013-075",
+    "en": "Work with Cloud Agents from Slack"
+  },
+  {
+    "id": "h013-076",
+    "en": "Workspace Diagnostics"
+  },
+  {
+    "id": "h013-077",
+    "en": "Workspace Locked by Another Team"
+  },
+  {
+    "id": "h013-078",
+    "en": "Workspace Not Allowed"
+  },
+  {
+    "id": "h013-079",
+    "en": "Workspace Not at Git Root"
+  },
+  {
+    "id": "h013-080",
+    "en": "Worktree..."
+  },
+  {
+    "id": "h013-081",
+    "en": "Wrap long lines in Agent chat code blocks."
+  },
+  {
+    "id": "h013-082",
+    "en": "Wrap long lines in Agent conversation code blocks"
+  },
+  {
+    "id": "h013-083",
+    "en": "Write something …"
+  },
+  {
+    "id": "h013-084",
+    "en": "Write your instructions for the agent here..."
+  },
+  {
+    "id": "h013-085",
+    "en": "Writes"
+  },
+  {
+    "id": "h013-086",
+    "en": "XID"
+  },
+  {
+    "id": "h013-087",
+    "en": "You and the Project"
+  },
+  {
+    "id": "h013-088",
+    "en": "You don't have access to this automation's run history."
+  },
+  {
+    "id": "h013-089",
+    "en": "You've hit your usage limits"
+  },
+  {
+    "id": "h013-090",
+    "en": "Your account"
+  },
+  {
+    "id": "h013-091",
+    "en": "Your agents, anywhere"
+  },
+  {
+    "id": "h013-092",
+    "en": "Your branches"
+  },
+  {
+    "id": "h013-093",
+    "en": "Your code data will not be trained on or used to improve the product. Code may be stored to provide features such as Background Agent."
+  },
+  {
+    "id": "h013-094",
+    "en": "Your code data will not be trained on or used to improve the product. We will not store your code."
+  },
+  {
+    "id": "h013-095",
+    "en": "Your edits to this marketplace aren't saved yet"
+  },
+  {
+    "id": "h013-096",
+    "en": "Your organization"
+  },
+  {
+    "id": "h013-097",
+    "en": "Your organization has configured repository access rules that require Git to be installed. Please install Git and restart Cursor to continue using the agent."
+  },
+  {
+    "id": "h013-098",
+    "en": "Your team has configured AWS Bedrock access. You can use your teams Bedrock instance without any additional configuration."
+  },
+  {
+    "id": "h013-099",
+    "en": "You’re in control of how your data is used"
+  },
+  {
+    "id": "h013-100",
+    "en": "Zagan"
+  },
+  {
+    "id": "h013-101",
+    "en": "Zenith"
+  },
+  {
+    "id": "h013-102",
+    "en": "char-delete diff-range-empty"
+  },
+  {
+    "id": "h013-103",
+    "en": "cpp suggestion"
+  },
+  {
+    "id": "h013-104",
+    "en": "cpp suggestion streaming indicator"
+  },
+  {
+    "id": "h013-105",
+    "en": "cursor desktop"
+  },
+  {
+    "id": "h013-106",
+    "en": "decoration for view zone in view zone"
+  },
+  {
+    "id": "h013-107",
+    "en": "decoration for view zone original range"
+  },
+  {
+    "id": "h013-108",
+    "en": "e.g. My Team Plugins"
+  },
+  {
+    "id": "h013-109",
+    "en": "e.g. anthropic.claude-3-sonnet-20240229-v1:0"
+  },
+  {
+    "id": "h013-110",
+    "en": "e.g. gpt-35-turbo"
+  },
+  {
+    "id": "h013-111",
+    "en": "e.g. my-resource.openai.azure.com"
+  },
+  {
+    "id": "h013-112",
+    "en": "e.g., *.md, **/generated/**"
+  },
+  {
+    "id": "h013-113",
+    "en": "e.g., new-project-channel"
+  },
+  {
+    "id": "h013-114",
+    "en": "e.g., send, submit, cursor"
+  },
+  {
+    "id": "h013-115",
+    "en": "live browser data"
+  },
+  {
+    "id": "h013-116",
+    "en": "next cursor prediction"
+  },
+  {
+    "id": "h013-117",
+    "en": "on PR in"
+  },
+  {
+    "id": "h013-118",
+    "en": "opened this PR"
+  },
+  {
+    "id": "h013-119",
+    "en": "per month"
+  },
+  {
+    "id": "h013-120",
+    "en": "sandbox.json + Defaults"
+  },
+  {
+    "id": "h013-121",
+    "en": "sandbox.json Only"
+  },
+  {
+    "id": "h013-122",
+    "en": "session data"
+  },
+  {
+    "id": "h013-123",
+    "en": "unchanged lines"
+  },
+  {
+    "id": "h013-124",
+    "en": "web searches"
+  },
+  {
+    "id": "h013-125",
+    "en": "window<->ptyhost (message port)"
+  },
+  {
+    "id": "h013-126",
+    "en": "with warnings"
+  },
+  {
+    "id": "h013-127",
+    "en": "your Anthropic key"
+  },
+  {
+    "id": "h013-128",
+    "en": "your Google AI Studio key"
+  },
+  {
+    "id": "h013-129",
+    "en": "your OpenAI key"
+  },
+  {
+    "id": "h013-130",
+    "en": "זמן ISO"
+  },
+  {
+    "id": "h013-131",
+    "en": "טווח IPv4"
+  },
+  {
+    "id": "h013-132",
+    "en": "טווח IPv6"
+  },
+  {
+    "id": "h013-133",
+    "en": "כתובת IPv4"
+  },
+  {
+    "id": "h013-134",
+    "en": "כתובת IPv6"
+  },
+  {
+    "id": "h013-135",
+    "en": "כתובת MAC"
+  },
+  {
+    "id": "h013-136",
+    "en": "מחרוזת JSON"
+  },
+  {
+    "id": "h013-137",
+    "en": "מספר E.164"
+  },
+  {
+    "id": "h013-138",
+    "en": "מפה (Map)"
+  },
+  {
+    "id": "h013-139",
+    "en": "משך זמן ISO"
+  },
+  {
+    "id": "h013-140",
+    "en": "סימבול (Symbol)"
+  },
+  {
+    "id": "h013-141",
+    "en": "ערך לא מוגדר (undefined)"
+  },
+  {
+    "id": "h013-142",
+    "en": "ערך ריק (null)"
+  },
+  {
+    "id": "h013-143",
+    "en": "קבוצה (Set)"
+  },
+  {
+    "id": "h013-144",
+    "en": "תאריך ISO"
+  },
+  {
+    "id": "h013-145",
+    "en": "תאריך וזמן ISO"
+  },
+  {
+    "id": "h013-146",
+    "en": "✓ Thanks for the feedback"
+  },
+  {
+    "id": "h013-147",
+    "en": " on us"
+  },
+  {
+    "id": "h013-148",
+    "en": "$(add) Dummy Option Alpha"
+  },
+  {
+    "id": "h013-149",
+    "en": "$20 usage credits"
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "id": "016-000",
+    "en": "Install language pack to change the display language to {0}."
+  },
+  {
+    "id": "016-001",
+    "en": "Install and Restart"
+  },
+  {
+    "id": "016-002",
+    "en": "Open Logs Folder"
+  },
+  {
+    "id": "016-003",
+    "en": "Open Extension Logs Folder"
+  },
+  {
+    "id": "016-004",
+    "en": "Edit Markdown"
+  },
+  {
+    "id": "016-005",
+    "en": "Edit Source"
+  },
+  {
+    "id": "016-006",
+    "en": "Toggle Editor Mode"
+  },
+  {
+    "id": "016-007",
+    "en": "Markdown Editor"
+  },
+  {
+    "id": "016-008",
+    "en": "Edit Markdown"
+  },
+  {
+    "id": "016-009",
+    "en": "Markdown Editor"
+  },
+  {
+    "id": "016-010",
+    "en": "View icon of the markers view."
+  },
+  {
+    "id": "016-011",
+    "en": "&&Problems"
+  },
+  {
+    "id": "016-012",
+    "en": "View as Tree"
+  },
+  {
+    "id": "016-013",
+    "en": "View as Table"
+  },
+  {
+    "id": "016-014",
+    "en": "Show Errors"
+  },
+  {
+    "id": "016-015",
+    "en": "Problems"
+  },
+  {
+    "id": "016-016",
+    "en": "Show Warnings"
+  },
+  {
+    "id": "016-017",
+    "en": "Problems"
+  },
+  {
+    "id": "016-018",
+    "en": "Show Infos"
+  },
+  {
+    "id": "016-019",
+    "en": "Problems"
+  },
+  {
+    "id": "016-020",
+    "en": "Show Active File Only"
+  },
+  {
+    "id": "016-021",
+    "en": "Problems"
+  },
+  {
+    "id": "016-022",
+    "en": "Show Excluded Files"
+  },
+  {
+    "id": "016-023",
+    "en": "Problems"
+  },
+  {
+    "id": "016-024",
+    "en": "Focus problems view"
+  },
+  {
+    "id": "016-025",
+    "en": "Focus problems filter"
+  },
+  {
+    "id": "016-026",
+    "en": "Problems"
+  },
+  {
+    "id": "016-027",
+    "en": "Problems"
+  },
+  {
+    "id": "016-028",
+    "en": "Clear filters text"
+  },
+  {
+    "id": "016-029",
+    "en": "Problems"
+  },
+  {
+    "id": "016-030",
+    "en": "Collapse All"
+  },
+  {
+    "id": "016-031",
+    "en": "Show the problems view as a tree."
+  },
+  {
+    "id": "016-032",
+    "en": "Show the problems view as a table."
+  },
+  {
+    "id": "016-033",
+    "en": "Show or hide errors in the problems view."
+  },
+  {
+    "id": "016-034",
+    "en": "Show or hide warnings in the problems view."
+  },
+  {
+    "id": "016-035",
+    "en": "Show or hide infos in the problems view."
+  },
+  {
+    "id": "016-036",
+    "en": "Show or hide problems (errors, warnings, info) only from the active file in the problems view."
+  },
+  {
+    "id": "016-037",
+    "en": "Show or hide excluded files in the problems view."
+  },
+  {
+    "id": "016-038",
+    "en": "Copy"
+  },
+  {
+    "id": "016-039",
+    "en": "Copy Message"
+  },
+  {
+    "id": "016-040",
+    "en": "Copy Message"
+  },
+  {
+    "id": "016-041",
+    "en": "Show message in multiple lines"
+  },
+  {
+    "id": "016-042",
+    "en": "Show message in single line"
+  },
+  {
+    "id": "016-043",
+    "en": "Add to Chat"
+  },
+  {
+    "id": "016-044",
+    "en": "Fix with Agent"
+  },
+  {
+    "id": "016-045",
+    "en": "Global in {0}"
+  },
+  {
+    "id": "016-046",
+    "en": "Windsurf"
+  },
+  {
+    "id": "016-047",
+    "en": "{0} This tool is from '{1}' (MCP Server). Note that MCP servers or malicious conversation content may attempt to misuse '{2}' through tools. Please carefully review any requested actions."
+  },
+  {
+    "id": "016-048",
+    "en": "Run `{0}`"
+  },
+  {
+    "id": "016-049",
+    "en": "Running `{0}`"
+  },
+  {
+    "id": "016-050",
+    "en": "Ran `{0}` "
+  },
+  {
+    "id": "016-051",
+    "en": "New Cursor Rule"
+  },
+  {
+    "id": "016-052",
+    "en": "Enter Command Name"
+  },
+  {
+    "id": "016-053",
+    "en": "e.g., my-custom-command"
+  },
+  {
+    "id": "016-054",
+    "en": "Please enter a name for the new command"
+  },
+  {
+    "id": "016-055",
+    "en": "Command name cannot be empty"
+  },
+  {
+    "id": "016-056",
+    "en": "Command name can only contain lowercase letters, numbers, and hyphens"
+  },
+  {
+    "id": "016-057",
+    "en": "A command with this name already exists"
+  },
+  {
+    "id": "016-058",
+    "en": "New Project Cursor Command"
+  },
+  {
+    "id": "016-059",
+    "en": "New User Cursor Command"
+  },
+  {
+    "id": "016-060",
+    "en": "Capture and Upload Renderer Heap Snapshot"
+  },
+  {
+    "id": "016-061",
+    "en": "Enter JSON"
+  },
+  {
+    "id": "016-062",
+    "en": "Merge Editor (Dev)"
+  },
+  {
+    "id": "016-063",
+    "en": "Open Merge Editor State from JSON"
+  },
+  {
+    "id": "016-064",
+    "en": "Open Selection In Temporary Merge Editor"
+  },
+  {
+    "id": "016-065",
+    "en": "Notebook Variables"
+  },
+  {
+    "id": "016-066",
+    "en": "Notebook Variables"
+  },
+  {
+    "id": "016-067",
+    "en": "REPL Variables"
+  },
+  {
+    "id": "016-068",
+    "en": "Notebook"
+  },
+  {
+    "id": "016-069",
+    "en": "Add Code"
+  },
+  {
+    "id": "016-070",
+    "en": "Add Code"
+  },
+  {
+    "id": "016-071",
+    "en": "Add Markdown"
+  },
+  {
+    "id": "016-072",
+    "en": "Add Markdown"
+  },
+  {
+    "id": "016-073",
+    "en": "Add Markdown"
+  },
+  {
+    "id": "016-074",
+    "en": "Configure the cell toolbar position for for specific file types"
+  },
+  {
+    "id": "016-075",
+    "en": "Mimetypes"
+  },
+  {
+    "id": "016-076",
+    "en": "Toggle Notebook Cell Overlays"
+  },
+  {
+    "id": "016-077",
+    "en": "Bring your VS Code setup to Cursor. Import your settings and extensions for a seamless start."
+  },
+  {
+    "id": "016-078",
+    "en": "Import"
+  },
+  {
+    "id": "016-079",
+    "en": "View icon of the outline view."
+  },
+  {
+    "id": "016-080",
+    "en": "Outline"
+  },
+  {
+    "id": "016-081",
+    "en": "View icon of the output view."
+  },
+  {
+    "id": "016-082",
+    "en": "&&Output"
+  },
+  {
+    "id": "016-083",
+    "en": "Output"
+  },
+  {
+    "id": "016-084",
+    "en": "Output"
+  },
+  {
+    "id": "016-085",
+    "en": "When enabled, slow renderers are automatically profiled."
+  },
+  {
+    "id": "016-086",
+    "en": "Successfully created profiles."
+  },
+  {
+    "id": "016-087",
+    "en": "Please create an issue and manually attach the following files:\n{0}"
+  },
+  {
+    "id": "016-088",
+    "en": "&&Create Issue and Restart"
+  },
+  {
+    "id": "016-089",
+    "en": "Restart"
+  },
+  {
+    "id": "016-090",
+    "en": "Thanks for helping us."
+  },
+  {
+    "id": "016-091",
+    "en": "A final restart is required to continue to use '{0}'. Again, thank you for your contribution."
+  },
+  {
+    "id": "016-092",
+    "en": "&&Restart"
+  },
+  {
+    "id": "016-093",
+    "en": "View Session Interaction Profiles in Datadog"
+  },
+  {
+    "id": "016-094",
+    "en": "{0} results"
+  },
+  {
+    "id": "016-095",
+    "en": "Change Keybinding {0}"
+  },
+  {
+    "id": "016-096",
+    "en": "Add Keybinding {0}"
+  },
+  {
+    "id": "016-097",
+    "en": "&&VS Code Settings"
+  },
+  {
+    "id": "016-098",
+    "en": "VS Code Settings"
+  },
+  {
+    "id": "016-099",
+    "en": "Keybindings Editor"
+  },
+  {
+    "id": "016-100",
+    "en": "Clear Search Results"
+  },
+  {
+    "id": "016-101",
+    "en": "Clear Keyboard Shortcuts Search History"
+  },
+  {
+    "id": "016-102",
+    "en": "Show System Keybindings"
+  },
+  {
+    "id": "016-103",
+    "en": "Show Extension Keybindings"
+  },
+  {
+    "id": "016-104",
+    "en": "Show User Keybindings"
+  },
+  {
+    "id": "016-105",
+    "en": "Settings Editor 2"
+  },
+  {
+    "id": "016-106",
+    "en": "Focus settings file"
+  },
+  {
+    "id": "016-107",
+    "en": "Focus settings file"
+  },
+  {
+    "id": "016-108",
+    "en": "Focus settings list"
+  },
+  {
+    "id": "016-109",
+    "en": "Focus Setting Control"
+  },
+  {
+    "id": "016-110",
+    "en": "Focus Settings Search"
+  },
+  {
+    "id": "016-111",
+    "en": "Clear Settings Search Results"
+  },
+  {
+    "id": "016-112",
+    "en": "Focus Settings Table of Contents"
+  },
+  {
+    "id": "016-113",
+    "en": "Show Setting Context Menu"
+  },
+  {
+    "id": "016-114",
+    "en": "Move Focus Up One Level"
+  },
+  {
+    "id": "016-115",
+    "en": "Open Settings (JSON)"
+  },
+  {
+    "id": "016-116",
+    "en": "Type the name of a view, output channel or terminal to open."
+  },
+  {
+    "id": "016-117",
+    "en": "Open View"
+  },
+  {
+    "id": "016-118",
+    "en": "&&Open View..."
+  },
+  {
+    "id": "016-119",
+    "en": "Unable to reconnect to the remote workspace."
+  }
+]

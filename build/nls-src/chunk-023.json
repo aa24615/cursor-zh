@@ -1,0 +1,482 @@
+[
+  {
+    "id": "023-000",
+    "en": "Refresh Statsig Config"
+  },
+  {
+    "id": "023-001",
+    "en": "Manually pull the latest Statsig configurations from server"
+  },
+  {
+    "id": "023-002",
+    "en": "Set All Flags to Bundled Values"
+  },
+  {
+    "id": "023-003",
+    "en": "Override every flag to the built-in default (simulates first-time user)"
+  },
+  {
+    "id": "023-004",
+    "en": "Clear All Overrides"
+  },
+  {
+    "id": "023-005",
+    "en": "Remove all {0} overrides at once"
+  },
+  {
+    "id": "023-006",
+    "en": "{0} override(s) active. Select a flag to manage:"
+  },
+  {
+    "id": "023-007",
+    "en": "Select a flag to manage:"
+  },
+  {
+    "id": "023-008",
+    "en": "Feature Flag Overrides"
+  },
+  {
+    "id": "023-009",
+    "en": "Refresh Statsig Config"
+  },
+  {
+    "id": "023-010",
+    "en": "Refreshing Statsig configurations..."
+  },
+  {
+    "id": "023-011",
+    "en": "Statsig configurations refreshed successfully"
+  },
+  {
+    "id": "023-012",
+    "en": "Failed to refresh Statsig configurations: {0}"
+  },
+  {
+    "id": "023-013",
+    "en": "Set All Flags to Bundled Values"
+  },
+  {
+    "id": "023-014",
+    "en": "Clear All Overrides"
+  },
+  {
+    "id": "023-015",
+    "en": "View in Statsig"
+  },
+  {
+    "id": "023-016",
+    "en": "Open this flag in Statsig console"
+  },
+  {
+    "id": "023-017",
+    "en": "Remove Override"
+  },
+  {
+    "id": "023-018",
+    "en": "Reset to Statsig/default value"
+  },
+  {
+    "id": "023-019",
+    "en": "Override → Enable"
+  },
+  {
+    "id": "023-020",
+    "en": "Force this flag to enabled"
+  },
+  {
+    "id": "023-021",
+    "en": "Override → Disable"
+  },
+  {
+    "id": "023-022",
+    "en": "Force this flag to disabled"
+  },
+  {
+    "id": "023-023",
+    "en": "\"{0}\" is currently {1}. What would you like to do?"
+  },
+  {
+    "id": "023-024",
+    "en": "Manage: {0}"
+  },
+  {
+    "id": "023-025",
+    "en": "View in Statsig"
+  },
+  {
+    "id": "023-026",
+    "en": "Override → Enable"
+  },
+  {
+    "id": "023-027",
+    "en": "Feature flag \"{0}\" overridden to enabled"
+  },
+  {
+    "id": "023-028",
+    "en": "Override → Disable"
+  },
+  {
+    "id": "023-029",
+    "en": "Feature flag \"{0}\" overridden to disabled"
+  },
+  {
+    "id": "023-030",
+    "en": "Remove Override"
+  },
+  {
+    "id": "023-031",
+    "en": "Override for \"{0}\" has been removed"
+  },
+  {
+    "id": "023-032",
+    "en": "Yes, override all to bundled values"
+  },
+  {
+    "id": "023-033",
+    "en": "This will create {0} overrides"
+  },
+  {
+    "id": "023-034",
+    "en": "Cancel"
+  },
+  {
+    "id": "023-035",
+    "en": "Keep current values"
+  },
+  {
+    "id": "023-036",
+    "en": "Set all feature flags to bundled default values?"
+  },
+  {
+    "id": "023-037",
+    "en": "Confirm Apply Bundled Values"
+  },
+  {
+    "id": "023-038",
+    "en": "Yes, override all to bundled values"
+  },
+  {
+    "id": "023-039",
+    "en": "Applied bundled values to {0} feature flags."
+  },
+  {
+    "id": "023-040",
+    "en": "Yes, clear all overrides"
+  },
+  {
+    "id": "023-041",
+    "en": "This will remove {0} override(s)"
+  },
+  {
+    "id": "023-042",
+    "en": "Cancel"
+  },
+  {
+    "id": "023-043",
+    "en": "Keep existing overrides"
+  },
+  {
+    "id": "023-044",
+    "en": "Clear all {0} feature flag overrides?"
+  },
+  {
+    "id": "023-045",
+    "en": "Confirm Clear All"
+  },
+  {
+    "id": "023-046",
+    "en": "Yes, clear all overrides"
+  },
+  {
+    "id": "023-047",
+    "en": "All {0} feature flag overrides have been cleared."
+  },
+  {
+    "id": "023-048",
+    "en": "Simulate production mode is not available in production builds."
+  },
+  {
+    "id": "023-049",
+    "en": "Now simulating production mode. Dev status is OFF. Using prod-like evaluations."
+  },
+  {
+    "id": "023-050",
+    "en": "Back to normal dev mode. Dev status is ON. Using normal evaluations."
+  },
+  {
+    "id": "023-051",
+    "en": "This command is only available for Cursor developers."
+  },
+  {
+    "id": "023-052",
+    "en": "Logging statsig_dummy_gauge_config.dummy to the console on an interval. Run again to stop. (statsig.dummy_gauge_config is always emitted in the background.)"
+  },
+  {
+    "id": "023-053",
+    "en": "Console loop stopped."
+  },
+  {
+    "id": "023-054",
+    "en": "Manage Feature Flag Overrides"
+  },
+  {
+    "id": "023-055",
+    "en": "Manage feature flag overrides for development and testing"
+  },
+  {
+    "id": "023-056",
+    "en": "Toggle Simulate Production Mode"
+  },
+  {
+    "id": "023-057",
+    "en": "Toggle simulate production mode (ignore dev/internal targeting in Statsig evaluations)"
+  },
+  {
+    "id": "023-058",
+    "en": "Toggle Statsig Dummy Config Console Loop"
+  },
+  {
+    "id": "023-059",
+    "en": "Start or stop logging statsig_dummy_gauge_config.dummy to the developer console on an interval (metrics always on)"
+  },
+  {
+    "id": "023-060",
+    "en": "Cannot change enablement of {0} extension in workspace because it contributes authentication providers"
+  },
+  {
+    "id": "023-061",
+    "en": "{0} is now configured to a different Marketplace. Please restart to apply the changes."
+  },
+  {
+    "id": "023-062",
+    "en": "&&Restart"
+  },
+  {
+    "id": "023-063",
+    "en": "Local"
+  },
+  {
+    "id": "023-064",
+    "en": "Remote"
+  },
+  {
+    "id": "023-065",
+    "en": "Can't install '{0}' extension. {1}"
+  },
+  {
+    "id": "023-066",
+    "en": "Can't install release version of '{0}' extension because it has no release version."
+  },
+  {
+    "id": "023-067",
+    "en": "Can't install '{0}' extension because it is not compatible with the current version of {1} (version {2})."
+  },
+  {
+    "id": "023-068",
+    "en": "Captured diagnostics for the {0} (PID {1}) while it was unresponsive."
+  },
+  {
+    "id": "023-069",
+    "en": "Reveal in File Explorer"
+  },
+  {
+    "id": "023-070",
+    "en": "The Network & IPC Profiler is only available in development builds or to internal Cursor developers."
+  },
+  {
+    "id": "023-071",
+    "en": "Start Network & IPC Profiler"
+  },
+  {
+    "id": "023-072",
+    "en": "An activation event emitted when terminal completions are requested."
+  },
+  {
+    "id": "023-073",
+    "en": "Extensions have been modified on disk. Please reload the window."
+  },
+  {
+    "id": "023-074",
+    "en": "Reload Window"
+  },
+  {
+    "id": "023-075",
+    "en": "Copy"
+  },
+  {
+    "id": "023-076",
+    "en": "Reload Window"
+  },
+  {
+    "id": "023-077",
+    "en": "Extension host did not start in 10 seconds, it might be stopped on the first line and needs a debugger to continue."
+  },
+  {
+    "id": "023-078",
+    "en": "Extension host did not start in 10 seconds"
+  },
+  {
+    "id": "023-079",
+    "en": "Terminating extension debug session"
+  },
+  {
+    "id": "023-080",
+    "en": "{0} didn't load {1} because its files don't match {0}'s signature. Reinstall it from the Extensions view."
+  },
+  {
+    "id": "023-081",
+    "en": "The following extension(s) were blocked due to signature verification: {0}. Please reinstall them from a trusted source."
+  },
+  {
+    "id": "023-082",
+    "en": "extension files have been modified"
+  },
+  {
+    "id": "023-083",
+    "en": "failed to verify extension integrity"
+  },
+  {
+    "id": "023-084",
+    "en": "extension files have been modified"
+  },
+  {
+    "id": "023-085",
+    "en": "extension files have been modified"
+  },
+  {
+    "id": "023-086",
+    "en": "failed to verify extension integrity"
+  },
+  {
+    "id": "023-087",
+    "en": "extension was not verified at install time - please reinstall"
+  },
+  {
+    "id": "023-088",
+    "en": "Extension host cannot start: version mismatch."
+  },
+  {
+    "id": "023-089",
+    "en": "Relaunch {0}"
+  },
+  {
+    "id": "023-090",
+    "en": "The extension host terminated unexpectedly. Restarting..."
+  },
+  {
+    "id": "023-091",
+    "en": "Start Extension Bisect"
+  },
+  {
+    "id": "023-092",
+    "en": "Open Developer Tools"
+  },
+  {
+    "id": "023-093",
+    "en": "Restart Extension Host"
+  },
+  {
+    "id": "023-094",
+    "en": "Learn More"
+  },
+  {
+    "id": "023-095",
+    "en": "Extension host terminated unexpectedly 3 times within the last 5 minutes."
+  },
+  {
+    "id": "023-096",
+    "en": "Allow connecting to the remote server '{0}:{1}'?"
+  },
+  {
+    "id": "023-097",
+    "en": "Code is about to connect to '{0}:{1}' to host a remote extension host. Only continue if you trust this server, as it will be able to run code and access files on your behalf."
+  },
+  {
+    "id": "023-098",
+    "en": "Connect"
+  },
+  {
+    "id": "023-099",
+    "en": "Connection to '{0}:{1}' was not allowed."
+  },
+  {
+    "id": "023-100",
+    "en": "Could not fetch remote environment"
+  },
+  {
+    "id": "023-101",
+    "en": "Extension '{0}' is required to open the remote window.\nOK to enable?"
+  },
+  {
+    "id": "023-102",
+    "en": "Enable and Reload"
+  },
+  {
+    "id": "023-103",
+    "en": "Extension '{0}' is required to open the remote window.\nDo you want to install the extension?"
+  },
+  {
+    "id": "023-104",
+    "en": "Install and Reload"
+  },
+  {
+    "id": "023-105",
+    "en": "`{0}` not found on marketplace"
+  },
+  {
+    "id": "023-106",
+    "en": "An explicit request"
+  },
+  {
+    "id": "023-107",
+    "en": "Restart Extension Host"
+  },
+  {
+    "id": "023-108",
+    "en": "File Watcher"
+  },
+  {
+    "id": "023-109",
+    "en": "You are about to save '{0}' as admin."
+  },
+  {
+    "id": "023-110",
+    "en": "You are about to save '{0}' as super user."
+  },
+  {
+    "id": "023-111",
+    "en": "Workspace is not trusted."
+  },
+  {
+    "id": "023-112",
+    "en": "File watch recording requires the \"{0}\" feature flag to be enabled."
+  },
+  {
+    "id": "023-113",
+    "en": "File watch recording stopped. Collected {0} unique paths and {1} watcher stats."
+  },
+  {
+    "id": "023-114",
+    "en": "Stop"
+  },
+  {
+    "id": "023-115",
+    "en": "Stop Recording"
+  },
+  {
+    "id": "023-116",
+    "en": "File watch recording complete. Collected {0} unique paths, {1} total events, and {2} watcher stats."
+  },
+  {
+    "id": "023-117",
+    "en": "Open Recording Folder"
+  },
+  {
+    "id": "023-118",
+    "en": "File watch recording is running. Make file changes to record them."
+  },
+  {
+    "id": "023-119",
+    "en": "Start File Watch Recording"
+  }
+]

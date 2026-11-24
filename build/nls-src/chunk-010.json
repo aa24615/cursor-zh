@@ -1,0 +1,482 @@
+[
+  {
+    "id": "010-000",
+    "en": "Enable and Reload"
+  },
+  {
+    "id": "010-001",
+    "en": "Remove from recents"
+  },
+  {
+    "id": "010-002",
+    "en": "You are not signed in to any accounts"
+  },
+  {
+    "id": "010-003",
+    "en": "Icon to restore a panel."
+  },
+  {
+    "id": "010-004",
+    "en": "&&Panel"
+  },
+  {
+    "id": "010-005",
+    "en": "Configure Keybinding"
+  },
+  {
+    "id": "010-006",
+    "en": "Configure Keybinding"
+  },
+  {
+    "id": "010-007",
+    "en": "Hide '{0}'"
+  },
+  {
+    "id": "010-008",
+    "en": "Keep '{0}'"
+  },
+  {
+    "id": "010-009",
+    "en": "Move Primary Side Bar Right"
+  },
+  {
+    "id": "010-010",
+    "en": "Move Primary Side Bar Left"
+  },
+  {
+    "id": "010-011",
+    "en": "Move Primary Side Bar Right"
+  },
+  {
+    "id": "010-012",
+    "en": "Move Primary Side Bar Left"
+  },
+  {
+    "id": "010-013",
+    "en": "&&File"
+  },
+  {
+    "id": "010-014",
+    "en": "&&Edit"
+  },
+  {
+    "id": "010-015",
+    "en": "&&Selection"
+  },
+  {
+    "id": "010-016",
+    "en": "&&View"
+  },
+  {
+    "id": "010-017",
+    "en": "&&Go"
+  },
+  {
+    "id": "010-018",
+    "en": "&&Terminal"
+  },
+  {
+    "id": "010-019",
+    "en": "&&Help"
+  },
+  {
+    "id": "010-020",
+    "en": "Preferences"
+  },
+  {
+    "id": "010-021",
+    "en": "Agents Window Button"
+  },
+  {
+    "id": "010-022",
+    "en": "Toggle visibility of the Agents Window button in the title bar"
+  },
+  {
+    "id": "010-023",
+    "en": "Restore Native Title Bar"
+  },
+  {
+    "id": "010-024",
+    "en": "Left title actions"
+  },
+  {
+    "id": "010-025",
+    "en": "Navigation actions"
+  },
+  {
+    "id": "010-026",
+    "en": "Move Side Bar Right"
+  },
+  {
+    "id": "010-027",
+    "en": "Move Side Bar Left"
+  },
+  {
+    "id": "010-028",
+    "en": "New Agent"
+  },
+  {
+    "id": "010-029",
+    "en": "Chat History"
+  },
+  {
+    "id": "010-030",
+    "en": "Open Agents Window"
+  },
+  {
+    "id": "010-031",
+    "en": "More Actions"
+  },
+  {
+    "id": "010-032",
+    "en": "Toggle Primary Side Bar"
+  },
+  {
+    "id": "010-033",
+    "en": "Toggle Agents"
+  },
+  {
+    "id": "010-034",
+    "en": "Open Cursor Settings"
+  },
+  {
+    "id": "010-035",
+    "en": "Cursor Settings"
+  },
+  {
+    "id": "010-036",
+    "en": "Go Back"
+  },
+  {
+    "id": "010-037",
+    "en": "Go Forward"
+  },
+  {
+    "id": "010-038",
+    "en": "Agent is still working"
+  },
+  {
+    "id": "010-039",
+    "en": "Stopping now will cancel the current task."
+  },
+  {
+    "id": "010-040",
+    "en": "{0} agents are still working"
+  },
+  {
+    "id": "010-041",
+    "en": "Stopping now will cancel their current tasks."
+  },
+  {
+    "id": "010-042",
+    "en": "Cursor will pick this agent back up when you reopen."
+  },
+  {
+    "id": "010-043",
+    "en": "Cursor will pick these agents back up when you reopen."
+  },
+  {
+    "id": "010-044",
+    "en": "Resume agent automatically"
+  },
+  {
+    "id": "010-045",
+    "en": "Resume agents automatically"
+  },
+  {
+    "id": "010-046",
+    "en": "Close"
+  },
+  {
+    "id": "010-047",
+    "en": "Quit"
+  },
+  {
+    "id": "010-048",
+    "en": "Reload"
+  },
+  {
+    "id": "010-049",
+    "en": "Change"
+  },
+  {
+    "id": "010-050",
+    "en": "Close Anyway"
+  },
+  {
+    "id": "010-051",
+    "en": "Quit Anyway"
+  },
+  {
+    "id": "010-052",
+    "en": "Reload Anyway"
+  },
+  {
+    "id": "010-053",
+    "en": "Change Anyway"
+  },
+  {
+    "id": "010-054",
+    "en": "Archive running agent?"
+  },
+  {
+    "id": "010-055",
+    "en": "This agent is still working. Archiving will stop it and cancel the current task."
+  },
+  {
+    "id": "010-056",
+    "en": "Archive"
+  },
+  {
+    "id": "010-057",
+    "en": "Background terminal is still running"
+  },
+  {
+    "id": "010-058",
+    "en": "Stopping now will kill the background terminal."
+  },
+  {
+    "id": "010-059",
+    "en": "{0} background terminals are still running"
+  },
+  {
+    "id": "010-060",
+    "en": "Stopping now will kill the background terminals."
+  },
+  {
+    "id": "010-061",
+    "en": "Controls the width in pixels of Quick Open and other quick pickers."
+  },
+  {
+    "id": "010-062",
+    "en": "Controls the orientation of the activity bar in the workbench. Quit and reopen for changes to take effect."
+  },
+  {
+    "id": "010-063",
+    "en": "Controls whether the Agents Window button in the title bar is shown."
+  },
+  {
+    "id": "010-064",
+    "en": "Zen Mode"
+  },
+  {
+    "id": "010-065",
+    "en": "Controls whether turning on Zen Mode also puts the workbench into full screen mode."
+  },
+  {
+    "id": "010-066",
+    "en": "Controls whether turning on Zen Mode also centers the layout."
+  },
+  {
+    "id": "010-067",
+    "en": "Controls whether turning on Zen Mode should show multiple editor tabs, a single editor tab, or hide the editor title area completely."
+  },
+  {
+    "id": "010-068",
+    "en": "Each editor is displayed as a tab in the editor title area."
+  },
+  {
+    "id": "010-069",
+    "en": "The active editor is displayed as a single large tab in the editor title area."
+  },
+  {
+    "id": "010-070",
+    "en": "The editor title area is not displayed."
+  },
+  {
+    "id": "010-071",
+    "en": "Controls whether turning on Zen Mode also hides the status bar at the bottom of the workbench."
+  },
+  {
+    "id": "010-072",
+    "en": "Controls whether turning on Zen Mode also hides the activity bar either at the left or right of the workbench."
+  },
+  {
+    "id": "010-073",
+    "en": "Controls whether turning on Zen Mode also hides the editor line numbers."
+  },
+  {
+    "id": "010-074",
+    "en": "Controls whether a window should restore to Zen Mode if it was exited in Zen Mode."
+  },
+  {
+    "id": "010-075",
+    "en": "Controls whether notifications do not disturb mode should be enabled while in Zen Mode. If true, only error notifications will pop out."
+  },
+  {
+    "id": "010-076",
+    "en": "Whether the workbench is in Glass mode"
+  },
+  {
+    "id": "010-077",
+    "en": "Whether the active editor is the Review Changes editor"
+  },
+  {
+    "id": "010-078",
+    "en": "Editor Part is in an auxiliary window"
+  },
+  {
+    "id": "010-079",
+    "en": "Whether the agent chat experience is maximized and hiding the editor area via unified maximize mode"
+  },
+  {
+    "id": "010-080",
+    "en": "Whether the document body has keyboard focus"
+  },
+  {
+    "id": "010-081",
+    "en": "Border color for tabs containing files from a worktree. Tabs are the containers for editors in the editor area."
+  },
+  {
+    "id": "010-082",
+    "en": "Provide information about how to access the Agent chat accessibility help menu when the chat is focused, and how to open the agent's response in the Accessible View when the response is announced."
+  },
+  {
+    "id": "010-083",
+    "en": "All Agents"
+  },
+  {
+    "id": "010-084",
+    "en": "Quick Open Previous Recently Used Agent"
+  },
+  {
+    "id": "010-085",
+    "en": "Quick Open Least Recently Used Agent"
+  },
+  {
+    "id": "010-086",
+    "en": "Chats"
+  },
+  {
+    "id": "010-087",
+    "en": "Cloud agents"
+  },
+  {
+    "id": "010-088",
+    "en": "No chats available"
+  },
+  {
+    "id": "010-089",
+    "en": "Try a different search query"
+  },
+  {
+    "id": "010-090",
+    "en": "Start a new agent to see it here"
+  },
+  {
+    "id": "010-091",
+    "en": "No chats available"
+  },
+  {
+    "id": "010-092",
+    "en": "Chat {0}"
+  },
+  {
+    "id": "010-093",
+    "en": "Cloud agent {0}"
+  },
+  {
+    "id": "010-094",
+    "en": "Untitled chat"
+  },
+  {
+    "id": "010-095",
+    "en": "Search chats and cloud agents"
+  },
+  {
+    "id": "010-096",
+    "en": "Search chat history"
+  },
+  {
+    "id": "010-097",
+    "en": "No recent agents"
+  },
+  {
+    "id": "010-098",
+    "en": "Agent {0}"
+  },
+  {
+    "id": "010-099",
+    "en": "Agent {0}"
+  },
+  {
+    "id": "010-100",
+    "en": "Cloud agent {0}"
+  },
+  {
+    "id": "010-101",
+    "en": "Draft"
+  },
+  {
+    "id": "010-102",
+    "en": "Switch between recently used agents"
+  },
+  {
+    "id": "010-103",
+    "en": "Switch between recently used agents"
+  },
+  {
+    "id": "010-104",
+    "en": "Private Inference"
+  },
+  {
+    "id": "010-105",
+    "en": "Update will apply on quit — click to restart now"
+  },
+  {
+    "id": "010-106",
+    "en": "Update is ready — click to restart"
+  },
+  {
+    "id": "010-107",
+    "en": "Update to {0} is ready — click to restart"
+  },
+  {
+    "id": "010-108",
+    "en": "Update to {0} will apply on quit — click to restart now"
+  },
+  {
+    "id": "010-109",
+    "en": "Installing update — Cursor will close and reopen automatically."
+  },
+  {
+    "id": "010-110",
+    "en": "Update: restart Cursor to install"
+  },
+  {
+    "id": "010-111",
+    "en": "Installing update"
+  },
+  {
+    "id": "010-112",
+    "en": "Installing"
+  },
+  {
+    "id": "010-113",
+    "en": "Update"
+  },
+  {
+    "id": "010-114",
+    "en": "Whether the Agents sidebar currently contains keyboard focus."
+  },
+  {
+    "id": "010-115",
+    "en": "Whether currently in agent navigation mode (hold-and-release to switch)."
+  },
+  {
+    "id": "010-116",
+    "en": "General"
+  },
+  {
+    "id": "010-117",
+    "en": "Agent Remote Workspace Authorities"
+  },
+  {
+    "id": "010-118",
+    "en": "When configured by device management, Agent is disabled in local windows and enabled only in remote workspaces. An empty value allows every remote authority; otherwise provide comma-separated patterns matched case-insensitively with optional * wildcards (for example, ssh-remote+127.0.0.1*)."
+  },
+  {
+    "id": "010-119",
+    "en": "Require Agent to run in a remote workspace, optionally restricted to comma-separated remote authority patterns. An empty value allows every remote authority."
+  }
+]

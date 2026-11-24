@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h021-000",
+    "en": "Open &&IDE"
+  },
+  {
+    "id": "h021-001",
+    "en": "Open (fade)"
+  },
+  {
+    "id": "h021-002",
+    "en": "Open (scale)"
+  },
+  {
+    "id": "h021-003",
+    "en": "Open Agent Plan"
+  },
+  {
+    "id": "h021-004",
+    "en": "Open Agent by ID"
+  },
+  {
+    "id": "h021-005",
+    "en": "Open Agent in New Window by ID"
+  },
+  {
+    "id": "h021-006",
+    "en": "Open Apps Panel"
+  },
+  {
+    "id": "h021-007",
+    "en": "Open Branch Selector"
+  },
+  {
+    "id": "h021-008",
+    "en": "Open Browser Tab"
+  },
+  {
+    "id": "h021-009",
+    "en": "Open Changes Menu"
+  },
+  {
+    "id": "h021-010",
+    "en": "Open Cloud Agent View by ID"
+  },
+  {
+    "id": "h021-011",
+    "en": "Open Color Reference"
+  },
+  {
+    "id": "h021-012",
+    "en": "Open Diff Menu"
+  },
+  {
+    "id": "h021-013",
+    "en": "Open Documentation"
+  },
+  {
+    "id": "h021-014",
+    "en": "Open File (Right Pane)"
+  },
+  {
+    "id": "h021-015",
+    "en": "Open Gallery"
+  },
+  {
+    "id": "h021-016",
+    "en": "Open IDE"
+  },
+  {
+    "id": "h021-017",
+    "en": "Open Instance Selector"
+  },
+  {
+    "id": "h021-018",
+    "en": "Open Least Recent Agents"
+  },
+  {
+    "id": "h021-019",
+    "en": "Open Plan"
+  },
+  {
+    "id": "h021-020",
+    "en": "Open Project Link"
+  },
+  {
+    "id": "h021-021",
+    "en": "Open Project Notes Page"
+  },
+  {
+    "id": "h021-022",
+    "en": "Open Project by Id"
+  },
+  {
+    "id": "h021-023",
+    "en": "Open Recent Agents"
+  },
+  {
+    "id": "h021-024",
+    "en": "Open SSH Config"
+  },
+  {
+    "id": "h021-025",
+    "en": "Open SSH Configuration File"
+  },
+  {
+    "id": "h021-026",
+    "en": "Open Section Headers Quick Pick"
+  },
+  {
+    "id": "h021-027",
+    "en": "Open Side Chat"
+  },
+  {
+    "id": "h021-028",
+    "en": "Open Slack Again"
+  },
+  {
+    "id": "h021-029",
+    "en": "Open Solid Custom Render Quick Pick"
+  },
+  {
+    "id": "h021-030",
+    "en": "Open Tabs"
+  },
+  {
+    "id": "h021-031",
+    "en": "Open Usage Based Pricing"
+  },
+  {
+    "id": "h021-032",
+    "en": "Open billing settings"
+  },
+  {
+    "id": "h021-033",
+    "en": "Open build menu"
+  },
+  {
+    "id": "h021-034",
+    "en": "Open debug logs"
+  },
+  {
+    "id": "h021-035",
+    "en": "Open diff menu"
+  },
+  {
+    "id": "h021-036",
+    "en": "Open in Statsig"
+  },
+  {
+    "id": "h021-037",
+    "en": "Open on Web"
+  },
+  {
+    "id": "h021-038",
+    "en": "Open subagent preview in agents tray"
+  },
+  {
+    "id": "h021-039",
+    "en": "Open the chat and try again."
+  },
+  {
+    "id": "h021-040",
+    "en": "Open the connection flow to add an SSH workspace"
+  },
+  {
+    "id": "h021-041",
+    "en": "Opened"
+  },
+  {
+    "id": "h021-042",
+    "en": "Opens a submenu"
+  },
+  {
+    "id": "h021-043",
+    "en": "Operation"
+  },
+  {
+    "id": "h021-044",
+    "en": "Operation Complete"
+  },
+  {
+    "id": "h021-045",
+    "en": "Organizations"
+  },
+  {
+    "id": "h021-046",
+    "en": "Original Text Lines"
+  },
+  {
+    "id": "h021-047",
+    "en": "Other Agents"
+  },
+  {
+    "id": "h021-048",
+    "en": "Other Fonts"
+  },
+  {
+    "id": "h021-049",
+    "en": "Other KV data"
+  },
+  {
+    "id": "h021-050",
+    "en": "Other repairs"
+  },
+  {
+    "id": "h021-051",
+    "en": "Outdated Client"
+  },
+  {
+    "id": "h021-052",
+    "en": "Outline Icon"
+  },
+  {
+    "id": "h021-053",
+    "en": "Outline Model Playground"
+  },
+  {
+    "id": "h021-054",
+    "en": "Outline Pulsing"
+  },
+  {
+    "id": "h021-055",
+    "en": "Overall findings"
+  },
+  {
+    "id": "h021-056",
+    "en": "Overview"
+  },
+  {
+    "id": "h021-057",
+    "en": "Owner must authenticate"
+  },
+  {
+    "id": "h021-058",
+    "en": "Owner that matches no member"
+  },
+  {
+    "id": "h021-059",
+    "en": "POST"
+  },
+  {
+    "id": "h021-060",
+    "en": "PR Approval Disabled by Admin"
+  },
+  {
+    "id": "h021-061",
+    "en": "PR Closed"
+  },
+  {
+    "id": "h021-062",
+    "en": "PR Diff File Actions"
+  },
+  {
+    "id": "h021-063",
+    "en": "PR Draft"
+  },
+  {
+    "id": "h021-064",
+    "en": "PR Merged"
+  },
+  {
+    "id": "h021-065",
+    "en": "PR Number"
+  },
+  {
+    "id": "h021-066",
+    "en": "PR Open"
+  },
+  {
+    "id": "h021-067",
+    "en": "PR from the task's worker"
+  },
+  {
+    "id": "h021-068",
+    "en": "PR review comment"
+  },
+  {
+    "id": "h021-069",
+    "en": "PR review submitted..."
+  },
+  {
+    "id": "h021-070",
+    "en": "PRs"
+  },
+  {
+    "id": "h021-071",
+    "en": "Page isn't working"
+  },
+  {
+    "id": "h021-072",
+    "en": "PagerDuty"
+  },
+  {
+    "id": "h021-073",
+    "en": "Pair a Device"
+  },
+  {
+    "id": "h021-074",
+    "en": "Pair a device"
+  },
+  {
+    "id": "h021-075",
+    "en": "Participants"
+  },
+  {
+    "id": "h021-076",
+    "en": "Pending Opens"
+  },
+  {
+    "id": "h021-077",
+    "en": "Pending Range"
+  },
+  {
+    "id": "h021-078",
+    "en": "Pending Writes:"
+  },
+  {
+    "id": "h021-079",
+    "en": "People who join this project get their own copy of the project coordinator. Everyone shares the same tasks and context, so your work stays in sync."
+  },
+  {
+    "id": "h021-080",
+    "en": "Per-bubble message bodies (bubbleId:*)"
+  },
+  {
+    "id": "h021-081",
+    "en": "Per-chat composerData payloads and optional composerConversationState sidecars"
+  },
+  {
+    "id": "h021-082",
+    "en": "Performance & safety focused"
+  },
+  {
+    "id": "h021-083",
+    "en": "Persisted agent artifacts (agentKv:artifact:*)"
+  },
+  {
+    "id": "h021-084",
+    "en": "Personal"
+  },
+  {
+    "id": "h021-085",
+    "en": "Personal · Only you can access"
+  },
+  {
+    "id": "h021-086",
+    "en": "Pill, expanded while the card shows"
+  },
+  {
+    "id": "h021-087",
+    "en": "Pill, tab already seen (no badge)"
+  },
+  {
+    "id": "h021-088",
+    "en": "Pill, unseen tab (unseen badge)"
+  },
+  {
+    "id": "h021-089",
+    "en": "Pin / Unpin Agent"
+  },
+  {
+    "id": "h021-090",
+    "en": "Pin to workspace"
+  },
+  {
+    "id": "h021-091",
+    "en": "Plan Build Message"
+  },
+  {
+    "id": "h021-092",
+    "en": "Plan Mode"
+  },
+  {
+    "id": "h021-093",
+    "en": "Plan New Idea"
+  },
+  {
+    "id": "h021-094",
+    "en": "Plan body..."
+  },
+  {
+    "id": "h021-095",
+    "en": "Plans"
+  },
+  {
+    "id": "h021-096",
+    "en": "Plugins, MCPs, Skills, and Rules have moved to Customize"
+  },
+  {
+    "id": "h021-097",
+    "en": "Point at anything and tell the agent what to fix"
+  },
+  {
+    "id": "h021-098",
+    "en": "Point at anything on the page and tell the agent what to fix."
+  },
+  {
+    "id": "h021-099",
+    "en": "Port number"
+  },
+  {
+    "id": "h021-100",
+    "en": "Preload File Tab"
+  },
+  {
+    "id": "h021-101",
+    "en": "Preparing"
+  },
+  {
+    "id": "h021-102",
+    "en": "Preparing secrets form..."
+  },
+  {
+    "id": "h021-103",
+    "en": "Preparing workspace"
+  },
+  {
+    "id": "h021-104",
+    "en": "Present → usable"
+  },
+  {
+    "id": "h021-105",
+    "en": "Pretty Dialog"
+  },
+  {
+    "id": "h021-106",
+    "en": "Prevent sleep when this computer is plugged in and Remote Control is enabled"
+  },
+  {
+    "id": "h021-107",
+    "en": "Preview Full-Screen In-App Ad"
+  },
+  {
+    "id": "h021-108",
+    "en": "Previous Agent"
+  },
+  {
+    "id": "h021-109",
+    "en": "Previous Chat (Direct)"
+  },
+  {
+    "id": "h021-110",
+    "en": "Previous Palette Filter"
+  },
+  {
+    "id": "h021-111",
+    "en": "Previous Search Result"
+  },
+  {
+    "id": "h021-112",
+    "en": "Previous Tab"
+  },
+  {
+    "id": "h021-113",
+    "en": "Previous page"
+  },
+  {
+    "id": "h021-114",
+    "en": "Primary Action"
+  },
+  {
+    "id": "h021-115",
+    "en": "Private Inference Mode"
+  },
+  {
+    "id": "h021-116",
+    "en": "Pro"
+  },
+  {
+    "id": "h021-117",
+    "en": "Pro+"
+  },
+  {
+    "id": "h021-118",
+    "en": "Proceed with the action"
+  },
+  {
+    "id": "h021-119",
+    "en": "Processes"
+  },
+  {
+    "id": "h021-120",
+    "en": "Processes stopped"
+  },
+  {
+    "id": "h021-121",
+    "en": "Processing Primary"
+  },
+  {
+    "id": "h021-122",
+    "en": "Profile photo"
+  },
+  {
+    "id": "h021-123",
+    "en": "Progress Bar"
+  },
+  {
+    "id": "h021-124",
+    "en": "Progress w/ Buttons"
+  },
+  {
+    "id": "h021-125",
+    "en": "Progressive JavaScript framework"
+  },
+  {
+    "id": "h021-126",
+    "en": "Project ID (optional)"
+  },
+  {
+    "id": "h021-127",
+    "en": "Project chats split inside their project view and can't be grouped with other chats."
+  },
+  {
+    "id": "h021-128",
+    "en": "Project · Agents"
+  },
+  {
+    "id": "h021-129",
+    "en": "Project · PRs"
+  },
+  {
+    "id": "h021-130",
+    "en": "Projects can work on your machine"
+  },
+  {
+    "id": "h021-131",
+    "en": "Prompt w/ Never Show"
+  },
+  {
+    "id": "h021-132",
+    "en": "Providers"
+  },
+  {
+    "id": "h021-133",
+    "en": "Publish anyway"
+  },
+  {
+    "id": "h021-134",
+    "en": "Publishing Terms"
+  },
+  {
+    "id": "h021-135",
+    "en": "Pull Requests..."
+  },
+  {
+    "id": "h021-136",
+    "en": "Pull request checks"
+  },
+  {
+    "id": "h021-137",
+    "en": "Pull request details"
+  },
+  {
+    "id": "h021-138",
+    "en": "Pull request or merge request"
+  },
+  {
+    "id": "h021-139",
+    "en": "Pull request..."
+  },
+  {
+    "id": "h021-140",
+    "en": "Push unpushed commits"
+  },
+  {
+    "id": "h021-141",
+    "en": "Pushed"
+  },
+  {
+    "id": "h021-142",
+    "en": "Python"
+  },
+  {
+    "id": "h021-143",
+    "en": "Queued Updates"
+  },
+  {
+    "id": "h021-144",
+    "en": "Queued to merge"
+  },
+  {
+    "id": "h021-145",
+    "en": "Quick login"
+  },
+  {
+    "id": "h021-146",
+    "en": "RAM"
+  },
+  {
+    "id": "h021-147",
+    "en": "README.md"
+  },
+  {
+    "id": "h021-148",
+    "en": "RETAINED"
+  },
+  {
+    "id": "h021-149",
+    "en": "Raise dark-mode contrast"
+  }
+]

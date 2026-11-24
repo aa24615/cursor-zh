@@ -1,0 +1,482 @@
+[
+  {
+    "id": "004-000",
+    "en": "Brain"
+  },
+  {
+    "id": "004-001",
+    "en": "{0} is no longer in the notes"
+  },
+  {
+    "id": "004-002",
+    "en": "Agent"
+  },
+  {
+    "id": "004-003",
+    "en": "Add to Chat"
+  },
+  {
+    "id": "004-004",
+    "en": "List"
+  },
+  {
+    "id": "004-005",
+    "en": "Grid"
+  },
+  {
+    "id": "004-006",
+    "en": "Library views"
+  },
+  {
+    "id": "004-007",
+    "en": "Search files"
+  },
+  {
+    "id": "004-008",
+    "en": "Give your project an assignment and track its progress here"
+  },
+  {
+    "id": "004-009",
+    "en": "Nothing to track yet"
+  },
+  {
+    "id": "004-010",
+    "en": "Loading notes"
+  },
+  {
+    "id": "004-011",
+    "en": "New Project"
+  },
+  {
+    "id": "004-012",
+    "en": "Done"
+  },
+  {
+    "id": "004-013",
+    "en": "Rename Terminal"
+  },
+  {
+    "id": "004-014",
+    "en": "Enter a new name for this terminal."
+  },
+  {
+    "id": "004-015",
+    "en": "Rename"
+  },
+  {
+    "id": "004-016",
+    "en": "Rename"
+  },
+  {
+    "id": "004-017",
+    "en": "Open Agent"
+  },
+  {
+    "id": "004-018",
+    "en": "Kill Terminal"
+  },
+  {
+    "id": "004-019",
+    "en": "Close Terminal"
+  },
+  {
+    "id": "004-020",
+    "en": "Terminals"
+  },
+  {
+    "id": "004-021",
+    "en": "1 Terminal"
+  },
+  {
+    "id": "004-022",
+    "en": "{0} Terminals"
+  },
+  {
+    "id": "004-023",
+    "en": "New Terminal"
+  },
+  {
+    "id": "004-024",
+    "en": "New Terminal"
+  },
+  {
+    "id": "004-025",
+    "en": "Terminal"
+  },
+  {
+    "id": "004-026",
+    "en": "Agent is using this terminal. It's read-only."
+  },
+  {
+    "id": "004-027",
+    "en": "Connect your tools"
+  },
+  {
+    "id": "004-028",
+    "en": "Continue"
+  },
+  {
+    "id": "004-029",
+    "en": "Here are a few ways to get started"
+  },
+  {
+    "id": "004-030",
+    "en": "Getting things ready"
+  },
+  {
+    "id": "004-031",
+    "en": "The user's name is {0}. Their role is {1}."
+  },
+  {
+    "id": "004-032",
+    "en": "The user's role is {0}."
+  },
+  {
+    "id": "004-033",
+    "en": "They prefer coding workflows: working directly in code to create, debug, and iterate."
+  },
+  {
+    "id": "004-034",
+    "en": "They prefer task workflows: researching, planning, and completing tasks across apps or the computer."
+  },
+  {
+    "id": "004-035",
+    "en": "The user's name is {0}. Their role is {1}. {2}"
+  },
+  {
+    "id": "004-036",
+    "en": "The user's role is {0}. {1}"
+  },
+  {
+    "id": "004-037",
+    "en": "First-time setup"
+  },
+  {
+    "id": "004-038",
+    "en": "Sign in in browser"
+  },
+  {
+    "id": "004-039",
+    "en": "Add {0}"
+  },
+  {
+    "id": "004-040",
+    "en": "Add"
+  },
+  {
+    "id": "004-041",
+    "en": "Adding"
+  },
+  {
+    "id": "004-042",
+    "en": "Connected"
+  },
+  {
+    "id": "004-043",
+    "en": "Retry {0}"
+  },
+  {
+    "id": "004-044",
+    "en": "Retry"
+  },
+  {
+    "id": "004-045",
+    "en": "What brings you here today?"
+  },
+  {
+    "id": "004-046",
+    "en": "Coding"
+  },
+  {
+    "id": "004-047",
+    "en": "Work directly in code to create, debug, and iterate."
+  },
+  {
+    "id": "004-048",
+    "en": "Tasks"
+  },
+  {
+    "id": "004-049",
+    "en": "Research, plan, and get work done across your apps."
+  },
+  {
+    "id": "004-050",
+    "en": "Skip"
+  },
+  {
+    "id": "004-051",
+    "en": "Engineering"
+  },
+  {
+    "id": "004-052",
+    "en": "Software engineer"
+  },
+  {
+    "id": "004-053",
+    "en": "Design"
+  },
+  {
+    "id": "004-054",
+    "en": "Designer"
+  },
+  {
+    "id": "004-055",
+    "en": "Product"
+  },
+  {
+    "id": "004-056",
+    "en": "Product manager"
+  },
+  {
+    "id": "004-057",
+    "en": "Research"
+  },
+  {
+    "id": "004-058",
+    "en": "Researcher"
+  },
+  {
+    "id": "004-059",
+    "en": "Data science"
+  },
+  {
+    "id": "004-060",
+    "en": "Data scientist"
+  },
+  {
+    "id": "004-061",
+    "en": "Schoolwork"
+  },
+  {
+    "id": "004-062",
+    "en": "Student"
+  },
+  {
+    "id": "004-063",
+    "en": "Marketing"
+  },
+  {
+    "id": "004-064",
+    "en": "Marketer"
+  },
+  {
+    "id": "004-065",
+    "en": "Operations"
+  },
+  {
+    "id": "004-066",
+    "en": "Operations"
+  },
+  {
+    "id": "004-067",
+    "en": "Something else"
+  },
+  {
+    "id": "004-068",
+    "en": "Something else"
+  },
+  {
+    "id": "004-069",
+    "en": "Which best describes your work?"
+  },
+  {
+    "id": "004-070",
+    "en": "Couldn't add {0}."
+  },
+  {
+    "id": "004-071",
+    "en": "Couldn't connect {0}."
+  },
+  {
+    "id": "004-072",
+    "en": "Expires {0}"
+  },
+  {
+    "id": "004-073",
+    "en": "Remaining Projects Credits"
+  },
+  {
+    "id": "004-074",
+    "en": "{0} of {1} Remaining"
+  },
+  {
+    "id": "004-075",
+    "en": "Edit Appearance"
+  },
+  {
+    "id": "004-076",
+    "en": "Environment saved"
+  },
+  {
+    "id": "004-077",
+    "en": "Environment ready to save"
+  },
+  {
+    "id": "004-078",
+    "en": "Setting up environment"
+  },
+  {
+    "id": "004-079",
+    "en": "Environment not saved"
+  },
+  {
+    "id": "004-080",
+    "en": "Group name"
+  },
+  {
+    "id": "004-081",
+    "en": "New Agent"
+  },
+  {
+    "id": "004-082",
+    "en": "Agents of {0}"
+  },
+  {
+    "id": "004-083",
+    "en": "Close"
+  },
+  {
+    "id": "004-084",
+    "en": "Dismiss"
+  },
+  {
+    "id": "004-085",
+    "en": "Remaining"
+  },
+  {
+    "id": "004-086",
+    "en": "{0} of {1}"
+  },
+  {
+    "id": "004-087",
+    "en": "Projects credit remaining"
+  },
+  {
+    "id": "004-088",
+    "en": "Shared Project"
+  },
+  {
+    "id": "004-089",
+    "en": "Rename agent"
+  },
+  {
+    "id": "004-090",
+    "en": "Expand Project"
+  },
+  {
+    "id": "004-091",
+    "en": "Collapse Project"
+  },
+  {
+    "id": "004-092",
+    "en": "Credits for Projects"
+  },
+  {
+    "id": "004-093",
+    "en": "Expires {0}"
+  },
+  {
+    "id": "004-094",
+    "en": "{0} Credit for Multiplayer Projects"
+  },
+  {
+    "id": "004-095",
+    "en": "Projects run many agents at once, get smarter over time, and share context and tasks with your teammates."
+  },
+  {
+    "id": "004-096",
+    "en": "You have {0} in credits to try it."
+  },
+  {
+    "id": "004-097",
+    "en": "Try Multiplayer Projects"
+  },
+  {
+    "id": "004-098",
+    "en": "{0} Credit for Projects"
+  },
+  {
+    "id": "004-099",
+    "en": "Projects are AI teammates in Cursor that run many tasks at once and get smarter over time."
+  },
+  {
+    "id": "004-100",
+    "en": "You have {0} to get started."
+  },
+  {
+    "id": "004-101",
+    "en": "Get Started"
+  },
+  {
+    "id": "004-102",
+    "en": "Chat actions"
+  },
+  {
+    "id": "004-103",
+    "en": "Edit Appearance"
+  },
+  {
+    "id": "004-104",
+    "en": "New Project"
+  },
+  {
+    "id": "004-105",
+    "en": "Reset to default"
+  },
+  {
+    "id": "004-106",
+    "en": "Done"
+  },
+  {
+    "id": "004-107",
+    "en": "Edit Appearance"
+  },
+  {
+    "id": "004-108",
+    "en": "Edit Appearance"
+  },
+  {
+    "id": "004-109",
+    "en": "Blob"
+  },
+  {
+    "id": "004-110",
+    "en": "Cloud"
+  },
+  {
+    "id": "004-111",
+    "en": "Square"
+  },
+  {
+    "id": "004-112",
+    "en": "Sparkle"
+  },
+  {
+    "id": "004-113",
+    "en": "Clover"
+  },
+  {
+    "id": "004-114",
+    "en": "Heart"
+  },
+  {
+    "id": "004-115",
+    "en": "Flower"
+  },
+  {
+    "id": "004-116",
+    "en": "Teardrop"
+  },
+  {
+    "id": "004-117",
+    "en": "Tablet"
+  },
+  {
+    "id": "004-118",
+    "en": "Wedge"
+  },
+  {
+    "id": "004-119",
+    "en": "House"
+  }
+]

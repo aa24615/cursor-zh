@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h015-000",
+    "en": "Auto-publish on"
+  },
+  {
+    "id": "h015-001",
+    "en": "Auto-review"
+  },
+  {
+    "id": "h015-002",
+    "en": "Auto-review (with Sandbox)"
+  },
+  {
+    "id": "h015-003",
+    "en": "Automations start a chat in this project on a schedule or when something happens."
+  },
+  {
+    "id": "h015-004",
+    "en": "Available at build"
+  },
+  {
+    "id": "h015-005",
+    "en": "Available at runtime"
+  },
+  {
+    "id": "h015-006",
+    "en": "Available repositories"
+  },
+  {
+    "id": "h015-007",
+    "en": "Avg"
+  },
+  {
+    "id": "h015-008",
+    "en": "Awaiting Admin Approval"
+  },
+  {
+    "id": "h015-009",
+    "en": "Awaiting review from"
+  },
+  {
+    "id": "h015-010",
+    "en": "B-tree, indexes, and page rounding not counted in value lengths"
+  },
+  {
+    "id": "h015-011",
+    "en": "BUILD.bazel"
+  },
+  {
+    "id": "h015-012",
+    "en": "Back From Automation"
+  },
+  {
+    "id": "h015-013",
+    "en": "Back to tasks"
+  },
+  {
+    "id": "h015-014",
+    "en": "Backend Server"
+  },
+  {
+    "id": "h015-015",
+    "en": "Backfill expired sessions"
+  },
+  {
+    "id": "h015-016",
+    "en": "Background"
+  },
+  {
+    "id": "h015-017",
+    "en": "Background Colors"
+  },
+  {
+    "id": "h015-018",
+    "en": "Background Composer Artifacts"
+  },
+  {
+    "id": "h015-019",
+    "en": "Background agent"
+  },
+  {
+    "id": "h015-020",
+    "en": "Backgrounds"
+  },
+  {
+    "id": "h015-021",
+    "en": "Badged pills: badges lead, counts trail"
+  },
+  {
+    "id": "h015-022",
+    "en": "Badges"
+  },
+  {
+    "id": "h015-023",
+    "en": "Basic Dialog"
+  },
+  {
+    "id": "h015-024",
+    "en": "Batch edits"
+  },
+  {
+    "id": "h015-025",
+    "en": "Bay Canopy Birds"
+  },
+  {
+    "id": "h015-026",
+    "en": "Before"
+  },
+  {
+    "id": "h015-027",
+    "en": "Best-of-N (3x)"
+  },
+  {
+    "id": "h015-028",
+    "en": "Bitbucket"
+  },
+  {
+    "id": "h015-029",
+    "en": "Bitbucket Only"
+  },
+  {
+    "id": "h015-030",
+    "en": "Blocked by branch rules"
+  },
+  {
+    "id": "h015-031",
+    "en": "Border"
+  },
+  {
+    "id": "h015-032",
+    "en": "Branch (optional)"
+  },
+  {
+    "id": "h015-033",
+    "en": "Branch Changes"
+  },
+  {
+    "id": "h015-034",
+    "en": "Branch Pull Requests"
+  },
+  {
+    "id": "h015-035",
+    "en": "Bring over your chats, and send a follow-up to fork it. Your plugins and skills are synced by default."
+  },
+  {
+    "id": "h015-036",
+    "en": "Browser Tools"
+  },
+  {
+    "id": "h015-037",
+    "en": "Build failed"
+  },
+  {
+    "id": "h015-038",
+    "en": "Build stopped"
+  },
+  {
+    "id": "h015-039",
+    "en": "Building"
+  },
+  {
+    "id": "h015-040",
+    "en": "Built"
+  },
+  {
+    "id": "h015-041",
+    "en": "Bypass failing merge requirements"
+  },
+  {
+    "id": "h015-042",
+    "en": "CSV source"
+  },
+  {
+    "id": "h015-043",
+    "en": "Cache Current Chunks"
+  },
+  {
+    "id": "h015-044",
+    "en": "Cache Keys:"
+  },
+  {
+    "id": "h015-045",
+    "en": "Cached Payloads"
+  },
+  {
+    "id": "h015-046",
+    "en": "Cached cloud-agent details and metadata"
+  },
+  {
+    "id": "h015-047",
+    "en": "Callout Dialog"
+  },
+  {
+    "id": "h015-048",
+    "en": "Can Undo Updates"
+  },
+  {
+    "id": "h015-049",
+    "en": "Can open and republish this app from their agents"
+  },
+  {
+    "id": "h015-050",
+    "en": "Can open this app while it's private"
+  },
+  {
+    "id": "h015-051",
+    "en": "Can't group these chats"
+  },
+  {
+    "id": "h015-052",
+    "en": "Cancel Branch Mismatch"
+  },
+  {
+    "id": "h015-053",
+    "en": "Cancel Run"
+  },
+  {
+    "id": "h015-054",
+    "en": "Cancel the installation"
+  },
+  {
+    "id": "h015-055",
+    "en": "Cancel the process"
+  },
+  {
+    "id": "h015-056",
+    "en": "Cancel the request?"
+  },
+  {
+    "id": "h015-057",
+    "en": "Canvas preview"
+  },
+  {
+    "id": "h015-058",
+    "en": "Canvas: Reset Zoom"
+  },
+  {
+    "id": "h015-059",
+    "en": "Canvas: Zoom In"
+  },
+  {
+    "id": "h015-060",
+    "en": "Canvas: Zoom Out"
+  },
+  {
+    "id": "h015-061",
+    "en": "Cell ID"
+  },
+  {
+    "id": "h015-062",
+    "en": "Certificate Error"
+  },
+  {
+    "id": "h015-063",
+    "en": "Changed Files"
+  },
+  {
+    "id": "h015-064",
+    "en": "Changed files"
+  },
+  {
+    "id": "h015-065",
+    "en": "Changes Requested"
+  },
+  {
+    "id": "h015-066",
+    "en": "Charts"
+  },
+  {
+    "id": "h015-067",
+    "en": "Chat Switch Trace"
+  },
+  {
+    "id": "h015-068",
+    "en": "Chat conversations"
+  },
+  {
+    "id": "h015-069",
+    "en": "Chat index"
+  },
+  {
+    "id": "h015-070",
+    "en": "Chat messages"
+  },
+  {
+    "id": "h015-071",
+    "en": "Chat ordering"
+  },
+  {
+    "id": "h015-072",
+    "en": "Check Status"
+  },
+  {
+    "id": "h015-073",
+    "en": "Check clock"
+  },
+  {
+    "id": "h015-074",
+    "en": "Check for Updates"
+  },
+  {
+    "id": "h015-075",
+    "en": "Checkboxes"
+  },
+  {
+    "id": "h015-076",
+    "en": "Checking for conflicts…"
+  },
+  {
+    "id": "h015-077",
+    "en": "Checkout Agent Branch"
+  },
+  {
+    "id": "h015-078",
+    "en": "Checks"
+  },
+  {
+    "id": "h015-079",
+    "en": "Checks completed"
+  },
+  {
+    "id": "h015-080",
+    "en": "Checks still running"
+  },
+  {
+    "id": "h015-081",
+    "en": "Choose Another Workspace"
+  },
+  {
+    "id": "h015-082",
+    "en": "Choose a Different Model"
+  },
+  {
+    "id": "h015-083",
+    "en": "Choose another workspace?"
+  },
+  {
+    "id": "h015-084",
+    "en": "Choose between light, dark, or high contrast themes"
+  },
+  {
+    "id": "h015-085",
+    "en": "Choose whether the theme behaves like a light or dark theme"
+  },
+  {
+    "id": "h015-086",
+    "en": "Claude 3.7 Sonnet"
+  },
+  {
+    "id": "h015-087",
+    "en": "Claude 4 Opus in MAX mode (with gradient)"
+  },
+  {
+    "id": "h015-088",
+    "en": "Claude 4 Sonnet (regular)"
+  },
+  {
+    "id": "h015-089",
+    "en": "Clear Conversation History"
+  },
+  {
+    "id": "h015-090",
+    "en": "Clear Filter"
+  },
+  {
+    "id": "h015-091",
+    "en": "Clear History"
+  },
+  {
+    "id": "h015-092",
+    "en": "Clear Logs"
+  },
+  {
+    "id": "h015-093",
+    "en": "Clear Queued Message Focus"
+  },
+  {
+    "id": "h015-094",
+    "en": "Clear Simulation"
+  },
+  {
+    "id": "h015-095",
+    "en": "Clear all metadata"
+  },
+  {
+    "id": "h015-096",
+    "en": "Clear cached entries"
+  },
+  {
+    "id": "h015-097",
+    "en": "Clear override"
+  },
+  {
+    "id": "h015-098",
+    "en": "Clear search results"
+  },
+  {
+    "id": "h015-099",
+    "en": "Clear status filters"
+  },
+  {
+    "id": "h015-100",
+    "en": "Clear tool filters"
+  },
+  {
+    "id": "h015-101",
+    "en": "Click to enable the other action"
+  },
+  {
+    "id": "h015-102",
+    "en": "Clone"
+  },
+  {
+    "id": "h015-103",
+    "en": "Clone a Git repository and add it as a project."
+  },
+  {
+    "id": "h015-104",
+    "en": "Close All Open Files"
+  },
+  {
+    "id": "h015-105",
+    "en": "Close Automations"
+  },
+  {
+    "id": "h015-106",
+    "en": "Close Browser Find"
+  },
+  {
+    "id": "h015-107",
+    "en": "Close Customize"
+  },
+  {
+    "id": "h015-108",
+    "en": "Close DevTools"
+  },
+  {
+    "id": "h015-109",
+    "en": "Close Find in Chat"
+  },
+  {
+    "id": "h015-110",
+    "en": "Close Find in Preview"
+  },
+  {
+    "id": "h015-111",
+    "en": "Close Go to Line"
+  },
+  {
+    "id": "h015-112",
+    "en": "Close PR"
+  },
+  {
+    "id": "h015-113",
+    "en": "Close Plan Find"
+  },
+  {
+    "id": "h015-114",
+    "en": "Close Settings"
+  },
+  {
+    "id": "h015-115",
+    "en": "Closed workspaces whose service container is still not garbage collected 45s after close — likely leaks."
+  },
+  {
+    "id": "h015-116",
+    "en": "Cloud Agent Environment"
+  },
+  {
+    "id": "h015-117",
+    "en": "Cmd+K inline edit"
+  },
+  {
+    "id": "h015-118",
+    "en": "Cmd+K inline edit attached to prompt bar"
+  },
+  {
+    "id": "h015-119",
+    "en": "Code Review"
+  },
+  {
+    "id": "h015-120",
+    "en": "Code diffs"
+  },
+  {
+    "id": "h015-121",
+    "en": "Code editor"
+  },
+  {
+    "id": "h015-122",
+    "en": "Code owner"
+  },
+  {
+    "id": "h015-123",
+    "en": "Collaborate on Projects"
+  },
+  {
+    "id": "h015-124",
+    "en": "Collapse / Expand All Files"
+  },
+  {
+    "id": "h015-125",
+    "en": "Collapse All Above"
+  },
+  {
+    "id": "h015-126",
+    "en": "Collapse All Below"
+  },
+  {
+    "id": "h015-127",
+    "en": "Collecting live samples… one dot every 2s."
+  },
+  {
+    "id": "h015-128",
+    "en": "Color Tokens"
+  },
+  {
+    "id": "h015-129",
+    "en": "Command K"
+  },
+  {
+    "id": "h015-130",
+    "en": "Comment added"
+  },
+  {
+    "id": "h015-131",
+    "en": "Comment on Pull Request"
+  },
+  {
+    "id": "h015-132",
+    "en": "Commit & Create PR"
+  },
+  {
+    "id": "h015-133",
+    "en": "Commit all changes and push"
+  },
+  {
+    "id": "h015-134",
+    "en": "Commit changes"
+  },
+  {
+    "id": "h015-135",
+    "en": "Commit current changes to checkpoint"
+  },
+  {
+    "id": "h015-136",
+    "en": "Commit the changes and open a pull request"
+  },
+  {
+    "id": "h015-137",
+    "en": "Commit the current changes"
+  },
+  {
+    "id": "h015-138",
+    "en": "Commit → present"
+  },
+  {
+    "id": "h015-139",
+    "en": "Compact edits and compact shells, not grouped"
+  },
+  {
+    "id": "h015-140",
+    "en": "Compact grouped edits and shells"
+  },
+  {
+    "id": "h015-141",
+    "en": "Compact grouped tool calls"
+  },
+  {
+    "id": "h015-142",
+    "en": "Compare Pretty Dialog"
+  },
+  {
+    "id": "h015-143",
+    "en": "Complex"
+  },
+  {
+    "id": "h015-144",
+    "en": "Composer Data Handles"
+  },
+  {
+    "id": "h015-145",
+    "en": "Composer ID"
+  },
+  {
+    "id": "h015-146",
+    "en": "Composer Usage Limit Bar"
+  },
+  {
+    "id": "h015-147",
+    "en": "Composer file checkpoints (checkpointId:*)"
+  },
+  {
+    "id": "h015-148",
+    "en": "Composer header collection and composer.* ItemTable keys"
+  },
+  {
+    "id": "h015-149",
+    "en": "Compute provider"
+  }
+]

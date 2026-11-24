@@ -1,0 +1,482 @@
+[
+  {
+    "id": "015-000",
+    "en": "Attach Extension Host"
+  },
+  {
+    "id": "015-001",
+    "en": "Open Developer Tools for Extension Host"
+  },
+  {
+    "id": "015-002",
+    "en": "Open Developer Tools for Cursor Always Local Extension Host"
+  },
+  {
+    "id": "015-003",
+    "en": "Open &&Extension Monitor"
+  },
+  {
+    "id": "015-004",
+    "en": "Enable extension monitoring. Requires a restart to take effect."
+  },
+  {
+    "id": "015-005",
+    "en": "Write one heap snapshot of each local extension host when its memory use reaches three quarters of its limit. Snapshots are saved in the debugging data folder and attached when you capture debugging data with a heap snapshot. Writing a snapshot pauses extensions for a few seconds or longer. Applies to extension hosts started after the change."
+  },
+  {
+    "id": "015-006",
+    "en": "Open Extension Monitor"
+  },
+  {
+    "id": "015-007",
+    "en": "Extension Host"
+  },
+  {
+    "id": "015-008",
+    "en": "Profiler"
+  },
+  {
+    "id": "015-009",
+    "en": "Profiling {0}"
+  },
+  {
+    "id": "015-010",
+    "en": "Profiling {0}"
+  },
+  {
+    "id": "015-011",
+    "en": "Click to stop profiling."
+  },
+  {
+    "id": "015-012",
+    "en": "Profiling {0} ({1} sec)"
+  },
+  {
+    "id": "015-013",
+    "en": "Profile Extension Hosts"
+  },
+  {
+    "id": "015-014",
+    "en": "In order to profile extension hosts a restart is required. Do you want to restart '{0}' now?"
+  },
+  {
+    "id": "015-015",
+    "en": "&&Restart"
+  },
+  {
+    "id": "015-016",
+    "en": "Pick extension host to profile"
+  },
+  {
+    "id": "015-017",
+    "en": "Profile Remote Extensions"
+  },
+  {
+    "id": "015-018",
+    "en": "In order to profile the remote extension host a restart is required. Do you want to restart '{0}' now?"
+  },
+  {
+    "id": "015-019",
+    "en": "&&Restart"
+  },
+  {
+    "id": "015-020",
+    "en": "Remote Extension Host CPU Profiler is running"
+  },
+  {
+    "id": "015-021",
+    "en": "Open a remote workspace to profile the remote server."
+  },
+  {
+    "id": "015-022",
+    "en": "Remote Server"
+  },
+  {
+    "id": "015-023",
+    "en": "Remote server CPU profiling is not available for this connection."
+  },
+  {
+    "id": "015-024",
+    "en": "Remote Server CPU Profiler reached the maximum duration and was stopped."
+  },
+  {
+    "id": "015-025",
+    "en": "Remote Server CPU Profiler is running"
+  },
+  {
+    "id": "015-026",
+    "en": "Remote"
+  },
+  {
+    "id": "015-027",
+    "en": "Local"
+  },
+  {
+    "id": "015-028",
+    "en": "Extensions: {0} (+{1} more)"
+  },
+  {
+    "id": "015-029",
+    "en": "Extensions: {0}"
+  },
+  {
+    "id": "015-030",
+    "en": "Built-in extensions: {0} (+{1} more)"
+  },
+  {
+    "id": "015-031",
+    "en": "Built-in extensions: {0}"
+  },
+  {
+    "id": "015-032",
+    "en": "No registered extensions detected"
+  },
+  {
+    "id": "015-033",
+    "en": "current workspace remote extension host"
+  },
+  {
+    "id": "015-034",
+    "en": "current workspace extension host"
+  },
+  {
+    "id": "015-035",
+    "en": "Profile Current Workspace Extension Host"
+  },
+  {
+    "id": "015-036",
+    "en": "In order to profile the {0} a restart is required. Do you want to restart '{1}' now?"
+  },
+  {
+    "id": "015-037",
+    "en": "&&Restart"
+  },
+  {
+    "id": "015-038",
+    "en": "Extension Host"
+  },
+  {
+    "id": "015-039",
+    "en": "Remote Extension Host Heap Allocation Profiler is running"
+  },
+  {
+    "id": "015-040",
+    "en": "Extension Host Heap Allocation Profiler is running"
+  },
+  {
+    "id": "015-041",
+    "en": "Remote Extension Host CPU Profiler is running"
+  },
+  {
+    "id": "015-042",
+    "en": "Extension Host CPU Profiler is running"
+  },
+  {
+    "id": "015-043",
+    "en": "Running Extensions"
+  },
+  {
+    "id": "015-044",
+    "en": "Open Extensions Folder"
+  },
+  {
+    "id": "015-045",
+    "en": "Cleanup Extensions Folder"
+  },
+  {
+    "id": "015-046",
+    "en": "Performance Issue"
+  },
+  {
+    "id": "015-047",
+    "en": "Report Issue"
+  },
+  {
+    "id": "015-048",
+    "en": "Did you attach the CPU-Profile?"
+  },
+  {
+    "id": "015-049",
+    "en": "This is a reminder to make sure that you have not forgotten to attach '{0}' to the issue you have just created."
+  },
+  {
+    "id": "015-050",
+    "en": "Show Issues"
+  },
+  {
+    "id": "015-051",
+    "en": "Did you attach the CPU-Profile?"
+  },
+  {
+    "id": "015-052",
+    "en": "This is a reminder to make sure that you have not forgotten to attach '{0}' to an existing performance issue."
+  },
+  {
+    "id": "015-053",
+    "en": "Start Extension Host CPU Profiler"
+  },
+  {
+    "id": "015-054",
+    "en": "Start Extension Host Heap Allocation Profiler"
+  },
+  {
+    "id": "015-055",
+    "en": "Start Current Workspace Extension Host CPU Profiler"
+  },
+  {
+    "id": "015-056",
+    "en": "Start Current Workspace Extension Host Heap Allocation Profiler"
+  },
+  {
+    "id": "015-057",
+    "en": "Start Remote Server CPU Profiler"
+  },
+  {
+    "id": "015-058",
+    "en": "Stop Extension Host Profiler"
+  },
+  {
+    "id": "015-059",
+    "en": "Open Extension Host Profile"
+  },
+  {
+    "id": "015-060",
+    "en": "Save Extension Host Profile"
+  },
+  {
+    "id": "015-061",
+    "en": "Save Extension Host Profile"
+  },
+  {
+    "id": "015-062",
+    "en": "Show the integrated terminal action."
+  },
+  {
+    "id": "015-063",
+    "en": "Show the external terminal action."
+  },
+  {
+    "id": "015-064",
+    "en": "Show both integrated and external terminal actions."
+  },
+  {
+    "id": "015-065",
+    "en": "External Terminal"
+  },
+  {
+    "id": "015-066",
+    "en": "When opening a file from the Explorer in a terminal, determines what kind of terminal will be launched"
+  },
+  {
+    "id": "015-067",
+    "en": "When opening a repository from the Source Control Repositories view in a terminal, determines what kind of terminal will be launched"
+  },
+  {
+    "id": "015-068",
+    "en": "Customizes which terminal to run on Windows."
+  },
+  {
+    "id": "015-069",
+    "en": "Customizes which terminal application to run on macOS."
+  },
+  {
+    "id": "015-070",
+    "en": "Customizes which terminal to run on Linux."
+  },
+  {
+    "id": "015-071",
+    "en": "Open New External Terminal"
+  },
+  {
+    "id": "015-072",
+    "en": "Open in Browser"
+  },
+  {
+    "id": "015-073",
+    "en": "Parent folder is readonly."
+  },
+  {
+    "id": "015-074",
+    "en": "CRLF"
+  },
+  {
+    "id": "015-075",
+    "en": "Explorer"
+  },
+  {
+    "id": "015-076",
+    "en": "View icon of the explorer view."
+  },
+  {
+    "id": "015-077",
+    "en": "View icon of the open editors view."
+  },
+  {
+    "id": "015-078",
+    "en": "&&Explorer"
+  },
+  {
+    "id": "015-079",
+    "en": "Open Folder"
+  },
+  {
+    "id": "015-080",
+    "en": "add a folder"
+  },
+  {
+    "id": "015-081",
+    "en": "Open Recent"
+  },
+  {
+    "id": "015-082",
+    "en": "You have not yet added a folder to the workspace.\n{0}"
+  },
+  {
+    "id": "015-083",
+    "en": "You have not yet opened a folder.\n{0}\n{1}"
+  },
+  {
+    "id": "015-084",
+    "en": "Connected to remote.\n{0}"
+  },
+  {
+    "id": "015-085",
+    "en": "You have not yet opened a folder.\n{0}\nOpening a folder will close all currently open editors. To keep them open, {1} instead."
+  },
+  {
+    "id": "015-086",
+    "en": "You have not yet opened a folder.\n{0}"
+  },
+  {
+    "id": "015-087",
+    "en": "Folders"
+  },
+  {
+    "id": "015-088",
+    "en": "Explorer"
+  },
+  {
+    "id": "015-089",
+    "en": "Explorer"
+  },
+  {
+    "id": "015-090",
+    "en": "Share"
+  },
+  {
+    "id": "015-091",
+    "en": "Reveal in File Explorer"
+  },
+  {
+    "id": "015-092",
+    "en": "Reveal in Finder"
+  },
+  {
+    "id": "015-093",
+    "en": "Open Containing Folder"
+  },
+  {
+    "id": "015-094",
+    "en": "File"
+  },
+  {
+    "id": "015-095",
+    "en": "Open &&Process Explorer"
+  },
+  {
+    "id": "015-096",
+    "en": "Creating profile..."
+  },
+  {
+    "id": "015-097",
+    "en": "This can take up to one minute to complete."
+  },
+  {
+    "id": "015-098",
+    "en": "Creating profile..."
+  },
+  {
+    "id": "015-099",
+    "en": "This can take up to one minute to complete."
+  },
+  {
+    "id": "015-100",
+    "en": "Creating profile..."
+  },
+  {
+    "id": "015-101",
+    "en": "This can take up to one minute to complete."
+  },
+  {
+    "id": "015-102",
+    "en": "Tracing requires to launch with a '--trace' argument"
+  },
+  {
+    "id": "015-103",
+    "en": "&&Relaunch and Enable Tracing"
+  },
+  {
+    "id": "015-104",
+    "en": "Creating trace file..."
+  },
+  {
+    "id": "015-105",
+    "en": "This can take up to one minute to complete."
+  },
+  {
+    "id": "015-106",
+    "en": "Open Process Explorer"
+  },
+  {
+    "id": "015-107",
+    "en": "Open Workspace Process Explorer"
+  },
+  {
+    "id": "015-108",
+    "en": "Start Electron Trace"
+  },
+  {
+    "id": "015-109",
+    "en": "Start Memory Profiler"
+  },
+  {
+    "id": "015-110",
+    "en": "Start GC Profiler"
+  },
+  {
+    "id": "015-111",
+    "en": "Stop Tracing"
+  },
+  {
+    "id": "015-112",
+    "en": "Reveal in File Explorer"
+  },
+  {
+    "id": "015-113",
+    "en": "Reveal in Finder"
+  },
+  {
+    "id": "015-114",
+    "en": "Open Containing Folder"
+  },
+  {
+    "id": "015-115",
+    "en": "Would you like to change {0}'s display language to {1} and restart?"
+  },
+  {
+    "id": "015-116",
+    "en": "Change Language and Restart"
+  },
+  {
+    "id": "015-117",
+    "en": "Don't Show Again"
+  },
+  {
+    "id": "015-118",
+    "en": "Search language packs in the Marketplace to change the display language to {0}."
+  },
+  {
+    "id": "015-119",
+    "en": "Search Marketplace"
+  }
+]

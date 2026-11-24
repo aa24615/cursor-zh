@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h023-000",
+    "en": "Search side chats"
+  },
+  {
+    "id": "h023-001",
+    "en": "Search static metrics"
+  },
+  {
+    "id": "h023-002",
+    "en": "Search statuses..."
+  },
+  {
+    "id": "h023-003",
+    "en": "Search teammates"
+  },
+  {
+    "id": "h023-004",
+    "en": "Search teams..."
+  },
+  {
+    "id": "h023-005",
+    "en": "Search trigger…"
+  },
+  {
+    "id": "h023-006",
+    "en": "Search your repositories or paste a clone URL"
+  },
+  {
+    "id": "h023-007",
+    "en": "Searching files…"
+  },
+  {
+    "id": "h023-008",
+    "en": "Searching..."
+  },
+  {
+    "id": "h023-009",
+    "en": "Second item"
+  },
+  {
+    "id": "h023-010",
+    "en": "Secondary Icon"
+  },
+  {
+    "id": "h023-011",
+    "en": "Secondary Pulsing"
+  },
+  {
+    "id": "h023-012",
+    "en": "Secondary w icon"
+  },
+  {
+    "id": "h023-013",
+    "en": "Select All in Diff"
+  },
+  {
+    "id": "h023-014",
+    "en": "Select All in File"
+  },
+  {
+    "id": "h023-015",
+    "en": "Select Backend"
+  },
+  {
+    "id": "h023-016",
+    "en": "Select Team"
+  },
+  {
+    "id": "h023-017",
+    "en": "Select a Linux distro to connect."
+  },
+  {
+    "id": "h023-018",
+    "en": "Select backend server..."
+  },
+  {
+    "id": "h023-019",
+    "en": "Select backend..."
+  },
+  {
+    "id": "h023-020",
+    "en": "Select limit-hit stage..."
+  },
+  {
+    "id": "h023-021",
+    "en": "Select login type..."
+  },
+  {
+    "id": "h023-022",
+    "en": "Select the task to run..."
+  },
+  {
+    "id": "h023-023",
+    "en": "Send Queued Message Now"
+  },
+  {
+    "id": "h023-024",
+    "en": "Send Test Notification"
+  },
+  {
+    "id": "h023-025",
+    "en": "Send design annotations to agent"
+  },
+  {
+    "id": "h023-026",
+    "en": "Send to Microsoft Teams"
+  },
+  {
+    "id": "h023-027",
+    "en": "Send to Slack"
+  },
+  {
+    "id": "h023-028",
+    "en": "Send your request in Slack"
+  },
+  {
+    "id": "h023-029",
+    "en": "Sentry"
+  },
+  {
+    "id": "h023-030",
+    "en": "Set"
+  },
+  {
+    "id": "h023-031",
+    "en": "Set bcId"
+  },
+  {
+    "id": "h023-032",
+    "en": "Set up MCP"
+  },
+  {
+    "id": "h023-033",
+    "en": "Setting up"
+  },
+  {
+    "id": "h023-034",
+    "en": "Settings & state"
+  },
+  {
+    "id": "h023-035",
+    "en": "Settle"
+  },
+  {
+    "id": "h023-036",
+    "en": "Settled"
+  },
+  {
+    "id": "h023-037",
+    "en": "Setup Already Running"
+  },
+  {
+    "id": "h023-038",
+    "en": "Several agent tasks are competing for system resources. Run fewer in parallel to keep your system responsive."
+  },
+  {
+    "id": "h023-039",
+    "en": "Shadow Colors"
+  },
+  {
+    "id": "h023-040",
+    "en": "Share an invite link or send invites by email."
+  },
+  {
+    "id": "h023-041",
+    "en": "Shell presented"
+  },
+  {
+    "id": "h023-042",
+    "en": "Shortcuts"
+  },
+  {
+    "id": "h023-043",
+    "en": "Show Apps Panel"
+  },
+  {
+    "id": "h023-044",
+    "en": "Show Changes"
+  },
+  {
+    "id": "h023-045",
+    "en": "Show Chat"
+  },
+  {
+    "id": "h023-046",
+    "en": "Show Dummy Quick Input"
+  },
+  {
+    "id": "h023-047",
+    "en": "Show Dummy Quick Pick"
+  },
+  {
+    "id": "h023-048",
+    "en": "Show Dummy Quick Pick (With Long Description)"
+  },
+  {
+    "id": "h023-049",
+    "en": "Show Dummy Quick Pick (With Multi Select)"
+  },
+  {
+    "id": "h023-050",
+    "en": "Show Dummy Quick Pick (With Short Description)"
+  },
+  {
+    "id": "h023-051",
+    "en": "Show Minimap"
+  },
+  {
+    "id": "h023-052",
+    "en": "Show Modal"
+  },
+  {
+    "id": "h023-053",
+    "en": "Show Notification Progress Demo"
+  },
+  {
+    "id": "h023-054",
+    "en": "Show Options"
+  },
+  {
+    "id": "h023-055",
+    "en": "Show Output Channel"
+  },
+  {
+    "id": "h023-056",
+    "en": "Show Output Channel in Tab"
+  },
+  {
+    "id": "h023-057",
+    "en": "Show Remote SSH Output"
+  },
+  {
+    "id": "h023-058",
+    "en": "Show Status Bar"
+  },
+  {
+    "id": "h023-059",
+    "en": "Show closed PRs"
+  },
+  {
+    "id": "h023-060",
+    "en": "Show pending annotations"
+  },
+  {
+    "id": "h023-061",
+    "en": "Show perf vote"
+  },
+  {
+    "id": "h023-062",
+    "en": "Shut down"
+  },
+  {
+    "id": "h023-063",
+    "en": "Simple Code Render"
+  },
+  {
+    "id": "h023-064",
+    "en": "Simple Confirmation"
+  },
+  {
+    "id": "h023-065",
+    "en": "Simulate Limit Hit Stage"
+  },
+  {
+    "id": "h023-066",
+    "en": "Skip Mode Switch"
+  },
+  {
+    "id": "h023-067",
+    "en": "Skip Pending Shell Tool"
+  },
+  {
+    "id": "h023-068",
+    "en": "Sky Map"
+  },
+  {
+    "id": "h023-069",
+    "en": "Slack App Needs Re-adding"
+  },
+  {
+    "id": "h023-070",
+    "en": "Slack Declined the Request"
+  },
+  {
+    "id": "h023-071",
+    "en": "Slack Is Busy"
+  },
+  {
+    "id": "h023-072",
+    "en": "Slack Is Having Trouble"
+  },
+  {
+    "id": "h023-073",
+    "en": "Slack settings"
+  },
+  {
+    "id": "h023-074",
+    "en": "Slow Pool"
+  },
+  {
+    "id": "h023-075",
+    "en": "Something Went Wrong"
+  },
+  {
+    "id": "h023-076",
+    "en": "Something went wrong"
+  },
+  {
+    "id": "h023-077",
+    "en": "Something went wrong."
+  },
+  {
+    "id": "h023-078",
+    "en": "Source Automation"
+  },
+  {
+    "id": "h023-079",
+    "en": "Specific People"
+  },
+  {
+    "id": "h023-080",
+    "en": "Speculative"
+  },
+  {
+    "id": "h023-081",
+    "en": "Speculative full-file edit"
+  },
+  {
+    "id": "h023-082",
+    "en": "Split the current work into reviewable pull requests"
+  },
+  {
+    "id": "h023-083",
+    "en": "Squash"
+  },
+  {
+    "id": "h023-084",
+    "en": "Squash and Merge"
+  },
+  {
+    "id": "h023-085",
+    "en": "Stack"
+  },
+  {
+    "id": "h023-086",
+    "en": "Stage"
+  },
+  {
+    "id": "h023-087",
+    "en": "Staged"
+  },
+  {
+    "id": "h023-088",
+    "en": "Stale"
+  },
+  {
+    "id": "h023-089",
+    "en": "Start Multitasking"
+  },
+  {
+    "id": "h023-090",
+    "en": "Start New Thread With Summary"
+  },
+  {
+    "id": "h023-091",
+    "en": "Start Over"
+  },
+  {
+    "id": "h023-092",
+    "en": "Start Request"
+  },
+  {
+    "id": "h023-093",
+    "en": "Start Script"
+  },
+  {
+    "id": "h023-094",
+    "en": "Start a side chat for this conversation"
+  },
+  {
+    "id": "h023-095",
+    "en": "Start from scratch"
+  },
+  {
+    "id": "h023-096",
+    "en": "Start with a plan"
+  },
+  {
+    "id": "h023-097",
+    "en": "Starting processes..."
+  },
+  {
+    "id": "h023-098",
+    "en": "Stash and save your changes so you can restore them later"
+  },
+  {
+    "id": "h023-099",
+    "en": "State"
+  },
+  {
+    "id": "h023-100",
+    "en": "Static Metrics"
+  },
+  {
+    "id": "h023-101",
+    "en": "Static metrics are computed from the selected run data and do not use judge capacity."
+  },
+  {
+    "id": "h023-102",
+    "en": "Static previews for each tool-call density preset (no hover required)."
+  },
+  {
+    "id": "h023-103",
+    "en": "Status Indicator"
+  },
+  {
+    "id": "h023-104",
+    "en": "Status changed"
+  },
+  {
+    "id": "h023-105",
+    "en": "Status checks failing"
+  },
+  {
+    "id": "h023-106",
+    "en": "Status from its subtasks"
+  },
+  {
+    "id": "h023-107",
+    "en": "Status from merged PRs"
+  },
+  {
+    "id": "h023-108",
+    "en": "Status the list doesn't have"
+  },
+  {
+    "id": "h023-109",
+    "en": "Stop Control"
+  },
+  {
+    "id": "h023-110",
+    "en": "Stop file watch recording"
+  },
+  {
+    "id": "h023-111",
+    "en": "Stop waiting for the Airlock connection"
+  },
+  {
+    "id": "h023-112",
+    "en": "Stopping processes..."
+  },
+  {
+    "id": "h023-113",
+    "en": "Storage"
+  },
+  {
+    "id": "h023-114",
+    "en": "Storage Service"
+  },
+  {
+    "id": "h023-115",
+    "en": "Stroke Colors"
+  },
+  {
+    "id": "h023-116",
+    "en": "Strokes"
+  },
+  {
+    "id": "h023-117",
+    "en": "Subscriptions"
+  },
+  {
+    "id": "h023-118",
+    "en": "Summarize this conversation"
+  },
+  {
+    "id": "h023-119",
+    "en": "Summary"
+  },
+  {
+    "id": "h023-120",
+    "en": "Switch Theme"
+  },
+  {
+    "id": "h023-121",
+    "en": "Switch to Cursor Dark"
+  },
+  {
+    "id": "h023-122",
+    "en": "Switch to Cursor High Contrast"
+  },
+  {
+    "id": "h023-123",
+    "en": "Switch to Cursor Light"
+  },
+  {
+    "id": "h023-124",
+    "en": "Switch to Model Slug"
+  },
+  {
+    "id": "h023-125",
+    "en": "Switch to Model Slug In Glass"
+  },
+  {
+    "id": "h023-126",
+    "en": "Sync Theme with IDE"
+  },
+  {
+    "id": "h023-127",
+    "en": "Sync your chats and continue them in Cursor"
+  },
+  {
+    "id": "h023-128",
+    "en": "System Theme"
+  },
+  {
+    "id": "h023-129",
+    "en": "Table view"
+  },
+  {
+    "id": "h023-130",
+    "en": "Tag notes.md doesn't declare"
+  },
+  {
+    "id": "h023-131",
+    "en": "Tag over the count or label limit"
+  },
+  {
+    "id": "h023-132",
+    "en": "Take Control"
+  },
+  {
+    "id": "h023-133",
+    "en": "Target Type"
+  },
+  {
+    "id": "h023-134",
+    "en": "Target environment: cloud"
+  },
+  {
+    "id": "h023-135",
+    "en": "Target environment: local"
+  },
+  {
+    "id": "h023-136",
+    "en": "Team-only"
+  },
+  {
+    "id": "h023-137",
+    "en": "Teammates can't message it until you add it again"
+  },
+  {
+    "id": "h023-138",
+    "en": "Tell us what went wrong or what you'd like to see."
+  },
+  {
+    "id": "h023-139",
+    "en": "Templates"
+  },
+  {
+    "id": "h023-140",
+    "en": "Temporary"
+  },
+  {
+    "id": "h023-141",
+    "en": "Tertiary small w icon"
+  },
+  {
+    "id": "h023-142",
+    "en": "Test 1"
+  },
+  {
+    "id": "h023-143",
+    "en": "Test 2"
+  },
+  {
+    "id": "h023-144",
+    "en": "Test 3"
+  },
+  {
+    "id": "h023-145",
+    "en": "Test files"
+  },
+  {
+    "id": "h023-146",
+    "en": "Test run"
+  },
+  {
+    "id": "h023-147",
+    "en": "Text Colors"
+  },
+  {
+    "id": "h023-148",
+    "en": "Text Icon"
+  },
+  {
+    "id": "h023-149",
+    "en": "Text Only"
+  }
+]

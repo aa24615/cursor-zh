@@ -1,0 +1,482 @@
+[
+  {
+    "id": "006-000",
+    "en": "Cannot copy an item into a path inside itself."
+  },
+  {
+    "id": "006-001",
+    "en": "Skipped an item that no longer exists."
+  },
+  {
+    "id": "006-002",
+    "en": "Skipped items with a name already used in the destination."
+  },
+  {
+    "id": "006-003",
+    "en": "A file or folder '{0}' already exists. Replace it?"
+  },
+  {
+    "id": "006-004",
+    "en": "Replace"
+  },
+  {
+    "id": "006-005",
+    "en": "Move"
+  },
+  {
+    "id": "006-006",
+    "en": "Copy"
+  },
+  {
+    "id": "006-007",
+    "en": "Moving…"
+  },
+  {
+    "id": "006-008",
+    "en": "Copying…"
+  },
+  {
+    "id": "006-009",
+    "en": "Move failed: {0}"
+  },
+  {
+    "id": "006-010",
+    "en": "Copy failed: {0}"
+  },
+  {
+    "id": "006-011",
+    "en": "Can't open {0} in the browser because the remote machine isn't connected. Try again once it reconnects."
+  },
+  {
+    "id": "006-012",
+    "en": "Can't open {0} in the browser because a local copy couldn't be saved."
+  },
+  {
+    "id": "006-013",
+    "en": "Can't open {0} in the browser because it no longer exists."
+  },
+  {
+    "id": "006-014",
+    "en": "Can't open {0} in the browser because you don't have permission to read it."
+  },
+  {
+    "id": "006-015",
+    "en": "Can't open {0} in the browser because it's too large to copy from the remote machine."
+  },
+  {
+    "id": "006-016",
+    "en": "Can't open {0} in the browser because it couldn't be read from the remote machine."
+  },
+  {
+    "id": "006-017",
+    "en": "Copied path to clipboard"
+  },
+  {
+    "id": "006-018",
+    "en": "Copied path to clipboard"
+  },
+  {
+    "id": "006-019",
+    "en": "Copied URL to clipboard"
+  },
+  {
+    "id": "006-020",
+    "en": "Name cannot be empty"
+  },
+  {
+    "id": "006-021",
+    "en": "Name cannot contain path separators"
+  },
+  {
+    "id": "006-022",
+    "en": "Rename"
+  },
+  {
+    "id": "006-023",
+    "en": "A file or folder '{0}' already exists at this location."
+  },
+  {
+    "id": "006-024",
+    "en": "Rename {0}"
+  },
+  {
+    "id": "006-025",
+    "en": "Renaming…"
+  },
+  {
+    "id": "006-026",
+    "en": "Binary file is not supported"
+  },
+  {
+    "id": "006-027",
+    "en": "PDF is too large to preview in Cursor (25 MB limit)"
+  },
+  {
+    "id": "006-028",
+    "en": "Reveal in File Explorer"
+  },
+  {
+    "id": "006-029",
+    "en": "Reveal in Finder"
+  },
+  {
+    "id": "006-030",
+    "en": "Open Containing Folder"
+  },
+  {
+    "id": "006-031",
+    "en": "Extension '{0}' is configured as formatter but it cannot format '{1}'-files"
+  },
+  {
+    "id": "006-032",
+    "en": "Extension '{0}' is configured as formatter but it can only format '{1}'-files as a whole, not selections or parts of it."
+  },
+  {
+    "id": "006-033",
+    "en": "Extension '{0}' is configured as formatter but not available. Select a different default formatter to continue."
+  },
+  {
+    "id": "006-034",
+    "en": "There are multiple formatters for '{0}' files. One of them should be configured as default formatter."
+  },
+  {
+    "id": "006-035",
+    "en": "Select a default formatter for '{0}' files"
+  },
+  {
+    "id": "006-036",
+    "en": "This agent couldn't be moved because some cloud agent data was unavailable. Reload the window and try again."
+  },
+  {
+    "id": "006-037",
+    "en": "Some of this agent's chat history is missing from this computer, so it couldn't be moved. Keep using it here, or start a new agent to continue somewhere else."
+  },
+  {
+    "id": "006-038",
+    "en": "Cursor's servers were temporarily unavailable ({0}). Try again in a moment."
+  },
+  {
+    "id": "006-039",
+    "en": "The request failed ({0})"
+  },
+  {
+    "id": "006-040",
+    "en": "Couldn't check GitHub access for this repository. Check your connection and try again."
+  },
+  {
+    "id": "006-041",
+    "en": "the new location"
+  },
+  {
+    "id": "006-042",
+    "en": "Move agent while it’s working?"
+  },
+  {
+    "id": "006-043",
+    "en": "Moving will stop the current turn. It will resume once moved to {0}. Queued messages move with the agent."
+  },
+  {
+    "id": "006-044",
+    "en": "Moving will stop the current turn and continue in {0}. Queued messages move with the agent."
+  },
+  {
+    "id": "006-045",
+    "en": "Stop and Move"
+  },
+  {
+    "id": "006-046",
+    "en": "Cancel"
+  },
+  {
+    "id": "006-047",
+    "en": "\"{0}\" couldn't be added to {1}"
+  },
+  {
+    "id": "006-048",
+    "en": "The agent couldn't be added to the Project"
+  },
+  {
+    "id": "006-049",
+    "en": "Retry"
+  },
+  {
+    "id": "006-050",
+    "en": "Failed to migrate agent"
+  },
+  {
+    "id": "006-051",
+    "en": "Retry"
+  },
+  {
+    "id": "006-052",
+    "en": "Copy Error"
+  },
+  {
+    "id": "006-053",
+    "en": "Include uncommitted changes?"
+  },
+  {
+    "id": "006-054",
+    "en": "You have uncommitted changes{0}. Would you like to include them in the cloud agent?"
+  },
+  {
+    "id": "006-055",
+    "en": "Include Changes"
+  },
+  {
+    "id": "006-056",
+    "en": "Exclude Changes"
+  },
+  {
+    "id": "006-057",
+    "en": "Cancel"
+  },
+  {
+    "id": "006-058",
+    "en": "Move Conversation Without Local Git State?"
+  },
+  {
+    "id": "006-059",
+    "en": "Cursor couldn’t transfer local Git state{0}.\n\n{1}\n\nLocal branches, commits, and uncommitted changes will remain on this machine and may not be available to the cloud agent."
+  },
+  {
+    "id": "006-060",
+    "en": "Continue anyway"
+  },
+  {
+    "id": "006-061",
+    "en": "Cancel"
+  },
+  {
+    "id": "006-062",
+    "en": "Local changes detected"
+  },
+  {
+    "id": "006-063",
+    "en": "Your local workspace has uncommitted changes. How would you like to handle them before switching branches?"
+  },
+  {
+    "id": "006-064",
+    "en": "Stash Changes"
+  },
+  {
+    "id": "006-065",
+    "en": "Commit Changes"
+  },
+  {
+    "id": "006-066",
+    "en": "Cancel"
+  },
+  {
+    "id": "006-067",
+    "en": "No cloud destination is available for this chat. If your team uses self-hosted worker pools, make sure a pool is registered for this repository."
+  },
+  {
+    "id": "006-068",
+    "en": "Couldn't start a worker. Try again in a moment."
+  },
+  {
+    "id": "006-069",
+    "en": "Couldn't start a worker for {0}"
+  },
+  {
+    "id": "006-070",
+    "en": "Couldn't find that folder. Choose another one."
+  },
+  {
+    "id": "006-071",
+    "en": "Choose a folder on this computer."
+  },
+  {
+    "id": "006-072",
+    "en": "Workers can't use this folder yet: its full path has characters the worker can't send. Choose a folder whose path uses only English letters and Western European accented letters, such as é or ü."
+  },
+  {
+    "id": "006-073",
+    "en": "{0} couldn't connect. Check your network and try again."
+  },
+  {
+    "id": "006-074",
+    "en": "Your account has reached its worker limit. Remove a worker and try again."
+  },
+  {
+    "id": "006-075",
+    "en": "This worker is reconnecting too often. Try again in a minute."
+  },
+  {
+    "id": "006-076",
+    "en": "Sign in again to add folders"
+  },
+  {
+    "id": "006-077",
+    "en": "Couldn't allow {0}. Check it to try again."
+  },
+  {
+    "id": "006-078",
+    "en": "Choose a Folder for This Project"
+  },
+  {
+    "id": "006-079",
+    "en": "Enabled LSP for this workspace, but loading language features failed: {0}"
+  },
+  {
+    "id": "006-080",
+    "en": "Disabled LSP for this workspace, but unloading language features failed: {0}"
+  },
+  {
+    "id": "006-081",
+    "en": "Turned off LSP for this workspace after inactivity, but unloading language features failed: {0}"
+  },
+  {
+    "id": "006-082",
+    "en": "Archive Agent with Running Subagents?"
+  },
+  {
+    "id": "006-083",
+    "en": "Subagents are still running and will keep working after this agent is archived"
+  },
+  {
+    "id": "006-084",
+    "en": "Archive"
+  },
+  {
+    "id": "006-085",
+    "en": "Archive Active Agent with Running Subagents?"
+  },
+  {
+    "id": "006-086",
+    "en": "Archiving will stop this agent's active task. Running subagents will keep working."
+  },
+  {
+    "id": "006-087",
+    "en": "Archive"
+  },
+  {
+    "id": "006-088",
+    "en": "Leave this Project?"
+  },
+  {
+    "id": "006-089",
+    "en": "This chat is still working. Leaving stops it and hides it while you're out of this Project. If you rejoin from an invite or the Project's link, it comes back as you left it."
+  },
+  {
+    "id": "006-090",
+    "en": "Your chat here is hidden while you're out of this Project. If you rejoin from an invite or the Project's link, it comes back as you left it."
+  },
+  {
+    "id": "006-091",
+    "en": "Leave Project"
+  },
+  {
+    "id": "006-092",
+    "en": "These agents are still working. Archiving will stop them and cancel their current tasks."
+  },
+  {
+    "id": "006-093",
+    "en": "Archive {0} running agents?"
+  },
+  {
+    "id": "006-094",
+    "en": "Running subagents will keep working."
+  },
+  {
+    "id": "006-095",
+    "en": "Archive"
+  },
+  {
+    "id": "006-096",
+    "en": "Archive Agent with Running Processes?"
+  },
+  {
+    "id": "006-097",
+    "en": "This agent started background processes that are still running."
+  },
+  {
+    "id": "006-098",
+    "en": "Archive"
+  },
+  {
+    "id": "006-099",
+    "en": "+{0} more"
+  },
+  {
+    "id": "006-100",
+    "en": "Archiving this chat also stops 1 background process:"
+  },
+  {
+    "id": "006-101",
+    "en": "Archiving this chat also stops {0} background processes:"
+  },
+  {
+    "id": "006-102",
+    "en": "Archiving these {0} chats also stops 1 background process:"
+  },
+  {
+    "id": "006-103",
+    "en": "Archiving these {0} chats also stops {1} background processes:"
+  },
+  {
+    "id": "006-104",
+    "en": "Archiving also stops this background process:"
+  },
+  {
+    "id": "006-105",
+    "en": "Archiving also stops these {0} background processes:"
+  },
+  {
+    "id": "006-106",
+    "en": "Cancel"
+  },
+  {
+    "id": "006-107",
+    "en": "Cancel"
+  },
+  {
+    "id": "006-108",
+    "en": "Archive Chat with Running Processes?"
+  },
+  {
+    "id": "006-109",
+    "en": "Archive Chats with Running Processes?"
+  },
+  {
+    "id": "006-110",
+    "en": "Archive"
+  },
+  {
+    "id": "006-111",
+    "en": "Cancel"
+  },
+  {
+    "id": "006-112",
+    "en": "Some chats in this group could not be archived. They may still appear."
+  },
+  {
+    "id": "006-113",
+    "en": "Unarchive"
+  },
+  {
+    "id": "006-114",
+    "en": "Undo all"
+  },
+  {
+    "id": "006-115",
+    "en": "Undo"
+  },
+  {
+    "id": "006-116",
+    "en": "Archive"
+  },
+  {
+    "id": "006-117",
+    "en": "Archived 1 project in \"{0}\""
+  },
+  {
+    "id": "006-118",
+    "en": "Archived {0} projects in \"{1}\""
+  },
+  {
+    "id": "006-119",
+    "en": "Archived 1 project"
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "id": "009-000",
+    "en": "{0} is not running; open a command that uses it first."
+  },
+  {
+    "id": "009-001",
+    "en": "Failed to save {0} heap snapshot: {1}"
+  },
+  {
+    "id": "009-002",
+    "en": "Taking {0} heap snapshot…"
+  },
+  {
+    "id": "009-003",
+    "en": "{0} returned an empty heap snapshot."
+  },
+  {
+    "id": "009-004",
+    "en": "Saved {0} heap snapshot to {1}"
+  },
+  {
+    "id": "009-005",
+    "en": "Failed to take {0} heap snapshot: {1}"
+  },
+  {
+    "id": "009-006",
+    "en": "{0} CPU Profiler returned an invalid profile: {1}"
+  },
+  {
+    "id": "009-007",
+    "en": "Saved {0} CPU profile to {1}"
+  },
+  {
+    "id": "009-008",
+    "en": "Failed to save {0} CPU profile: {1}"
+  },
+  {
+    "id": "009-009",
+    "en": "Successfully signed out."
+  },
+  {
+    "id": "009-010",
+    "en": "Don't Ask Again"
+  },
+  {
+    "id": "009-011",
+    "en": "The extension '{0}' wants to access the language models provided by {1}."
+  },
+  {
+    "id": "009-012",
+    "en": "Workspace Disconnected"
+  },
+  {
+    "id": "009-013",
+    "en": "Cursor lost connection to the workspace while starting tool execution. Reload the window and try again."
+  },
+  {
+    "id": "009-014",
+    "en": "Agent Session Initialization Failed"
+  },
+  {
+    "id": "009-015",
+    "en": "Failed to initialize the agent execution session. Please reload the window to continue."
+  },
+  {
+    "id": "009-016",
+    "en": "Agent Session Not Found"
+  },
+  {
+    "id": "009-017",
+    "en": "The agent execution session was lost. Please reload the window to continue."
+  },
+  {
+    "id": "009-018",
+    "en": "Agent Stream Start Failed"
+  },
+  {
+    "id": "009-019",
+    "en": "Failed to start the agent execution stream. Please reload the window to continue."
+  },
+  {
+    "id": "009-020",
+    "en": "Reload Window"
+  },
+  {
+    "id": "009-021",
+    "en": "View containers cannot be contributed to the Secondary Side Bar in Cursor. It is reserved for Cursor's agent UI. Contribute to 'activitybar' or 'panel' instead."
+  },
+  {
+    "id": "009-022",
+    "en": "Test View 1"
+  },
+  {
+    "id": "009-023",
+    "en": "Layout • Left"
+  },
+  {
+    "id": "009-024",
+    "en": "Layout • Right"
+  },
+  {
+    "id": "009-025",
+    "en": "Layout • Zen"
+  },
+  {
+    "id": "009-026",
+    "en": "Browser"
+  },
+  {
+    "id": "009-027",
+    "en": "Cleared Statsig cache. It will be reloaded on next refresh."
+  },
+  {
+    "id": "009-028",
+    "en": "Reactive storage saved successfully."
+  },
+  {
+    "id": "009-029",
+    "en": "Injected cursor-socket failure into {0} client socket(s) and {1} server connection(s)."
+  },
+  {
+    "id": "009-030",
+    "en": "No local-process extension host found to crash (web-worker and remote hosts are not supported)."
+  },
+  {
+    "id": "009-031",
+    "en": "Crashed local extension host (pid {0}). It should restart automatically."
+  },
+  {
+    "id": "009-032",
+    "en": "No remote extension host found to crash."
+  },
+  {
+    "id": "009-033",
+    "en": "Crashed remote extension host (pid {0}). It should restart automatically."
+  },
+  {
+    "id": "009-034",
+    "en": "The current window does not have a remote connection to disconnect."
+  },
+  {
+    "id": "009-035",
+    "en": "Dropped the socket and armed the next management reconnect to fail like a resolver error (permanent failure follows the real reconnect path)."
+  },
+  {
+    "id": "009-036",
+    "en": "The current window does not have a remote connection."
+  },
+  {
+    "id": "009-037",
+    "en": "Simulated a connection drop (socket closed). Reconnect runs normally if the remote is still available."
+  },
+  {
+    "id": "009-038",
+    "en": "Feature gates dumped to {0}"
+  },
+  {
+    "id": "009-039",
+    "en": "Reveal in File Explorer"
+  },
+  {
+    "id": "009-040",
+    "en": "Clear Statsig Cache"
+  },
+  {
+    "id": "009-041",
+    "en": "Save Reactive Storage"
+  },
+  {
+    "id": "009-042",
+    "en": "Inject cursor-socket failure"
+  },
+  {
+    "id": "009-043",
+    "en": "Crash Extension Host (with slow recovery)"
+  },
+  {
+    "id": "009-044",
+    "en": "Crash Remote Extension Host (with slow recovery)"
+  },
+  {
+    "id": "009-045",
+    "en": "Connection: Simulate Permanent Disconnect"
+  },
+  {
+    "id": "009-046",
+    "en": "Connection: Simulate Connection Drop (transient)"
+  },
+  {
+    "id": "009-047",
+    "en": "Dump Feature Gates"
+  },
+  {
+    "id": "009-048",
+    "en": "Whether the user has legacy custom composer modes"
+  },
+  {
+    "id": "009-049",
+    "en": "No custom modes found in storage."
+  },
+  {
+    "id": "009-050",
+    "en": "No custom modes found in storage."
+  },
+  {
+    "id": "009-051",
+    "en": "Exported {0} custom mode(s) to {1}"
+  },
+  {
+    "id": "009-052",
+    "en": "Export Custom Modes"
+  },
+  {
+    "id": "009-053",
+    "en": "Whether the user has notepads in storage"
+  },
+  {
+    "id": "009-054",
+    "en": "No notepads found in storage."
+  },
+  {
+    "id": "009-055",
+    "en": "Failed to parse notepad data: {0}"
+  },
+  {
+    "id": "009-056",
+    "en": "No notepads found in storage."
+  },
+  {
+    "id": "009-057",
+    "en": "Exported {0} notepad(s) to {1}"
+  },
+  {
+    "id": "009-058",
+    "en": "Failed to export notepads: {0}"
+  },
+  {
+    "id": "009-059",
+    "en": "Export Notepads to Files"
+  },
+  {
+    "id": "009-060",
+    "en": "Setup Bugbot"
+  },
+  {
+    "id": "009-061",
+    "en": "Minimize Chat"
+  },
+  {
+    "id": "009-062",
+    "en": "Maximize Chat Size - hides editor, panel, and primary sidebar to focus on AI agent"
+  },
+  {
+    "id": "009-063",
+    "en": "Toggle visibility of inline diffs in the editor"
+  },
+  {
+    "id": "009-064",
+    "en": "Toggle Agents Side Bar"
+  },
+  {
+    "id": "009-065",
+    "en": "Toggle Agents Side Bar"
+  },
+  {
+    "id": "009-066",
+    "en": "Minimize Chat"
+  },
+  {
+    "id": "009-067",
+    "en": "Open Layout Settings Menu"
+  },
+  {
+    "id": "009-068",
+    "en": "Zen Mode"
+  },
+  {
+    "id": "009-069",
+    "en": "Maximize Chat Size"
+  },
+  {
+    "id": "009-070",
+    "en": "Toggle Inline Diffs"
+  },
+  {
+    "id": "009-071",
+    "en": "Open Layout Settings Menu"
+  },
+  {
+    "id": "009-072",
+    "en": "Open Cursor Settings"
+  },
+  {
+    "id": "009-073",
+    "en": "Switch Layout"
+  },
+  {
+    "id": "009-074",
+    "en": "Toggle Zen Mode"
+  },
+  {
+    "id": "009-075",
+    "en": "Represents a side bar in the left position"
+  },
+  {
+    "id": "009-076",
+    "en": "Represents a side bar in the left position toggled off"
+  },
+  {
+    "id": "009-077",
+    "en": "Represents side bar in the right position"
+  },
+  {
+    "id": "009-078",
+    "en": "Represents side bar in the right position toggled off"
+  },
+  {
+    "id": "009-079",
+    "en": "Agent"
+  },
+  {
+    "id": "009-080",
+    "en": "Editor"
+  },
+  {
+    "id": "009-081",
+    "en": "Untitled"
+  },
+  {
+    "id": "009-082",
+    "en": "Untitled"
+  },
+  {
+    "id": "009-083",
+    "en": "Untitled"
+  },
+  {
+    "id": "009-084",
+    "en": "Quick Open"
+  },
+  {
+    "id": "009-085",
+    "en": "Please quit and reopen for the activity bar to be displayed vertically."
+  },
+  {
+    "id": "009-086",
+    "en": "Secondary Si&&de Bar"
+  },
+  {
+    "id": "009-087",
+    "en": "Show Agents Side Bar"
+  },
+  {
+    "id": "009-088",
+    "en": "New Agent"
+  },
+  {
+    "id": "009-089",
+    "en": "Chat History"
+  },
+  {
+    "id": "009-090",
+    "en": "Close"
+  },
+  {
+    "id": "009-091",
+    "en": "More Actions"
+  },
+  {
+    "id": "009-092",
+    "en": "Copied"
+  },
+  {
+    "id": "009-093",
+    "en": "Version {0}"
+  },
+  {
+    "id": "009-094",
+    "en": "Copy version"
+  },
+  {
+    "id": "009-095",
+    "en": "Copy build date"
+  },
+  {
+    "id": "009-096",
+    "en": "Copy version info"
+  },
+  {
+    "id": "009-097",
+    "en": "Version: {0}\nCommit: {1}\nDate: {2}\nLayout: {3}\nBrowser: {4}"
+  },
+  {
+    "id": "009-098",
+    "en": "Local Mode: enabled"
+  },
+  {
+    "id": "009-099",
+    "en": "Toggle &&Breadcrumbs"
+  },
+  {
+    "id": "009-100",
+    "en": "Clone repo needs Git. Install Git, or enable the built-in Git extension, then restart Cursor."
+  },
+  {
+    "id": "009-101",
+    "en": "Download Git"
+  },
+  {
+    "id": "009-102",
+    "en": "Close Pane"
+  },
+  {
+    "id": "009-103",
+    "en": "Close Pane"
+  },
+  {
+    "id": "009-104",
+    "en": "Open Browser"
+  },
+  {
+    "id": "009-105",
+    "en": "Reset Editor Group Sizes (Excluding Agent)"
+  },
+  {
+    "id": "009-106",
+    "en": "Close all editor tabs. Also matches the previous name: Close All Editors."
+  },
+  {
+    "id": "009-107",
+    "en": "Close All Tabs"
+  },
+  {
+    "id": "009-108",
+    "en": "Foreground color for the labels in the editor watermark."
+  },
+  {
+    "id": "009-109",
+    "en": "Open Browser"
+  },
+  {
+    "id": "009-110",
+    "en": "Show Terminal"
+  },
+  {
+    "id": "009-111",
+    "en": "Hide Terminal"
+  },
+  {
+    "id": "009-112",
+    "en": "Show Files"
+  },
+  {
+    "id": "009-113",
+    "en": "Add Folder"
+  },
+  {
+    "id": "009-114",
+    "en": "Add Repository"
+  },
+  {
+    "id": "009-115",
+    "en": "Maximize Chat"
+  },
+  {
+    "id": "009-116",
+    "en": "Foreground color for the labels in the editor watermark."
+  },
+  {
+    "id": "009-117",
+    "en": "CRLF"
+  },
+  {
+    "id": "009-118",
+    "en": "OVR"
+  },
+  {
+    "id": "009-119",
+    "en": "Extension 'Remote - SSH' is required to open the remote window.\nOK to enable?"
+  }
+]

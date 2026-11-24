@@ -1,0 +1,602 @@
+[
+  {
+    "id": "h005-000",
+    "en": "Channel name..."
+  },
+  {
+    "id": "h005-001",
+    "en": "Chat Width"
+  },
+  {
+    "id": "h005-002",
+    "en": "Check Approval"
+  },
+  {
+    "id": "h005-003",
+    "en": "Check connectivity to all Cursor services"
+  },
+  {
+    "id": "h005-004",
+    "en": "Check network connectivity to all Cursor services"
+  },
+  {
+    "id": "h005-005",
+    "en": "Checkbox"
+  },
+  {
+    "id": "h005-006",
+    "en": "Checking out branch…"
+  },
+  {
+    "id": "h005-007",
+    "en": "Checkout"
+  },
+  {
+    "id": "h005-008",
+    "en": "Checkout & Move to Local"
+  },
+  {
+    "id": "h005-009",
+    "en": "Checkout branch and convert agent to local mode"
+  },
+  {
+    "id": "h005-010",
+    "en": "Checkout branch locally"
+  },
+  {
+    "id": "h005-011",
+    "en": "Checkpoint persistence failed"
+  },
+  {
+    "id": "h005-012",
+    "en": "Choose Custom Sound..."
+  },
+  {
+    "id": "h005-013",
+    "en": "Choose Image"
+  },
+  {
+    "id": "h005-014",
+    "en": "Choose a folder for your new project"
+  },
+  {
+    "id": "h005-015",
+    "en": "Choose a model or use the cost- and availability-aware default"
+  },
+  {
+    "id": "h005-016",
+    "en": "Choose a voice"
+  },
+  {
+    "id": "h005-017",
+    "en": "Choose between quick or more thorough, higher-cost analysis"
+  },
+  {
+    "id": "h005-018",
+    "en": "Choose folder…"
+  },
+  {
+    "id": "h005-019",
+    "en": "Choose the default behavior of messages sent from the queue"
+  },
+  {
+    "id": "h005-020",
+    "en": "Choose the default behavior of messages sent manually from the queue while Agent is streaming"
+  },
+  {
+    "id": "h005-021",
+    "en": "Choose the default behavior of messages sent while Agent is working"
+  },
+  {
+    "id": "h005-022",
+    "en": "Choose the model used by Explore subagent for initial research"
+  },
+  {
+    "id": "h005-023",
+    "en": "Choose the theme used when your system is in dark high contrast mode"
+  },
+  {
+    "id": "h005-024",
+    "en": "Choose the theme used when your system is in dark mode"
+  },
+  {
+    "id": "h005-025",
+    "en": "Choose the theme used when your system is in light high contrast mode"
+  },
+  {
+    "id": "h005-026",
+    "en": "Choose the theme used when your system is in light mode"
+  },
+  {
+    "id": "h005-027",
+    "en": "Choose which models appear in the model picker"
+  },
+  {
+    "id": "h005-028",
+    "en": "Choose which theme to use"
+  },
+  {
+    "id": "h005-029",
+    "en": "Cleaning up browser views"
+  },
+  {
+    "id": "h005-030",
+    "en": "Clear All"
+  },
+  {
+    "id": "h005-031",
+    "en": "Clear log"
+  },
+  {
+    "id": "h005-032",
+    "en": "Clear the conversation and start fresh"
+  },
+  {
+    "id": "h005-033",
+    "en": "Clear trigger filters"
+  },
+  {
+    "id": "h005-034",
+    "en": "Clear variables"
+  },
+  {
+    "id": "h005-035",
+    "en": "Click to switch backend server"
+  },
+  {
+    "id": "h005-036",
+    "en": "Client ID"
+  },
+  {
+    "id": "h005-037",
+    "en": "Client Secret"
+  },
+  {
+    "id": "h005-038",
+    "en": "Close Chat Tab"
+  },
+  {
+    "id": "h005-039",
+    "en": "Close Running Tab?"
+  },
+  {
+    "id": "h005-040",
+    "en": "Cloud Agent requires code storage"
+  },
+  {
+    "id": "h005-041",
+    "en": "Cloud Agents Unavailable"
+  },
+  {
+    "id": "h005-042",
+    "en": "Cloud Agents are not available when your privacy mode is set to disable data storage. To use Cloud Agents, please update your privacy settings to allow data storage."
+  },
+  {
+    "id": "h005-043",
+    "en": "Cloud Agents require a Git repo"
+  },
+  {
+    "id": "h005-044",
+    "en": "Cloud Agents require a Git repository in an open folder."
+  },
+  {
+    "id": "h005-045",
+    "en": "Cloud Agents require data storage to function."
+  },
+  {
+    "id": "h005-046",
+    "en": "Code Block Word Wrap"
+  },
+  {
+    "id": "h005-047",
+    "en": "Code block"
+  },
+  {
+    "id": "h005-048",
+    "en": "Collapse Composer"
+  },
+  {
+    "id": "h005-049",
+    "en": "Command Allowlist"
+  },
+  {
+    "id": "h005-050",
+    "en": "Command to start the stdio-based MCP server"
+  },
+  {
+    "id": "h005-051",
+    "en": "Commands are reusable prompts you invoke with /name to standardize common workflows across your team."
+  },
+  {
+    "id": "h005-052",
+    "en": "Commented"
+  },
+  {
+    "id": "h005-053",
+    "en": "Commit & Open Pull Request"
+  },
+  {
+    "id": "h005-054",
+    "en": "Commit on Main"
+  },
+  {
+    "id": "h005-055",
+    "en": "Commit on Main Branch"
+  },
+  {
+    "id": "h005-056",
+    "en": "Completed"
+  },
+  {
+    "id": "h005-057",
+    "en": "Composer Session End Hooks"
+  },
+  {
+    "id": "h005-058",
+    "en": "Computer use"
+  },
+  {
+    "id": "h005-059",
+    "en": "Configuration for MCP (Model Control Protocol) servers"
+  },
+  {
+    "id": "h005-060",
+    "en": "Configure Azure OpenAI to use OpenAI models through your Azure account."
+  },
+  {
+    "id": "h005-061",
+    "en": "Configure HTTP compatibility for proxies and VPNs"
+  },
+  {
+    "id": "h005-062",
+    "en": "Configure browser automation"
+  },
+  {
+    "id": "h005-063",
+    "en": "Configure gateway"
+  },
+  {
+    "id": "h005-064",
+    "en": "Configure the local agent LLM gateway"
+  },
+  {
+    "id": "h005-065",
+    "en": "Confirm Action"
+  },
+  {
+    "id": "h005-066",
+    "en": "Confirm Marketplace Deletion"
+  },
+  {
+    "id": "h005-067",
+    "en": "Confirm Plugin Removal"
+  },
+  {
+    "id": "h005-068",
+    "en": "Connect External Tools with MCP"
+  },
+  {
+    "id": "h005-069",
+    "en": "Connect GitHub/GitLab"
+  },
+  {
+    "id": "h005-070",
+    "en": "Connect GitHub/GitLab, manage team and user settings, and configure environments"
+  },
+  {
+    "id": "h005-071",
+    "en": "Connect Microsoft Teams"
+  },
+  {
+    "id": "h005-072",
+    "en": "Connect repo"
+  },
+  {
+    "id": "h005-073",
+    "en": "Connect via WSL"
+  },
+  {
+    "id": "h005-074",
+    "en": "Connect your Notion workspace to search, update, and trigger workflows across tools."
+  },
+  {
+    "id": "h005-075",
+    "en": "Connection blocked by proxy"
+  },
+  {
+    "id": "h005-076",
+    "en": "Connection looks slow"
+  },
+  {
+    "id": "h005-077",
+    "en": "Context Message"
+  },
+  {
+    "id": "h005-078",
+    "en": "Context Usage"
+  },
+  {
+    "id": "h005-079",
+    "en": "Context summarization failed"
+  },
+  {
+    "id": "h005-080",
+    "en": "Continue Locally"
+  },
+  {
+    "id": "h005-081",
+    "en": "Continue running in Cloud?"
+  },
+  {
+    "id": "h005-082",
+    "en": "Control tokens control how likely the model is to produce no-ops. Will be replaced with auto-selection"
+  },
+  {
+    "id": "h005-083",
+    "en": "Control whether agents can read files outside the workspace without approval."
+  },
+  {
+    "id": "h005-084",
+    "en": "Control which network requests are allowed when commands run in the sandbox. Edit allowed/denied domains in sandbox.json in your workspace."
+  },
+  {
+    "id": "h005-085",
+    "en": "Controls how shell and edit-file tool calls are displayed and grouped in Editor Agent conversations."
+  },
+  {
+    "id": "h005-086",
+    "en": "Controls how shell and edit-file tool calls are displayed and grouped in Glass Agent conversations."
+  },
+  {
+    "id": "h005-087",
+    "en": "Controls if and when the hover should take focus upon being triggered by this action."
+  },
+  {
+    "id": "h005-088",
+    "en": "Controls if deletions in base or one of the inputs should be indicated by a vertical bar."
+  },
+  {
+    "id": "h005-089",
+    "en": "Controls the maximum width in pixels of chat content."
+  },
+  {
+    "id": "h005-090",
+    "en": "Controls the text size scale (relative to base 12px) of AI chat messages."
+  },
+  {
+    "id": "h005-091",
+    "en": "Conversation data missing"
+  },
+  {
+    "id": "h005-092",
+    "en": "Conversation switch scroll gate is active"
+  },
+  {
+    "id": "h005-093",
+    "en": "Convert"
+  },
+  {
+    "id": "h005-094",
+    "en": "Convert draft PR to open PR"
+  },
+  {
+    "id": "h005-095",
+    "en": "Coordinate long-horizon tasks with delegated subagents"
+  },
+  {
+    "id": "h005-096",
+    "en": "Coordinate tasks"
+  },
+  {
+    "id": "h005-097",
+    "en": "Copy Base Branch Name"
+  },
+  {
+    "id": "h005-098",
+    "en": "Copy JSON"
+  },
+  {
+    "id": "h005-099",
+    "en": "Copy Prompt"
+  },
+  {
+    "id": "h005-100",
+    "en": "Copy Table"
+  },
+  {
+    "id": "h005-101",
+    "en": "Copy Transcript ID"
+  },
+  {
+    "id": "h005-102",
+    "en": "Copy details"
+  },
+  {
+    "id": "h005-103",
+    "en": "Copy failed"
+  },
+  {
+    "id": "h005-104",
+    "en": "Copy output"
+  },
+  {
+    "id": "h005-105",
+    "en": "Copy session ID"
+  },
+  {
+    "id": "h005-106",
+    "en": "Copy to Clipboard"
+  },
+  {
+    "id": "h005-107",
+    "en": "Copy worktree path"
+  },
+  {
+    "id": "h005-108",
+    "en": "Cosmo"
+  },
+  {
+    "id": "h005-109",
+    "en": "Couldn't load who has access"
+  },
+  {
+    "id": "h005-110",
+    "en": "Couldn’t load your Projects"
+  },
+  {
+    "id": "h005-111",
+    "en": "Count of failed controlled exec operations"
+  },
+  {
+    "id": "h005-112",
+    "en": "Count of successful controlled exec operations"
+  },
+  {
+    "id": "h005-113",
+    "en": "Cpp Control Token"
+  },
+  {
+    "id": "h005-114",
+    "en": "Crash Reporting"
+  },
+  {
+    "id": "h005-115",
+    "en": "Create Chat"
+  },
+  {
+    "id": "h005-116",
+    "en": "Create Draft PR"
+  },
+  {
+    "id": "h005-117",
+    "en": "Create Manually"
+  },
+  {
+    "id": "h005-118",
+    "en": "Create New"
+  },
+  {
+    "id": "h005-119",
+    "en": "Create New Branch"
+  },
+  {
+    "id": "h005-120",
+    "en": "Create PRs"
+  },
+  {
+    "id": "h005-121",
+    "en": "Create Project"
+  },
+  {
+    "id": "h005-122",
+    "en": "Create Reusable Commands"
+  },
+  {
+    "id": "h005-123",
+    "en": "Create a cursor rule from the highlighted text"
+  },
+  {
+    "id": "h005-124",
+    "en": "Create a document, diagram, or small website to express an idea."
+  },
+  {
+    "id": "h005-125",
+    "en": "Create a merge commit"
+  },
+  {
+    "id": "h005-126",
+    "en": "Create a new pull request"
+  },
+  {
+    "id": "h005-127",
+    "en": "Create an agent to start working on tasks"
+  },
+  {
+    "id": "h005-128",
+    "en": "Create and initialize git repo"
+  },
+  {
+    "id": "h005-129",
+    "en": "Create detailed plans for accomplishing tasks"
+  },
+  {
+    "id": "h005-130",
+    "en": "Create new"
+  },
+  {
+    "id": "h005-131",
+    "en": "Create new canvas"
+  },
+  {
+    "id": "h005-132",
+    "en": "Create plan"
+  },
+  {
+    "id": "h005-133",
+    "en": "Create structured plans with implementation steps"
+  },
+  {
+    "id": "h005-134",
+    "en": "Created"
+  },
+  {
+    "id": "h005-135",
+    "en": "Created By"
+  },
+  {
+    "id": "h005-136",
+    "en": "Created Plan"
+  },
+  {
+    "id": "h005-137",
+    "en": "Created by Cursor"
+  },
+  {
+    "id": "h005-138",
+    "en": "Creates a new MCP configuration with example servers"
+  },
+  {
+    "id": "h005-139",
+    "en": "Cumulative Spend"
+  },
+  {
+    "id": "h005-140",
+    "en": "Current Plan"
+  },
+  {
+    "id": "h005-141",
+    "en": "Cursor & User Rules"
+  },
+  {
+    "id": "h005-142",
+    "en": "Cursor Auth Debug"
+  },
+  {
+    "id": "h005-143",
+    "en": "Cursor Automation Workflow proto JSON. Include reviewed triggers, actions, prompts, model, git, memory, and workflow options."
+  },
+  {
+    "id": "h005-144",
+    "en": "Cursor Default"
+  },
+  {
+    "id": "h005-145",
+    "en": "Cursor File Blame"
+  },
+  {
+    "id": "h005-146",
+    "en": "Cursor account"
+  },
+  {
+    "id": "h005-147",
+    "en": "Cursor is turned off in System Settings > Menu Bar > Allow in the Menu Bar"
+  },
+  {
+    "id": "h005-148",
+    "en": "Cursor keeps a synced copy of this repository and serves plugins from it, so team members can use the marketplace without GitHub access to the source repo. Access is controlled by Marketplace Access."
+  },
+  {
+    "id": "h005-149",
+    "en": "Cursor periodically removes old worktrees to free disk space"
+  }
+]

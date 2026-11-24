@@ -1,0 +1,482 @@
+[
+  {
+    "id": "024-000",
+    "en": "Your {0} installation appears to be corrupt. Please reinstall."
+  },
+  {
+    "id": "024-001",
+    "en": "More Information"
+  },
+  {
+    "id": "024-002",
+    "en": "Don't Show Again"
+  },
+  {
+    "id": "024-003",
+    "en": "Unable to write display language. Please open the runtime settings, correct errors/warnings in it and try again."
+  },
+  {
+    "id": "024-004",
+    "en": "Open Runtime Settings"
+  },
+  {
+    "id": "024-005",
+    "en": "Installing {0} language support..."
+  },
+  {
+    "id": "024-006",
+    "en": "Restart {0} to switch to {1}?"
+  },
+  {
+    "id": "024-007",
+    "en": "To change the display language to {0}, {1} needs to restart."
+  },
+  {
+    "id": "024-008",
+    "en": "&&Restart"
+  },
+  {
+    "id": "024-009",
+    "en": "VS Code Settings"
+  },
+  {
+    "id": "024-010",
+    "en": "Open in browser"
+  },
+  {
+    "id": "024-011",
+    "en": "Failed to connect to the remote extension host server (Error: {0})"
+  },
+  {
+    "id": "024-012",
+    "en": "Network"
+  },
+  {
+    "id": "024-013",
+    "en": "Open troubleshooting guide"
+  },
+  {
+    "id": "024-014",
+    "en": "An OS keyring couldn't be identified for storing the encryption related data in your current desktop environment."
+  },
+  {
+    "id": "024-015",
+    "en": "Open the troubleshooting guide to address this or you can use weaker encryption that doesn't use the OS keyring."
+  },
+  {
+    "id": "024-016",
+    "en": "Use weaker encryption"
+  },
+  {
+    "id": "024-017",
+    "en": "You're running in a GNOME environment but the OS keyring is not available for encryption. Ensure you have gnome-keyring or another libsecret compatible implementation installed and running."
+  },
+  {
+    "id": "024-018",
+    "en": "You're running in a KDE environment but the OS keyring is not available for encryption. Ensure you have kwallet running."
+  },
+  {
+    "id": "024-019",
+    "en": "Saving text files"
+  },
+  {
+    "id": "024-020",
+    "en": "Native widget colors match the system colors."
+  },
+  {
+    "id": "024-021",
+    "en": "Use light native widget colors for light color themes and dark for dark color themes."
+  },
+  {
+    "id": "024-022",
+    "en": "Use light native widget colors."
+  },
+  {
+    "id": "024-023",
+    "en": "Use dark native widget colors."
+  },
+  {
+    "id": "024-024",
+    "en": "Set the color mode for native UI elements such as native dialogs, menus and title bar. Even if your OS is configured in light color mode, you can select a dark system color theme for the window. You can also configure to automatically adjust based on the {0} setting.\n\nNote: This setting is ignored when {1} is enabled."
+  },
+  {
+    "id": "024-025",
+    "en": "Some extensions from the imported profile could not be installed: {0}"
+  },
+  {
+    "id": "024-026",
+    "en": "Extensions data in the imported profile is not valid JSON."
+  },
+  {
+    "id": "024-027",
+    "en": "Extensions data in the imported profile must be a JSON array."
+  },
+  {
+    "id": "024-028",
+    "en": "Extension entry {0} in the imported profile is empty."
+  },
+  {
+    "id": "024-029",
+    "en": "Extension entry {0} in the imported profile is malformed."
+  },
+  {
+    "id": "024-030",
+    "en": "Extension entry {0} in the imported profile is missing a valid identifier."
+  },
+  {
+    "id": "024-031",
+    "en": "Extension entry {0} in the imported profile is invalid and was skipped."
+  },
+  {
+    "id": "024-032",
+    "en": "Extension entries {0} in the imported profile are invalid and were skipped."
+  },
+  {
+    "id": "024-033",
+    "en": "Failed to create profile from '{0}'."
+  },
+  {
+    "id": "024-034",
+    "en": "Profile '{0}' was created, but some extension entries in the imported profile were skipped."
+  },
+  {
+    "id": "024-035",
+    "en": "Profile '{0}' was created, but no extensions from the imported profile were applied."
+  },
+  {
+    "id": "024-036",
+    "en": "Profile '{0}' was created, but some extension entries in the imported profile were skipped."
+  },
+  {
+    "id": "024-037",
+    "en": "Failed to create profile from the imported file."
+  },
+  {
+    "id": "024-038",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-039",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-040",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-041",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-042",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-043",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-044",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-045",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-046",
+    "en": "Test View 3"
+  },
+  {
+    "id": "024-047",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-048",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-049",
+    "en": "Test View 3"
+  },
+  {
+    "id": "024-050",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-051",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-052",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-053",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-054",
+    "en": "Test View 3"
+  },
+  {
+    "id": "024-055",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-056",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-057",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-058",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-059",
+    "en": "Test View 5"
+  },
+  {
+    "id": "024-060",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-061",
+    "en": "Test View 4"
+  },
+  {
+    "id": "024-062",
+    "en": "Test View 3"
+  },
+  {
+    "id": "024-063",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-064",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-065",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-066",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-067",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-068",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-069",
+    "en": "Test View 3"
+  },
+  {
+    "id": "024-070",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-071",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-072",
+    "en": "Test View 3"
+  },
+  {
+    "id": "024-073",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-074",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-075",
+    "en": "Test View 3"
+  },
+  {
+    "id": "024-076",
+    "en": "Test View 4"
+  },
+  {
+    "id": "024-077",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-078",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-079",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-080",
+    "en": "Test View 3"
+  },
+  {
+    "id": "024-081",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-082",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-083",
+    "en": "Test View 3"
+  },
+  {
+    "id": "024-084",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-085",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-086",
+    "en": "Test View 3"
+  },
+  {
+    "id": "024-087",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-088",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-089",
+    "en": "Test View 3"
+  },
+  {
+    "id": "024-090",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-091",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-092",
+    "en": "Test View 3"
+  },
+  {
+    "id": "024-093",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-094",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-095",
+    "en": "Test View 3"
+  },
+  {
+    "id": "024-096",
+    "en": "Test View 4"
+  },
+  {
+    "id": "024-097",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-098",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-099",
+    "en": "Test View 3"
+  },
+  {
+    "id": "024-100",
+    "en": "Test View 4"
+  },
+  {
+    "id": "024-101",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-102",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-103",
+    "en": "Test View 3"
+  },
+  {
+    "id": "024-104",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-105",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-106",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-107",
+    "en": "Test View 3"
+  },
+  {
+    "id": "024-108",
+    "en": "Test View 4"
+  },
+  {
+    "id": "024-109",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-110",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-111",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-112",
+    "en": "Test View 1"
+  },
+  {
+    "id": "024-113",
+    "en": "Test View 2"
+  },
+  {
+    "id": "024-114",
+    "en": "Backup working copies"
+  },
+  {
+    "id": "024-115",
+    "en": "The following editors with unsaved changes could not be saved to the backup location."
+  },
+  {
+    "id": "024-116",
+    "en": "The following editors with unsaved changes could not be saved or reverted."
+  },
+  {
+    "id": "024-117",
+    "en": "Try saving or reverting the editors with unsaved changes first and then try again."
+  },
+  {
+    "id": "024-118",
+    "en": "&&OK"
+  },
+  {
+    "id": "024-119",
+    "en": "Close Anyway"
+  }
+]

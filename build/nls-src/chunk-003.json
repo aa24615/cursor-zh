@@ -1,0 +1,482 @@
+[
+  {
+    "id": "003-000",
+    "en": "Draft"
+  },
+  {
+    "id": "003-001",
+    "en": "Closed"
+  },
+  {
+    "id": "003-002",
+    "en": "Merged"
+  },
+  {
+    "id": "003-003",
+    "en": "Conflicts"
+  },
+  {
+    "id": "003-004",
+    "en": "Merge conflicts"
+  },
+  {
+    "id": "003-005",
+    "en": "Checks failing"
+  },
+  {
+    "id": "003-006",
+    "en": "Checks need action"
+  },
+  {
+    "id": "003-007",
+    "en": "Changes requested"
+  },
+  {
+    "id": "003-008",
+    "en": "Waiting on {0}"
+  },
+  {
+    "id": "003-009",
+    "en": "Waiting on {0} +{1}"
+  },
+  {
+    "id": "003-010",
+    "en": "Waiting on {0}"
+  },
+  {
+    "id": "003-011",
+    "en": "Review required"
+  },
+  {
+    "id": "003-012",
+    "en": "Checks running"
+  },
+  {
+    "id": "003-013",
+    "en": "Pull request actions"
+  },
+  {
+    "id": "003-014",
+    "en": "Copy URL"
+  },
+  {
+    "id": "003-015",
+    "en": "Preferences"
+  },
+  {
+    "id": "003-016",
+    "en": "Tracker"
+  },
+  {
+    "id": "003-017",
+    "en": "Discussion Threads"
+  },
+  {
+    "id": "003-018",
+    "en": "Local Files and Paths"
+  },
+  {
+    "id": "003-019",
+    "en": "Other"
+  },
+  {
+    "id": "003-020",
+    "en": "is any of"
+  },
+  {
+    "id": "003-021",
+    "en": "is none of"
+  },
+  {
+    "id": "003-022",
+    "en": "is not"
+  },
+  {
+    "id": "003-023",
+    "en": "{0} operator"
+  },
+  {
+    "id": "003-024",
+    "en": "Add filter"
+  },
+  {
+    "id": "003-025",
+    "en": "Filters"
+  },
+  {
+    "id": "003-026",
+    "en": "Remove filter"
+  },
+  {
+    "id": "003-027",
+    "en": "Clear Filters"
+  },
+  {
+    "id": "003-028",
+    "en": "Tasks shown"
+  },
+  {
+    "id": "003-029",
+    "en": "All tasks"
+  },
+  {
+    "id": "003-030",
+    "en": "My tasks"
+  },
+  {
+    "id": "003-031",
+    "en": "Tasks you own show up here"
+  },
+  {
+    "id": "003-032",
+    "en": "Show All Tasks"
+  },
+  {
+    "id": "003-033",
+    "en": "No tasks for you"
+  },
+  {
+    "id": "003-034",
+    "en": "Try removing a filter to see more tasks"
+  },
+  {
+    "id": "003-035",
+    "en": "Clear Filters"
+  },
+  {
+    "id": "003-036",
+    "en": "No matching tasks"
+  },
+  {
+    "id": "003-037",
+    "en": "Search {0}"
+  },
+  {
+    "id": "003-038",
+    "en": "Search…"
+  },
+  {
+    "id": "003-039",
+    "en": "No matches"
+  },
+  {
+    "id": "003-040",
+    "en": "Search {0}"
+  },
+  {
+    "id": "003-041",
+    "en": "Search…"
+  },
+  {
+    "id": "003-042",
+    "en": "No matches"
+  },
+  {
+    "id": "003-043",
+    "en": "Filter"
+  },
+  {
+    "id": "003-044",
+    "en": "Filters"
+  },
+  {
+    "id": "003-045",
+    "en": "Filter"
+  },
+  {
+    "id": "003-046",
+    "en": "Find in notes"
+  },
+  {
+    "id": "003-047",
+    "en": "Filter"
+  },
+  {
+    "id": "003-048",
+    "en": "Find in notes"
+  },
+  {
+    "id": "003-049",
+    "en": "Switch to board view"
+  },
+  {
+    "id": "003-050",
+    "en": "Switch to list view"
+  },
+  {
+    "id": "003-051",
+    "en": "Project views"
+  },
+  {
+    "id": "003-052",
+    "en": "Add to Chat"
+  },
+  {
+    "id": "003-053",
+    "en": "Add \"{0}\" to chat"
+  },
+  {
+    "id": "003-054",
+    "en": "Agents"
+  },
+  {
+    "id": "003-055",
+    "en": "Loading…"
+  },
+  {
+    "id": "003-056",
+    "en": "Agent failed"
+  },
+  {
+    "id": "003-057",
+    "en": "Agent needs attention"
+  },
+  {
+    "id": "003-058",
+    "en": "Agent working"
+  },
+  {
+    "id": "003-059",
+    "en": "No agent working"
+  },
+  {
+    "id": "003-060",
+    "en": "No linked agent"
+  },
+  {
+    "id": "003-061",
+    "en": "Loading…"
+  },
+  {
+    "id": "003-062",
+    "en": "Task actions"
+  },
+  {
+    "id": "003-063",
+    "en": "Add to Chat"
+  },
+  {
+    "id": "003-064",
+    "en": "Rename"
+  },
+  {
+    "id": "003-065",
+    "en": "Owner"
+  },
+  {
+    "id": "003-066",
+    "en": "None"
+  },
+  {
+    "id": "003-067",
+    "en": "Status"
+  },
+  {
+    "id": "003-068",
+    "en": "Tags"
+  },
+  {
+    "id": "003-069",
+    "en": "Open"
+  },
+  {
+    "id": "003-070",
+    "en": "Draft"
+  },
+  {
+    "id": "003-071",
+    "en": "Merged"
+  },
+  {
+    "id": "003-072",
+    "en": "Closed"
+  },
+  {
+    "id": "003-073",
+    "en": "Project"
+  },
+  {
+    "id": "003-074",
+    "en": "None"
+  },
+  {
+    "id": "003-075",
+    "en": "Owner"
+  },
+  {
+    "id": "003-076",
+    "en": "None"
+  },
+  {
+    "id": "003-077",
+    "en": "Status"
+  },
+  {
+    "id": "003-078",
+    "en": "Tags"
+  },
+  {
+    "id": "003-079",
+    "en": "None"
+  },
+  {
+    "id": "003-080",
+    "en": "Previous"
+  },
+  {
+    "id": "003-081",
+    "en": "Next"
+  },
+  {
+    "id": "003-082",
+    "en": "{0} of {1}"
+  },
+  {
+    "id": "003-083",
+    "en": "Can't load this file here"
+  },
+  {
+    "id": "003-084",
+    "en": "Moved or deleted: {0}"
+  },
+  {
+    "id": "003-085",
+    "en": "Open {0}"
+  },
+  {
+    "id": "003-086",
+    "en": "Previous"
+  },
+  {
+    "id": "003-087",
+    "en": "Next"
+  },
+  {
+    "id": "003-088",
+    "en": "No owner yet"
+  },
+  {
+    "id": "003-089",
+    "en": "Owner: {0}"
+  },
+  {
+    "id": "003-090",
+    "en": "Change owner"
+  },
+  {
+    "id": "003-091",
+    "en": "None"
+  },
+  {
+    "id": "003-092",
+    "en": "Change owner"
+  },
+  {
+    "id": "003-093",
+    "en": "No owner yet"
+  },
+  {
+    "id": "003-094",
+    "en": "Teammate"
+  },
+  {
+    "id": "003-095",
+    "en": "{0} (not in this Project)"
+  },
+  {
+    "id": "003-096",
+    "en": "{0} (name matches several people)"
+  },
+  {
+    "id": "003-097",
+    "en": "Started by a teammate"
+  },
+  {
+    "id": "003-098",
+    "en": "Started by {0}"
+  },
+  {
+    "id": "003-099",
+    "en": "Pull requests"
+  },
+  {
+    "id": "003-100",
+    "en": "Rename Task"
+  },
+  {
+    "id": "003-101",
+    "en": "Task title"
+  },
+  {
+    "id": "003-102",
+    "en": "Cancel"
+  },
+  {
+    "id": "003-103",
+    "en": "Save"
+  },
+  {
+    "id": "003-104",
+    "en": "{0} of {1}"
+  },
+  {
+    "id": "003-105",
+    "en": "{0} PRs"
+  },
+  {
+    "id": "003-106",
+    "en": "{0} Agents"
+  },
+  {
+    "id": "003-107",
+    "en": "Subtasks of \"{0}\": {1}"
+  },
+  {
+    "id": "003-108",
+    "en": "Subtasks"
+  },
+  {
+    "id": "003-109",
+    "en": "Filter by #{0}"
+  },
+  {
+    "id": "003-110",
+    "en": "For Review"
+  },
+  {
+    "id": "003-111",
+    "en": "In Progress"
+  },
+  {
+    "id": "003-112",
+    "en": "Queued"
+  },
+  {
+    "id": "003-113",
+    "en": "Done"
+  },
+  {
+    "id": "003-114",
+    "en": "Canceled"
+  },
+  {
+    "id": "003-115",
+    "en": "Teammate"
+  },
+  {
+    "id": "003-116",
+    "en": "Loading tasks"
+  },
+  {
+    "id": "003-117",
+    "en": "Couldn't load this project's tasks. Retrying in the background."
+  },
+  {
+    "id": "003-118",
+    "en": "List"
+  },
+  {
+    "id": "003-119",
+    "en": "Board"
+  }
+]
