@@ -23,10 +23,9 @@ jobs:
 
       - id: set-matrix
         run: |
-          $obj = @{
-            languagePack = Get-ChildItem i18n | ForEach-Object Name
-          }
-          "matrix=$($obj | ConvertTo-Json -Depth 100 -Compress)" >> $env:GITHUB_OUTPUT
+          $names = @(Get-ChildItem i18n -Directory | ForEach-Object Name)
+          $list = ($names | ForEach-Object { '"{0}"' -f $_ }) -join ","
+          "matrix={""languagePack"":[$list]}" >> $env:GITHUB_OUTPUT
         shell: pwsh
   build:
     name: Build
