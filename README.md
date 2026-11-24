@@ -2,7 +2,7 @@
 
 把 Cursor 界面换成简体中文。翻译基于 VS Code 官方简体中文语言包，并补上 Cursor 3.31 自己的界面文案。
 
-这是社区项目，与 Anysphere、微软没有隶属关系。
+VS Code 部分的译文来自 [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc)。这是社区项目，与 Anysphere、微软没有隶属关系。
 
 安装会改两处：
 
@@ -154,6 +154,6 @@ cp "/Applications/Cursor.app/Contents/Resources/app/product.json.cursor-zh.bak" 
 
 恢复语言包时，把第 2 步生成的 `main.i18n.json.cursor-zh.bak` 拷回 `main.i18n.json`。显示语言可在 `argv.json` 里删掉 `locale`，或改成 `en`。
 
-## 许可
+## 来源与许可
 
-界面译文包含 [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc) 的内容，许可见 [LICENSE.md](LICENSE.md)。
+VS Code 界面译文来自 [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc)，许可见 [LICENSE.md](LICENSE.md)。Cursor 专有文案在此基础上补充。

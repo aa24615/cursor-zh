@@ -44,6 +44,9 @@ jobs:
       - name: Install
         run: cd ./i18n/${{ matrix.languagePack }} && npm i
 
+      - name: Copy license
+        run: cp LICENSE.md ./i18n/${{ matrix.languagePack }}/LICENSE.md
+
       - name: Build Extension
         run: cd ./i18n/${{ matrix.languagePack }} && npx @vscode/vsce package -o ${{ env.PACKAGE_NAME }}.vsix
 
@@ -52,3 +55,48 @@ jobs:
         with:
           name: ${{ env.PACKAGE_NAME }}.vsix
           path: ./i18n/${{ matrix.languagePack }}/${{ env.PACKAGE_NAME }}.vsix
+
+  release:
+    name: Release
+    needs: build
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Read version
+        id: version
+        run: node -e "const p=require('./i18n/vscode-language-pack-zh-hans/package.json'); console.log('version='+p.version); console.log('name='+p.name)" >> "$GITHUB_OUTPUT"
+
+      - name: Download VSIX
+        uses: actions/download-artifact@37930b1c2abaa49bbe596cd826c3c89aef350131 # v7.0.0
+        with:
+          name: ${{ steps.version.outputs.name }}-v${{ steps.version.outputs.version }}.vsix
+          path: dist
+
+      - name: Create GitHub Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          tag="v${{ steps.version.outputs.version }}"
+          vsix=$(find dist -name '*.vsix' -print -quit)
+          notes="Cursor 简体中文语言包 ${tag}。VS Code 译文来自 https://github.com/microsoft/vscode-loc"
+          if gh release view "$tag" >/dev/null 2>&1; then
+            gh release upload "$tag" "$vsix" --clobber
+          else
+            gh release create "$tag" "$vsix" --title "$tag" --notes "$notes"
+          fi
+
+      - name: Publish to Marketplace
+        env:
+          VSCE_PAT: ${{ secrets.VSCE_PAT }}
+        run: |
+          if [ -z "$VSCE_PAT" ]; then
+            echo "未配置 VSCE_PAT，跳过应用商店发布。请在仓库 Secrets 中添加 Marketplace 的 Personal Access Token。"
+            exit 0
+          fi
+          vsix=$(find dist -name '*.vsix' -print -quit)
+          npx --yes @vscode/vsce publish --packagePath "$vsix"

@@ -2,6 +2,8 @@
 
 此中文（简体）语言包为 VS Code 提供本地化界面。
 
+VS Code 界面译文来自 [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc)。
+
 ## 使用方法
 
 通过使用“Configure Display Language”命令显式设置 VS Code 显示语言，可以替代默认 UI 语言。
