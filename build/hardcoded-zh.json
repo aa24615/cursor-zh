@@ -3734,5 +3734,19 @@
   "Leave Project": "离开项目",
   "Go Back": "返回",
   "Go Forward": "前进",
-  "Actions": "操作"
+  "Actions": "操作",
+  "Learn more": "了解更多",
+  "Allowlist": "允许列表",
+  "Allowlist (with Sandbox)": "允许列表（带沙箱）",
+  "Use Allowlist": "使用允许列表",
+  "Auto-Review": "自动审查",
+  "Auto-Review (with Sandbox)": "自动审查（带沙箱）",
+  "Auto-review (with Sandbox)": "自动审查（带沙箱）",
+  "Run Everything": "全部运行",
+  "Run Everything (Unsandboxed)": "全部运行（无沙箱）",
+  "Choose how Agents run tools like command execution, MCP, and file writes.": "选择智能体如何运行命令执行、MCP 和文件写入等工具。",
+  "All commands will run without approval, classification or sandboxing.": "所有命令都会直接运行，无需批准、分类或沙箱。",
+  "Run Mode Disabled by Team Admin": "运行模式已被团队管理员禁用",
+  "Run Mode Controlled by Team Admin": "运行模式由团队管理员控制",
+  "Run Mode Controlled by Team Admin (Sandbox Enabled)": "运行模式由团队管理员控制（已启用沙箱）"
 }

@@ -69,6 +69,7 @@ SAFE_QUOTED = (
     "Open Side Chat",
     "Split Down",
     "Split Right",
+    "Learn more",
 )
 NAV_VALUE_RE = re.compile(
     r'(?P<key>"(?:[^"\\]|\\.)*"|[A-Za-z_][\w-]*):"(?P<text>(?:[^"\\]|\\.)*)"'
@@ -421,9 +422,90 @@ PANEL_EXACT = (
 )
 
 
+# Run-mode labels are returned from switches, not stored on React props.
+# Longer phrases come first so shorter quotes do not cut into them.
+RUN_MODE_EXACT = (
+    ('"Allowlist (with Sandbox)"', '"允许列表（带沙箱）"'),
+    ('"Auto-Review (with Sandbox)"', '"自动审查（带沙箱）"'),
+    ('"Auto-review (with Sandbox)"', '"自动审查（带沙箱）"'),
+    ('"Run Everything (Unsandboxed)"', '"全部运行（无沙箱）"'),
+    ('"Run Mode Disabled by Team Admin"', '"运行模式已被团队管理员禁用"'),
+    ('"Run Mode Controlled by Team Admin (Sandbox Enabled)"', '"运行模式由团队管理员控制（已启用沙箱）"'),
+    ('"Run Mode Controlled by Team Admin"', '"运行模式由团队管理员控制"'),
+    (
+        '`Run Mode (Enforced by ~/${t.dataFolderName??".cursor"}/permissions.json)`',
+        '`运行模式（由 ~/${t.dataFolderName??".cursor"}/permissions.json 强制）`',
+    ),
+    (
+        '`Run Mode (Enforced by ~/${e.dataFolderName??".cursor"}/permissions.json)`',
+        '`运行模式（由 ~/${e.dataFolderName??".cursor"}/permissions.json 强制）`',
+    ),
+    ('"Use Allowlist"', '"使用允许列表"'),
+    ('"Ask Every Time"', '"每次询问"'),
+    ('"Run Everything"', '"全部运行"'),
+    ('"Auto-Review"', '"自动审查"'),
+    ('"Auto-review"', '"自动审查"'),
+    ('?"Sandbox":"Allowlist"', '?"沙箱":"允许列表"'),
+    ('"Allowlist"', '"允许列表"'),
+    ('"Run Mode"', '"运行模式"'),
+    (
+        '"Choose how Agents run tools like command execution, MCP, and file writes."',
+        '"选择智能体如何运行命令执行、MCP 和文件写入等工具。"',
+    ),
+    (
+        '"Agent will ask for approval before running tools."',
+        '"智能体在运行工具前会先请求批准。"',
+    ),
+    (
+        '"Commands that are allowlisted will run automatically."',
+        '"允许列表中的命令会自动运行。"',
+    ),
+    (
+        '"Many commands will run automatically inside the sandbox, and you can also allowlist other actions."',
+        '"许多命令会在沙箱内自动运行，你也可以把其他操作加入允许列表。"',
+    ),
+    (
+        '"A classifier will run for each action and decide whether it\'s safe to execute this command. Allowlists are still respected."',
+        '"分类器会检查每项操作，判断这条命令是否可以安全执行。允许列表仍然有效。"',
+    ),
+    (
+        '"Many commands will run automatically inside the sandbox, and a classifier will run for the actions that cannot run in the sandbox. Allowlists are still respected."',
+        '"许多命令会在沙箱内自动运行；无法在沙箱中运行的操作会交给分类器判断。允许列表仍然有效。"',
+    ),
+    (
+        '"All commands will run without approval, classification or sandboxing."',
+        '"所有命令都会直接运行，无需批准、分类或沙箱。"',
+    ),
+    (
+        '"Ask for permission before running each operation"',
+        '"每次运行操作前都请求许可"',
+    ),
+    (
+        '"Tools will auto-run in a sandbox if possible, otherwise respect the allowlist or ask for approval"',
+        '"工具会尽可能在沙箱中自动运行，否则遵循允许列表或请求批准"',
+    ),
+    (
+        '"Automatically run operations after you approve them once"',
+        '"你批准过一次之后，这些操作会自动运行"',
+    ),
+    (
+        '"Automatically run operations that Auto-review classifies as safe, using sandboxing when possible"',
+        '"自动运行被自动审查判定为安全的操作，并尽可能使用沙箱"',
+    ),
+    (
+        '"Automatically run operations that Auto-review classifies as safe"',
+        '"自动运行被自动审查判定为安全的操作"',
+    ),
+    (
+        '"Automatically run all operations without asking for permission"',
+        '"自动运行所有操作，不再逐次请求许可"',
+    ),
+)
+
+
 def patch_workspace_panel(text: str) -> tuple[str, int]:
     count = 0
-    for old, new in PANEL_EXACT:
+    for old, new in PANEL_EXACT + RUN_MODE_EXACT:
         found = text.count(old)
         if found:
             text = text.replace(old, new)
