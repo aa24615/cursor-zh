@@ -12,6 +12,10 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   determine-matrix:
     runs-on: ubuntu-latest
@@ -31,14 +35,55 @@ jobs:
     name: Build
     needs: determine-matrix
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     strategy:
       matrix: ${{fromJSON(needs.determine-matrix.outputs.matrix)}}
     steps:
       - name: Checkout code
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+
+      - name: Bump version
+        if: github.event_name != 'pull_request'
+        run: |
+          set -euo pipefail
+          file="i18n/${{ matrix.languagePack }}/package.json"
+          git fetch origin main
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3; do
+            git checkout main
+            git pull --rebase origin main
+            next=$(FILE="$file" node << 'NODE'
+          const fs = require("fs");
+          const file = process.env.FILE;
+          const text = fs.readFileSync(file, "utf8");
+          const match = text.match(/"version": "(\d+)\.(\d+)\.(\d+)"/);
+          if (!match) {
+            throw new Error("package.json version not found");
+          }
+          const next = `${match[1]}.${match[2]}.${Number(match[3]) + 1}`;
+          fs.writeFileSync(file, text.replace(match[0], `"version": "${next}"`));
+          process.stdout.write(next);
+          NODE
+            )
+            git add "$file"
+            git commit -m "将语言包版本更新到 ${next} [skip ci]"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "推送版本号失败，重试 ${attempt}"
+            git reset --hard HEAD~1
+          done
+          echo "无法推送新版本号"
+          exit 1
 
       - name: Generate Name
-        run: node -e "console.log('PACKAGE_NAME=' + require('./i18n/${{ matrix.languagePack }}/package.json').name + '-v' + require('./i18n/${{ matrix.languagePack }}/package.json').version)" >> $GITHUB_ENV
+        run: |
+          node -e "const p=require('./i18n/${{ matrix.languagePack }}/package.json'); console.log('PACKAGE_NAME=' + p.name + '-v' + p.version)" >> "$GITHUB_ENV"
+          node -e "process.stdout.write(require('./i18n/${{ matrix.languagePack }}/package.json').version)" > "i18n/${{ matrix.languagePack }}/version.txt"
 
       - name: Install
         run: cd ./i18n/${{ matrix.languagePack }} && npm i
@@ -52,35 +97,31 @@ jobs:
       - name: Publish Test Artifact
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         with:
-          name: ${{ env.PACKAGE_NAME }}.vsix
-          path: ./i18n/${{ matrix.languagePack }}/${{ env.PACKAGE_NAME }}.vsix
+          name: vsix-${{ matrix.languagePack }}
+          path: |
+            i18n/${{ matrix.languagePack }}/${{ env.PACKAGE_NAME }}.vsix
+            i18n/${{ matrix.languagePack }}/version.txt
 
   release:
     name: Release
     needs: build
-    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Checkout code
-        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-
-      - name: Read version
-        id: version
-        run: node -e "const p=require('./i18n/vscode-language-pack-zh-hans/package.json'); console.log('version='+p.version); console.log('name='+p.name)" >> "$GITHUB_OUTPUT"
-
       - name: Download VSIX
         uses: actions/download-artifact@37930b1c2abaa49bbe596cd826c3c89aef350131 # v7.0.0
         with:
-          name: ${{ steps.version.outputs.name }}-v${{ steps.version.outputs.version }}.vsix
+          name: vsix-vscode-language-pack-zh-hans
           path: dist
 
       - name: Create GitHub Release
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          tag="v${{ steps.version.outputs.version }}"
+          version=$(tr -d '[:space:]' < dist/version.txt)
+          tag="v${version}"
           vsix=$(find dist -name '*.vsix' -print -quit)
           notes="Cursor 简体中文语言包 ${tag}。VS Code 译文来自 https://github.com/microsoft/vscode-loc"
           if gh release view "$tag" >/dev/null 2>&1; then
