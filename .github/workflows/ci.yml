@@ -110,6 +110,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout code
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
       - name: Download VSIX
         uses: actions/download-artifact@37930b1c2abaa49bbe596cd826c3c89aef350131 # v7.0.0
         with:
@@ -119,10 +122,13 @@ jobs:
       - name: Create GitHub Release
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
         run: |
-          version=$(tr -d '[:space:]' < dist/version.txt)
-          tag="v${version}"
+          version_file=$(find dist -name version.txt -print -quit)
           vsix=$(find dist -name '*.vsix' -print -quit)
+          test -n "$version_file" && test -n "$vsix"
+          version=$(tr -d '[:space:]' < "$version_file")
+          tag="v${version}"
           notes="Cursor 简体中文语言包 ${tag}。VS Code 译文来自 https://github.com/microsoft/vscode-loc"
           if gh release view "$tag" >/dev/null 2>&1; then
             gh release upload "$tag" "$vsix" --clobber
