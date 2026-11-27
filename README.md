@@ -1,13 +1,13 @@
-# Cursor 全量汉化
+# Cursor 简体中文 完全汉化版
 
-Cursor 简体中文。覆盖 **IDE** 和 **Agent** 两套界面。
+覆盖 **IDE** 和 **Agent** 两套界面。
 
 - **IDE**：编辑器菜单、命令面板、设置、源代码管理、终端，以及 Cursor 写在 IDE 里的设置页。
 - **Agent**：智能体窗口里的侧栏、对话、搜索、右键菜单、工作区面板和运行模式。
 
 翻译基于 VS Code 官方简体中文语言包，并补上 Cursor 3.31 自己的界面文案。VS Code 部分的译文来自 [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc)。这是社区项目，与 Anysphere、微软没有隶属关系。
 
-只装语言包时，菜单和走翻译系统的文案会变成中文。按钮、标题、占位符等写死的英文还要打补丁。两步都做完，才是这里说的全量汉化。
+只装语言包时，菜单和走翻译系统的文案会变成中文。按钮、标题、占位符等写死的英文还要打补丁。两步都做完，才是这个完全汉化版。
 
 ## 已汉化的页面
 
@@ -38,7 +38,7 @@ Cursor、Git、GitHub、MCP、SSH 等产品名保持英文。分支名 `main`、
 
 ## 从扩展商店安装语言包
 
-在 Cursor 扩展视图搜索 `zyan.cursor-zh`，安装 **Chinese (Simplified) (简体中文) Language Pack for Cursor**（发布者 `zyan`）。
+在 Cursor 扩展视图搜索 `zyan.cursor-zh`，安装 **Cursor 简体中文 完全汉化版**（发布者 `zyan`）。
 
 然后：
 

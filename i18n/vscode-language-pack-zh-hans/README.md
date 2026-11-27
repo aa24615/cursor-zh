@@ -1,11 +1,11 @@
-# Cursor 全量汉化
+# Cursor 简体中文 完全汉化版
 
-Cursor 简体中文，覆盖 **IDE** 和 **Agent**。
+覆盖 **IDE** 和 **Agent**。
 
 - **IDE**：编辑器菜单、命令面板、设置、源代码管理、终端，以及 Cursor 写在 IDE 里的设置页。
 - **Agent**：智能体侧栏、对话输入栏、搜索、右键菜单、工作区面板、远程控制和运行模式。
 
-VS Code 部分的译文来自 [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc)。语言包负责走翻译系统的文案。按钮、标题、占位符等写死的英文要按仓库说明再打补丁，两步都做完才是全量汉化：https://github.com/aa24615/cursor-zh
+VS Code 部分的译文来自 [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc)。语言包负责走翻译系统的文案。按钮、标题、占位符等写死的英文要按仓库说明再打补丁，两步都做完才是完全汉化版：https://github.com/aa24615/cursor-zh
 
 ## 已汉化的页面
 
